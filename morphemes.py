@@ -25,19 +25,19 @@ class Inflectable(object):
                                suffixes, enclitics)
 
   def GenerateProclitics(self, **kwargs):
-    pass
+    return []
 
   def GeneratePrefixes(self, **kwargs):
-    pass
+    return []
 
   def GenerateInfixes(self, **kwargs):
-    pass
+    return []
 
   def GenerateSuffixes(self, **kwargs):
-    pass
+    return []
 
   def GenerateEnclitics(self, **kwargs):
-    pass
+    return []
 
 
 class VerbLemma(Inflectable):
@@ -49,7 +49,8 @@ class VerbLemma(Inflectable):
 
     self.root = lemma
     if template is None:
-      self.template = re.sub('([{}][{}]?)$', r'*\1', lemma, flags=re.I)
+      self.template = re.sub('([{}][{}]?)$'.format(phones.VOWELS, phones.CONSONANTS),
+                             r'*\1', lemma, flags=re.I)
     self.gloss = gloss
 
   def GenerateProclitics(self, tense=None, aspect=None, **kwargs):
@@ -83,6 +84,62 @@ class VerbLemma(Inflectable):
     return [_ for _ in result if _ is not None]
 
 
+class NounLemma(Inflectable):
+  """Manage inflections and derivations from a single noun form."""
+
+  def __init__(self, lemma, gloss, template=None):
+    assert lemma[-1] in phones.VOWELS, \
+        'Noun form {} must end in a vowel.'.format(lemma.upper())
+    assert lemma[-1] is not 'w', \
+        'Root noun form {} must not end in "w".'.format(lemma.upper())
+    assert len(phones.SyllableSplit(lemma)) >= 2, \
+        'Noun form {} must have at least 2 syllables.'.format(lemma.upper())
+
+    self.root = lemma
+    self.template = lemma[:-1] + '*'
+    self.final_vowel = lemma[-1]
+    self.gloss = gloss
+
+  def Inflect(self, klass=None, **kwargs):
+    result = super().Inflect(**kwargs)
+
+    ## Now do noun class things
+    if klass == 'W':
+      result = re.sub(r'([{}]+)[{}]?$'.format(phones.CONSONANTS, phones.VOWELS),
+                      r'\1w\g<0>', result)
+    elif klass == 'T':
+      result = re.sub(r'^[{}]?([{}])'.format(phones.CONSONANTS, phones.VOWELS),
+                      r'\1t\g<0>', result)
+    elif klass == 'R':
+      result_syl = phones.SyllableSplit(result)
+      if result_syl[1][0] in phones.VOWELS:
+        result_syl[1] = 'r' + result_syl[1]
+      else:
+        result_syl[1] = re.sub(phones.VOWEL_RE, r'ur\g<0>', result_syl[1])
+      result = ''.join(result_syl)
+
+    return result
+
+  def GenerateSuffixes(self, number=None, compare=None, adverb=None, **kwargs):
+    result = []
+    if compare:
+      result.append(self.final_vowel)
+      result.append({'CMP': "'", 'SUP': "'f"}.get(compare))
+    if number is None or number == 'SG':
+      result.append('i' if compare == 'SUP' else self.final_vowel)
+    else:
+      result.append({'DU': 'w', 'PL': 'wa'}[number])
+    if adverb:
+      result.append('q')
+    return result
+
+  def GenerateEnclitics(self, possessive=None, **kwargs):
+    result = []
+    if possessive:
+      result.append('re')
+    return result
+
+
 def GetPronoun(person,  # 1, 2, 3, or REL
                number,  # SG, DU, or PL
                case):   # NOM or ACC
@@ -95,3 +152,10 @@ def GetPronoun(person,  # 1, 2, 3, or REL
                ('3', 'SG'): 't', ('3', 'DU'): 'b', ('3', 'PL'): 'd',
                ('REL', 'SG'): 'l', ('REL', 'DU'): 'r', ('REL', 'PL'): 'ry'}[(person, number)]
   return vowel + consonant
+
+
+if __name__ == '__main__':
+  water = NounLemma('enxa', 'water')
+  moon = NounLemma('orqude', 'moon')
+  print('{} {}'.format(water.Inflect(klass='T'), moon.Inflect(klass='T')))
+  print('{} {}'.format(moon.Inflect(klass='R'), water.Inflect(klass='R')))

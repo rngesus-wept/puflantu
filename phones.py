@@ -32,7 +32,7 @@ def GenerateSyllable():
 
 
 def GenerateWord():
-  length_rng = random.choices([1, 2, 3], weights=[.1, .6, .3])[0]
+  length_rng = random.choices([1, 2, 3, 4], weights=[.1, .5, .3, .1])[0]
   return ''.join(GenerateSyllable() for _ in range(length_rng))
 
 
@@ -50,5 +50,4 @@ def SyllableSplit(word):
 
 if __name__ == '__main__':
   for _ in range(10):
-    print(re.sub('([{}][{}]?)$'.format(VOWELS, CONSONANTS), r'*\1',
-                 GenerateWord(), flags=re.I))
+    print('-'.join(SyllableSplit(GenerateWord())))
