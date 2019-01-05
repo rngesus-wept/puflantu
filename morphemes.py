@@ -142,11 +142,11 @@ class NounLemma(Inflectable):
 
 def GetPronoun(person,  # 1, 2, 3, or REL
                number,  # SG, DU, or PL
-               case):   # NOM or ACC
-  vowel = {('1', 'NOM'): 'w', ('1', 'ACC'): 'u',
-           ('2', 'NOM'): 'i', ('2', 'ACC'): 'e',
-           ('3', 'NOM'): 'a', ('3', 'ACC'): 'o',
-           ('REL', 'NOM'): 'a', ('REL', 'ACC'): 'o'}[(person, case)]
+               case):   # NOM or OBL
+  vowel = {('1', 'NOM'): 'w', ('1', 'OBL'): 'u',
+           ('2', 'NOM'): 'i', ('2', 'OBL'): 'e',
+           ('3', 'NOM'): 'a', ('3', 'OBL'): 'o',
+           ('REL', 'NOM'): 'a', ('REL', 'OBL'): 'o'}[(person, case)]
   consonant = {('1', 'SG'): 'm', ('1', 'DU'): 'n', ('1', 'PL'): 'y',
                ('2', 'SG'): 'j', ('2', 'DU'): 'c', ('2', 'PL'): 'x',
                ('3', 'SG'): 't', ('3', 'DU'): 'b', ('3', 'PL'): 'd',
