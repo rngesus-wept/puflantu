@@ -45,12 +45,14 @@ class VerbLemma(Inflectable):
 
   def __init__(self, lemma, gloss, template=None):
     assert lemma[-1] in phones.CONSONANTS, \
-        'Verb form {} must end in a consonant'.format(lemma.upper())
+        'Verb form {} must end in a consonant.'.format(lemma.upper())
 
     self.root = lemma
     if template is None:
       self.template = re.sub('([{}][{}]?)$'.format(phones.VOWELS, phones.CONSONANTS),
                              r'*\1', lemma, flags=re.I)
+    assert len(template.split('*')) == 2, \
+        'Template {} must contain exactly one "*".'.format(template.upper())
     self.gloss = gloss
 
   def GenerateProclitics(self, tense=None, aspect=None, **kwargs):
