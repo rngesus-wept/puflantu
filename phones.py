@@ -12,19 +12,14 @@ VOWEL_RE = re.compile('[{}]'.format(VOWELS), re.I)
 
 # This regex is for syllable splitting. It breaks up the word at letter
 # boundaries except when it's able to identify the beginning of a syllable.
-MAGIC_RE = re.compile('((?:[{}][{}]|[{}])?[{}]|)'.format(
-    STARTS, LIQUIDS, CONSONANTS, VOWELS), re.I)
+MAGIC_RE = re.compile('((?:[{}])?[{}]|)'.format(CONSONANTS, VOWELS), re.I)
 
 
 def GenerateSyllable():
   type_rng = random.random()
   syllable = []
   if type_rng < .625:
-    if type_rng < .2:
-      syllable.append(random.choice(STARTS))
-      syllable.append(random.choice(LIQUIDS))
-    else:
-      syllable.append(random.choice(CONSONANTS))
+    syllable.append(random.choice(CONSONANTS))
   syllable.append(random.choice(VOWELS))
   if type_rng >= .375:
     syllable.append(random.choice(CONSONANTS))
