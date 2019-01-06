@@ -20,9 +20,11 @@ class Inflectable(object):
     if enclitics:
       enclitics.insert(0, '-')
 
-    return '{}{}{}{}{}'.format(proclitics, prefixes,
-                               self.template.replace('*', infixes),
-                               suffixes, enclitics)
+    return (proclitics,
+            '{}{}{}'.format(prefixes,
+                            self.template.replace('*', infixes),
+                            suffixes),
+            enclitics)
 
   def GenerateProclitics(self, **kwargs):
     return []
@@ -103,24 +105,24 @@ class NounLemma(Inflectable):
     self.gloss = gloss
 
   def Inflect(self, klass=None, **kwargs):
-    result = super().Inflect(**kwargs)
+    proclitics, main, enclitics = super().Inflect(**kwargs)
 
     ## Now do noun class things
     if klass == 'W':
-      result = re.sub(r'([{}]+)[{}]?$'.format(phones.CONSONANTS, phones.VOWELS),
-                      r'\1w\g<0>', result)
+      main = re.sub(r'([{}]+)[{}]?$'.format(phones.CONSONANTS, phones.VOWELS),
+                      r'\1w\g<0>', main)
     elif klass == 'T':
-      result = re.sub(r'^[{}]?([{}])'.format(phones.CONSONANTS, phones.VOWELS),
-                      r'\1t\g<0>', result)
+      main = re.sub(r'^[{}]?([{}])'.format(phones.CONSONANTS, phones.VOWELS),
+                      r'\1t\g<0>', main)
     elif klass == 'R':
-      result_syl = phones.SyllableSplit(result)
-      if result_syl[1][0] in phones.VOWELS:
-        result_syl[1] = 'r' + result_syl[1]
+      main_syl = phones.SyllableSplit(main)
+      if main_syl[1][0] in phones.VOWELS:
+        main_syl[1] = 'r' + main_syl[1]
       else:
-        result_syl[1] = re.sub(phones.VOWEL_RE, r'ur\g<0>', result_syl[1])
-      result = ''.join(result_syl)
+        main_syl[1] = re.sub(phones.VOWEL_RE, r'ur\g<0>', main_syl[1])
+      main = ''.join(main_syl)
 
-    return result
+    return proclitics, main, enclitics
 
   def GenerateSuffixes(self, number=None, compare=None, adverb=None, **kwargs):
     result = []
