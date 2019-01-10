@@ -20,7 +20,8 @@ class Inflectable(object):
 
     return (proclitics,
             '{}{}{}'.format(prefixes,
-                            self.template.replace('*', infixes),
+                            self.template.replace('*', infixes) if infixes
+                            else self.root,
                             suffixes),
             enclitics)
 
@@ -283,7 +284,7 @@ def GetPronoun(person,  # 1, 2, 3, or REL
   consonant = {('1', 'SG'): 'm', ('1', 'DU'): 'n', ('1', 'PL'): 'y',
                ('2', 'SG'): 'z', ('2', 'DU'): 'j', ('2', 'PL'): 'x',
                ('3', 'SG'): 't', ('3', 'DU'): 'b', ('3', 'PL'): 'd',
-               ('REL', 'SG'): 'l', ('REL', 'DU'): 'r', ('REL', 'PL'): 'ry'}[(person, number)]
+               ('REL', 'SG'): 'l', ('REL', 'DU'): 'r', ('REL', 'PL'): 'v'}[(person, number)]
   return vowel + consonant
 
 
