@@ -45,5 +45,6 @@ def SyllableSplit(word):
 
 
 if __name__ == '__main__':
+  ## For brainstorming purposes
   for _ in range(10):
     print('-'.join(SyllableSplit(GenerateWord())))
