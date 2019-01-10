@@ -40,7 +40,7 @@ def SyllableSplit(word):
     position += 1
   assert all(re.match('^[{}]?[{}][{}]?$'.format(CONSONANTS, VOWELS, CONSONANTS),
                       syllable, re.I) for syllable in syllables), \
-      '{} does not syllabize legally (C?VC?).'.format(word)
+      '{} does not syllabize legally (C?VC?).'.format(repr(word.upper()))
   return syllables
 
 
