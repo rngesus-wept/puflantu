@@ -16,5 +16,6 @@ def main():
   for v in verbs:
     print(verbs[v].SampleInflection())
 
+
 if __name__ == '__main__':
   main()

@@ -1,6 +1,7 @@
 from collections import OrderedDict as odict
 import random
 import re
+import sys
 
 import phones
 
@@ -91,8 +92,12 @@ class VerbLemma(Inflectable):
     result = [NOUN_SUFFIXES.get(nounify, None)]
     return [_ for _ in result if _]
 
-  def Inflections(self, exclude_clitics=False):
-    """Generate all valid inflections."""
+  def Inflections(self, exclude_clitics=False, debug=None):
+    """Generate all valid inflections.
+
+    If a string is passed into debug, inflection parameters will be emitted to
+    stderr whenever the input inflection is achieved.
+    """
     for inverted in INVERSION:
       for degree in DEGREES:
         for polarity in POLARITIES:
@@ -102,10 +107,22 @@ class VerbLemma(Inflectable):
             for objekt in IterPronounArgs(case=['OBL']):
               for tense in ([None] if exclude_clitics else TENSES):
                 for aspect in ([None] if exclude_clitics else ASPECTS):
-                  yield self.Inflect(tense=tense, aspect=aspect,
-                                     degree=degree, polarity=polarity,
-                                     subject=subject, objekt=objekt,
-                                     inverted=inverted)
+
+                  kwargs = {'tense': tense, 'aspect': aspect,
+                            'degree': degree, 'polarity': polarity,
+                            'subject': subject, 'objekt': objekt,
+                            'inverted': inverted, }
+                  inflected_verb = self.Inflect(**kwargs)
+                  if debug and inflected_verb[1].lower() == debug.lower():
+                    # If the debug target is found, generate and output a gloss
+                    gloss = '+'.join([_ for _ in [
+                        self.gloss, tense, aspect, degree, polarity,
+                        'INV' if inverted else '',
+                        '-'.join(subject), '-'.join(objekt) if objekt else '']
+                                      if _])
+                    print(gloss, file=sys.stderr)
+                  yield inflected_verb
+
           if not self.derivative:
             for nounify in NOUN_SUFFIXES:
               for noun_inflection in NounLemma(
@@ -113,7 +130,9 @@ class VerbLemma(Inflectable):
                                degree=degree, nounify=nounify)[1],
                   '+'.join([_ for _ in [self.gloss, 'INV' if inverted else '',
                                         degree, polarity, 'N', nounify] if _]),
-                  derivative=True).Inflections(exclude_clitics=exclude_clitics):
+                  derivative=True).Inflections(exclude_clitics=exclude_clitics,
+                                               debug=debug):
+                # Debug targetting for nouns is passed down to the NounLemma layer
                 yield noun_inflection
 
   def SampleInflection(self):
@@ -123,7 +142,7 @@ class VerbLemma(Inflectable):
     kwargs['polarity'] = random.choices(list(POLARITIES), [.75, .25])[0]
     if random.random() < .7:
       # Verb
-      kwargs.extend({
+      kwargs.update({
         'tense': random.choices(list(TENSES), [.6, .2, .2])[0],
         'aspect': random.choices(list(ASPECTS), [.6, .2, .2])[0],
         'subject': (random.choices(['1', '2', '3', 'REL'], [.3, .3, .3, .1])[0],
@@ -156,12 +175,11 @@ class NounLemma(Inflectable):
     self.derivative = derivative
 
   def Inflect(self, klass=None, **kwargs):
-    print(kwargs, klass)
     proclitics, main, enclitics = super().Inflect(**kwargs)
 
     ## Now do noun class things
     if klass == 'W':
-      main = re.sub(r'([{}]+)[{}]?$'.format(phones.CONSONANTS, phones.VOWELS),
+      main = re.sub(r'([{}]+)[{}]*$'.format(phones.CONSONANTS, phones.VOWELS),
                       r'\1w\g<0>', main)
     elif klass == 'T':
       main = re.sub(r'^[{}]?([{}])'.format(phones.CONSONANTS, phones.VOWELS),
@@ -196,22 +214,51 @@ class NounLemma(Inflectable):
     result = [POSSESSIVE.get(possessive, None)]
     return [_ for _ in result if _]
 
-  def Inflections(self, exclude_clitics=False):
-    """Generate all valid inflections."""
+  def Inflections(self, exclude_clitics=False, debug=None):
+    """Generate all valid inflections.
+
+    If a string is passed into debug, inflection parameters will be emitted to
+    stderr whenever the input inflection is achieved.
+    """
     for polarity in POLARITIES:
       for klass in NOUN_CLASSES:
         for number in NUMBERS:
           for possessive in ([] if exclude_clitics else POSSESSIVE):
-            yield self.Inflect(polarity=polarity, klass=klass,
-                               number=number, possessive=possessive)
+            kwargs = {'polarity': polarity, 'klass': klass,
+                      'number': number, 'possessive': possessive}
+            inflected_noun = self.Inflect(**kwargs)
+            if debug and inflected_noun[1].lower() == debug.lower():
+              # if the debug target is found, generate and output a gloss
+              gloss = '+'.join([_ for _ in [
+                  self.gloss, polarity, klass, number, 'POS' if possessive else '']
+                                if _])
+              print(gloss, file=sys.stderr)
+            yield inflected_noun
           for compare in COMPARISONS:
-            yield self.Inflect(polarity=polarity, klass=klass,
-                               number=number, compare=compare)
+            kwargs = {'polarity': polarity, 'klass': klass,
+                      'number': number, 'compare': compare}
+            inflected_noun = self.Inflect(**kwargs)
+            if debug and inflected_noun[1].lower() == debug.lower():
+              # if the debug target is found, generate and output a gloss
+              gloss = '+'.join([_ for _ in [
+                  self.gloss, polarity, klass, number, compare]
+                                if _])
+              print(gloss, file=sys.stderr)
+            yield inflected_noun
       for compare in COMPARISONS:
         ## Adverbial
-        yield self.Inflect(polarity=polarity, compare=compare, adverbial=True)
+        kwargs = {'polarity': polarity, 'compare': compare}
+        inflected_noun = self.Inflect(adverbial=True, **kwargs)
+        if debug and inflected_noun[1].lower() == debug.lower():
+          gloss = '+'.join([_ for _ in [
+              self.gloss, polarity, compare, 'ADV']
+                            if _])
+          print(gloss, file=sys.stderr)
+        yield inflected_noun
+
 
   def SampleInflection(self):
+    """Output a randomly generated inflection of this word, including its parameters."""
     kwargs = {}
     kwargs['polarity'] = random.choices(list(POLARITIES), [.75, .25])[0]
     if random.random() < .1:
