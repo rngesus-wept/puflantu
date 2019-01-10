@@ -29,17 +29,6 @@ def TestSyllabification(word):
 
 
 def TestVerbs(debug=None):
-  # Load inflections that are known to cause bloom filter collisions but are
-  # actually okay
-  try:
-    with open('verb_collisions.tsv', 'r') as f:
-      for line in f:
-        if not line.strip() or line.startswith('#'):
-          continue
-        KNOWN_COLLISIONS.add(line.strip().lower())
-  except FileNotFoundError:
-    pass
-
   errors, count = 0, 0
 
   with open('root_verbs.tsv', 'r') as f:
@@ -63,7 +52,21 @@ def TestVerbs(debug=None):
   return errors, count
 
 
+def LoadCollisions():
+  # Load inflections that are known to cause bloom filter collisions but are
+  # actually okay
+  try:
+    with open('collisions.tsv', 'r') as f:
+      for line in f:
+        if not line.strip() or line.startswith('#'):
+          continue
+        KNOWN_COLLISIONS.add(line.strip().lower())
+  except FileNotFoundError:
+    pass
+
+
 def main(args):
+  LoadCollisions()
   errors, count = 0, 0
 
   debug = args[1] if len(args) > 1 else None
