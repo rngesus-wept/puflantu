@@ -62,6 +62,7 @@ def TestVerbs(debug=None):
 
   return errors, count
 
+
 def main(args):
   errors, count = 0, 0
 
@@ -74,7 +75,6 @@ def main(args):
   if count:
     print('Caught {} errors out of {} checks.'.format(verb_errors, verb_count),
           file=sys.stderr)
-
 
 
 if __name__ == '__main__':
