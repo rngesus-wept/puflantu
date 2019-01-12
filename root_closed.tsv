@@ -3,47 +3,47 @@
 ## TODO: Convert spaces to tabs
 
 # Pronouns
-1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
 # These technically violate the rule that nouns should have two syllables and end in a vowel.
 # They're isolated here so that the lexicon crawler doesn't try to inflect them.
-wm  I
-um  me
-wn  we-dual
-un  us-dual
-wy  we
-uy  us
-iz  you (nom.)
-ez  you (obl.)
-ij  you two (nom.)
-ej  you two (obl.)
-ix  y'all (nom.)
-ex  y'all (obl.)
-at  he/she/it
-ot  him/her/it
-ab  they-dual
-ob  them-dual
-ad  they
-od  them
+wm	I
+um	me
+wn	we-dual
+un	us-dual
+wy	we
+uy	us
+iz	you (nom.)
+ez	you (obl.)
+ij	you two (nom.)
+ej	you two (obl.)
+ix	y'all (nom.)
+ex	y'all (obl.)
+at	he/she/it
+ot	him/her/it
+ab	they-dual
+ob	them-dual
+ad	they
+od	them
 
-wat  who/what/which subject, interrogative
-wot  who/what/which object, interrogative
-wab  what/which two subjects, interrogative
-wob  what/which two objects, interrogative
-wad  what/which subjects, interrogative
-wod  what/which objects, interrogative
+wat	who/what/which subject, interrogative
+wot	who/what/which object, interrogative
+wab	what/which two subjects, interrogative
+wob	what/which two objects, interrogative
+wad	what/which subjects, interrogative
+wod	what/which objects, interrogative
 
 # Particles, conjunctions, prepositions
 
-w  directional particle ("to")
-li  additive particle (noun-"and")
-lis  additive particle (verb-"and")
-re  genitive particle ("'s")
-na  interrogative particle ("?")
-im  past tense
-et  future tense
-av  imperfect aspect
-uy  perfect aspect
-imav  past imperfect
-etav  future imperfect
-imuy  past perfect
-etuy  future perfect
+w	directional particle ("to")
+li	additive particle (noun-"and")
+lis	additive particle (verb-"and")
+re	genitive particle ("'s")
+na	interrogative particle ("?")
+im	past tense
+et	future tense
+av	imperfect aspect
+uy	perfect aspect
+imav	past imperfect
+etav	future imperfect
+imuy	past perfect
+etuy	future perfect
