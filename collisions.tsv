@@ -1,8 +1,9 @@
-# The words in this file are detected as duplicates by the bloom filter but
-#   aren't.
+# Because duplicate detection uses a bloom filter there is a chance that words
+# detected as duplicates aren't. This file indicates those exceptions. To
+# verify that detected duplicates are actually unique, run explain_duplicates.sh
 
 AGVORATODIQ
-AGVOREYIQEDEYE'W'W
+YIVORIQEYA'W
 RADOBIQ
 YIVOSOMWNEYUN
 SOMABUNUN
