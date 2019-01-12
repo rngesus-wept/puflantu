@@ -65,18 +65,36 @@ def LoadCollisions():
     pass
 
 
+def TestClosed(debug=None):
+  errors, count = 0, 0
+
+  with open('root_closed.tsv', 'r') as f:
+    for line in f:
+      if not line.strip() or line.startswith('#'):  # comment syntax
+        continue
+      word, meaning = line.strip().split('\t')
+      if debug:
+        if debug.lower() == word.lower():
+          print(meaning, file=sys.stderr)
+        continue
+      errors += (1 - TestUniqueness(word))
+      errors += (1 - TestSyllabification(word))
+      count += 2
+  return errors, count
+
+
 def main(args):
   LoadCollisions()
-  errors, count = 0, 0
 
   debug = args[1] if len(args) > 1 else None
 
+  closed_errors, closed_count = TestClosed(debug=debug)
   verb_errors, verb_count = TestVerbs(debug=debug)
-  errors += verb_errors
-  count += verb_count
 
-  if count:
-    print('Caught {} errors out of {} checks.'.format(verb_errors, verb_count),
+  total_errors = sum([verb_errors, closed_errors])
+  total_count = sum([verb_count, closed_count])
+  if total_count:
+    print('Caught {} errors out of {} checks.'.format(total_errors, total_count),
           file=sys.stderr)
 
 
