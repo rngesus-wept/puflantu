@@ -11,7 +11,7 @@ EXPANDED_LEXICON = ScalableBloomFilter(initial_capacity=1000, error_rate=.001)
 
 
 def TestUniqueness(word):
-  if EXPANDED_LEXICON.add(word) and word not in KNOWN_COLLISIONS:
+  if EXPANDED_LEXICON.add(word) and word.lower() not in KNOWN_COLLISIONS:
     # Word probably already exists
     print('{} may already exist in the lexicon.'.format(repr(word.upper())),
           file=sys.stderr)

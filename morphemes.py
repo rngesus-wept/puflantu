@@ -47,7 +47,8 @@ TENSES = odict({None: '', 'PST': 'im', 'FUT': 'et'})
 ASPECTS = odict({None: '', 'IMP': 'av', 'PRF': 'uy'})
 DEGREES = odict({None: '', 'AUG': 'ag', 'DIM': 'yi'})
 INVERSION = odict({True: 'vo', False: ''})
-POLARITIES = odict({None: '', 'NEG': 'ey'})
+VERB_POLARITIES = odict({None: '', 'NEG': 'ey'})
+NOUN_POLARITIES = odict({None: '', 'NEG': 'ay'})
 NOUN_SUFFIXES = odict({'AGT': 'afe', 'PAT': 'who', 'INS': 'aqo',
                        'LOC': 'ice', 'CAU': 'ede', 'GER': 'a'})
 NOUN_CLASSES = [None, 'W', 'T', 'R']
@@ -85,7 +86,7 @@ class VerbLemma(Inflectable):
 
   def GenerateInfixes(self, subject=None, polarity=None, objekt=None, **kwargs):
     result = [GetPronoun(*subject) if subject else None,
-              POLARITIES.get(polarity, None),
+              VERB_POLARITIES.get(polarity, None),
               GetPronoun(*objekt) if objekt else None]
     return [_ for _ in result if _]
 
@@ -101,7 +102,7 @@ class VerbLemma(Inflectable):
     """
     for inverted in INVERSION:
       for degree in DEGREES:
-        for polarity in POLARITIES:
+        for polarity in VERB_POLARITIES:
           for subject in IterPronounArgs(case=['NOM']):
             if subject is None:
               continue
@@ -196,7 +197,7 @@ class NounLemma(Inflectable):
     return proclitics, main, enclitics
 
   def GenerateInfixes(self, polarity=None, **kwargs):
-    result = [POLARITIES.get(polarity, None)]
+    result = [NOUN_POLARITIES.get(polarity, None)]
     return [_ for _ in result if _]
 
   def GenerateSuffixes(self, number=None, compare=None, adverbial=False, **kwargs):
@@ -221,7 +222,7 @@ class NounLemma(Inflectable):
     If a string is passed into debug, inflection parameters will be emitted to
     stderr whenever the input inflection is achieved.
     """
-    for polarity in POLARITIES:
+    for polarity in NOUN_POLARITIES:
       for klass in NOUN_CLASSES:
         for number in NUMBERS:
           for possessive in ([] if exclude_clitics else POSSESSIVE):
