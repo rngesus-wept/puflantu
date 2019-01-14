@@ -169,7 +169,7 @@ class NounLemma(Inflectable):
     assert len(phones.SyllableSplit(lemma)) >= 2, \
         'Noun form {} must have at least 2 syllables.'.format(lemma.upper())
 
-    self.root = lemma
+    self.root = lemma[:-1]
     self.template = lemma[:-1] + '*'
     self.final_vowel = lemma[-1]
     self.gloss = gloss
