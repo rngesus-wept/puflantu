@@ -44,7 +44,7 @@ class Inflectable(object):
 # Maintain dictionaries of all the possible inflection parameter values
 # This helps us do iteration and express certain morpheme choices more easily later
 TENSES = odict({None: '', 'PST': 'im', 'FUT': 'et'})
-ASPECTS = odict({None: '', 'IMP': 'av', 'PRF': 'uy'})
+ASPECTS = odict({None: '', 'IMP': 'av', 'PRF': 'ro'})
 DEGREES = odict({None: '', 'AUG': 'ag', 'DIM': 'yi'})
 INVERSION = odict({True: 'vo', False: ''})
 VERB_POLARITIES = odict({None: '', 'NEG': 'ey'})
