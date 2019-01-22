@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9bc6e3bf3b2d764b0bb4c11830fc73afaeb5249c37d89df2fbdfd715b64b4675"
+            "sha256": "f9a625a9ae4ca3df558da4c20bf974259b2260fc58aa467330d86c7d0e7fef08"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -20,6 +20,7 @@
             "hashes": [
                 "sha256:050cd30b810ddb3aa941e7ddfbe0d8065e793012d0a88cb5739ec23624b9895e"
             ],
+            "index": "pypi",
             "version": "==0.8.3"
         },
         "dm-pybloom": {

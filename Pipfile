@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 dm-pybloom = "*"
+bitarray = "*"
 
 [dev-packages]
 
