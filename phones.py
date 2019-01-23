@@ -45,6 +45,7 @@ def SyllableSplit(word):
 
 
 if __name__ == '__main__':
-  ## For brainstorming purposes
+  ## Execute this Python code on its own to just generate a bunch of
+  ## phonetically valid words for brainstorming
   for _ in range(10):
     print('-'.join(SyllableSplit(GenerateWord())))

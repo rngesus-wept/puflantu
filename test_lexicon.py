@@ -1,3 +1,7 @@
+"""Determine whether the current set of root forms collides with itself.
+
+If provided with an argument, instead provides a definition for the word."""
+
 import sys
 
 from pybloom import ScalableBloomFilter
