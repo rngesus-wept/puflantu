@@ -48,13 +48,13 @@ ASPECTS = odict({None: '', 'IMP': 'av', 'PRF': 'ro'})
 DEGREES = odict({None: '', 'AUG': 'ag', 'DIM': 'yi'})
 INVERSION = odict({True: 'vo', False: ''})
 VERB_POLARITIES = odict({None: '', 'NEG': 'ey'})
-NOUN_POLARITIES = odict({None: '', 'NEG': 'ay'})
+NOUN_POLARITIES = odict({None: '', 'NEG': 'uy'})
 NOUN_SUFFIXES = odict({'AGT': 'afe', 'PAT': 'who', 'INS': 'aqo',
                        'LOC': 'ice', 'CAU': 'ede', 'GER': 'a'})
 NOUN_CLASSES = [None, 'W', 'T', 'R']
 NUMBERS = odict({None: '', 'DU': 'w', 'PL': 'wa'})
 COMPARISONS = odict({None: '', 'CMP': "'", 'SUP': "'f"})
-ADVERBIAL = odict({True: 'q', False: ''})
+ADVERBIAL = odict({True: 'c', False: ''})
 POSSESSIVE = odict({True: 're', False: ''})
 
 
