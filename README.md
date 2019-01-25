@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org65d27c2)
-    1.  [Dependencies](#org5a71647)
-2.  [How to *Puflantu*](#orga4fccfe)
-    1.  [General Language Elements](#orgbd9aba9)
+1.  [Installing and Contributing](#org6070e31)
+    1.  [Dependencies](#orga42cdd7)
+2.  [How to *Puflantu*](#orga23c99b)
+    1.  [General Language Elements](#org3a55908)
 
 
 
-<a id="org65d27c2"></a>
+<a id="org6070e31"></a>
 
 # Installing and Contributing
 
 
-<a id="org5a71647"></a>
+<a id="orga42cdd7"></a>
 
 ## Dependencies
 
@@ -27,12 +27,12 @@
     installation.
 
 
-<a id="orga4fccfe"></a>
+<a id="orga23c99b"></a>
 
 # How to *Puflantu*
 
 
-<a id="orgbd9aba9"></a>
+<a id="org3a55908"></a>
 
 ## General Language Elements
 
@@ -40,3 +40,45 @@ Word order in Puflantu is Subject-Object-Verb.
 
     Alisu  Puflantu    catub.
     Alice  Perflontus  speak-she.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Alisu Puflantu catub.</td>
+<td class="org-left">Alice Perflontus speak-she.</td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Alisu</td>
+<td class="org-left">Puflantu</td>
+<td class="org-left">catub.</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Alice</td>
+<td class="org-left">Perflontus</td>
+<td class="org-left">speak-she.</td>
+</tr>
+</tbody>
+</table>

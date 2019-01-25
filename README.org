@@ -24,3 +24,8 @@
 Alisu  Puflantu    catub.
 Alice  Perflontus  speak-she.
 #+END_EXAMPLE
+
+| Alisu Puflantu catub. | Alice Perflontus speak-she. |
+
+| Alisu | Puflantu   | catub.     |
+| Alice | Perflontus | speak-she. |
