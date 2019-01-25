@@ -266,3 +266,85 @@ Iqa   ke   tusvo  yipox  et   capatil.
 That  one  bus    soon   FUT  arrive-3S.
 The 1 bus will arrive soon.
 #+END_EXAMPLE
+
+*** Verbs, Part 2 -- Tense, Aspect, Degree, and Reversal
+
+Perflontus expresses two non-present tenses, past and future; and two aspects,
+imperfect and perfect. (Briefly, the imperfect aspect indicates that the verb
+action is ongoing or otherwise incomplete; the perfect aspect indicates that the
+verb action has concluded.) These expressions appear as proclitics, i.e. prefix
+particles.
+
+#+BEGIN_EXAMPLE
+| Present         | --       | Elaiza zumatuz.      | Eliza sleeps.           |
+| Past (PST)      | im       | Elaiza im zumatuz.   | Eliza slept.            |
+| Future (FUT)    | et       | Elaiza et zumatuz.   | Eliza will sleep.       |
+|-----------------+----------+----------------------+-------------------------|
+| Imperfect (IMP) | av / -av | Elaiza av zumatuz.   | Eliza is sleeping.      |
+|                 |          | Elaiza imav zumatuz. | Eliza was sleeping.     |
+|                 |          | Elaiza etav zumatuz. | Eliza will be sleeping. |
+|-----------------+----------+----------------------+-------------------------|
+| Perfect (PRF)   | or / -or | Elaiza or zumatuz.   | Eliza has slept.        |
+|                 |          | Elaiza imor zumatuz. | Eliza had slept.        |
+|                 |          | Elaiza etor zumatuz. | Eliza will have slept.  |
+#+END_EXAMPLE
+
+Verbs may be modified in degree or even reversed by the use of a prefix:
+
+#+BEGIN_EXAMPLE
+|                    | Alpoxe horwmod.   | I remember that time.             |
+| Diminutive (DIM)   | Alpoxe yihorwmod. | I remember that time (a bit).     |
+| Augmentative (AUG) | Alpoxe aghorwmod. | I remember that time (intensely). |
+| Reverse (REV)      | Alpoxe vohorwmod. | I forget that time.               |
+#+END_EXAMPLE
+
+If multiple prefixes are used, DIM/AUG come before REV, i.e. ~yivohor*od~, not
+~voyihor*od~.
+
+*** Nouns and Adjectives, Part 1 -- Number
+
+Perflontic nouns always have at least two syllables (which is to say, vowels)
+and always end in a vowel other than ~w~. In their noun form, they don't take any
+interesting inflections other than for number. When a noun is given the dual
+number its final vowel is replaced by ~w~. For the plural number, it is replaced
+by ~wa~.
+
+#+BEGIN_EXAMPLE
+Furedu  toreli  wlatoc.
+Fred    cookie  eat-3S.
+Fred eats (a) cookie.
+
+Ha   torelw     wlatoc.
+Two  cookie-DU  eat-3S.
+He eats two cookies.
+
+Hasa   pagke  torelwa    wlatoc.
+2*216  25     cookie-PL  eat-3S.
+He eats 461 cookies.
+#+END_EXAMPLE
+
+Nouns also function as adjectives with no additional inflection. Some root forms
+are translated as one part of speech or the other in English, but the parts of
+speech in Perflontus should be understood as interchangeable as appropriate.
+
+Adjectives take on the numeric inflection of the nouns they modify. In addition,
+adjectives may be negated by infixing ~-ay-~ before their final vowel.
+
+#+BEGIN_EXAMPLE
+Jekobu  kolbao  toreli  wlatoc.
+Jakob   green   cookie  eat-3S.
+Jakob eats (a) green cookie.
+
+Jekobu  ha   kolbaw    torelw     wlatoc.
+Jakob   two  green-DU  cookie-DU  eat-3S.
+Jakob eats two green cookies.
+
+Jekobu  kolba[ay]wa   torelwa    wlateyoc.
+Jakob   green-NEG-PL  cookie-DU  eat-3S-NEG.
+Jakob does not eat non-green cookies.
+#+END_EXAMPLE
+
+Note that numbers (like ~ha~ "two" in the second example) are an exception to
+this. They do not generally take on the same numeric inflection as the objects
+they count, but might still be pluralized in cases where they are used as
+estimation units (e.g. ~yo torelwa~ "36 cookies" vs ~ywa torelwa~ "36s of cookies").
