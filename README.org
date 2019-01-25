@@ -104,21 +104,51 @@ any particles. Thus for verbs the stress will fall on the final syllable; for
 nouns, usually on the penultimate or antepenultimate.
 
 #+BEGIN_EXAMPLE
-A- li- su   Puf- lan- tu   ca-  tub.
-ah-LEE-suh  puff-LAHN-tuh  zhah-TUB.
+A- la- nu   Puf- lan- tu   ca-  tub.
+ah-LAH-nuh  puff-LAHN-tuh  zhah-TUB.
 
-Ba- bu   pa- i   to- re- lw- a   im   w- la- toc.
-BAH-buh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
+Bu- nu   pa- i   to- re- lw- a   im   w- la- toc.
+BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 #+END_EXAMPLE
 
-*** Verbs
+*** Pronouns, Part 1 -- Personal Pronouns
+
+Pronouns play a core role in Perflontic inflection, and therefore must be
+addressed first. Perflontic pronouns have the following characteristics:
+
+  * First/second/third person designations.
+  * Subject/object designations. Formally the subject form is the nominative
+    case, while the object form covers the oblique case, a.k.a. "everything
+    else". (This is the same casing system English uses.)
+  * Singular/dual/plural designations. The dual number refers specifically to
+    two of a thing; thus separate pronouns are used to refer to "you, alone",
+    "the two of you", and "y'all".
+  * No gender distinctions, including for third person personals.
+  * No sentience distinctions, i.e. he = she = it.
+
+#+BEGIN_EXAMPLE
+```
+|    | Singular | Dual    | Plural  |
+|----+----------+---------+---------|
+| 1P | wm / um  | wn / un | wy / uy |
+| 2P | iz / ez  | ij / ej | ix / ex |
+| 3P | at / ot  | ab / ob | ad / od |
+```
+#+END_EXAMPLE
+
+Note that all the pronouns are a vowel and a consonant. (This is the main
+exception to the rule that noun-like things end in vowels.) Furthermore the
+vowel does not depend at all on the number, and the consonant does not depend at
+all on the case.
+
+*** Verbs, Part 1 -- Basic Infixes
 
 Verbs have a root form which is inflected in various ways. In particular, the
 root form of a verb is not a valid word unto itself. The most common way a verb
 is inflected is to indicate its subject, object, and negation. This is done
 through the use of infixes. The point at which a verb accepts infixes is always
 immediately before its final vowel. To help in remembering this, the root form a
-verb is always notated with an asterisk indicating this position.
+verb is always written with an asterisk indicating this position.
 
 #+BEGIN_EXAMPLE
 wl*oc    "to eat"
@@ -128,30 +158,111 @@ wlizoc   eat-2S "you eat"
 
 Each verb accepts up to three infixes, in the following order:
 
-  * A subject pronoun, described presently. This is always present if the verb
-    form is being used as a verb. (It may be absent in cases where the verb form
-    is used to derive a noun.)
+  * A subject pronoun, as described above. This is always present if the verb
+    form is being used as a verb, even if the subject is explicitly named
+    elsewhere in the sentence. (It may be absent in cases where the verb form is
+    used to derive a noun.)
+
+#+BEGIN_EXAMPLE
+```
+Andursun  ke   toreli  wl[at]oc.
+Anderson  one  cookie  eat-3S.
+Anderson eats a cookie.
+
+Ke   toreli  wl[at]oc.
+One  cookie  eat-3S.
+He eats a cookie.
+
+Andursun ke toreli *wloc. -- Incorrect, [at] infix must still be provided.
+```
+#+END_EXAMPLE
 
   * A negation infix ~ey~. This indicates the negation/lack of the action, /not/ a
     reversal of the action. The corresponding distinction can be seen in English
     where "to not do" something is distinct from "to undo" it; this is the
     former.
 
-  * An object pronoun, described presently. This is present to the degree that
+#+BEGIN_EXAMPLE
+```
+Canik    kofuri  ratiq.
+Yannick  coffee  drink-3S.
+Yannick drinks coffee.
+
+Canik    enxura  rat[ey]iq.
+Yannick  water   drink-3S-NEG.
+Yannick does not drink water.
+```
+#+END_EXAMPLE
+
+  * An object pronoun, as described above. This is present to the degree that
     it needs to be for disambiguation:
 
 #+BEGIN_EXAMPLE
 ```
-Daxafe   qekwmad.
-Teacher  meet-1S.
-I meet (the) teacher.
+Dani   qek[wm]ad.
+Danny  meet-1S.
+I meet Danny.
 
-Qekwmotad.
+Qek[wm][ot]ad.
 Meet-1S-3O.
-I meet him/her/it.
+I meet him.
 
-Daxafe   qekwmotad. -- Valid with redundant 3O infix; may indicate emphasis.
-Teacher  meet-1S-3O.
-I meet *(the) teacher*.
+Dani   qek[wm][ot]ad. -- Valid with redundant 3O infix; may indicate emphasis.
+Danny  meet-1S-3O.
+I meet *Danny*.
 ```
+#+END_EXAMPLE
+
+*** Pronouns, Part 2 -- This, That, A, and The
+
+"This" and "that" are demonstrative pronouns that differ from regular nouns
+primarily in that they have special handling for their objective and possessive
+cases that regular nouns don't. They are otherwise handled like regular nouns,
+and in particular pluralized like them. These rules will be discussed later; for
+now, the following table should suffice:
+
+#+BEGIN_EXAMPLE
+|      | Singular  | Dual      | Plural      |
+|------+-----------+-----------+-------------|
+| This | ita / eta | itw / etw | itwa / etwa |
+| That | iqa / eqa | iqw / eqw | iqwa / eqwa |
+#+END_EXAMPLE
+
+Like most Perflontus nouns (again, to be covered more thoroughly later), ~ita~ et
+al. may also be used as demonstrative adjectives.
+
+#+BEGIN_EXAMPLE
+Demiunu  etwa       torelwa  et   wlatoc.
+Damien   these-OBJ  cookies  FUT  eat-3S.
+Damien will eat these cookies.
+
+Demiunu  etwa       et   wlatoc.
+Damien   these-OBJ  FUT  eat-3S.
+Damien will eat these.
+
+Ita       somatotun.
+This-SUB  please-3S-3O.
+This pleases him.
+#+END_EXAMPLE
+
+There is no direct equivalent for the definite article "the". Depending on the
+context it is correct to either omit any qualifier at all or to use "this" or
+"that" as appropriate instead.
+
+Similarly there is no directly equivalent to the indefinite article "a(n)". When
+it is necessary to refer to some indefinite item ~ke~ (literally "one") is used
+instead.
+
+#+BEGIN_EXAMPLE
+Tusvo  yipox  et   capatil.
+Bus    soon   FUT  arrive-3S.
+(The) bus will arrive soon.
+
+Ke   tusvo  yipox  et   capatil.
+One  bus    soon   FUT  arrive-3S.
+A bus will arrive soon.
+
+Iqa   ke   tusvo  yipox  et   capatil.
+That  one  bus    soon   FUT  arrive-3S.
+The 1 bus will arrive soon.
 #+END_EXAMPLE
