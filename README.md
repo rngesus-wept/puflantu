@@ -1,24 +1,24 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org59d89de)
-    1.  [Dependencies](#org709ac5e)
-2.  [How to *Puflantu*](#orga0bf3ea)
-    1.  [General Language Elements](#org32c8b44)
-    2.  [Sounds](#org4f0c72b)
-        1.  [Vowels](#org1f3c3c1)
-        2.  [Consonants](#org97407c0)
-        3.  [Syllables](#org4de1115)
-    3.  [Verbs](#org0c62064)
+1.  [Installing and Contributing](#org25ddf3d)
+    1.  [Dependencies](#org959644b)
+2.  [How to *Puflantu*](#orgfcc1bfc)
+    1.  [General Language Elements](#org77530a5)
+    2.  [Sounds](#org7c8207b)
+        1.  [Vowels](#orgda4a0fd)
+        2.  [Consonants](#org6a3005e)
+        3.  [Syllables](#orgb207232)
+    3.  [Verbs](#org3eb33f4)
 
 
 
-<a id="org59d89de"></a>
+<a id="org25ddf3d"></a>
 
 # Installing and Contributing
 
 
-<a id="org709ac5e"></a>
+<a id="org959644b"></a>
 
 ## Dependencies
 
@@ -31,12 +31,12 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orga0bf3ea"></a>
+<a id="orgfcc1bfc"></a>
 
 # How to *Puflantu*
 
 
-<a id="org32c8b44"></a>
+<a id="org77530a5"></a>
 
 ## General Language Elements
 
@@ -54,7 +54,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="org4f0c72b"></a>
+<a id="org7c8207b"></a>
 
 ## Sounds
 
@@ -62,7 +62,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="org1f3c3c1"></a>
+<a id="orgda4a0fd"></a>
 
 ### Vowels
 
@@ -79,7 +79,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="org97407c0"></a>
+<a id="org6a3005e"></a>
 
 ### Consonants
 
@@ -119,7 +119,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="org4de1115"></a>
+<a id="orgb207232"></a>
 
 ### Syllables
 
@@ -143,7 +143,7 @@ nouns, usually on the penultimate or antepenultimate.
     BAH-buh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org0c62064"></a>
+<a id="org3eb33f4"></a>
 
 ## Verbs
 

@@ -140,15 +140,15 @@ Each verb accepts up to three infixes, in the following order:
   * An object pronoun, described presently. This is present to the degree that
     it needs to be for disambiguation:
 #+BEGIN_EXAMPLE
-Daxafe   qekwmad.
-Teacher  meet-1S.
-I meet (the) teacher.
+  Daxafe   qekwmad.
+  Teacher  meet-1S.
+  I meet (the) teacher.
 
-Qekwmotad.
-Meet-1S-3O.
-I meet him/her/it.
+  Qekwmotad.
+  Meet-1S-3O.
+  I meet him/her/it.
 
-Daxafe   qekwmotad. -- Valid with redundant 3O infix; may indicate emphasis.
-Teacher  meet-1S-3O.
-I meet *(the) teacher*.
+  Daxafe   qekwmotad. -- Valid with redundant 3O infix; may indicate emphasis.
+  Teacher  meet-1S-3O.
+  I meet *(the) teacher*.
 #+END_EXAMPLE
