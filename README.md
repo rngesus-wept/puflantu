@@ -1,24 +1,28 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org27a0be4)
-    1.  [Dependencies](#org956eab7)
-2.  [How to *Puflantu*](#org9cbdd6e)
-    1.  [General Language Elements](#orge96376e)
-    2.  [Sounds](#org81e195a)
-        1.  [Vowels](#org9fd498b)
-        2.  [Consonants](#orgfa109fc)
-        3.  [Syllables](#org1a74325)
-    3.  [Verbs](#org26b0cca)
+1.  [Installing and Contributing](#org82d195a)
+    1.  [Dependencies](#org3c73173)
+2.  [How to *Puflantu*](#org84bf7d2)
+    1.  [General Language Elements](#org6a58d82)
+    2.  [Sounds](#org82a08a5)
+        1.  [Vowels](#org3299a4f)
+        2.  [Consonants](#orgdc89248)
+        3.  [Syllables](#orge8e1fea)
+    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org6cc1eb8)
+    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#orgdac278b)
+    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#orgf749d10)
+    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org0c74487)
+    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org7dced74)
 
 
 
-<a id="org27a0be4"></a>
+<a id="org82d195a"></a>
 
 # Installing and Contributing
 
 
-<a id="org956eab7"></a>
+<a id="org3c73173"></a>
 
 ## Dependencies
 
@@ -31,12 +35,12 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="org9cbdd6e"></a>
+<a id="org84bf7d2"></a>
 
 # How to *Puflantu*
 
 
-<a id="orge96376e"></a>
+<a id="org6a58d82"></a>
 
 ## General Language Elements
 
@@ -54,7 +58,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="org81e195a"></a>
+<a id="org82a08a5"></a>
 
 ## Sounds
 
@@ -62,7 +66,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="org9fd498b"></a>
+<a id="org3299a4f"></a>
 
 ### Vowels
 
@@ -79,7 +83,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="orgfa109fc"></a>
+<a id="orgdc89248"></a>
 
 ### Consonants
 
@@ -119,7 +123,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="org1a74325"></a>
+<a id="orge8e1fea"></a>
 
 ### Syllables
 
@@ -136,23 +140,54 @@ Stress occurs on the syllable preceding a word's final consonant, not counting
 any particles. Thus for verbs the stress will fall on the final syllable; for
 nouns, usually on the penultimate or antepenultimate.
 
-    A- li- su   Puf- lan- tu   ca-  tub.
-    ah-LEE-suh  puff-LAHN-tuh  zhah-TUB.
+    A- la- nu   Puf- lan- tu   ca-  tub.
+    ah-LAH-nuh  puff-LAHN-tuh  zhah-TUB.
 
-    Ba- bu   pa- i   to- re- lw- a   im   w- la- toc.
-    BAH-buh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
+    Bu- nu   pa- i   to- re- lw- a   im   w- la- toc.
+    BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org26b0cca"></a>
+<a id="org6cc1eb8"></a>
 
-## Verbs
+## Pronouns, Part 1 &#x2013; Personal Pronouns
+
+Pronouns play a core role in Perflontic inflection, and therefore must be
+addressed first. Perflontic pronouns have the following characteristics:
+
+-   First/second/third person designations.
+-   Subject/object designations. Formally the subject form is the nominative
+    case, while the object form covers the oblique case, a.k.a. "everything
+    else". (This is the same casing system English uses.)
+-   Singular/dual/plural designations. The dual number refers specifically to
+    two of a thing; thus separate pronouns are used to refer to "you, alone",
+    "the two of you", and "y'all".
+-   No gender distinctions, including for third person personals.
+-   No sentience distinctions, i.e. he = she = it.
+
+    ```
+    |    | Singular | Dual    | Plural  |
+    |----+----------+---------+---------|
+    | 1P | wm / um  | wn / un | wy / uy |
+    | 2P | iz / ez  | ij / ej | ix / ex |
+    | 3P | at / ot  | ab / ob | ad / od |
+    ```
+
+Note that all the pronouns are a vowel and a consonant. (This is the main
+exception to the rule that noun-like things end in vowels.) Furthermore the
+vowel does not depend at all on the number, and the consonant does not depend at
+all on the case.
+
+
+<a id="orgdac278b"></a>
+
+## Verbs, Part 1 &#x2013; Basic Infixes
 
 Verbs have a root form which is inflected in various ways. In particular, the
 root form of a verb is not a valid word unto itself. The most common way a verb
 is inflected is to indicate its subject, object, and negation. This is done
 through the use of infixes. The point at which a verb accepts infixes is always
 immediately before its final vowel. To help in remembering this, the root form a
-verb is always notated with an asterisk indicating this position.
+verb is always written with an asterisk indicating this position.
 
     wl*oc    "to eat"
     wlwmoc   eat-1S "I eat"
@@ -160,28 +195,182 @@ verb is always notated with an asterisk indicating this position.
 
 Each verb accepts up to three infixes, in the following order:
 
--   A subject pronoun, described presently. This is always present if the verb
-    form is being used as a verb. (It may be absent in cases where the verb form
-    is used to derive a noun.)
+-   A subject pronoun, as described above. This is always present if the verb
+    form is being used as a verb, even if the subject is explicitly named
+    elsewhere in the sentence. (It may be absent in cases where the verb form is
+    used to derive a noun.)
+
+    ```
+    Andursun  ke   toreli  wl[at]oc.
+    Anderson  one  cookie  eat-3S.
+    Anderson eats a cookie.
+
+    Ke   toreli  wl[at]oc.
+    One  cookie  eat-3S.
+    He eats a cookie.
+
+    Andursun ke toreli *wloc. -- Incorrect, [at] infix must still be provided.
+    ```
 
 -   A negation infix `ey`. This indicates the negation/lack of the action, *not* a
     reversal of the action. The corresponding distinction can be seen in English
     where "to not do" something is distinct from "to undo" it; this is the
     former.
 
--   An object pronoun, described presently. This is present to the degree that
+    ```
+    Canik    kofuri  ratiq.
+    Yannick  coffee  drink-3S.
+    Yannick drinks coffee.
+
+    Canik    enxura  rat[ey]iq.
+    Yannick  water   drink-3S-NEG.
+    Yannick does not drink water.
+    ```
+
+-   An object pronoun, as described above. This is present to the degree that
     it needs to be for disambiguation:
 
     ```
-    Daxafe   qekwmad.
-    Teacher  meet-1S.
-    I meet (the) teacher.
+    Dani   qek[wm]ad.
+    Danny  meet-1S.
+    I meet Danny.
 
-    Qekwmotad.
+    Qek[wm][ot]ad.
     Meet-1S-3O.
-    I meet him/her/it.
+    I meet him.
 
-    Daxafe   qekwmotad. -- Valid with redundant 3O infix; may indicate emphasis.
-    Teacher  meet-1S-3O.
-    I meet *(the) teacher*.
+    Dani   qek[wm][ot]ad. -- Valid with redundant 3O infix; may indicate emphasis.
+    Danny  meet-1S-3O.
+    I meet *Danny*.
     ```
+
+
+<a id="orgf749d10"></a>
+
+## Pronouns, Part 2 &#x2013; This, That, A, and The
+
+"This" and "that" are demonstrative pronouns that differ from regular nouns
+primarily in that they have special handling for their objective and possessive
+cases that regular nouns don't. They are otherwise handled like regular nouns,
+and in particular pluralized like them. These rules will be discussed later; for
+now, the following table should suffice:
+
+    |      | Singular  | Dual      | Plural      |
+    |------+-----------+-----------+-------------|
+    | This | ita / eta | itw / etw | itwa / etwa |
+    | That | iqa / eqa | iqw / eqw | iqwa / eqwa |
+
+Like most Perflontus nouns (again, to be covered more thoroughly later), `ita` et
+al. may also be used as demonstrative adjectives.
+
+    Demiunu  etwa       torelwa  et   wlatoc.
+    Damien   these-OBJ  cookies  FUT  eat-3S.
+    Damien will eat these cookies.
+
+    Demiunu  etwa       et   wlatoc.
+    Damien   these-OBJ  FUT  eat-3S.
+    Damien will eat these.
+
+    Ita       somatotun.
+    This-SUB  please-3S-3O.
+    This pleases him.
+
+There is no direct equivalent for the definite article "the". Depending on the
+context it is correct to either omit any qualifier at all or to use "this" or
+"that" as appropriate instead.
+
+Similarly there is no directly equivalent to the indefinite article "a(n)". When
+it is necessary to refer to some indefinite item `ke` (literally "one") is used
+instead.
+
+    Tusvo  yipox  et   capatil.
+    Bus    soon   FUT  arrive-3S.
+    (The) bus will arrive soon.
+
+    Ke   tusvo  yipox  et   capatil.
+    One  bus    soon   FUT  arrive-3S.
+    A bus will arrive soon.
+
+    Iqa   ke   tusvo  yipox  et   capatil.
+    That  one  bus    soon   FUT  arrive-3S.
+    The 1 bus will arrive soon.
+
+
+<a id="org0c74487"></a>
+
+## Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal
+
+Perflontus expresses two non-present tenses, past and future; and two aspects,
+imperfect and perfect. (Briefly, the imperfect aspect indicates that the verb
+action is ongoing or otherwise incomplete; the perfect aspect indicates that the
+verb action has concluded.) These expressions appear as proclitics, i.e. prefix
+particles.
+
+    | Present         | --       | Elaiza zumatuz.      | Eliza sleeps.           |
+    | Past (PST)      | im       | Elaiza im zumatuz.   | Eliza slept.            |
+    | Future (FUT)    | et       | Elaiza et zumatuz.   | Eliza will sleep.       |
+    |-----------------+----------+----------------------+-------------------------|
+    | Imperfect (IMP) | av / -av | Elaiza av zumatuz.   | Eliza is sleeping.      |
+    |                 |          | Elaiza imav zumatuz. | Eliza was sleeping.     |
+    |                 |          | Elaiza etav zumatuz. | Eliza will be sleeping. |
+    |-----------------+----------+----------------------+-------------------------|
+    | Perfect (PRF)   | or / -or | Elaiza or zumatuz.   | Eliza has slept.        |
+    |                 |          | Elaiza imor zumatuz. | Eliza had slept.        |
+    |                 |          | Elaiza etor zumatuz. | Eliza will have slept.  |
+
+Verbs may be modified in degree or even reversed by the use of a prefix:
+
+    |                    | Alpoxe horwmod.   | I remember that time.             |
+    | Diminutive (DIM)   | Alpoxe yihorwmod. | I remember that time (a bit).     |
+    | Augmentative (AUG) | Alpoxe aghorwmod. | I remember that time (intensely). |
+    | Reverse (REV)      | Alpoxe vohorwmod. | I forget that time.               |
+
+If multiple prefixes are used, DIM/AUG come before REV, i.e. `yivohor*od`, not
+`voyihor*od`.
+
+
+<a id="org7dced74"></a>
+
+## Nouns and Adjectives, Part 1 &#x2013; Number
+
+Perflontic nouns always have at least two syllables (which is to say, vowels)
+and always end in a vowel other than `w`. In their noun form, they don't take any
+interesting inflections other than for number. When a noun is given the dual
+number its final vowel is replaced by `w`. For the plural number, it is replaced
+by `wa`.
+
+    Furedu  toreli  wlatoc.
+    Fred    cookie  eat-3S.
+    Fred eats (a) cookie.
+
+    Ha   torelw     wlatoc.
+    Two  cookie-DU  eat-3S.
+    He eats two cookies.
+
+    Hasa   pagke  torelwa    wlatoc.
+    2*216  25     cookie-PL  eat-3S.
+    He eats 461 cookies.
+
+Nouns also function as adjectives with no additional inflection. Some root forms
+are translated as one part of speech or the other in English, but the parts of
+speech in Perflontus should be understood as interchangeable as appropriate.
+
+Adjectives take on the numeric inflection of the nouns they modify. In addition,
+adjectives may be negated by infixing `-ay-` before their final vowel.
+
+    Jekobu  kolbao  toreli  wlatoc.
+    Jakob   green   cookie  eat-3S.
+    Jakob eats (a) green cookie.
+
+    Jekobu  ha   kolbaw    torelw     wlatoc.
+    Jakob   two  green-DU  cookie-DU  eat-3S.
+    Jakob eats two green cookies.
+
+    Jekobu  kolba[ay]wa   torelwa    wlateyoc.
+    Jakob   green-NEG-PL  cookie-DU  eat-3S-NEG.
+    Jakob does not eat non-green cookies.
+
+Note that numbers (like `ha` "two" in the second example) are an exception to
+this. They do not generally take on the same numeric inflection as the objects
+they count, but might still be pluralized in cases where they are used as
+estimation units (e.g. `yo torelwa` "36 cookies" vs `ywa torelwa` "36s of cookies").
