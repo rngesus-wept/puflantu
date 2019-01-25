@@ -1,20 +1,24 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org33b9d89)
-    1.  [Dependencies](#org2a66e1d)
-2.  [How to *Puflantu*](#org515604b)
-    1.  [General Language Elements](#org84b8a7b)
-    2.  [Sounds](#org1784cb6)
+1.  [Installing and Contributing](#org59d89de)
+    1.  [Dependencies](#org709ac5e)
+2.  [How to *Puflantu*](#orga0bf3ea)
+    1.  [General Language Elements](#org32c8b44)
+    2.  [Sounds](#org4f0c72b)
+        1.  [Vowels](#org1f3c3c1)
+        2.  [Consonants](#org97407c0)
+        3.  [Syllables](#org4de1115)
+    3.  [Verbs](#org0c62064)
 
 
 
-<a id="org33b9d89"></a>
+<a id="org59d89de"></a>
 
 # Installing and Contributing
 
 
-<a id="org2a66e1d"></a>
+<a id="org709ac5e"></a>
 
 ## Dependencies
 
@@ -27,12 +31,12 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="org515604b"></a>
+<a id="orga0bf3ea"></a>
 
 # How to *Puflantu*
 
 
-<a id="org84b8a7b"></a>
+<a id="org32c8b44"></a>
 
 ## General Language Elements
 
@@ -50,22 +54,34 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="org1784cb6"></a>
+<a id="org4f0c72b"></a>
 
 ## Sounds
 
 Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
-plus apostrophe `'`. It has six vowels: `a`, `e`, `i`, `o`, `u`, and `w`. The first four are
-pronounced as they are in Spanish or Japanese; in English these vowels appear in
-"car", "bait", "feat", and "goat" respectively.
+plus apostrophe `'`.
+
+
+<a id="org1f3c3c1"></a>
+
+### Vowels
+
+It has six vowels: `a`, `e`, `i`, `o`, `u`, and `w`. The first four are pronounced as they
+are in Spanish or Japanese; in English these vowels appear in "car", "bait",
+"feat", and "goat" respectively.
 
 `u` is pronounced as a schwa <ə>, which appears with some frequency in English
 depending on how slack the speaker is in their unstressed syllables. Examples
 are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
-\\/ʌ\\/, as in "butt", is a reasonable allophone.
+<ʌ>, as in "butt", is a reasonable allophone.
 
 `w` is pronounced as <u>, the "oo" sound you'd expect `u` to make but it doesn't.
 "Goon" and "pool" are good English examples.
+
+
+<a id="org97407c0"></a>
+
+### Consonants
 
 Of the consonants, `b`, `d`, `j`, `k`, `l`, `m`, `n`, `p`, `r`, `s`, `t`, and `z` behave the way a
 native English speaker would expect.
@@ -102,6 +118,11 @@ particular it happens just before both vowels in "uh-oh". For our audio work we
 will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
+
+<a id="org4de1115"></a>
+
+### Syllables
+
 Syllables in Perflontus always contain exactly one vowel, which may be preceded
 by at most one consonant, and followed by at most one consonant. This means that
 an English speaker must take care to pronounce vowel and consonant clusters as
@@ -113,7 +134,52 @@ doubt a consonant belongs to the same syllable as the vowel following it, e.g.
 
 Stress occurs on the syllable preceding a word's final consonant, not counting
 any particles. Thus for verbs the stress will fall on the final syllable; for
-nouns, on the penultimate or antepenultimate.
+nouns, usually on the penultimate or antepenultimate.
 
     A- li- su   Puf- lan- tu   ca-  tub.
     ah-LEE-suh  puff-LAHN-tuh  zhah-TUB.
+
+    Ba- bu   pa- i   to- re- lw- a   im   w- la- toc.
+    BAH-buh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
+
+
+<a id="org0c62064"></a>
+
+## Verbs
+
+Verbs have a root form which is inflected in various ways. In particular, the
+root form of a verb is not a valid word unto itself. The most common way a verb
+is inflected is to indicate its subject, object, and negation. This is done
+through the use of infixes. The point at which a verb accepts infixes is always
+immediately before its final vowel. To help in remembering this, the root form a
+verb is always notated with an asterisk indicating this position.
+
+    wl*oc    "to eat"
+    wlwmoc   eat-1S "I eat"
+    wlizoc   eat-2S "you eat"
+
+Each verb accepts up to three infixes, in the following order:
+
+-   A subject pronoun, described presently. This is always present if the verb
+    form is being used as a verb. (It may be absent in cases where the verb form
+    is used to derive a noun.)
+
+-   A negation infix `ey`. This indicates the negation/lack of the action, *not* a
+    reversal of the action. The corresponding distinction can be seen in English
+    where "to not do" something is distinct from "to undo" it; this is the
+    former.
+
+-   An object pronoun, described presently. This is present to the degree that
+    it needs to be for disambiguation:
+
+    Daxafe   qekwmad.
+    Teacher  meet-1S.
+    I meet (the) teacher.
+
+    Qekwmotad.
+    Meet-1S-3O.
+    I meet him/her/it.
+
+    Daxafe   qekwmotad. -- Valid with redundant 3O infix; may indicate emphasis.
+    Teacher  meet-1S-3O.
+    I meet *(the) teacher*.
