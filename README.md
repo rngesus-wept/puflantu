@@ -1,20 +1,20 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org5c7645f)
-    1.  [Dependencies](#org3b730e8)
-2.  [How to *Puflantu*](#orgb169091)
-    1.  [General Language Elements](#orge9f57fd)
-    2.  [Sounds](#org4daf118)
+1.  [Installing and Contributing](#org33b9d89)
+    1.  [Dependencies](#org2a66e1d)
+2.  [How to *Puflantu*](#org515604b)
+    1.  [General Language Elements](#org84b8a7b)
+    2.  [Sounds](#org1784cb6)
 
 
 
-<a id="org5c7645f"></a>
+<a id="org33b9d89"></a>
 
 # Installing and Contributing
 
 
-<a id="org3b730e8"></a>
+<a id="org2a66e1d"></a>
 
 ## Dependencies
 
@@ -27,12 +27,12 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orgb169091"></a>
+<a id="org515604b"></a>
 
 # How to *Puflantu*
 
 
-<a id="orge9f57fd"></a>
+<a id="org84b8a7b"></a>
 
 ## General Language Elements
 
@@ -50,7 +50,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="org4daf118"></a>
+<a id="org1784cb6"></a>
 
 ## Sounds
 
@@ -59,38 +59,38 @@ plus apostrophe `'`. It has six vowels: `a`, `e`, `i`, `o`, `u`, and `w`. The fi
 pronounced as they are in Spanish or Japanese; in English these vowels appear in
 "car", "bait", "feat", and "goat" respectively.
 
-`u` is pronounced as a schwa \\/ə\\/, which appears with some frequency in English
+`u` is pronounced as a schwa <ə>, which appears with some frequency in English
 depending on how slack the speaker is in their unstressed syllables. Examples
 are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 \\/ʌ\\/, as in "butt", is a reasonable allophone.
 
-`w` is pronounced as \\/u\\/, the "oo" sound you'd expect `u` to make but it doesn't.
+`w` is pronounced as <u>, the "oo" sound you'd expect `u` to make but it doesn't.
 "Goon" and "pool" are good English examples.
 
 Of the consonants, `b`, `d`, `j`, `k`, `l`, `m`, `n`, `p`, `r`, `s`, `t`, and `z` behave the way a
 native English speaker would expect.
 
-`f` and `v` are close to normal for English but are actually mapped to \\/ɸ\\/ and
-\\/β\\/ respectively, which are pronounced without using one's teeth. The "f" and
+`f` and `v` are close to normal for English but are actually mapped to <ɸ> and
+<β> respectively, which are pronounced without using one's teeth. The "f" and
 "v" in Japanese and Spanish are supposed to actually use these if you're not a
 gaijin/gringo. English speakers will perceive that they are blowing more air
 than usual when pronouncing these.
 
-`y` and `g` are \\/ɲ\\/ and \\/ŋ\\/ respectively; a reasonable shortcut for an English
+`y` and `g` are <ɲ> and <ŋ> respectively; a reasonable shortcut for an English
 speaker is to imagine a preceding "n" whenever these letters are encountered.
-Italian and Spanish use "gn" and "ñ" respectively for \\/ɲ\\/. English "ng" is a
-correct interpretation of \\/ŋ\\/ but the phoneme will show up a lot more often
+Italian and Spanish use "gn" and "ñ" respectively for <ɲ>. English "ng" is a
+correct interpretation of <ŋ> but the phoneme will show up a lot more often
 and in "unusual" places. For physiological reasons whenever two of `g`, `n`, and `y`
-appear adjacent to one another the first is pronounced as \\/n\\/ regardless of
+appear adjacent to one another the first is pronounced as <n> regardless of
 the actual spelling used.
 
-`q` and `x` are \\/tʃ\\/ "ch" and \\/ʃ\\/ "sh" respectively, corresponding to their use
+`q` and `x` are <tʃ> "ch" and <ʃ> "sh" respectively, corresponding to their use
 in romanized Chinese.
 
-`c` is \\/ʒ\\/, the second half of the "j" phoneme. In English it appears as the "s"
+`c` is <ʒ>, the second half of the "j" phoneme. In English it appears as the "s"
 in "leisure", the "g" in "concierge", or the second half of the "x" in "luxury".
 
-`h` is \\/x\\/, which is like English "h" but uses the back of the throat more. It's
+`h` is <x>, which is like English "h" but uses the back of the throat more. It's
 all over the place in Hebrew/Yiddish, and its English usage is predominantly
 in loan words from those language like the "ch" in "chutzpah". It is not quite
 as rough as Klingon "H", because we aren't quite that deep into sci-fi tropes.
