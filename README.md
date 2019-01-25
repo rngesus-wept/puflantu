@@ -1,24 +1,24 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org25ddf3d)
-    1.  [Dependencies](#org959644b)
-2.  [How to *Puflantu*](#orgfcc1bfc)
-    1.  [General Language Elements](#org77530a5)
-    2.  [Sounds](#org7c8207b)
-        1.  [Vowels](#orgda4a0fd)
-        2.  [Consonants](#org6a3005e)
-        3.  [Syllables](#orgb207232)
-    3.  [Verbs](#org3eb33f4)
+1.  [Installing and Contributing](#org27a0be4)
+    1.  [Dependencies](#org956eab7)
+2.  [How to *Puflantu*](#org9cbdd6e)
+    1.  [General Language Elements](#orge96376e)
+    2.  [Sounds](#org81e195a)
+        1.  [Vowels](#org9fd498b)
+        2.  [Consonants](#orgfa109fc)
+        3.  [Syllables](#org1a74325)
+    3.  [Verbs](#org26b0cca)
 
 
 
-<a id="org25ddf3d"></a>
+<a id="org27a0be4"></a>
 
 # Installing and Contributing
 
 
-<a id="org959644b"></a>
+<a id="org956eab7"></a>
 
 ## Dependencies
 
@@ -31,12 +31,12 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orgfcc1bfc"></a>
+<a id="org9cbdd6e"></a>
 
 # How to *Puflantu*
 
 
-<a id="org77530a5"></a>
+<a id="orge96376e"></a>
 
 ## General Language Elements
 
@@ -54,7 +54,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="org7c8207b"></a>
+<a id="org81e195a"></a>
 
 ## Sounds
 
@@ -62,7 +62,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="orgda4a0fd"></a>
+<a id="org9fd498b"></a>
 
 ### Vowels
 
@@ -79,7 +79,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="org6a3005e"></a>
+<a id="orgfa109fc"></a>
 
 ### Consonants
 
@@ -119,7 +119,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="orgb207232"></a>
+<a id="org1a74325"></a>
 
 ### Syllables
 
@@ -143,7 +143,7 @@ nouns, usually on the penultimate or antepenultimate.
     BAH-buh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org3eb33f4"></a>
+<a id="org26b0cca"></a>
 
 ## Verbs
 
@@ -172,6 +172,7 @@ Each verb accepts up to three infixes, in the following order:
 -   An object pronoun, described presently. This is present to the degree that
     it needs to be for disambiguation:
 
+    ```
     Daxafe   qekwmad.
     Teacher  meet-1S.
     I meet (the) teacher.
@@ -183,3 +184,4 @@ Each verb accepts up to three infixes, in the following order:
     Daxafe   qekwmotad. -- Valid with redundant 3O infix; may indicate emphasis.
     Teacher  meet-1S-3O.
     I meet *(the) teacher*.
+    ```
