@@ -14,4 +14,13 @@
          own virtual environment, without affecting your main Python
          installation.
 
-* How to Speak Wepp
+* How to /Puflantu/
+
+*** General Language Elements
+
+    Word order in Puflantu is Subject-Object-Verb.
+
+#+BEGIN_EXAMPLE
+Alisu  Puflantu    catub.
+Alice  Perflontus  speak-she.
+#+END_EXAMPLE

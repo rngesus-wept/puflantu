@@ -1,18 +1,19 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#orgab25c06)
-    1.  [Dependencies](#orgf3c7f65)
-2.  [How to Speak Wepp](#org2479ab2)
+1.  [Installing and Contributing](#org65d27c2)
+    1.  [Dependencies](#org5a71647)
+2.  [How to *Puflantu*](#orga4fccfe)
+    1.  [General Language Elements](#orgbd9aba9)
 
 
 
-<a id="orgab25c06"></a>
+<a id="org65d27c2"></a>
 
 # Installing and Contributing
 
 
-<a id="orgf3c7f65"></a>
+<a id="org5a71647"></a>
 
 ## Dependencies
 
@@ -26,6 +27,16 @@
     installation.
 
 
-<a id="org2479ab2"></a>
+<a id="orga4fccfe"></a>
 
-# How to Speak Wepp
+# How to *Puflantu*
+
+
+<a id="orgbd9aba9"></a>
+
+## General Language Elements
+
+Word order in Puflantu is Subject-Object-Verb.
+
+    Alisu  Puflantu    catub.
+    Alice  Perflontus  speak-she.
