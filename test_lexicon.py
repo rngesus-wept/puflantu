@@ -56,6 +56,26 @@ def TestVerbs(debug=None):
   return errors, count
 
 
+def TestNouns(debug=None):
+  errors, count = 0, 0
+
+  with open('root_nouns.tsv', 'r') as f:
+    for line in f:
+      if not line.strip() or line.startswith('#'):  # comment syntax
+        continue
+      root, meaning = line.strip().split('\t')
+      noun = morphemes.NounLemma(root, meaning)
+
+      for _, inflected_noun, _ in noun.Inflections(exclude_clitics=True, debug=debug):
+        if debug:
+          continue
+        errors += (1 - TestUniqueness(inflected_noun))
+        errors += (1 - TestSyllabification(inflected_noun))
+        count += 2
+
+  return errors, count
+
+
 def LoadCollisions():
   # Load inflections that are known to cause bloom filter collisions but are
   # actually okay
@@ -78,8 +98,8 @@ def TestClosed(debug=None):
         continue
       word, meaning = line.strip().split('\t')
       if debug:
-        if debug.lower() == word.lower():
-          print(meaning, file=sys.stderr)
+        if word.lower() in debug:
+          print('{} -- {}'.format(word.upper(), meaning), file=sys.stderr)
         continue
       errors += (1 - TestUniqueness(word))
       errors += (1 - TestSyllabification(word))
@@ -90,13 +110,14 @@ def TestClosed(debug=None):
 def main(args):
   LoadCollisions()
 
-  debug = args[1] if len(args) > 1 else None
+  debug = [arg.lower() for arg in args[1:]] if len(args) > 1 else None
 
   closed_errors, closed_count = TestClosed(debug=debug)
   verb_errors, verb_count = TestVerbs(debug=debug)
+  noun_errors, noun_count = TestNouns(debug=debug)
 
-  total_errors = sum([verb_errors, closed_errors])
-  total_count = sum([verb_count, closed_count])
+  total_errors = sum([verb_errors, closed_errors, noun_errors])
+  total_count = sum([verb_count, closed_count, noun_count])
   if total_count:
     print('Caught {} errors out of {} checks.'.format(total_errors, total_count),
           file=sys.stderr)

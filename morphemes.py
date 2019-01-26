@@ -115,14 +115,15 @@ class VerbLemma(Inflectable):
                             'subject': subject, 'objekt': objekt,
                             'inverted': inverted, }
                   inflected_verb = self.Inflect(**kwargs)
-                  if debug and inflected_verb[1].lower() == debug.lower():
+                  if debug and inflected_verb[1].lower() in debug:
                     # If the debug target is found, generate and output a gloss
                     gloss = '+'.join([_ for _ in [
                         self.gloss, tense, aspect, degree, polarity,
                         'INV' if inverted else '',
                         '-'.join(subject), '-'.join(objekt) if objekt else '']
                                       if _])
-                    print(gloss, file=sys.stderr)
+                    print('{} -- {}'.format(inflected_verb[1].upper(), gloss),
+                          file=sys.stderr)
                   yield inflected_verb
 
           if not self.derivative:
@@ -229,33 +230,36 @@ class NounLemma(Inflectable):
             kwargs = {'polarity': polarity, 'klass': klass,
                       'number': number, 'possessive': possessive}
             inflected_noun = self.Inflect(**kwargs)
-            if debug and inflected_noun[1].lower() == debug.lower():
+            if debug and inflected_noun[1].lower() in debug:
               # if the debug target is found, generate and output a gloss
               gloss = '+'.join([_ for _ in [
                   self.gloss, polarity, klass, number, 'POS' if possessive else '']
                                 if _])
-              print(gloss, file=sys.stderr)
+              print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
+                    file=sys.stderr)
             yield inflected_noun
           for compare in COMPARISONS:
             kwargs = {'polarity': polarity, 'klass': klass,
                       'number': number, 'compare': compare}
             inflected_noun = self.Inflect(**kwargs)
-            if debug and inflected_noun[1].lower() == debug.lower():
+            if debug and inflected_noun[1].lower() in debug:
               # if the debug target is found, generate and output a gloss
               gloss = '+'.join([_ for _ in [
                   self.gloss, polarity, klass, number, compare]
                                 if _])
-              print(gloss, file=sys.stderr)
+              print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
+                    file=sys.stderr)
             yield inflected_noun
       for compare in COMPARISONS:
         ## Adverbial
         kwargs = {'polarity': polarity, 'compare': compare}
         inflected_noun = self.Inflect(adverbial=True, **kwargs)
-        if debug and inflected_noun[1].lower() == debug.lower():
+        if debug and inflected_noun[1].lower() in debug:
           gloss = '+'.join([_ for _ in [
               self.gloss, polarity, compare, 'ADV']
                             if _])
-          print(gloss, file=sys.stderr)
+          print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
+                file=sys.stderr)
         yield inflected_noun
 
 
