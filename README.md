@@ -1,28 +1,30 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org82d195a)
-    1.  [Dependencies](#org3c73173)
-2.  [How to *Puflantu*](#org84bf7d2)
-    1.  [General Language Elements](#org6a58d82)
-    2.  [Sounds](#org82a08a5)
-        1.  [Vowels](#org3299a4f)
-        2.  [Consonants](#orgdc89248)
-        3.  [Syllables](#orge8e1fea)
-    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org6cc1eb8)
-    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#orgdac278b)
-    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#orgf749d10)
-    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org0c74487)
-    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org7dced74)
+1.  [Installing and Contributing](#org6276c9f)
+    1.  [Dependencies](#org6018ac8)
+2.  [How to *Puflantu*](#orga409907)
+    1.  [General Language Elements](#orgfb41f13)
+    2.  [Sounds](#orgd810126)
+        1.  [Vowels](#orgfb001b7)
+        2.  [Consonants](#orgee78411)
+        3.  [Syllables](#org9864d73)
+    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org8985e34)
+    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org169e2c2)
+    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org68454dc)
+    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org16d6a5f)
+    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org9923137)
+    8.  [Verbs, Part 3 &#x2013; To Be](#org89b42a8)
+    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#orgb8e04fc)
 
 
 
-<a id="org82d195a"></a>
+<a id="org6276c9f"></a>
 
 # Installing and Contributing
 
 
-<a id="org3c73173"></a>
+<a id="org6018ac8"></a>
 
 ## Dependencies
 
@@ -35,12 +37,12 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="org84bf7d2"></a>
+<a id="orga409907"></a>
 
 # How to *Puflantu*
 
 
-<a id="org6a58d82"></a>
+<a id="orgfb41f13"></a>
 
 ## General Language Elements
 
@@ -58,7 +60,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="org82a08a5"></a>
+<a id="orgd810126"></a>
 
 ## Sounds
 
@@ -66,7 +68,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="org3299a4f"></a>
+<a id="orgfb001b7"></a>
 
 ### Vowels
 
@@ -83,7 +85,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="orgdc89248"></a>
+<a id="orgee78411"></a>
 
 ### Consonants
 
@@ -123,7 +125,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="orge8e1fea"></a>
+<a id="org9864d73"></a>
 
 ### Syllables
 
@@ -147,7 +149,7 @@ nouns, usually on the penultimate or antepenultimate.
     BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org6cc1eb8"></a>
+<a id="org8985e34"></a>
 
 ## Pronouns, Part 1 &#x2013; Personal Pronouns
 
@@ -178,7 +180,7 @@ vowel does not depend at all on the number, and the consonant does not depend at
 all on the case.
 
 
-<a id="orgdac278b"></a>
+<a id="org169e2c2"></a>
 
 ## Verbs, Part 1 &#x2013; Basic Infixes
 
@@ -245,7 +247,7 @@ Each verb accepts up to three infixes, in the following order:
     ```
 
 
-<a id="orgf749d10"></a>
+<a id="org68454dc"></a>
 
 ## Pronouns, Part 2 &#x2013; This, That, A, and The
 
@@ -296,7 +298,7 @@ instead.
     The 1 bus will arrive soon.
 
 
-<a id="org0c74487"></a>
+<a id="org16d6a5f"></a>
 
 ## Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal
 
@@ -329,7 +331,7 @@ If multiple prefixes are used, DIM/AUG come before REV, i.e. `yivohor*od`, not
 `voyihor*od`.
 
 
-<a id="org7dced74"></a>
+<a id="org9923137"></a>
 
 ## Nouns and Adjectives, Part 1 &#x2013; Number
 
@@ -337,7 +339,7 @@ Perflontic nouns always have at least two syllables (which is to say, vowels)
 and always end in a vowel other than `w`. In their noun form, they don't take any
 interesting inflections other than for number. When a noun is given the dual
 number its final vowel is replaced by `w`. For the plural number, it is replaced
-by `wa`.
+by `wa`. Zero is considered to be part of the plural number.
 
     Furedu  toreli  wlatoc.
     Fred    cookie  eat-3S.
@@ -374,3 +376,63 @@ Note that numbers (like `ha` "two" in the second example) are an exception to
 this. They do not generally take on the same numeric inflection as the objects
 they count, but might still be pluralized in cases where they are used as
 estimation units (e.g. `yo torelwa` "36 cookies" vs `ywa torelwa` "36s of cookies").
+
+
+<a id="org89b42a8"></a>
+
+## Verbs, Part 3 &#x2013; To Be
+
+Perflontus has only one irregular verb, the copula `az` "to be". When inflected as
+a main verb, `az` is inflected as `z*`:
+
+    | z[wm] | z[at] | z[ad]    | z[at][ey] |
+    | I am  | It is | They are | It is not |
+
+It is possible for `az` to take an object "infix" in this form, e.g. `zateyot` "It
+is not it", but it's unclear whether this is formally correct. A good example of
+this issue is the use of "It is I" vs "It is me" in English, which raises
+questions of whether the things linked by the copula should both have subjective
+case and so forth. In other words, the use of `az` in these cases is undecided,
+but the above object-free examples should be enough to get you through a lot of
+use cases.
+
+`az` is only "to be" in the strictly copular sense, i.e. one that expresses some
+sort of identity relation. Separate verbs are used for other meanings that have
+been folded into the English "to be", e.g. `z*if` "to be located", `j*if` "to
+exist".
+
+When `az` links to a negative noun/adjective, it also takes on a negative
+inflection. This mirroring only happens for `az`, and only when the modifier in
+question is the negative inflection; in particular, it does not also happen for
+diminutive `yi-` nor reversal `vo-`.
+
+    Didi  ruzeqo  zat.
+    Didi  hungry  be-3S.
+
+    Didi  ruzeq[ay]o  zat[ey].
+    Didi  hunger-NEG  be-3S-NEG.
+
+
+<a id="orgb8e04fc"></a>
+
+## Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation
+
+Verbs may be suffixed to form nouns. These suffixes are applied to the root form
+of the verb, including `az`. They are compatible with all the affixes described
+previously, except for the pronoun infixes. The resulting noun/adjective is
+considered a root form unto itself, so that inflections like `-ay-` that target
+the final vowel of the word apply to the final vowel of the verb+suffix, not the
+final vowel of the root verb.
+
+    | Suffix type      | Noun sense                  | Adjective sense         | Suffix | Example              |
+    |------------------+-----------------------------+-------------------------+--------+----------------------|
+    | Gerund (GER)     | The act of X-ing            | In the process of X-ing | -a     | daxa "teaching"      |
+    | Agent (AGT)      | A thing that X's            | Capable of X-ing        | -afe   | daxafe "teacher"     |
+    | Patient (PAT)    | A thing that is X'd         | X-able                  | -who   | daxwho "student"     |
+    | Instrument (INS) | A thing that enables X-ing  | X-assisting, for X-ing  | -aqo   | daxaqo "educational" |
+    | Location (LOC)   | A place where X-ing happens | X-hosting               | -ice   | daxice               |
+    | Cause (CAU)      | A thing that causes X-ing   | X-causing               | -ede   | daxede               |
+
+It should be noted that the use of these suffixes should be taken very
+literally, which is one of the reasons that many suffixes will not have a clean
+gloss into English.
