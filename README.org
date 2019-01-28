@@ -13,6 +13,17 @@
   * [[https://pipenv.readthedocs.io/en/latest/install/][pipenv]] :: This allows you to isolate this project's dependencies in its own
        virtual environment, without affecting your main Python installation.
 
+* Language TODOs
+
+  * [ ] Fill out the lexicon
+    * [ ] Common verbs - to have (possess), to need, to want, to must (obligatory)
+    * [ ] Common "particles" - on, from, positions
+  * [ ] Reflexive constructions
+  * [ ] Passive voice
+  * [ ] Appositives
+  * [ ] Addressing the listener
+  * [ ] Imperatives
+
 * How to /Puflantu/
 
 *** General Language Elements
@@ -407,4 +418,10 @@ final vowel of the root verb.
 
 It should be noted that the use of these suffixes should be taken very
 literally, which is one of the reasons that many suffixes will not have a clean
-gloss into English.
+gloss into English. For example, it may be tempting to gloss ~daxice~
+"teach-location" as "school" but you could just as easily interpret that as
+"classroom". The best you can really do is just substitute "teaching-place"
+where it appears to avoid carrying in any unmerited assumptions. Thus to specify
+"school" you might have to say ~daxice veonxi~ "teaching-place building" as
+opposed to ~daxice jiso~ "teaching-place room". Of course, Perflontus should
+ultimately have root words for "school" and "classroom" directly.
