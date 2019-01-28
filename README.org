@@ -18,6 +18,7 @@
   * [ ] Fill out the lexicon
     * [ ] Common verbs - to have (possess), to need, to want, to must (obligatory)
     * [ ] Common "particles" - on, from, positions
+    * [ ] Mother, father, parent, child, other familial relations
   * [ ] Reflexive constructions
   * [ ] Passive voice
   * [ ] Appositives
