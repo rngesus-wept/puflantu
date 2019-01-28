@@ -1,30 +1,37 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org6276c9f)
-    1.  [Dependencies](#org6018ac8)
-2.  [How to *Puflantu*](#orga409907)
-    1.  [General Language Elements](#orgfb41f13)
-    2.  [Sounds](#orgd810126)
-        1.  [Vowels](#orgfb001b7)
-        2.  [Consonants](#orgee78411)
-        3.  [Syllables](#org9864d73)
-    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org8985e34)
-    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org169e2c2)
-    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org68454dc)
-    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org16d6a5f)
-    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org9923137)
-    8.  [Verbs, Part 3 &#x2013; To Be](#org89b42a8)
-    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#orgb8e04fc)
+1.  [Installing and Contributing](#org9fcef14)
+    1.  [Dependencies](#orgf53b73a)
+2.  [Language TODOs](#orgae4d8f6)
+3.  [How to *Puflantu*](#org60247a7)
+    1.  [General Language Elements](#org704888f)
+    2.  [Sounds](#org724043d)
+        1.  [Vowels](#org97987d1)
+        2.  [Consonants](#org1249350)
+        3.  [Syllables](#org805d303)
+    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org8f2325a)
+    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org1a0b4a1)
+    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#orgaea08ed)
+    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org4cc11ac)
+    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org053701e)
+    8.  [Verbs, Part 3 &#x2013; To Be](#org1e01e9a)
+    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#org69ad69b)
+        1.  [Gerund Form `-a`](#orga2d4abb)
+        2.  [Agent Form `-afe`](#orgf59a0be)
+        3.  [Patient Form `-who`](#orga6f11ee)
+        4.  [Instrument Form `-aqo`](#org19b7d33)
+        5.  [Locative Form `-ice`](#org48b5a7b)
+        6.  [Causative Form `-ede`](#orgb403a7d)
 
 
 
-<a id="org6276c9f"></a>
+<a id="org9fcef14"></a>
 
 # Installing and Contributing
 
 
-<a id="org6018ac8"></a>
+<a id="orgf53b73a"></a>
 
 ## Dependencies
 
@@ -37,12 +44,43 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orga409907"></a>
+<a id="orgae4d8f6"></a>
+
+# Language TODOs
+
+-   [ ] Fill out the lexicon
+    -   [ ] Common verbs - to have (possess), to need, to want, to must (obligatory)
+    -   [ ] Common "particles" - on, from, positions
+    -   [ ] Mother, father, parent, child, other familial relations
+-   [ ] Reflexive constructions &#x2013; easiest way is probably just to create
+    another class of pronouns. In particular, because the pronoun infix always
+    precedes a vowel, you can do something like add `-b` to the end of the
+    existing pronoun and specify that the special reflexive pronoun never occurs
+    as a word on its own. Thus `Dwmax.` "I teach" can be `Dwmbax.` "I teach myself."
+    (But probably not exactly `-b`; "I teach myself" is getting a little
+    phonetically close to "Dumbass" there.)
+-   [ ] Passive voice &#x2013; revise section on infixing verbs to say that either a
+    subject or an object infix is necessary; leaving out the subject creates the
+    passive voice, e.g. `Torelwa wlodoc.` "The cookies were eaten."
+-   [ ] Appositives
+-   [ ] Addressing the listener
+-   [ ] Imperatives
+-   [ ] Adverbial suffix should be changed from `-q` (in the doc) to `-s`, which
+    generalizes the change made to particles `-li`, `-ba`, `-fo` and `-vo` in a nice
+    way.
+-   [ ] Use of `ag-` and `yi-` as intensifier and downtoner respectively should be
+    extended to adjectives, even if they aren't verb-derived.
+-   [ ] Take a moment to consider whether we have inadvertently created words
+    that are deeply taboo, spoken or written, in English and whatever other
+    languages we can think to check. Is there a good way to automate this check?
+
+
+<a id="org60247a7"></a>
 
 # How to *Puflantu*
 
 
-<a id="orgfb41f13"></a>
+<a id="org704888f"></a>
 
 ## General Language Elements
 
@@ -60,7 +98,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="orgd810126"></a>
+<a id="org724043d"></a>
 
 ## Sounds
 
@@ -68,7 +106,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="orgfb001b7"></a>
+<a id="org97987d1"></a>
 
 ### Vowels
 
@@ -85,7 +123,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="orgee78411"></a>
+<a id="org1249350"></a>
 
 ### Consonants
 
@@ -125,7 +163,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="org9864d73"></a>
+<a id="org805d303"></a>
 
 ### Syllables
 
@@ -149,7 +187,7 @@ nouns, usually on the penultimate or antepenultimate.
     BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org8985e34"></a>
+<a id="org8f2325a"></a>
 
 ## Pronouns, Part 1 &#x2013; Personal Pronouns
 
@@ -180,7 +218,7 @@ vowel does not depend at all on the number, and the consonant does not depend at
 all on the case.
 
 
-<a id="org169e2c2"></a>
+<a id="org1a0b4a1"></a>
 
 ## Verbs, Part 1 &#x2013; Basic Infixes
 
@@ -247,7 +285,7 @@ Each verb accepts up to three infixes, in the following order:
     ```
 
 
-<a id="org68454dc"></a>
+<a id="orgaea08ed"></a>
 
 ## Pronouns, Part 2 &#x2013; This, That, A, and The
 
@@ -298,7 +336,7 @@ instead.
     The 1 bus will arrive soon.
 
 
-<a id="org16d6a5f"></a>
+<a id="org4cc11ac"></a>
 
 ## Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal
 
@@ -331,7 +369,7 @@ If multiple prefixes are used, DIM/AUG come before REV, i.e. `yivohor*od`, not
 `voyihor*od`.
 
 
-<a id="org9923137"></a>
+<a id="org053701e"></a>
 
 ## Nouns and Adjectives, Part 1 &#x2013; Number
 
@@ -378,7 +416,7 @@ they count, but might still be pluralized in cases where they are used as
 estimation units (e.g. `yo torelwa` "36 cookies" vs `ywa torelwa` "36s of cookies").
 
 
-<a id="org89b42a8"></a>
+<a id="org1e01e9a"></a>
 
 ## Verbs, Part 3 &#x2013; To Be
 
@@ -413,7 +451,7 @@ diminutive `yi-` nor reversal `vo-`.
     Didi  hunger-NEG  be-3S-NEG.
 
 
-<a id="orgb8e04fc"></a>
+<a id="org69ad69b"></a>
 
 ## Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation
 
@@ -435,4 +473,40 @@ final vowel of the root verb.
 
 It should be noted that the use of these suffixes should be taken very
 literally, which is one of the reasons that many suffixes will not have a clean
-gloss into English.
+gloss into English. For example, it may be tempting to gloss `daxice`
+"teach-location" as "school" but you could just as easily interpret that as
+"classroom". The best you can really do is just substitute "teaching-place"
+where it appears to avoid carrying in any unmerited assumptions. Thus to specify
+"school" you might have to say `daxice veonxi` "teaching-place building" as
+opposed to `daxice jiso` "teaching-place room". Of course, Perflontus should
+ultimately have root words for "school" and "classroom" directly.
+
+
+<a id="orga2d4abb"></a>
+
+### Gerund Form `-a`
+
+
+<a id="orgf59a0be"></a>
+
+### Agent Form `-afe`
+
+
+<a id="orga6f11ee"></a>
+
+### Patient Form `-who`
+
+
+<a id="org19b7d33"></a>
+
+### Instrument Form `-aqo`
+
+
+<a id="org48b5a7b"></a>
+
+### Locative Form `-ice`
+
+
+<a id="orgb403a7d"></a>
+
+### Causative Form `-ede`
