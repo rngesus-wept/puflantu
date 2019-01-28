@@ -19,11 +19,27 @@
     * [ ] Common verbs - to have (possess), to need, to want, to must (obligatory)
     * [ ] Common "particles" - on, from, positions
     * [ ] Mother, father, parent, child, other familial relations
-  * [ ] Reflexive constructions
-  * [ ] Passive voice
+  * [ ] Reflexive constructions -- easiest way is probably just to create
+    another class of pronouns. In particular, because the pronoun infix always
+    precedes a vowel, you can do something like add ~-b~ to the end of the
+    existing pronoun and specify that the special reflexive pronoun never occurs
+    as a word on its own. Thus ~Dwmax.~ "I teach" can be ~Dwmbax.~ "I teach myself."
+    (But probably not exactly ~-b~; "I teach myself" is getting a little
+    phonetically close to "Dumbass" there.)
+  * [ ] Passive voice -- revise section on infixing verbs to say that either a
+    subject or an object infix is necessary; leaving out the subject creates the
+    passive voice, e.g. ~Torelwa wlodoc.~ "The cookies were eaten."
   * [ ] Appositives
   * [ ] Addressing the listener
   * [ ] Imperatives
+  * [ ] Adverbial suffix should be changed from ~-q~ (in the doc) to ~-s~, which
+    generalizes the change made to particles ~-li~, ~-ba~, ~-fo~ and ~-vo~ in a nice
+    way.
+  * [ ] Use of ~ag-~ and ~yi-~ as intensifier and downtoner respectively should be
+    extended to adjectives, even if they aren't verb-derived.
+  * [ ] Take a moment to consider whether we have inadvertently created words
+    that are deeply taboo, spoken or written, in English and whatever other
+    languages we can think to check. Is there a good way to automate this check?
 
 * How to /Puflantu/
 
@@ -426,3 +442,5 @@ where it appears to avoid carrying in any unmerited assumptions. Thus to specify
 "school" you might have to say ~daxice veonxi~ "teaching-place building" as
 opposed to ~daxice jiso~ "teaching-place room". Of course, Perflontus should
 ultimately have root words for "school" and "classroom" directly.
+
+***** Gerund Form ~-a~
