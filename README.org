@@ -444,3 +444,8 @@ opposed to ~daxice jiso~ "teaching-place room". Of course, Perflontus should
 ultimately have root words for "school" and "classroom" directly.
 
 ***** Gerund Form ~-a~
+***** Agent Form ~-afe~
+***** Patient Form ~-who~
+***** Instrument Form ~-aqo~
+***** Locative Form ~-ice~
+***** Causative Form ~-ede~
