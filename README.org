@@ -19,6 +19,12 @@
     * [ ] Common verbs - to have (possess), to need, to want, to must (obligatory)
     * [ ] Common "particles" - on, from, positions
     * [ ] Mother, father, parent, child, other familial relations
+    * [ ] Same, different
+    * [ ] Elements of the periodic table
+      * There are some interesting etymological choices to be made here. For
+        example, in human languages, many of the smaller atoms are named for
+        their most common occurrences, whereas many of the larger ones are named
+        for their discoverers (as people or as institutions).
   * [ ] Reflexive constructions -- easiest way is probably just to create
     another class of pronouns. In particular, because the pronoun infix always
     precedes a vowel, you can do something like add ~-b~ to the end of the
@@ -35,6 +41,19 @@
   * [ ] Adverbial suffix should be changed from ~-q~ (in the doc) to ~-s~, which
     generalizes the change made to particles ~-li~, ~-ba~, ~-fo~ and ~-vo~ in a nice
     way.
+  * [ ] Adpositions or equivalent -- Note that many human languages use these
+    cases in ways that only overlap via locational metaphor, e.g. when
+    describing /temporal/ location like in "in five minutes"; and the mapping is
+    not consistent across languages.
+    * Inessive (INE) -- "in" or "located at"
+    * Elative (ELA) -- "out of"
+    * Illative (ILL) -- "into" (contrast inessive, which does not have
+      directional connotations)
+    * Adessive (ADE) -- "on"
+    * Ablative (ABL) -- "away from" (this one is more commonly mentioned / has
+      more WP elaboration than the others; is it somehow more important?)
+    * Allative (ALL) -- "toward"
+    * Superessive (SUPE) -- "upon"
   * [ ] Use of ~ag-~ and ~yi-~ as intensifier and downtoner respectively should be
     extended to adjectives, even if they aren't verb-derived.
   * [ ] Take a moment to consider whether we have inadvertently created words
@@ -443,9 +462,40 @@ where it appears to avoid carrying in any unmerited assumptions. Thus to specify
 opposed to ~daxice jiso~ "teaching-place room". Of course, Perflontus should
 ultimately have root words for "school" and "classroom" directly.
 
-***** Gerund Form ~-a~
-***** Agent Form ~-afe~
-***** Patient Form ~-who~
-***** Instrument Form ~-aqo~
-***** Locative Form ~-ice~
-***** Causative Form ~-ede~
+***** Gerund Case ~-a~
+
+The gerund case of a verb is a derived noun meaning that verb's action. Some
+uses of the infinitive in various languages also perform this role; in
+Perflontus the two both use the gerund case.
+
+#+BEGIN_EXAMPLE
+Zumuz[a]   Qarluz   somatun.
+sleep-GER  Charles  please-3P.
+Sleeping/to sleep pleases Charles. (Charles likes sleeping/to sleep.)
+#+END_EXAMPLE
+
+When used as an adjective this case always functions as a present participle,
+and only with the connotation of a thing that is performing the action in
+question. In particular, when describing something that is used /for/ an action
+rather than something that is performing the action itself, use the Instrumental
+Case.
+
+#+BEGIN_EXAMPLE
+Qarluz   eqa   zumuza     hie    zat.
+Charles  that  sleep-GER  human  be-3P.
+Charles is the sleeping person.
+
+*Zumuza     kworu    kworatem.  -- Incorrect, the clothes are *for* sleeping
+*sleep-GER  clothes  wear-3P
+He wears clothes that are sleeping.  -- unless the clothes are alive???
+
+Zumuzaqo   kworu    kworatem.
+sleep-INS  clothes  wear-3P
+He wears clothes that are for sleeping.
+#+END_EXAMPLE
+
+***** Agent Case ~-afe~
+***** Patient Case ~-who~
+***** Instrumental Case ~-aqo~
+***** Locative Case ~-ice~
+***** Causative Case ~-ede~

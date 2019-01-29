@@ -1,37 +1,37 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org9fcef14)
-    1.  [Dependencies](#orgf53b73a)
-2.  [Language TODOs](#orgae4d8f6)
-3.  [How to *Puflantu*](#org60247a7)
-    1.  [General Language Elements](#org704888f)
-    2.  [Sounds](#org724043d)
-        1.  [Vowels](#org97987d1)
-        2.  [Consonants](#org1249350)
-        3.  [Syllables](#org805d303)
-    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org8f2325a)
-    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org1a0b4a1)
-    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#orgaea08ed)
-    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org4cc11ac)
-    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org053701e)
-    8.  [Verbs, Part 3 &#x2013; To Be](#org1e01e9a)
-    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#org69ad69b)
-        1.  [Gerund Form `-a`](#orga2d4abb)
-        2.  [Agent Form `-afe`](#orgf59a0be)
-        3.  [Patient Form `-who`](#orga6f11ee)
-        4.  [Instrument Form `-aqo`](#org19b7d33)
-        5.  [Locative Form `-ice`](#org48b5a7b)
-        6.  [Causative Form `-ede`](#orgb403a7d)
+1.  [Installing and Contributing](#org2dff04a)
+    1.  [Dependencies](#orga6bf19b)
+2.  [Language TODOs](#orgc083247)
+3.  [How to *Puflantu*](#org4f02423)
+    1.  [General Language Elements](#org3b2afb3)
+    2.  [Sounds](#orge1778f3)
+        1.  [Vowels](#org070072a)
+        2.  [Consonants](#org6065515)
+        3.  [Syllables](#org047fdbc)
+    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#orga78cf44)
+    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#orge5d2bd6)
+    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#orge9707d1)
+    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org43bf3b7)
+    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org815145d)
+    8.  [Verbs, Part 3 &#x2013; To Be](#orgcab24fd)
+    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#org052d0dd)
+        1.  [Gerund Case `-a`](#org2024836)
+        2.  [Agent Case `-afe`](#org1678c83)
+        3.  [Patient Case `-who`](#org6d02fc0)
+        4.  [Instrumental Case `-aqo`](#orgdcb5b35)
+        5.  [Locative Case `-ice`](#orgee1bfc2)
+        6.  [Causative Case `-ede`](#orgd1e75da)
 
 
 
-<a id="org9fcef14"></a>
+<a id="org2dff04a"></a>
 
 # Installing and Contributing
 
 
-<a id="orgf53b73a"></a>
+<a id="orga6bf19b"></a>
 
 ## Dependencies
 
@@ -44,7 +44,7 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orgae4d8f6"></a>
+<a id="orgc083247"></a>
 
 # Language TODOs
 
@@ -52,6 +52,12 @@
     -   [ ] Common verbs - to have (possess), to need, to want, to must (obligatory)
     -   [ ] Common "particles" - on, from, positions
     -   [ ] Mother, father, parent, child, other familial relations
+    -   [ ] Same, different
+    -   [ ] Elements of the periodic table
+        -   There are some interesting etymological choices to be made here. For
+            example, in human languages, many of the smaller atoms are named for
+            their most common occurrences, whereas many of the larger ones are named
+            for their discoverers (as people or as institutions).
 -   [ ] Reflexive constructions &#x2013; easiest way is probably just to create
     another class of pronouns. In particular, because the pronoun infix always
     precedes a vowel, you can do something like add `-b` to the end of the
@@ -68,6 +74,19 @@
 -   [ ] Adverbial suffix should be changed from `-q` (in the doc) to `-s`, which
     generalizes the change made to particles `-li`, `-ba`, `-fo` and `-vo` in a nice
     way.
+-   [ ] Adpositions or equivalent &#x2013; Note that many human languages use these
+    cases in ways that only overlap via locational metaphor, e.g. when
+    describing *temporal* location like in "in five minutes"; and the mapping is
+    not consistent across languages.
+    -   Inessive (INE) &#x2013; "in" or "located at"
+    -   Elative (ELA) &#x2013; "out of"
+    -   Illative (ILL) &#x2013; "into" (contrast inessive, which does not have
+        directional connotations)
+    -   Adessive (ADE) &#x2013; "on"
+    -   Ablative (ABL) &#x2013; "away from" (this one is more commonly mentioned / has
+        more WP elaboration than the others; is it somehow more important?)
+    -   Allative (ALL) &#x2013; "toward"
+    -   Superessive (SUPE) &#x2013; "upon"
 -   [ ] Use of `ag-` and `yi-` as intensifier and downtoner respectively should be
     extended to adjectives, even if they aren't verb-derived.
 -   [ ] Take a moment to consider whether we have inadvertently created words
@@ -75,12 +94,12 @@
     languages we can think to check. Is there a good way to automate this check?
 
 
-<a id="org60247a7"></a>
+<a id="org4f02423"></a>
 
 # How to *Puflantu*
 
 
-<a id="org704888f"></a>
+<a id="org3b2afb3"></a>
 
 ## General Language Elements
 
@@ -98,7 +117,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="org724043d"></a>
+<a id="orge1778f3"></a>
 
 ## Sounds
 
@@ -106,7 +125,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="org97987d1"></a>
+<a id="org070072a"></a>
 
 ### Vowels
 
@@ -123,7 +142,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="org1249350"></a>
+<a id="org6065515"></a>
 
 ### Consonants
 
@@ -163,7 +182,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="org805d303"></a>
+<a id="org047fdbc"></a>
 
 ### Syllables
 
@@ -187,7 +206,7 @@ nouns, usually on the penultimate or antepenultimate.
     BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org8f2325a"></a>
+<a id="orga78cf44"></a>
 
 ## Pronouns, Part 1 &#x2013; Personal Pronouns
 
@@ -218,7 +237,7 @@ vowel does not depend at all on the number, and the consonant does not depend at
 all on the case.
 
 
-<a id="org1a0b4a1"></a>
+<a id="orge5d2bd6"></a>
 
 ## Verbs, Part 1 &#x2013; Basic Infixes
 
@@ -285,7 +304,7 @@ Each verb accepts up to three infixes, in the following order:
     ```
 
 
-<a id="orgaea08ed"></a>
+<a id="orge9707d1"></a>
 
 ## Pronouns, Part 2 &#x2013; This, That, A, and The
 
@@ -336,7 +355,7 @@ instead.
     The 1 bus will arrive soon.
 
 
-<a id="org4cc11ac"></a>
+<a id="org43bf3b7"></a>
 
 ## Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal
 
@@ -369,7 +388,7 @@ If multiple prefixes are used, DIM/AUG come before REV, i.e. `yivohor*od`, not
 `voyihor*od`.
 
 
-<a id="org053701e"></a>
+<a id="org815145d"></a>
 
 ## Nouns and Adjectives, Part 1 &#x2013; Number
 
@@ -416,7 +435,7 @@ they count, but might still be pluralized in cases where they are used as
 estimation units (e.g. `yo torelwa` "36 cookies" vs `ywa torelwa` "36s of cookies").
 
 
-<a id="org1e01e9a"></a>
+<a id="orgcab24fd"></a>
 
 ## Verbs, Part 3 &#x2013; To Be
 
@@ -451,7 +470,7 @@ diminutive `yi-` nor reversal `vo-`.
     Didi  hunger-NEG  be-3S-NEG.
 
 
-<a id="org69ad69b"></a>
+<a id="org052d0dd"></a>
 
 ## Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation
 
@@ -482,31 +501,57 @@ opposed to `daxice jiso` "teaching-place room". Of course, Perflontus should
 ultimately have root words for "school" and "classroom" directly.
 
 
-<a id="orga2d4abb"></a>
+<a id="org2024836"></a>
 
-### Gerund Form `-a`
+### Gerund Case `-a`
+
+The gerund case of a verb is a derived noun meaning that verb's action. Some
+uses of the infinitive in various languages also perform this role; in
+Perflontus the two both use the gerund case.
+
+    Zumuz[a]   Qarluz   somatun.
+    sleep-GER  Charles  please-3P.
+    Sleeping/to sleep pleases Charles. (Charles likes sleeping/to sleep.)
+
+When used as an adjective this case always functions as a present participle,
+and only with the connotation of a thing that is performing the action in
+question. In particular, when describing something that is used *for* an action
+rather than something that is performing the action itself, use the Instrumental
+Case.
+
+    Qarluz   eqa   zumuza     hie    zat.
+    Charles  that  sleep-GER  human  be-3P.
+    Charles is the sleeping person.
+
+    *Zumuza     kworu    kworatem.  -- Incorrect, the clothes are *for* sleeping
+    *sleep-GER  clothes  wear-3P
+    He wears clothes that are sleeping.  -- unless the clothes are alive???
+
+    Zumuzaqo   kworu    kworatem.
+    sleep-INS  clothes  wear-3P
+    He wears clothes that are for sleeping.
 
 
-<a id="orgf59a0be"></a>
+<a id="org1678c83"></a>
 
-### Agent Form `-afe`
-
-
-<a id="orga6f11ee"></a>
-
-### Patient Form `-who`
+### Agent Case `-afe`
 
 
-<a id="org19b7d33"></a>
+<a id="org6d02fc0"></a>
 
-### Instrument Form `-aqo`
-
-
-<a id="org48b5a7b"></a>
-
-### Locative Form `-ice`
+### Patient Case `-who`
 
 
-<a id="orgb403a7d"></a>
+<a id="orgdcb5b35"></a>
 
-### Causative Form `-ede`
+### Instrumental Case `-aqo`
+
+
+<a id="orgee1bfc2"></a>
+
+### Locative Case `-ice`
+
+
+<a id="orgd1e75da"></a>
+
+### Causative Case `-ede`
