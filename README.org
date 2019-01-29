@@ -59,6 +59,9 @@
   * [ ] Take a moment to consider whether we have inadvertently created words
     that are deeply taboo, spoken or written, in English and whatever other
     languages we can think to check. Is there a good way to automate this check?
+  * [ ] Perflontus speakers use an inner/outer spatial metaphor for time (where
+    most human languages use front/forward/behind/back styles of metaphor). The
+    inner direction corresponds to the past.
 
 * How to /Puflantu/
 
@@ -499,3 +502,28 @@ He wears clothes that are for sleeping.
 ***** Instrumental Case ~-aqo~
 ***** Locative Case ~-ice~
 ***** Causative Case ~-ede~
+*** Conjunctions (STUB)
+
+In all cases I have supplied as many English glosses as possible to help clarify
+the nature of the conjunction. There may be further splits into new words as we
+find new semantic use cases.
+
+The rule about adding ~-s~ to make something adverbial extends to the use of
+conjunctions -- they all end in vowels when used for nouns and adjectives, but
+take on the extra ~-s~ when linking two verbs or adverbs, or when linking in a
+clause or phrase that acts adverbially.
+
+  * -li(s) :: and
+  * -di(s) :: but, yet (contrastive and)
+  * -gi(s) :: nor
+  * -fo(s) :: exclusive or
+  * -vo(s) :: inclusive or
+  * -xa(s) :: for, because
+  * -ja(s) :: so, therefore
+
+(A bunch of these only make sense when attaching clauses, and in those cases
+we'd rather so some kind of ~al* ... -ba(s)~ construction. Come back to this
+later.)
+
+Section on comparatives should incorporate the conjunctions for "...as X as Y"
+and "...more/less X than Y".
