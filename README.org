@@ -38,7 +38,7 @@
   * [ ] Appositives
   * [ ] Addressing the listener
   * [ ] Imperatives
-  * [ ] Adverbial suffix should be changed from ~-q~ (in the doc) to ~-s~, which
+  * [ ] Adverbial suffix should be changed from ~-c~ (in the doc) to ~-s~, which
     generalizes the change made to particles ~-li~, ~-ba~, ~-fo~ and ~-vo~ in a nice
     way.
   * [ ] Adpositions or equivalent -- Note that many human languages use these
@@ -59,6 +59,9 @@
   * [ ] Take a moment to consider whether we have inadvertently created words
     that are deeply taboo, spoken or written, in English and whatever other
     languages we can think to check. Is there a good way to automate this check?
+  * [ ] Finalize form of the grid containing the cross product of {this, that,
+    some, no, every} with {person, place, time, way, reason, quantity}
+  * [ ] Actually write the section of adverbial suffixing
   * [ ] Perflontus speakers use an inner/outer spatial metaphor for time (where
     most human languages use front/forward/behind/back styles of metaphor). The
     inner direction corresponds to the past.
@@ -473,35 +476,210 @@ Perflontus the two both use the gerund case.
 
 #+BEGIN_EXAMPLE
 Zumuz[a]   Qarluz   somatun.
-sleep-GER  Charles  please-3P.
+sleep-GER  Charles  please-3S.
 Sleeping/to sleep pleases Charles. (Charles likes sleeping/to sleep.)
 #+END_EXAMPLE
 
 When used as an adjective this case always functions as a present participle,
 and only with the connotation of a thing that is performing the action in
 question. In particular, when describing something that is used /for/ an action
-rather than something that is performing the action itself, use the Instrumental
-Case.
+rather than something that is performing the action itself, use the [[Instrumental
+Case ~-aqo~][instrumental case]].
 
 #+BEGIN_EXAMPLE
 Qarluz   eqa   zumuza     hie    zat.
-Charles  that  sleep-GER  human  be-3P.
+Charles  that  sleep-GER  human  be-3S.
 Charles is the sleeping person.
 
 *Zumuza     kworu    kworatem.  -- Incorrect, the clothes are *for* sleeping
-*sleep-GER  clothes  wear-3P
+*sleep-GER  clothes  wear-3S
 He wears clothes that are sleeping.  -- unless the clothes are alive???
 
 Zumuzaqo   kworu    kworatem.
-sleep-INS  clothes  wear-3P
+sleep-INS  clothes  wear-3S
 He wears clothes that are for sleeping.
 #+END_EXAMPLE
 
-***** Agent Case ~-afe~
-***** Patient Case ~-who~
+The resulting word acts as a root form; in particular, additional
+transformations that would be applied to a noun apply to the suffixed verb as a
+whole. It is still possible to apply some affixes to the verbal root before the
+suffix, which may create subtly different meanings.
+
+#+BEGIN_EXAMPLE
+Qarluz   eqa   zumuzaya       hie    zat.
+Charles  that  sleep-GER-NEG  human  be-3P.
+Charles is the person who is not sleeping.
+
+Qarluz   eqa   zumeyuza       hie    zat.
+Charles  that  sleep-NEG-GER  human  be-3P.
+Charles is the person who is (not-sleep)ing.  -- connotations of forced wakefulness, perhaps
+#+END_EXAMPLE
+
+***** Agent Case ~-afe~ and Patient Case ~-who~
+
+The agent case of a verb is a derived noun referring to an entity that is taking
+the action or is capable of taking the action. In English this functions much
+like the "-er" suffix for verbs.
+
+In the adjective form the derived word strictly denotes capability. To refer to
+an entity that is currently taking the action, use the Gerund case instead.
+
+#+BEGIN_EXAMPLE
+Maksu  hinalafe   zat.
+Max    dance-AGT  be-3P.
+Max is a dancer / Max is dance-capable.  -- context required to disambiguate
+
+Maksu  hinalafe   hie    zat.
+Max    dance-AGT  human  be-3P.
+Max is a dance-capable person.  -- example of grammatical disambiguation
+
+Maksu  hinalafaye     zatey.
+Max    dance-AGT-NEG  be-3P-NEG.
+Max is not a dancer / Max is not dance-capable.
+#+END_EXAMPLE
+
+Conversely the patient case refers to something that is the target of the
+suffixed action, or capable of being such. In English the "-ee" suffix might be
+used in the noun form. For the adjective form reasonable translations are
+"X-able" or "for X-ing" (as an object). ("For X-ing" as a subject falls under
+the instrumental case.)
+
+#+BEGIN_EXAMPLE
+Eqwa     torelwa    wlocwho  zad.
+That-PL  cookie-PL  eat-PAT  be-3pS.
+Those cookies are for eating / edible / to be eaten.
+
+Equra   enxura   riqwhurayo       zatey.
+That-R  water-R  drink-PAT-NEG-R  be-3S-NEG.
+That water is not for drinking.
+#+END_EXAMPLE
+
 ***** Instrumental Case ~-aqo~
+
+The instrumental case of a verb refers to something that is used for the action
+in question. This is slightly different from something that /causes/ the action in
+question.
+
+#+BEGIN_EXAMPLE
+Burainu  daxaqo     kude  gaten.
+Brian    teach-INS  book  read-3S.
+Brian reads a textbook.
+
+Burainu  sinqeraqo     kude  gaten.
+Brian    describe-INS  book  read-3S.
+Brian reads a manual.
+
+Burainu  uqilwa  yelaqwa  moratuh.
+Brian    several-PL  learn-INS  own-3S.
+Brian has several things used for learning.
+#+END_EXAMPLE
+
+Note that this is more a descriptive term than anything else and should not be
+used to generate specific words, primarily because many different things can be
+instrumental for an action. For example a spoon can be ~wlocaqo~ "eat-instrument",
+but so can a fork, a bowl, or a person's mouth. So it would be inappropriate to
+use ~wlocaqo~ as a word that means specifically "spoon", unless there's other
+nearby context that disambiguates it.
+
 ***** Locative Case ~-ice~
 ***** Causative Case ~-ede~
+*** Genitive (Possessive) Case (STUB)
+
+For nouns, simply add the ~-re~ particle. For pronouns, infix the subjective form
+of the pronoun into ~r*e~. This rule extends to demonstrative and interrogative
+pronouns.
+
+*** Adjectives and Noun Classes (STUB)
+
+Some nouns have classes which apply an additional mutation to the word. If this
+occurs all adjectives for that noun take the mutation as well. This mutation
+happens before polarity, numeric, and comparative inflection. It applies across
+the copula but only when the object complement is an adjective.
+
+  * Bodily actions (W) :: Replace the final consonant cluster ~(C+)~ with ~\1w\1~.
+  * Light sources (T) :: If the first vowel is ~(V)~, prefix ~\1t~.
+  * Fluids (R) :: If the first two vowels are ~(V)(V)~, replace with ~\1r\2~. If the
+                  first two vowels are ~(VC+)(V)~, replace with ~\1ur\2~.
+  * ??? (E) :: If the final vowel is ~[ei]~, suffix ~pe~. If the final vowel is
+               ~[aou]~, suffix ~be~.
+
+*** Comparatives and Superlatives (STUB)
+
+Comparatives are formed by suffixing ~'~ . This happens after negation but before
+numeric inflection. The corresponding dual and plural forms are ~'w~ and ~'wa~.
+
+Superlatives are formed by suffixing ~'fi~, ~'fw~, or ~-fwa~ respectively.
+
+*** Pronouns, Part 3 -- Indefinite Pronouns and Other Stand-Ins (STUB)
+
+|               | this    | that    | some    | no      | every  | any     | interr.     |
+| person/thing  | ita/eta | iqa/eqa | orvo    | yemo    | axwa   | veli    | wat/.../wod |
+| place ~hanu~    | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
+| time ~bwri~     | tibwr   | albwr   | orbwr   | yebwr   | axwbwr | velbwr  | wbwr        |
+| way ~zove~      | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
+| reason ~dule~   | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
+| quantity ~lera~ | tilerwa | alerwa  | orlerwa | yelerwa |        | velerwa | wlerwa      |
+
+***** Notes
+
+  * ~Axwa~ "every" is always plural in Perflontus; there is not singular
+    inflection. It also imposes the plural inflection on anything in modifies.
+    This is counter to many languages where "every" is frequently singular, e.g.
+    "everything", "cada vez", "tout".
+  * For similar reasons the same is true of all the quantity forms.
+  * The "this" and "that" forms of most things do not take a subject/object
+    inflection.
+  * The various forms referring to place, time, way, and reason are
+    systematically formed from their nouns, but also drop the final vowel in
+    their converstion to adverbs.
+
+*** Questions (STUB)
+
+A sentence-final ~na~ marks questions. The interrogative personal pronoun is the
+corresponding third person pronoun prefixed by ~w-~. (~wat/wot~, ~wab/wob~, ~wad/wod~)
+This pronoun works for "who", "what", and "which". The genitive forms are ~rwate~,
+~rwabe~, and ~rwade~ -- recall that the pronoun infixed into ~r*e~ indicates the
+number of possessors but always takes the subjective case.
+
+#+BEGIN_EXAMPLE
+Wad     et   qekadumad    na.
+Who-PL  FUT  meet-3pS-1O  ?
+Who will meet me?
+
+Wod      et   qekwmodad    na.
+Whom-PL  FUT  meet-1S-3pO  ?
+Whom will I meet?
+
+Rwate    daxafe     zat    na.
+Who-GEN  teach-AGT  be-3S  ?
+Whose teacher is she? -- Depending on context, might also be "Which (subject's) teacher"
+#+END_EXAMPLE
+
+*** Numbers (STUB)
+
+Perflontus uses a base 6 system. The numbers 0-6 are ~ri~, ~ke~, ~ha~, ~pai~, ~uqi~, ~lo~,
+and ~agu~.
+
+Multiples of 6 up through 30 are formed by dropping all the final vowels from
+the sixes digit and suffixing ~agu~: ~agu~, ~hagu~, ~pagu~, ~uqagu~, ~lagu~. Adding units
+digits replaces the final ~u~; the multiples of 7 through 35 are ~agke~, ~hagha~,
+~pagpai~, ~uqaguqi~, and ~laglo~.
+
+The next powers of 6 up through 6^5 are ~yo~, ~sa~, ~toe~, and ~wdo~. To count multiples
+of these, prefix the entirety of the corresponding hexit, e.g. ~keyo~, ~hayo~,
+~paiyo~, ~uqiyo~, ~loyo~. Note that unlike ~agu~, in all these cases the presence of a 1
+hexit is explicit: ~keyo~, ~kesa~, ~ketoe~, ~kewdo~. Additional hexits are added as
+separate words, e.g. 1023 = 4423_6 = ~uqisa uqiyo kagpai~.
+
+Powers of 6 above 6^5 are formed by naming the exponent, then replacing the
+final vowel with ~wdo~: ~agu~ --> ~agwdo~, ~agke~ --> ~agkwdo~, etc. These are still
+"unit" power-of-6 words, and to express an actual quantity still require the
+explicity 1 hexit: ~keagwdo~, ~keagkwdo~, ~keaghawdo~, etc.
+
+Exact numbers do not take any additional inflection. For example "three waters"
+is ~pai enxurwa~, not ~*paurwa enxurwa~. Inexact numbers still take additional
+inflection. For example "36s of dances" is ~ywywa hinalwla~.
+
 *** Conjunctions (STUB)
 
 In all cases I have supplied as many English glosses as possible to help clarify
@@ -527,3 +705,9 @@ later.)
 
 Section on comparatives should incorporate the conjunctions for "...as X as Y"
 and "...more/less X than Y".
+
+*** Dependent Clauses
+*** Adpositions
+*** Adverbs (STUB)
+
+Adverbs are formed by suffixing ~s~. This also applies to particles.

@@ -29,6 +29,17 @@ riqae	that's
 riqwe	that pair's
 riqwae	that group's
 
+# Indefinite pronouns and categories
+orvo	some (an unspecified)
+yemo	none
+# axwa "every, all" moved to closed form to prevent re-pluralization
+veli	any
+hanu	place, location
+bwri	time, moment
+zove	way, method
+dule	reason
+lera	amount, quantity
+
 # Fauna
 hie	human
 
@@ -46,7 +57,8 @@ jiso	room
 tusvo	bus
 
 # Things
-kworu	clothes
+kworu	clothing
+kude	book
 
 # Colors
 wre	black

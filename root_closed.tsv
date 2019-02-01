@@ -55,3 +55,40 @@ ve	no
 zove	maybe
 calu	true
 ywri	false
+
+# Indefinite adverbs and similar
+tihan	here
+alhan	there
+orhan	somewhere
+yehan	nowhere
+axwhan	everywhere
+velhan	anywhere, wherever
+whan	where?
+tibwr	now
+albwr	then, at that time
+orhan	sometime
+yebwr	never, at no time
+axwbwr	always
+velbwr	anytime, whenever
+wbwr	when?
+tizov	this way, thus
+alzov	that way, if
+orzov	somehow, indefinite way
+yezov	never, in no manner
+velzov	however, arbitrary way
+wzov	how?
+tidul	this reason, therefore
+aldul	that reason, because
+ordul	indefinite reason
+yedul	never, for no reason
+veldul	whatever reason
+wdul	why?
+
+# These are technically noun/adjectives but they always take the plural form
+axwa	every, all
+axwaya	not every
+tilerwa	this much
+alerwa	that much
+orlerwa	unspecified amount
+velerwa	arbitrary amount
+wlerwa	how much?
