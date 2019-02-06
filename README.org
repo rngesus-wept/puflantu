@@ -32,15 +32,8 @@
     as a word on its own. Thus ~Dwmax.~ "I teach" can be ~Dwmbax.~ "I teach myself."
     (But probably not exactly ~-b~; "I teach myself" is getting a little
     phonetically close to "Dumbass" there.)
-  * [ ] Passive voice -- revise section on infixing verbs to say that either a
-    subject or an object infix is necessary; leaving out the subject creates the
-    passive voice, e.g. ~Torelwa wlodoc.~ "The cookies were eaten."
   * [ ] Appositives
   * [ ] Addressing the listener
-  * [ ] Imperatives
-  * [ ] Adverbial suffix should be changed from ~-c~ (in the doc) to ~-s~, which
-    generalizes the change made to particles ~-li~, ~-ba~, ~-fo~ and ~-vo~ in a nice
-    way.
   * [ ] Adpositions or equivalent -- Note that many human languages use these
     cases in ways that only overlap via locational metaphor, e.g. when
     describing /temporal/ location like in "in five minutes"; and the mapping is
@@ -211,10 +204,10 @@ wlizoc   eat-2S "you eat"
 
 Each verb accepts up to three infixes, in the following order:
 
-  * A subject pronoun, as described above. This is always present if the verb
-    form is being used as a verb, even if the subject is explicitly named
-    elsewhere in the sentence. (It may be absent in cases where the verb form is
-    used to derive a noun.)
+  * A subject pronoun, as described above. This is always present in the active
+    voice, even if the subject is explicitly named elsewhere in the sentence.
+    (It may be absent in cases where the verb form is used to derive a noun, or
+    when using the passive voice.)
 
 #+BEGIN_EXAMPLE
 ```
@@ -263,6 +256,16 @@ I meet him.
 Dani   qek[wm][ot]ad. -- Valid with redundant 3O infix; may indicate emphasis.
 Danny  meet-1S-3O.
 I meet *Danny*.
+```
+#+END_EXAMPLE
+
+    It is also present /without the subject pronoun/ when using the passive voice:
+
+#+BEGIN_EXAMPLE
+```
+Torelwa    wlodoc.
+Cookie-PL  eat-3pO
+Cookies were eaten.
 ```
 #+END_EXAMPLE
 
@@ -712,7 +715,18 @@ Section on comparatives should incorporate the conjunctions for "...as X as Y"
 and "...more/less X than Y".
 
 *** Dependent Clauses
+
 *** Adpositions
+
+  * -uxo
+  * -uqo
+
 *** Adverbs (STUB)
 
 Adverbs are formed by suffixing ~s~. This also applies to particles.
+*** Verbs, Part N -- Imperatives and Instructions (STUB)
+
+The imperative voice is indicated by prefixing the active verb with ~'~. The most
+polite forms, as might be used by a manual, inflect the verb as though using the
+passive voice, i.e. omitting the "you" subject. Direct, more "blunt" forms
+address, add the subject pronoun infixes.
