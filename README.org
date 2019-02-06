@@ -581,8 +581,8 @@ but so can a fork, a bowl, or a person's mouth. So it would be inappropriate to
 use ~wlocaqo~ as a word that means specifically "spoon", unless there's other
 nearby context that disambiguates it.
 
-***** Locative Case ~-ice~
-***** Causative Case ~-ede~
+***** Locative Case ~-ice~ (STUB)
+***** Causative Case ~-ede~ (STUB)
 *** Genitive (Possessive) Case (STUB)
 
 For nouns, simply add the ~-re~ particle. For pronouns, infix the subjective form
@@ -608,7 +608,12 @@ the copula but only when the object complement is an adjective.
 Comparatives are formed by suffixing ~'~ . This happens after negation but before
 numeric inflection. The corresponding dual and plural forms are ~'w~ and ~'wa~.
 
-Superlatives are formed by suffixing ~'fi~, ~'fw~, or ~-fwa~ respectively.
+Some types of adjectives do not permit standard comparative formation. Instead,
+these take on ~ogi'~ as adverbial modifiers, in the same way "more" is used
+instead of "-er" in English, e.g. "bigger" vs "more gigantic".
+
+Superlatives are formed by suffixing ~'fi~, ~'fw~, or ~-fwa~ respectively. Adjectives
+that use ~ogi'~ instead of ~-'~ also take ~ogi'fi~ instead of ~-'fi~.
 
 *** Pronouns, Part 3 -- Indefinite Pronouns and Other Stand-Ins (STUB)
 
