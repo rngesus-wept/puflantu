@@ -677,7 +677,7 @@ hexit is explicit: ~keyo~, ~kesa~, ~ketoe~, ~kewdo~. Additional hexits are added
 separate words, e.g. 1023 = 4423_6 = ~uqisa uqiyo kagpai~.
 
 Powers of 6 above 6^5 are formed by naming the exponent, then replacing the
-final vowel with ~wdo~: ~agu~ --> ~agwdo~, ~agke~ --> ~agkwdo~, etc. These are still
+final vowel with ~wdo~: ~agu~ -> ~agwdo~, ~agke~ -> ~agkwdo~, etc. These are still
 "unit" power-of-6 words, and to express an actual quantity still require the
 explicity 1 hexit: ~keagwdo~, ~keagkwdo~, ~keaghawdo~, etc.
 
