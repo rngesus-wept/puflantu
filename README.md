@@ -1,48 +1,48 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#orgf74fefb)
-    1.  [Dependencies](#org3d91de5)
-2.  [Language TODOs](#orgfdf1cb6)
-3.  [How to *Puflantu*](#org6a2a52f)
-    1.  [General Language Elements](#orgcb7957a)
-    2.  [Sounds](#orgb8e1d1a)
-        1.  [Vowels](#orgdbbd475)
-        2.  [Consonants](#orgbb2b469)
-        3.  [Syllables](#org3ac8bbd)
-    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org87d5f16)
-    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org091cf16)
-    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org1769869)
-    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org4531eb7)
-    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org10a97ed)
-    8.  [Verbs, Part 3 &#x2013; To Be](#orgbbe5b46)
-    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#org58142b0)
-        1.  [Gerund Case `-a`](#org7542089)
-        2.  [Agent Case `-afe` and Patient Case `-who`](#org70a4b64)
-        3.  [Instrumental Case `-aqo`](#orgc2feeb7)
-        4.  [Locative Case `-ice` (STUB)](#orgda626cd)
-        5.  [Causative Case `-ede` (STUB)](#orgfa62bfb)
-    10. [Genitive (Possessive) Case (STUB)](#orga9bae69)
-    11. [Adjectives and Noun Classes (STUB)](#org9ffe406)
-    12. [Comparatives and Superlatives (STUB)](#orga60af68)
-    13. [Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)](#orgef53803)
-        1.  [Notes](#org1863664)
-    14. [Questions (STUB)](#orgddbeb89)
-    15. [Numbers (STUB)](#org7a5ef92)
-    16. [Conjunctions (STUB)](#org0531d25)
-    17. [Dependent Clauses](#org0396957)
-    18. [Adpositions](#org316909d)
-    19. [Adverbs (STUB)](#org40d9755)
-    20. [Verbs, Part N &#x2013; Imperatives and Instructions (STUB)](#org8baa898)
+1.  [Installing and Contributing](#org0e369b1)
+    1.  [Dependencies](#org883fac6)
+2.  [Language TODOs](#orgb94d1b5)
+3.  [How to *Puflantu*](#org673ad0d)
+    1.  [General Language Elements](#org251f01c)
+    2.  [Sounds](#orgfed8098)
+        1.  [Vowels](#orga222a38)
+        2.  [Consonants](#orge6d4d3a)
+        3.  [Syllables](#orgf5562a6)
+    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#orgeb77a4f)
+    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org4b9b3b4)
+    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org82a5419)
+    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org8d981cd)
+    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org71134c6)
+    8.  [Verbs, Part 3 &#x2013; To Be](#org71d0fe3)
+    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#orgbcdb90f)
+        1.  [Gerund Case `-a`](#org5eed926)
+        2.  [Agent Case `-afe` and Patient Case `-who`](#org2286492)
+        3.  [Instrumental Case `-aqo`](#orgef53ac1)
+        4.  [Locative Case `-ice` (STUB)](#orgdd84eca)
+        5.  [Causative Case `-ede` (STUB)](#org4e9773f)
+    10. [Genitive (Possessive) Case (STUB)](#org9af46ed)
+    11. [Adjectives and Noun Classes (STUB)](#orgd61a77f)
+    12. [Comparatives and Superlatives (STUB)](#orgbdab90f)
+    13. [Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)](#org5e875f2)
+        1.  [Notes](#orgd7e4121)
+    14. [Questions (STUB)](#org57a5e89)
+    15. [Numbers (STUB)](#org619eb72)
+    16. [Conjunctions (STUB)](#orgb77ee81)
+    17. [Dependent Clauses (STUB)](#org2c49b78)
+    18. [Adpositions](#org4617177)
+    19. [Adverbs (STUB)](#org0b70f3e)
+    20. [Verbs, Part N &#x2013; Imperatives and Instructions (STUB)](#orgda81e14)
 
 
 
-<a id="orgf74fefb"></a>
+<a id="org0e369b1"></a>
 
 # Installing and Contributing
 
 
-<a id="org3d91de5"></a>
+<a id="org883fac6"></a>
 
 ## Dependencies
 
@@ -55,7 +55,7 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orgfdf1cb6"></a>
+<a id="orgb94d1b5"></a>
 
 # Language TODOs
 
@@ -96,20 +96,19 @@
 -   [ ] Take a moment to consider whether we have inadvertently created words
     that are deeply taboo, spoken or written, in English and whatever other
     languages we can think to check. Is there a good way to automate this check?
--   [ ] Finalize form of the grid containing the cross product of {this, that,
-    some, no, every} with {person, place, time, way, reason, quantity}
 -   [ ] Actually write the section of adverbial suffixing
 -   [ ] Perflontus speakers use an inner/outer spatial metaphor for time (where
     most human languages use front/forward/behind/back styles of metaphor). The
     inner direction corresponds to the past.
+-   [ ] Likely need a past participial adjective for smoothness?
 
 
-<a id="org6a2a52f"></a>
+<a id="org673ad0d"></a>
 
 # How to *Puflantu*
 
 
-<a id="orgcb7957a"></a>
+<a id="org251f01c"></a>
 
 ## General Language Elements
 
@@ -127,7 +126,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="orgb8e1d1a"></a>
+<a id="orgfed8098"></a>
 
 ## Sounds
 
@@ -135,7 +134,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="orgdbbd475"></a>
+<a id="orga222a38"></a>
 
 ### Vowels
 
@@ -152,7 +151,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="orgbb2b469"></a>
+<a id="orge6d4d3a"></a>
 
 ### Consonants
 
@@ -192,7 +191,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="org3ac8bbd"></a>
+<a id="orgf5562a6"></a>
 
 ### Syllables
 
@@ -201,7 +200,7 @@ by at most one consonant, and followed by at most one consonant. This means that
 an English speaker must take care to pronounce vowel and consonant clusters as
 though they contain a syllable break, even if the cluster would represent a
 valid English diphthong. For example `wfro` should be pronounced as `OOF-roh` and
-not `OO-froh`; and `riqwa` as `REE-choo-ah` and not `REACH-wah` or `REE-chwa`. When in
+not `OO-froh`; and `riqwe` as `REE-choo-ay` and not `REACH-way` or `REE-chway`. When in
 doubt a consonant belongs to the same syllable as the vowel following it, e.g.
 `i-qa` not `iq-a`.
 
@@ -216,7 +215,7 @@ nouns, usually on the penultimate or antepenultimate.
     BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org87d5f16"></a>
+<a id="orgeb77a4f"></a>
 
 ## Pronouns, Part 1 &#x2013; Personal Pronouns
 
@@ -247,7 +246,7 @@ vowel does not depend at all on the number, and the consonant does not depend at
 all on the case.
 
 
-<a id="org091cf16"></a>
+<a id="org4b9b3b4"></a>
 
 ## Verbs, Part 1 &#x2013; Basic Infixes
 
@@ -316,13 +315,13 @@ Each verb accepts up to three infixes, in the following order:
 It is also present *without the subject pronoun* when using the passive voice:
 
     ```
-    Torelwa    wlodoc.
+    Torelwe    wlodoc.
     Cookie-PL  eat-3pO
     Cookies were eaten.
     ```
 
 
-<a id="org1769869"></a>
+<a id="org82a5419"></a>
 
 ## Pronouns, Part 2 &#x2013; This, That, A, and The
 
@@ -334,17 +333,17 @@ now, the following table should suffice:
 
     |      | Singular  | Dual      | Plural      |
     |------+-----------+-----------+-------------|
-    | This | ita / eta | itw / etw | itwa / etwa |
-    | That | iqa / eqa | iqw / eqw | iqwa / eqwa |
+    | This | ita / eta | itw / etw | itwe / etwe |
+    | That | iqa / eqa | iqw / eqw | iqwe / eqwe |
 
 Like most Perflontus nouns (again, to be covered more thoroughly later), `ita` et
 al. may also be used as demonstrative adjectives.
 
-    Demiunu  etwa       torelwa  et   wlatoc.
+    Demiunu  etwe       torelwe  et   wlatoc.
     Damien   these-OBJ  cookies  FUT  eat-3S.
     Damien will eat these cookies.
 
-    Demiunu  etwa       et   wlatoc.
+    Demiunu  etwe       et   wlatoc.
     Damien   these-OBJ  FUT  eat-3S.
     Damien will eat these.
 
@@ -373,7 +372,7 @@ instead.
     The 1 bus will arrive soon.
 
 
-<a id="org4531eb7"></a>
+<a id="org8d981cd"></a>
 
 ## Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal
 
@@ -406,7 +405,7 @@ If multiple prefixes are used, DIM/AUG come before REV, i.e. `yivohor*od`, not
 `voyihor*od`.
 
 
-<a id="org10a97ed"></a>
+<a id="org71134c6"></a>
 
 ## Nouns and Adjectives, Part 1 &#x2013; Number
 
@@ -414,7 +413,7 @@ Perflontic nouns always have at least two syllables (which is to say, vowels)
 and always end in a vowel other than `w`. In their noun form, they don't take any
 interesting inflections other than for number. When a noun is given the dual
 number its final vowel is replaced by `w`. For the plural number, it is replaced
-by `wa`. Zero is considered to be part of the plural number.
+by `we`. Zero is considered to be part of the plural number.
 
     Furedu  toreli  wlatoc.
     Fred    cookie  eat-3S.
@@ -424,7 +423,7 @@ by `wa`. Zero is considered to be part of the plural number.
     Two  cookie-DU  eat-3S.
     He eats two cookies.
 
-    Hasa   pagke  torelwa    wlatoc.
+    Hasa   pagke  torelwe    wlatoc.
     2*216  25     cookie-PL  eat-3S.
     He eats 461 cookies.
 
@@ -443,17 +442,17 @@ adjectives may be negated by infixing `-ay-` before their final vowel.
     Jakob   two  green-DU  cookie-DU  eat-3S.
     Jakob eats two green cookies.
 
-    Jekobu  kolba[ay]wa   torelwa    wlateyoc.
+    Jekobu  kolba[ay]we   torelwe    wlateyoc.
     Jakob   green-NEG-PL  cookie-DU  eat-3S-NEG.
     Jakob does not eat non-green cookies.
 
 Note that numbers (like `ha` "two" in the second example) are an exception to
 this. They do not generally take on the same numeric inflection as the objects
 they count, but might still be pluralized in cases where they are used as
-estimation units (e.g. `yo torelwa` "36 cookies" vs `ywa torelwa` "36s of cookies").
+estimation units (e.g. `yo torelwe` "36 cookies" vs `ywe torelwe` "36s of cookies").
 
 
-<a id="orgbbe5b46"></a>
+<a id="org71d0fe3"></a>
 
 ## Verbs, Part 3 &#x2013; To Be
 
@@ -488,7 +487,7 @@ diminutive `yi-` nor reversal `vo-`.
     Didi  hunger-NEG  be-3S-NEG.
 
 
-<a id="org58142b0"></a>
+<a id="orgbcdb90f"></a>
 
 ## Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation
 
@@ -519,7 +518,7 @@ opposed to `daxice jiso` "teaching-place room". Of course, Perflontus should
 ultimately have root words for "school" and "classroom" directly.
 
 
-<a id="org7542089"></a>
+<a id="org5eed926"></a>
 
 ### Gerund Case `-a`
 
@@ -534,7 +533,7 @@ Perflontus the two both use the gerund case.
 When used as an adjective this case always functions as a present participle,
 and only with the connotation of a thing that is performing the action in
 question. In particular, when describing something that is used *for* an action
-rather than something that is performing the action itself, use the [instrumental case](#orgc2feeb7).
+rather than something that is performing the action itself, use the [instrumental case](#orgef53ac1).
 
     Qarluz   eqa   zumuza     hie    zat.
     Charles  that  sleep-GER  human  be-3S.
@@ -562,7 +561,7 @@ suffix, which may create subtly different meanings.
     Charles is the person who is (not-sleep)ing.  -- connotations of forced wakefulness, perhaps
 
 
-<a id="org70a4b64"></a>
+<a id="org2286492"></a>
 
 ### Agent Case `-afe` and Patient Case `-who`
 
@@ -591,7 +590,7 @@ used in the noun form. For the adjective form reasonable translations are
 "X-able" or "for X-ing" (as an object). ("For X-ing" as a subject falls under
 the instrumental case.)
 
-    Eqwa     torelwa    wlocwho  zad.
+    Eqwe     torelwe    wlocwho  zad.
     That-PL  cookie-PL  eat-PAT  be-3pS.
     Those cookies are for eating / edible / to be eaten.
 
@@ -600,7 +599,7 @@ the instrumental case.)
     That water is not for drinking.
 
 
-<a id="orgc2feeb7"></a>
+<a id="orgef53ac1"></a>
 
 ### Instrumental Case `-aqo`
 
@@ -616,7 +615,7 @@ question.
     Brian    describe-INS  book  read-3S.
     Brian reads a manual.
 
-    Burainu  uqilwa  yelaqwa  moratuh.
+    Burainu  uqilwe  yelaqwe  moratuh.
     Brian    several-PL  learn-INS  own-3S.
     Brian has several things used for learning.
 
@@ -628,26 +627,26 @@ use `wlocaqo` as a word that means specifically "spoon", unless there's other
 nearby context that disambiguates it.
 
 
-<a id="orgda626cd"></a>
+<a id="orgdd84eca"></a>
 
 ### Locative Case `-ice` (STUB)
 
 
-<a id="orgfa62bfb"></a>
+<a id="org4e9773f"></a>
 
 ### Causative Case `-ede` (STUB)
 
 
-<a id="orga9bae69"></a>
+<a id="org9af46ed"></a>
 
 ## Genitive (Possessive) Case (STUB)
 
-For nouns, simply add the `-re` particle. For pronouns, infix the subjective form
-of the pronoun into `r*e`. This rule extends to demonstrative and interrogative
+For nouns, simply add the `-ro` particle. For pronouns, infix the subjective form
+of the pronoun into `r*o`. This rule extends to demonstrative and interrogative
 pronouns.
 
 
-<a id="org9ffe406"></a>
+<a id="orgd61a77f"></a>
 
 ## Adjectives and Noun Classes (STUB)
 
@@ -660,26 +659,24 @@ the copula but only when the object complement is an adjective.
 -   **Light sources (T):** If the first vowel is `(V)`, prefix `\1t`.
 -   **Fluids (R):** If the first two vowels are `(V)(V)`, replace with `\1r\2`. If the
     first two vowels are `(VC+)(V)`, replace with `\1ur\2`.
--   **??? (E):** If the final vowel is `[ei]`, suffix `pe`. If the final vowel is
-    `[aou]`, suffix `be`.
 
 
-<a id="orga60af68"></a>
+<a id="orgbdab90f"></a>
 
 ## Comparatives and Superlatives (STUB)
 
 Comparatives are formed by suffixing `'` . This happens after negation but before
-numeric inflection. The corresponding dual and plural forms are `'w` and `'wa`.
+numeric inflection. The corresponding dual and plural forms are `'w` and `'we`.
 
 Some types of adjectives do not permit standard comparative formation. Instead,
 these take on `ogi'` as adverbial modifiers, in the same way "more" is used
 instead of "-er" in English, e.g. "bigger" vs "more gigantic".
 
-Superlatives are formed by suffixing `'fi`, `'fw`, or `-fwa` respectively. Adjectives
+Superlatives are formed by suffixing `'fi`, `'fw`, or `-fwe` respectively. Adjectives
 that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 
 
-<a id="orgef53803"></a>
+<a id="org5e875f2"></a>
 
 ## Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)
 
@@ -722,7 +719,7 @@ that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 <td class="org-left">iqa/eqa</td>
 <td class="org-left">orvo</td>
 <td class="org-left">yemo</td>
-<td class="org-left">axwa</td>
+<td class="org-left">axwe</td>
 <td class="org-left">veli</td>
 <td class="org-left">wat/&#x2026;/wod</td>
 </tr>
@@ -778,23 +775,23 @@ that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 
 <tr>
 <td class="org-left">quantity `lera`</td>
-<td class="org-left">tilerwa</td>
-<td class="org-left">alerwa</td>
-<td class="org-left">orlerwa</td>
-<td class="org-left">yelerwa</td>
+<td class="org-left">tilerwe</td>
+<td class="org-left">alerwe</td>
+<td class="org-left">orlerwe</td>
+<td class="org-left">yelerwe</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">velerwa</td>
-<td class="org-left">wlerwa</td>
+<td class="org-left">velerwe</td>
+<td class="org-left">wlerwe</td>
 </tr>
 </tbody>
 </table>
 
 
-<a id="org1863664"></a>
+<a id="orgd7e4121"></a>
 
 ### Notes
 
--   `Axwa` "every" is always plural in Perflontus; there is not singular
+-   `Axwe` "every" is always plural in Perflontus; there is not singular
     inflection. It also imposes the plural inflection on anything in modifies.
     This is counter to many languages where "every" is frequently singular, e.g.
     "everything", "cada vez", "tout".
@@ -804,9 +801,15 @@ that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 -   The various forms referring to place, time, way, and reason are
     systematically formed from their nouns, but also drop the final vowel in
     their converstion to adverbs.
+-   `tizov` "this-way" and `tidul` "this-reason" are both reasonably glossed as
+    "if", but `tizov` is used in cases where the if-clause indicates a mechanical
+    cause for something, whereas `tidul` indicates more abstract causality.
+    Another way to put it, which also applies to `alzov` and `aldul` in the opposite
+    direction, is that `*zov` clauses are answers to questions better phrased as
+    "how", while `*dul` clauses are answers to questions better phrased as "why".
 
 
-<a id="orgddbeb89"></a>
+<a id="org57a5e89"></a>
 
 ## Questions (STUB)
 
@@ -829,7 +832,7 @@ number of possessors but always takes the subjective case.
     Whose teacher is she? -- Depending on context, might also be "Which (subject's) teacher"
 
 
-<a id="org7a5ef92"></a>
+<a id="org619eb72"></a>
 
 ## Numbers (STUB)
 
@@ -853,11 +856,11 @@ are still "unit" power-of-6 words, and to express an actual quantity still
 require the explicity 1 hexit: `keagwdo`, `keagkwdo`, `keaghawdo`, etc.
 
 Exact numbers do not take any additional inflection. For example "three waters"
-is `pai enxurwa`, not `*paurwa enxurwa`. Inexact numbers still take additional
-inflection. For example "36s of dances" is `ywywa hinalwla`.
+is `pai enxurwe`, not `*paurwe enxurwe`. Inexact numbers still take additional
+inflection. For example "36s of dances" is `ywywe hinalwla`.
 
 
-<a id="org0531d25"></a>
+<a id="orgb77ee81"></a>
 
 ## Conjunctions (STUB)
 
@@ -886,28 +889,30 @@ Section on comparatives should incorporate the conjunctions for "&#x2026;as X as
 and "&#x2026;more/less X than Y".
 
 
-<a id="org0396957"></a>
+<a id="org2c49b78"></a>
 
-## Dependent Clauses
+## Dependent Clauses (STUB)
+
+A dependent clause is indicated by the attachment of the `-ba` suffix to its main
+verb. `-bas` is used in the case where the dependent clause modifies a verb.
 
 
-<a id="org316909d"></a>
+<a id="org4617177"></a>
 
 ## Adpositions
 
 -   -uxo
 -   -uqo
--
 
 
-<a id="org40d9755"></a>
+<a id="org0b70f3e"></a>
 
 ## Adverbs (STUB)
 
 Adverbs are formed by suffixing `s`. This also applies to particles.
 
 
-<a id="org8baa898"></a>
+<a id="orgda81e14"></a>
 
 ## Verbs, Part N &#x2013; Imperatives and Instructions (STUB)
 
