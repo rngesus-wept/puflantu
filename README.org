@@ -648,8 +648,8 @@ that use ~ogi'~ instead of ~-'~ also take ~ogi'fi~ instead of ~-'fi~.
 
 A sentence-final ~na~ marks questions. The interrogative personal pronoun is the
 corresponding third person pronoun prefixed by ~w-~. (~wat/wot~, ~wab/wob~, ~wad/wod~)
-This pronoun works for "who", "what", and "which". The genitive forms are ~rwate~,
-~rwabe~, and ~rwade~ -- recall that the pronoun infixed into ~r*e~ indicates the
+This pronoun works for "who", "what", and "which". The genitive forms are ~rwato~,
+~rwabo~, and ~rwado~ -- recall that the pronoun infixed into ~r*o~ indicates the
 number of possessors but always takes the subjective case.
 
 #+BEGIN_EXAMPLE
@@ -661,7 +661,7 @@ Wod      et   qekwmodad    na.
 Whom-PL  FUT  meet-1S-3pO  ?
 Whom will I meet?
 
-Rwate    daxafe     zat    na.
+Rwato    daxafe     zat    na.
 Who-GEN  teach-AGT  be-3S  ?
 Whose teacher is she? -- Depending on context, might also be "Which (subject's) teacher"
 #+END_EXAMPLE
