@@ -92,3 +92,55 @@ alerwa	that much
 orlerwa	unspecified amount
 velerwa	arbitrary amount
 wlerwa	how much?
+
+# Numbers
+ri	0
+ke	1
+ha	2
+pai	3
+uqi	4
+lo	5
+agke	7
+agha	8
+agpai	9
+aguqi	10
+aglo	11
+hagke	13
+hagha	14
+hagpai	15
+haguqi	16
+haglo	17
+pagke	19
+pagha	20
+pagpai	21
+paguqi	22
+paglo	23
+uqagke	25
+uqagha	26
+uqagpai	27
+uqaguqi	28
+uqaglo	29
+lagke	31
+lagha	32
+lagpai	33
+laguqi	34
+laglo	35
+keyo	36
+hayo	72
+uqiyo	144
+loyo	180
+kesa	216
+hasa	432
+paisa	648
+uqisa	864
+losa	1080
+ketoe	1296
+hatoe	2592
+paitoe	3888
+uqitoe	5184
+lotoe	6480
+kewdo	7776
+hawdo	15552
+paiwdo	23328
+uqiwdo	31104
+lowdo	38880
