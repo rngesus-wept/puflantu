@@ -587,8 +587,8 @@ nearby context that disambiguates it.
 ***** Causative Case ~-ede~ (STUB)
 *** Genitive (Possessive) Case (STUB)
 
-For nouns, simply add the ~-re~ particle. For pronouns, infix the subjective form
-of the pronoun into ~r*e~. This rule extends to demonstrative and interrogative
+For nouns, simply add the ~-ro~ particle. For pronouns, infix the subjective form
+of the pronoun into ~r*o~. This rule extends to demonstrative and interrogative
 pronouns.
 
 *** Adjectives and Noun Classes (STUB)
