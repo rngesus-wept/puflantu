@@ -140,7 +140,7 @@ by at most one consonant, and followed by at most one consonant. This means that
 an English speaker must take care to pronounce vowel and consonant clusters as
 though they contain a syllable break, even if the cluster would represent a
 valid English diphthong. For example ~wfro~ should be pronounced as ~OOF-roh~ and
-not ~OO-froh~; and ~riqwa~ as ~REE-choo-ah~ and not ~REACH-wah~ or ~REE-chwa~. When in
+not ~OO-froh~; and ~riqwe~ as ~REE-choo-ay~ and not ~REACH-way~ or ~REE-chway~. When in
 doubt a consonant belongs to the same syllable as the vowel following it, e.g.
 ~i-qa~ not ~iq-a~.
 
@@ -262,7 +262,7 @@ I meet *Danny*.
 
 #+BEGIN_EXAMPLE
 ```
-Torelwa    wlodoc.
+Torelwe    wlodoc.
 Cookie-PL  eat-3pO
 Cookies were eaten.
 ```
@@ -279,19 +279,19 @@ now, the following table should suffice:
 #+BEGIN_EXAMPLE
 |      | Singular  | Dual      | Plural      |
 |------+-----------+-----------+-------------|
-| This | ita / eta | itw / etw | itwa / etwa |
-| That | iqa / eqa | iqw / eqw | iqwa / eqwa |
+| This | ita / eta | itw / etw | itwe / etwe |
+| That | iqa / eqa | iqw / eqw | iqwe / eqwe |
 #+END_EXAMPLE
 
 Like most Perflontus nouns (again, to be covered more thoroughly later), ~ita~ et
 al. may also be used as demonstrative adjectives.
 
 #+BEGIN_EXAMPLE
-Demiunu  etwa       torelwa  et   wlatoc.
+Demiunu  etwe       torelwe  et   wlatoc.
 Damien   these-OBJ  cookies  FUT  eat-3S.
 Damien will eat these cookies.
 
-Demiunu  etwa       et   wlatoc.
+Demiunu  etwe       et   wlatoc.
 Damien   these-OBJ  FUT  eat-3S.
 Damien will eat these.
 
@@ -362,7 +362,7 @@ Perflontic nouns always have at least two syllables (which is to say, vowels)
 and always end in a vowel other than ~w~. In their noun form, they don't take any
 interesting inflections other than for number. When a noun is given the dual
 number its final vowel is replaced by ~w~. For the plural number, it is replaced
-by ~wa~. Zero is considered to be part of the plural number.
+by ~we~. Zero is considered to be part of the plural number.
 
 #+BEGIN_EXAMPLE
 Furedu  toreli  wlatoc.
@@ -373,7 +373,7 @@ Ha   torelw     wlatoc.
 Two  cookie-DU  eat-3S.
 He eats two cookies.
 
-Hasa   pagke  torelwa    wlatoc.
+Hasa   pagke  torelwe    wlatoc.
 2*216  25     cookie-PL  eat-3S.
 He eats 461 cookies.
 #+END_EXAMPLE
@@ -394,7 +394,7 @@ Jekobu  ha   kolbaw    torelw     wlatoc.
 Jakob   two  green-DU  cookie-DU  eat-3S.
 Jakob eats two green cookies.
 
-Jekobu  kolba[ay]wa   torelwa    wlateyoc.
+Jekobu  kolba[ay]we   torelwe    wlateyoc.
 Jakob   green-NEG-PL  cookie-DU  eat-3S-NEG.
 Jakob does not eat non-green cookies.
 #+END_EXAMPLE
@@ -402,7 +402,7 @@ Jakob does not eat non-green cookies.
 Note that numbers (like ~ha~ "two" in the second example) are an exception to
 this. They do not generally take on the same numeric inflection as the objects
 they count, but might still be pluralized in cases where they are used as
-estimation units (e.g. ~yo torelwa~ "36 cookies" vs ~ywa torelwa~ "36s of cookies").
+estimation units (e.g. ~yo torelwe~ "36 cookies" vs ~ywe torelwe~ "36s of cookies").
 
 *** Verbs, Part 3 -- To Be
 
@@ -547,7 +547,7 @@ used in the noun form. For the adjective form reasonable translations are
 the instrumental case.)
 
 #+BEGIN_EXAMPLE
-Eqwa     torelwa    wlocwho  zad.
+Eqwe     torelwe    wlocwho  zad.
 That-PL  cookie-PL  eat-PAT  be-3pS.
 Those cookies are for eating / edible / to be eaten.
 
@@ -571,7 +571,7 @@ Burainu  sinqeraqo     kude  gaten.
 Brian    describe-INS  book  read-3S.
 Brian reads a manual.
 
-Burainu  uqilwa  yelaqwa  moratuh.
+Burainu  uqilwe  yelaqwe  moratuh.
 Brian    several-PL  learn-INS  own-3S.
 Brian has several things used for learning.
 #+END_EXAMPLE
@@ -606,28 +606,28 @@ the copula but only when the object complement is an adjective.
 *** Comparatives and Superlatives (STUB)
 
 Comparatives are formed by suffixing ~'~ . This happens after negation but before
-numeric inflection. The corresponding dual and plural forms are ~'w~ and ~'wa~.
+numeric inflection. The corresponding dual and plural forms are ~'w~ and ~'we~.
 
 Some types of adjectives do not permit standard comparative formation. Instead,
 these take on ~ogi'~ as adverbial modifiers, in the same way "more" is used
 instead of "-er" in English, e.g. "bigger" vs "more gigantic".
 
-Superlatives are formed by suffixing ~'fi~, ~'fw~, or ~-fwa~ respectively. Adjectives
+Superlatives are formed by suffixing ~'fi~, ~'fw~, or ~-fwe~ respectively. Adjectives
 that use ~ogi'~ instead of ~-'~ also take ~ogi'fi~ instead of ~-'fi~.
 
 *** Pronouns, Part 3 -- Indefinite Pronouns and Other Stand-Ins (STUB)
 
 |               | this    | that    | some    | no      | every  | any     | interr.     |
-| person/thing  | ita/eta | iqa/eqa | orvo    | yemo    | axwa   | veli    | wat/.../wod |
+| person/thing  | ita/eta | iqa/eqa | orvo    | yemo    | axwe   | veli    | wat/.../wod |
 | place ~hanu~    | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
 | time ~bwri~     | tibwr   | albwr   | orbwr   | yebwr   | axwbwr | velbwr  | wbwr        |
 | way ~zove~      | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
 | reason ~dule~   | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
-| quantity ~lera~ | tilerwa | alerwa  | orlerwa | yelerwa |        | velerwa | wlerwa      |
+| quantity ~lera~ | tilerwe | alerwe  | orlerwe | yelerwe |        | velerwe | wlerwe      |
 
 ***** Notes
 
-  * ~Axwa~ "every" is always plural in Perflontus; there is not singular
+  * ~Axwe~ "every" is always plural in Perflontus; there is not singular
     inflection. It also imposes the plural inflection on anything in modifies.
     This is counter to many languages where "every" is frequently singular, e.g.
     "everything", "cada vez", "tout".
@@ -688,8 +688,8 @@ are still "unit" power-of-6 words, and to express an actual quantity still
 require the explicity 1 hexit: ~keagwdo~, ~keagkwdo~, ~keaghawdo~, etc.
 
 Exact numbers do not take any additional inflection. For example "three waters"
-is ~pai enxurwa~, not ~*paurwa enxurwa~. Inexact numbers still take additional
-inflection. For example "36s of dances" is ~ywywa hinalwla~.
+is ~pai enxurwe~, not ~*paurwe enxurwe~. Inexact numbers still take additional
+inflection. For example "36s of dances" is ~ywywe hinalwla~.
 
 *** Conjunctions (STUB)
 

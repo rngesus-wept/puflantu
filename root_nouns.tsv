@@ -2,19 +2,19 @@
 # Also contains adjective roots
 
 # Genitive pronoun forms
-rwme	my/mine
-rwne	our/ours (two possessors)
-rwye	our/ours
-rize	your/yours
-rije	the two of you's
-rixe	y'all's
-rate	his/her/hers/its
-rabe	their/theirs (two possessors)
-rade	their/theirs
+rwmo	my/mine
+rwno	our/ours (two possessors)
+rwyo	our/ours
+rizo	your/yours
+rijo	the two of you's
+rixo	y'all's
+rato	his/her/hers/its
+rabo	their/theirs (two possessors)
+rado	their/theirs
 
-rwate	whose (single possessor), interrogative
-rwabe	whose (dual possessor), interrogative
-rwade	whose (plural possessor), interrogative
+rwato	whose (single possessor), interrogative
+rwabo	whose (dual possessor), interrogative
+rwado	whose (plural possessor), interrogative
 
 # Demonstrative pronouns
 ita	this (nom.)
@@ -22,12 +22,12 @@ eta	this (obl.)
 iqa	that (nom.)
 eqa	that (obl.)
 
-ritae	this's
-ritwe	this pair's
-ritwae	this group's
-riqae	that's
-riqwe	that pair's
-riqwae	that group's
+ritao	this's
+ritwo	this pair's
+ritwao	this group's
+riqao	that's
+riqwo	that pair's
+riqwao	that group's
 
 # Indefinite pronouns and categories
 orvo	some (an unspecified)
