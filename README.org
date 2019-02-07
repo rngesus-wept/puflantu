@@ -52,12 +52,11 @@
   * [ ] Take a moment to consider whether we have inadvertently created words
     that are deeply taboo, spoken or written, in English and whatever other
     languages we can think to check. Is there a good way to automate this check?
-  * [ ] Finalize form of the grid containing the cross product of {this, that,
-    some, no, every} with {person, place, time, way, reason, quantity}
   * [ ] Actually write the section of adverbial suffixing
   * [ ] Perflontus speakers use an inner/outer spatial metaphor for time (where
     most human languages use front/forward/behind/back styles of metaphor). The
     inner direction corresponds to the past.
+  * [ ] Likely need a past participial adjective for smoothness?
 
 * How to /Puflantu/
 
@@ -603,8 +602,6 @@ the copula but only when the object complement is an adjective.
   * Light sources (T) :: If the first vowel is ~(V)~, prefix ~\1t~.
   * Fluids (R) :: If the first two vowels are ~(V)(V)~, replace with ~\1r\2~. If the
                   first two vowels are ~(VC+)(V)~, replace with ~\1ur\2~.
-  * ??? (E) :: If the final vowel is ~[ei]~, suffix ~pe~. If the final vowel is
-               ~[aou]~, suffix ~be~.
 
 *** Comparatives and Superlatives (STUB)
 
@@ -720,7 +717,10 @@ later.)
 Section on comparatives should incorporate the conjunctions for "...as X as Y"
 and "...more/less X than Y".
 
-*** Dependent Clauses
+*** Dependent Clauses (STUB)
+
+A dependent clause is indicated by the attachment of the ~-ba~ suffix to its main
+verb. ~-bas~ is used in the case where the dependent clause modifies a verb.
 
 *** Adpositions
 
