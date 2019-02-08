@@ -1,48 +1,56 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org0e369b1)
-    1.  [Dependencies](#org883fac6)
-2.  [Language TODOs](#orgb94d1b5)
-3.  [How to *Puflantu*](#org673ad0d)
-    1.  [General Language Elements](#org251f01c)
-    2.  [Sounds](#orgfed8098)
-        1.  [Vowels](#orga222a38)
-        2.  [Consonants](#orge6d4d3a)
-        3.  [Syllables](#orgf5562a6)
-    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#orgeb77a4f)
-    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org4b9b3b4)
-    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org82a5419)
-    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org8d981cd)
-    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org71134c6)
-    8.  [Verbs, Part 3 &#x2013; To Be](#org71d0fe3)
-    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#orgbcdb90f)
-        1.  [Gerund Case `-a`](#org5eed926)
-        2.  [Agent Case `-afe` and Patient Case `-who`](#org2286492)
-        3.  [Instrumental Case `-aqo`](#orgef53ac1)
-        4.  [Locative Case `-ice` (STUB)](#orgdd84eca)
-        5.  [Causative Case `-ede` (STUB)](#org4e9773f)
-    10. [Genitive (Possessive) Case (STUB)](#org9af46ed)
-    11. [Adjectives and Noun Classes (STUB)](#orgd61a77f)
-    12. [Comparatives and Superlatives (STUB)](#orgbdab90f)
-    13. [Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)](#org5e875f2)
-        1.  [Notes](#orgd7e4121)
-    14. [Questions (STUB)](#org57a5e89)
-    15. [Numbers (STUB)](#org619eb72)
-    16. [Conjunctions (STUB)](#orgb77ee81)
-    17. [Dependent Clauses (STUB)](#org2c49b78)
-    18. [Adpositions](#org4617177)
-    19. [Adverbs (STUB)](#org0b70f3e)
-    20. [Verbs, Part N &#x2013; Imperatives and Instructions (STUB)](#orgda81e14)
+1.  [Installing and Contributing](#orgf54432a)
+    1.  [Dependencies](#orgba3dada)
+2.  [Language TODOs](#org0d26207)
+3.  [How to *Puflantu*](#org238c6e3)
+    1.  [General Language Elements](#org955a166)
+    2.  [Sounds](#org0e5ce38)
+        1.  [Vowels](#orgbbdcff1)
+        2.  [Consonants](#org09a5853)
+        3.  [Syllables](#org17543ce)
+    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#orgf5a63c3)
+    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org9a3caeb)
+    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org4257fca)
+    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#orgd7b0d07)
+    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#orgc9cfe7c)
+    8.  [Verbs, Part 3 &#x2013; To Be](#org22357a0)
+    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#orge62aac7)
+        1.  [Gerund Case `-a`](#org875df28)
+        2.  [Agent Case `-afe` and Patient Case `-who`](#orgd0e6d4d)
+        3.  [Instrumental Case `-aqo`](#orgd102bd8)
+        4.  [Locative Case `-ice` (STUB)](#orgd6e7ad0)
+        5.  [Causative Case `-ede` (STUB)](#orgd285cf7)
+    10. [Genitive (Possessive) Case (STUB)](#orgc493b87)
+    11. [Adjectives and Noun Classes (STUB)](#org88c7876)
+    12. [Comparatives and Superlatives (STUB)](#org08beee7)
+    13. [Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)](#orga91c6ca)
+        1.  [Notes](#org87dff6b)
+    14. [Questions (STUB)](#orge99cb38)
+    15. [Numbers (STUB)](#orgfdc8c50)
+    16. [Conjunctions (STUB)](#orgb390c51)
+    17. [Dependent Clauses (STUB)](#org1529ed1)
+        1.  [Noun Clauses](#org86f6778)
+    18. [Adpositions](#org93ccfcf)
+    19. [Adverbs (STUB)](#orgea4e4c5)
+    20. [Verbs, Part N &#x2013; Imperatives and Instructions (STUB)](#orgeef9604)
+4.  [How to *Puflantu*, Abridged (Reference Tables)](#orgf5d3f28)
+    1.  [Nouns](#org57d98cd)
+    2.  [Adjectives](#orgcdcefef)
+    3.  [Pronouns](#orgc699104)
+        1.  [Personal Pronouns](#orga0dce92)
+        2.  [Possessive Pronouns](#orgfe0730c)
+        3.  [Indefinite Pronouns](#orgaf20820)
 
 
 
-<a id="org0e369b1"></a>
+<a id="orgf54432a"></a>
 
 # Installing and Contributing
 
 
-<a id="org883fac6"></a>
+<a id="orgba3dada"></a>
 
 ## Dependencies
 
@@ -55,7 +63,7 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orgb94d1b5"></a>
+<a id="org0d26207"></a>
 
 # Language TODOs
 
@@ -103,12 +111,12 @@
 -   [ ] Likely need a past participial adjective for smoothness?
 
 
-<a id="org673ad0d"></a>
+<a id="org238c6e3"></a>
 
 # How to *Puflantu*
 
 
-<a id="org251f01c"></a>
+<a id="org955a166"></a>
 
 ## General Language Elements
 
@@ -126,7 +134,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="orgfed8098"></a>
+<a id="org0e5ce38"></a>
 
 ## Sounds
 
@@ -134,7 +142,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="orga222a38"></a>
+<a id="orgbbdcff1"></a>
 
 ### Vowels
 
@@ -151,7 +159,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="orge6d4d3a"></a>
+<a id="org09a5853"></a>
 
 ### Consonants
 
@@ -191,7 +199,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="orgf5562a6"></a>
+<a id="org17543ce"></a>
 
 ### Syllables
 
@@ -215,7 +223,7 @@ nouns, usually on the penultimate or antepenultimate.
     BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="orgeb77a4f"></a>
+<a id="orgf5a63c3"></a>
 
 ## Pronouns, Part 1 &#x2013; Personal Pronouns
 
@@ -246,7 +254,7 @@ vowel does not depend at all on the number, and the consonant does not depend at
 all on the case.
 
 
-<a id="org4b9b3b4"></a>
+<a id="org9a3caeb"></a>
 
 ## Verbs, Part 1 &#x2013; Basic Infixes
 
@@ -321,7 +329,7 @@ It is also present *without the subject pronoun* when using the passive voice:
     ```
 
 
-<a id="org82a5419"></a>
+<a id="org4257fca"></a>
 
 ## Pronouns, Part 2 &#x2013; This, That, A, and The
 
@@ -372,7 +380,7 @@ instead.
     The 1 bus will arrive soon.
 
 
-<a id="org8d981cd"></a>
+<a id="orgd7b0d07"></a>
 
 ## Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal
 
@@ -390,9 +398,9 @@ particles.
     |                 |          | Elaiza imav zumatuz. | Eliza was sleeping.     |
     |                 |          | Elaiza etav zumatuz. | Eliza will be sleeping. |
     |-----------------+----------+----------------------+-------------------------|
-    | Perfect (PRF)   | or / -or | Elaiza or zumatuz.   | Eliza has slept.        |
-    |                 |          | Elaiza imor zumatuz. | Eliza had slept.        |
-    |                 |          | Elaiza etor zumatuz. | Eliza will have slept.  |
+    | Perfect (PRF)   | os / -os | Elaiza os zumatuz.   | Eliza has slept.        |
+    |                 |          | Elaiza imos zumatuz. | Eliza had slept.        |
+    |                 |          | Elaiza etos zumatuz. | Eliza will have slept.  |
 
 Verbs may be modified in degree or even reversed by the use of a prefix:
 
@@ -405,7 +413,7 @@ If multiple prefixes are used, DIM/AUG come before REV, i.e. `yivohor*od`, not
 `voyihor*od`.
 
 
-<a id="org71134c6"></a>
+<a id="orgc9cfe7c"></a>
 
 ## Nouns and Adjectives, Part 1 &#x2013; Number
 
@@ -452,7 +460,7 @@ they count, but might still be pluralized in cases where they are used as
 estimation units (e.g. `yo torelwe` "36 cookies" vs `ywe torelwe` "36s of cookies").
 
 
-<a id="org71d0fe3"></a>
+<a id="org22357a0"></a>
 
 ## Verbs, Part 3 &#x2013; To Be
 
@@ -487,7 +495,7 @@ diminutive `yi-` nor reversal `vo-`.
     Didi  hunger-NEG  be-3S-NEG.
 
 
-<a id="orgbcdb90f"></a>
+<a id="orge62aac7"></a>
 
 ## Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation
 
@@ -518,7 +526,7 @@ opposed to `daxice jiso` "teaching-place room". Of course, Perflontus should
 ultimately have root words for "school" and "classroom" directly.
 
 
-<a id="org5eed926"></a>
+<a id="org875df28"></a>
 
 ### Gerund Case `-a`
 
@@ -533,7 +541,7 @@ Perflontus the two both use the gerund case.
 When used as an adjective this case always functions as a present participle,
 and only with the connotation of a thing that is performing the action in
 question. In particular, when describing something that is used *for* an action
-rather than something that is performing the action itself, use the [instrumental case](#orgef53ac1).
+rather than something that is performing the action itself, use the [instrumental case](#orgd102bd8).
 
     Qarluz   eqa   zumuza     hie    zat.
     Charles  that  sleep-GER  human  be-3S.
@@ -561,7 +569,7 @@ suffix, which may create subtly different meanings.
     Charles is the person who is (not-sleep)ing.  -- connotations of forced wakefulness, perhaps
 
 
-<a id="org2286492"></a>
+<a id="orgd0e6d4d"></a>
 
 ### Agent Case `-afe` and Patient Case `-who`
 
@@ -599,7 +607,7 @@ the instrumental case.)
     That water is not for drinking.
 
 
-<a id="orgef53ac1"></a>
+<a id="orgd102bd8"></a>
 
 ### Instrumental Case `-aqo`
 
@@ -627,17 +635,17 @@ use `wlocaqo` as a word that means specifically "spoon", unless there's other
 nearby context that disambiguates it.
 
 
-<a id="orgdd84eca"></a>
+<a id="orgd6e7ad0"></a>
 
 ### Locative Case `-ice` (STUB)
 
 
-<a id="org4e9773f"></a>
+<a id="orgd285cf7"></a>
 
 ### Causative Case `-ede` (STUB)
 
 
-<a id="org9af46ed"></a>
+<a id="orgc493b87"></a>
 
 ## Genitive (Possessive) Case (STUB)
 
@@ -646,7 +654,7 @@ of the pronoun into `r*o`. This rule extends to demonstrative and interrogative
 pronouns.
 
 
-<a id="orgd61a77f"></a>
+<a id="org88c7876"></a>
 
 ## Adjectives and Noun Classes (STUB)
 
@@ -661,7 +669,7 @@ the copula but only when the object complement is an adjective.
     first two vowels are `(VC+)(V)`, replace with `\1ur\2`.
 
 
-<a id="orgbdab90f"></a>
+<a id="org08beee7"></a>
 
 ## Comparatives and Superlatives (STUB)
 
@@ -676,7 +684,7 @@ Superlatives are formed by suffixing `'fi`, `'fw`, or `-fwe` respectively. Adjec
 that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 
 
-<a id="org5e875f2"></a>
+<a id="orga91c6ca"></a>
 
 ## Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)
 
@@ -787,7 +795,7 @@ that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 </table>
 
 
-<a id="orgd7e4121"></a>
+<a id="org87dff6b"></a>
 
 ### Notes
 
@@ -809,14 +817,14 @@ that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
     "how", while `*dul` clauses are answers to questions better phrased as "why".
 
 
-<a id="org57a5e89"></a>
+<a id="orge99cb38"></a>
 
 ## Questions (STUB)
 
 A sentence-final `na` marks questions. The interrogative personal pronoun is the
 corresponding third person pronoun prefixed by `w-`. (`wat/wot`, `wab/wob`, `wad/wod`)
-This pronoun works for "who", "what", and "which". The genitive forms are `rwate`,
-`rwabe`, and `rwade` &#x2013; recall that the pronoun infixed into `r*e` indicates the
+This pronoun works for "who", "what", and "which". The genitive forms are `rwato`,
+`rwabo`, and `rwado` &#x2013; recall that the pronoun infixed into `r*o` indicates the
 number of possessors but always takes the subjective case.
 
     Wad     et   qekadumad    na.
@@ -827,12 +835,12 @@ number of possessors but always takes the subjective case.
     Whom-PL  FUT  meet-1S-3pO  ?
     Whom will I meet?
 
-    Rwate    daxafe     zat    na.
+    Rwato    daxafe     zat    na.
     Who-GEN  teach-AGT  be-3S  ?
     Whose teacher is she? -- Depending on context, might also be "Which (subject's) teacher"
 
 
-<a id="org619eb72"></a>
+<a id="orgfdc8c50"></a>
 
 ## Numbers (STUB)
 
@@ -860,7 +868,7 @@ is `pai enxurwe`, not `*paurwe enxurwe`. Inexact numbers still take additional
 inflection. For example "36s of dances" is `ywywe hinalwla`.
 
 
-<a id="orgb77ee81"></a>
+<a id="orgb390c51"></a>
 
 ## Conjunctions (STUB)
 
@@ -882,22 +890,92 @@ clause or phrase that acts adverbially.
 -   **-ja(s):** so, therefore
 
 (A bunch of these only make sense when attaching clauses, and in those cases
-we'd rather so some kind of `al* ... -ba(s)` construction. Come back to this
+we'd rather so some kind of `al* ... -ka(s)` construction. Come back to this
 later.)
 
 Section on comparatives should incorporate the conjunctions for "&#x2026;as X as Y"
 and "&#x2026;more/less X than Y".
 
 
-<a id="org2c49b78"></a>
+<a id="org1529ed1"></a>
 
 ## Dependent Clauses (STUB)
 
-A dependent clause is indicated by the attachment of the `-ba` suffix to its main
-verb. `-bas` is used in the case where the dependent clause modifies a verb.
+A dependent clause is indicated by the attachment of the `-ka` suffix to its main
+verb. `-kas` is used in the case where the dependent clause modifies a verb. A
+reasonable English gloss for `-ka` is "that", but we'll see that many dependent
+clauses use the `-ka` construction regardless of what their English translation
+would use for the linking word. (One way to think about this is that many
+dependent clauses in English can be rephrased to use "that" as their relative
+pronoun, even if the result is more verbose.)
+
+Dependent clauses can require the use of the relative personal pronoun, whose
+forms are as follows:
+
+    |     | Singular | Dual    | Plural          |
+    |-----+----------+---------+-----------------|
+    | REL | al / ol  | ar / or | ary(u) / ory(u) |
+
+(Like other pronouns, these may appear as standalone words. However, since `ary`
+and `ory` are invalid words due to syllable patterns, they take on an extra vowel
+when appearing alone.)
+
+The relative pronoun indicates the role that "that" within the clause if the
+clause were rephrased as a standalone sentence. Further examples below will help
+illustrate how this is decided.
 
 
-<a id="org4617177"></a>
+<a id="org86f6778"></a>
+
+### Noun Clauses
+
+    Im   wlwmoloc   -ka   um  im   somatun.
+    PST  eat-1S-RO  -DEP  1O  PST  please-3S.
+    What I ate pleased me.
+
+In this example, "what" is the relative pronoun, and it is the object of "ate"
+in the dependent clause. Its existence is therefore indicated by the presence of
+the relative singular object pronoun `ol`, infixed in `wl*oc` "to eat" (after `wm`,
+the first person singular subject pronoun). Having `ol` in the dependent clause
+also disambiguates that sentence from this similar case:
+
+    Im   wlwmoc  -ka   um  im   somatun.
+    PST  eat-1S  -DEP  1O  PST  please-3S.
+    That I ate pleased me.  (i.e. "The fact that I ate...")
+
+We still use the dependent clause construction, but in English the relative
+pronoun "that" doesn't play any role other than to indicate that what follows is
+a dependent clause.
+
+    Im   wlwmoryoc   -ka   um  im   somatun.
+    PST  eat-1S-RpO  -DEP  1O  PST  please-3S.
+    The things that I ate pleased me.
+
+In this example the choice of infixed relative pronoun `ory` carries extra
+information, namely that the object of "ate" is plural. Coming from English it
+may be tempting to include "the things" as a distinct item in the sentence, i.e.
+"PST I-eat-that-DEP thing-PL", converting the noun clause to an adjective clause
+modifying "thing". In Perflontus this is unnecessary, though other information
+may require more structure:
+
+    [Honwzwe  oryu  im   wlwmoc  -ka]   um  im   somatun.
+    [blue-PL  RpO   PST  eat-1S  -DEP]  1O  PST  please-3S.
+    [The blue things that I ate] pleased me.
+
+    [Im   wlwmoryoc   -ka]   honwzwe  um  im   somatun.
+    [PST  eat-1S-RpO  -DEP]  blue-PL  1O  PST  please-3S.
+    The [me-eaten] blue things pleased me.
+
+    [Honwzwe  im   wlwmoc  -ka]   um  im   somatun.
+    [blue-PL  PST  eat-1S  -DEP]  1O  PST  please-3S.
+    [That I ate the blue things] pleased me.
+
+    *[Im   wlwmoc   -ka]   honwzwe  um  im   somatun.    -- Incorrect
+    *[PST  eat-1S   -DEP]  blue-PL  1O  PST  please-3S.
+    *The [that I ate] blue things pleased me.
+
+
+<a id="org93ccfcf"></a>
 
 ## Adpositions
 
@@ -905,14 +983,14 @@ verb. `-bas` is used in the case where the dependent clause modifies a verb.
 -   -uqo
 
 
-<a id="org0b70f3e"></a>
+<a id="orgea4e4c5"></a>
 
 ## Adverbs (STUB)
 
 Adverbs are formed by suffixing `s`. This also applies to particles.
 
 
-<a id="orgda81e14"></a>
+<a id="orgeef9604"></a>
 
 ## Verbs, Part N &#x2013; Imperatives and Instructions (STUB)
 
@@ -920,3 +998,324 @@ The imperative voice is indicated by prefixing the active verb with `'`. The mos
 polite forms, as might be used by a manual, inflect the verb as though using the
 passive voice, i.e. omitting the "you" subject. Direct, more "blunt" forms
 address, add the subject pronoun infixes.
+
+
+<a id="orgf5d3f28"></a>
+
+# How to *Puflantu*, Abridged (Reference Tables)
+
+
+<a id="org57d98cd"></a>
+
+## Nouns
+
+-   Always end in a non-"w" vowel.
+-   Dual number converts the final vowel to `-w`. Plural number to `-we`.
+
+
+<a id="orgcdcefef"></a>
+
+## Adjectives
+
+-   Always end in a non-"w" vowel.
+-   Inflect number to match the modified noun.
+-   Come before the noun they modify.
+-   Infix `-ay-` before the final vowel to negate.
+-   Suffix `-s` to convert to an adverb.
+
+
+<a id="orgc699104"></a>
+
+## Pronouns
+
+
+<a id="orga0dce92"></a>
+
+### Personal Pronouns
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Singular</th>
+<th scope="col" class="org-left">Dual</th>
+<th scope="col" class="org-left">Plural</th>
+</tr>
+
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Subj/Obj</th>
+<th scope="col" class="org-left">Subj/Obj</th>
+<th scope="col" class="org-left">Subj/Obj</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">1st</td>
+<td class="org-left">wm / um</td>
+<td class="org-left">wn / un</td>
+<td class="org-left">wy / uy</td>
+</tr>
+
+
+<tr>
+<td class="org-left">2nd</td>
+<td class="org-left">iz / ez</td>
+<td class="org-left">ij / ej</td>
+<td class="org-left">ix / ex</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3rd</td>
+<td class="org-left">at / ot</td>
+<td class="org-left">ab / ob</td>
+<td class="org-left">ad / od</td>
+</tr>
+
+
+<tr>
+<td class="org-left">REL</td>
+<td class="org-left">al / ol</td>
+<td class="org-left">ar / or</td>
+<td class="org-left">ary / ory</td>
+</tr>
+
+
+<tr>
+<td class="org-left">"this"</td>
+<td class="org-left">ita / eta</td>
+<td class="org-left">itw / etw</td>
+<td class="org-left">itwe / etwe</td>
+</tr>
+
+
+<tr>
+<td class="org-left">"that"</td>
+<td class="org-left">iqa / eqa</td>
+<td class="org-left">iqw / eqw</td>
+<td class="org-left">iqwe / eqwe</td>
+</tr>
+
+
+<tr>
+<td class="org-left">"what"</td>
+<td class="org-left">wat / wot</td>
+<td class="org-left">wab / wob</td>
+<td class="org-left">wad / wod</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgfe0730c"></a>
+
+### Possessive Pronouns
+
+All the items in the list below indicate a singular possessed object. Instead,
+the table indicate the number of possessors. Inflect the resulting word as you
+would a normal noun, e.g. `rwmo` &rarr; `rwmw` / `rwmwe`.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Singular</th>
+<th scope="col" class="org-left">Dual</th>
+<th scope="col" class="org-left">Plural</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">1st</td>
+<td class="org-left">rwmo</td>
+<td class="org-left">rwno</td>
+<td class="org-left">rwyo</td>
+</tr>
+
+
+<tr>
+<td class="org-left">2nd</td>
+<td class="org-left">rizo</td>
+<td class="org-left">rijo</td>
+<td class="org-left">rixo</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3rd</td>
+<td class="org-left">rato</td>
+<td class="org-left">rabo</td>
+<td class="org-left">rado</td>
+</tr>
+
+
+<tr>
+<td class="org-left">REL</td>
+<td class="org-left">ralo</td>
+<td class="org-left">raro</td>
+<td class="org-left">raryo</td>
+</tr>
+
+
+<tr>
+<td class="org-left">"this"</td>
+<td class="org-left">ritao</td>
+<td class="org-left">ritwo</td>
+<td class="org-left">ritweo</td>
+</tr>
+
+
+<tr>
+<td class="org-left">"that"</td>
+<td class="org-left">riqao</td>
+<td class="org-left">riqwo</td>
+<td class="org-left">riqweo</td>
+</tr>
+
+
+<tr>
+<td class="org-left">"what"</td>
+<td class="org-left">rwato</td>
+<td class="org-left">rwabo</td>
+<td class="org-left">rwado</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgaf20820"></a>
+
+### Indefinite Pronouns
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">this</th>
+<th scope="col" class="org-left">that</th>
+<th scope="col" class="org-left">some</th>
+<th scope="col" class="org-left">no</th>
+<th scope="col" class="org-left">every</th>
+<th scope="col" class="org-left">any</th>
+<th scope="col" class="org-left">interr.</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">person/thing</td>
+<td class="org-left">ita/eta</td>
+<td class="org-left">iqa/eqa</td>
+<td class="org-left">orvo</td>
+<td class="org-left">yemo</td>
+<td class="org-left">axwe</td>
+<td class="org-left">veli</td>
+<td class="org-left">wat/&#x2026;/wod</td>
+</tr>
+
+
+<tr>
+<td class="org-left">place `hanu`</td>
+<td class="org-left">tihan</td>
+<td class="org-left">alhan</td>
+<td class="org-left">orhan</td>
+<td class="org-left">yehan</td>
+<td class="org-left">axwhan</td>
+<td class="org-left">velhan</td>
+<td class="org-left">whan</td>
+</tr>
+
+
+<tr>
+<td class="org-left">time `bwri`</td>
+<td class="org-left">tibwr</td>
+<td class="org-left">albwr</td>
+<td class="org-left">orbwr</td>
+<td class="org-left">yebwr</td>
+<td class="org-left">axwbwr</td>
+<td class="org-left">velbwr</td>
+<td class="org-left">wbwr</td>
+</tr>
+
+
+<tr>
+<td class="org-left">way `zove`</td>
+<td class="org-left">tizov</td>
+<td class="org-left">alzov</td>
+<td class="org-left">orzov</td>
+<td class="org-left">yezov</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">velzov</td>
+<td class="org-left">wzov</td>
+</tr>
+
+
+<tr>
+<td class="org-left">reason `dule`</td>
+<td class="org-left">tidul</td>
+<td class="org-left">aldul</td>
+<td class="org-left">ordul</td>
+<td class="org-left">yedul</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">veldul</td>
+<td class="org-left">wdul</td>
+</tr>
+
+
+<tr>
+<td class="org-left">quantity `lera`</td>
+<td class="org-left">tilerwe</td>
+<td class="org-left">alerwe</td>
+<td class="org-left">orlerwe</td>
+<td class="org-left">yelerwe</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">velerwe</td>
+<td class="org-left">wlerwe</td>
+</tr>
+</tbody>
+</table>
