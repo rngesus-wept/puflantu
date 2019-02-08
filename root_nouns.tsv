@@ -43,6 +43,9 @@ lera	amount, quantity
 # Fauna
 hie	human
 
+# People what do things
+ogbai	traveller, vagabond
+
 # Food and drink
 toreli	cookie
 enxa	water
@@ -60,6 +63,10 @@ tusvo	bus
 kworu	clothing
 kude	book
 
+# Places
+veta	nation, state, delineated region
+usonba	land, ground, earth
+
 # Colors
 wre	black
 apo	white
@@ -67,3 +74,7 @@ emkixa	red
 amelte	yellow
 kolbao	green
 honwze	blue
+
+# Descriptors
+izwfu	old
+zohca young
