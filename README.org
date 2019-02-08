@@ -339,9 +339,9 @@ particles.
 |                 |          | Elaiza imav zumatuz. | Eliza was sleeping.     |
 |                 |          | Elaiza etav zumatuz. | Eliza will be sleeping. |
 |-----------------+----------+----------------------+-------------------------|
-| Perfect (PRF)   | or / -or | Elaiza or zumatuz.   | Eliza has slept.        |
-|                 |          | Elaiza imor zumatuz. | Eliza had slept.        |
-|                 |          | Elaiza etor zumatuz. | Eliza will have slept.  |
+| Perfect (PRF)   | os / -os | Elaiza os zumatuz.   | Eliza has slept.        |
+|                 |          | Elaiza imos zumatuz. | Eliza had slept.        |
+|                 |          | Elaiza etos zumatuz. | Eliza will have slept.  |
 #+END_EXAMPLE
 
 Verbs may be modified in degree or even reversed by the use of a prefix:
@@ -711,7 +711,7 @@ clause or phrase that acts adverbially.
   * -ja(s) :: so, therefore
 
 (A bunch of these only make sense when attaching clauses, and in those cases
-we'd rather so some kind of ~al* ... -ba(s)~ construction. Come back to this
+we'd rather so some kind of ~al* ... -ka(s)~ construction. Come back to this
 later.)
 
 Section on comparatives should incorporate the conjunctions for "...as X as Y"
@@ -719,8 +719,85 @@ and "...more/less X than Y".
 
 *** Dependent Clauses (STUB)
 
-A dependent clause is indicated by the attachment of the ~-ba~ suffix to its main
-verb. ~-bas~ is used in the case where the dependent clause modifies a verb.
+A dependent clause is indicated by the attachment of the ~-ka~ suffix to its main
+verb. ~-kas~ is used in the case where the dependent clause modifies a verb. A
+reasonable English gloss for =-ka= is "that", but we'll see that many dependent
+clauses use the =-ka= construction regardless of what their English translation
+would use for the linking word. (One way to think about this is that many
+dependent clauses in English can be rephrased to use "that" as their relative
+pronoun, even if the result is more verbose.)
+
+Dependent clauses can require the use of the relative personal pronoun, whose
+forms are as follows:
+
+#+BEGIN_EXAMPLE
+|     | Singular | Dual    | Plural          |
+|-----+----------+---------+-----------------|
+| REL | al / ol  | ar / or | ary(u) / ory(u) |
+#+END_EXAMPLE
+
+(Like other pronouns, these may appear as standalone words. However, since =ary=
+and =ory= are invalid words due to syllable patterns, they take on an extra vowel
+when appearing alone.)
+
+The relative pronoun indicates the role that "that" within the clause if the
+clause were rephrased as a standalone sentence. Further examples below will help
+illustrate how this is decided.
+
+***** Noun Clauses
+
+#+BEGIN_EXAMPLE
+Im   wlwmoloc   -ka   um  im   somatun.
+PST  eat-1S-RO  -DEP  1O  PST  please-3S.
+What I ate pleased me.
+#+END_EXAMPLE
+
+In this example, "what" is the relative pronoun, and it is the object of "ate"
+in the dependent clause. Its existence is therefore indicated by the presence of
+the relative singular object pronoun =ol=, infixed in =wl*oc= "to eat" (after =wm=,
+the first person singular subject pronoun). Having =ol= in the dependent clause
+also disambiguates that sentence from this similar case:
+
+#+BEGIN_EXAMPLE
+Im   wlwmoc  -ka   um  im   somatun.
+PST  eat-1S  -DEP  1O  PST  please-3S.
+That I ate pleased me.  (i.e. "The fact that I ate...")
+#+END_EXAMPLE
+
+We still use the dependent clause construction, but in English the relative
+pronoun "that" doesn't play any role other than to indicate that what follows is
+a dependent clause.
+
+#+BEGIN_EXAMPLE
+Im   wlwmoryoc   -ka   um  im   somatun.
+PST  eat-1S-RpO  -DEP  1O  PST  please-3S.
+The things that I ate pleased me.
+#+END_EXAMPLE
+
+In this example the choice of infixed relative pronoun =ory= carries extra
+information, namely that the object of "ate" is plural. Coming from English it
+may be tempting to include "the things" as a distinct item in the sentence, i.e.
+"PST I-eat-that-DEP thing-PL", converting the noun clause to an adjective clause
+modifying "thing". In Perflontus this is unnecessary, though other information
+may require more structure:
+
+#+BEGIN_EXAMPLE
+[Honwzwe  oryu  im   wlwmoc  -ka]   um  im   somatun.
+[blue-PL  RpO   PST  eat-1S  -DEP]  1O  PST  please-3S.
+[The blue things that I ate] pleased me.
+
+[Im   wlwmoryoc   -ka]   honwzwe  um  im   somatun.
+[PST  eat-1S-RpO  -DEP]  blue-PL  1O  PST  please-3S.
+The [me-eaten] blue things pleased me.
+
+[Honwzwe  im   wlwmoc  -ka]   um  im   somatun.
+[blue-PL  PST  eat-1S  -DEP]  1O  PST  please-3S.
+[That I ate the blue things] pleased me.
+
+*[Im   wlwmoc   -ka]   honwzwe  um  im   somatun.    -- Incorrect
+*[PST  eat-1S   -DEP]  blue-PL  1O  PST  please-3S.
+*The [that I ate] blue things pleased me.
+#+END_EXAMPLE
 
 *** Adpositions
 
@@ -736,3 +813,60 @@ The imperative voice is indicated by prefixing the active verb with ~'~. The mos
 polite forms, as might be used by a manual, inflect the verb as though using the
 passive voice, i.e. omitting the "you" subject. Direct, more "blunt" forms
 address, add the subject pronoun infixes.
+
+* How to /Puflantu/, Abridged (Reference Tables)
+
+*** Nouns
+
+  * Always end in a non-"w" vowel.
+  * Dual number converts the final vowel to =-w=. Plural number to =-we=.
+
+*** Adjectives
+
+  * Always end in a non-"w" vowel.
+  * Inflect number to match the modified noun.
+  * Come before the noun they modify.
+  * Infix =-ay-= before the final vowel to negate.
+  * Suffix =-s= to convert to an adverb.
+
+*** Pronouns
+
+***** Personal Pronouns
+
+|        | Singular  | Dual      | Plural      |
+|        | Subj/Obj  | Subj/Obj  | Subj/Obj    |
+|--------+-----------+-----------+-------------|
+| 1st    | wm / um   | wn / un   | wy / uy     |
+| 2nd    | iz / ez   | ij / ej   | ix / ex     |
+| 3rd    | at / ot   | ab / ob   | ad / od     |
+| REL    | al / ol   | ar / or   | ary / ory   |
+| "this" | ita / eta | itw / etw | itwe / etwe |
+| "that" | iqa / eqa | iqw / eqw | iqwe / eqwe |
+| "what" | wat / wot | wab / wob | wad / wod   |
+
+***** Possessive Pronouns
+
+All the items in the list below indicate a singular possessed object. Instead,
+the table indicate the number of possessors. Inflect the resulting word as you
+would a normal noun, e.g. =rwmo= \rightarrow =rwmw= / =rwmwe=.
+
+|        | Singular | Dual  | Plural |
+|--------+----------+-------+--------|
+| 1st    | rwmo     | rwno  | rwyo   |
+| 2nd    | rizo     | rijo  | rixo   |
+| 3rd    | rato     | rabo  | rado   |
+| REL    | ralo     | raro  | raryo  |
+| "this" | ritao    | ritwo | ritweo |
+| "that" | riqao    | riqwo | riqweo |
+| "what" | rwato    | rwabo | rwado  |
+
+***** Indefinite Pronouns
+
+|               | this    | that    | some    | no      | every  | any     | interr.     |
+|---------------+---------+---------+---------+---------+--------+---------+-------------|
+| person/thing  | ita/eta | iqa/eqa | orvo    | yemo    | axwe   | veli    | wat/.../wod |
+| place ~hanu~    | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
+| time ~bwri~     | tibwr   | albwr   | orbwr   | yebwr   | axwbwr | velbwr  | wbwr        |
+| way ~zove~      | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
+| reason ~dule~   | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
+| quantity ~lera~ | tilerwe | alerwe  | orlerwe | yelerwe |        | velerwe | wlerwe      |
