@@ -8,6 +8,6 @@
 
 mv collisions.tsv collisions.tsv.tmp;
 
-python test_lexicon.py 2>&1 | head -n-1 | cut -d' ' -f1 | xargs python test_lexicon.py;
+python test_lexicon.py 2>&1 | head -n-1 | cut -d' ' -f1 | xargs python test_lexicon.py 2>&1 | sort;
 
 mv collisions.tsv.tmp collisions.tsv;
