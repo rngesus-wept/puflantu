@@ -589,11 +589,58 @@ nearby context that disambiguates it.
 
 ***** Locative Case ~-ice~ (STUB)
 ***** Causative Case ~-ede~ (STUB)
-*** Genitive (Possessive) Case (STUB)
+*** Genitive (Possessive) Case
 
-For nouns, simply add the ~-ro~ particle. For pronouns, infix the subjective form
-of the pronoun into ~r*o~. This rule extends to demonstrative and interrogative
-pronouns.
+For nouns, the possessive case is marked simply by suffixing =-ro=. This
+possessive form works as both a noun and an adjective.
+
+#+BEGIN_EXAMPLE
+Alanu-ro  kude  emkixa  zat.
+Alan-GEN  book  red     be-3S.
+Alan's book is red.
+
+Robu-ro  honwze  zat.
+Rob-GEN  blue    be-3S.
+Rob's is blue.
+#+END_EXAMPLE
+
+Note that there are two potential points for numeric inflection here: The root
+noun is inflected to indicate the number of possessors, while the =-ro= suffix may
+be inflected to indicate the number of possessed objects.
+
+#+BEGIN_EXAMPLE
+Justiinu-rwe    kudwe    kolbawe   zad.
+Justine-GEN-PL  book-PL  green-PL  be-3pS.
+Justine's books are green.
+
+Yelafwe-ro        kude  wre    zat.
+Learn-AGT-PL-GEN  book  black  be-3S.
+The students' book is black.
+
+Yelafwe-rwe          kworwe       apwe      zad.
+Learn-AGT-PL-GEN-PL  clothing-PL  white-PL  be-3pS
+The students' clothes are white.
+#+END_EXAMPLE
+
+Possessive pronouns are formed by infixing the /subject/ form of the pronoun into
+=r*o=. This applies to all personal pronouns, their interrogative forms (=wat= et
+al, described in more detail later), and to =ita= "this" and =iqa= "that". As with
+regular nouns, it is important to pay attention to the difference in inflection
+for the number of possessors vs the number of possessed things.
+
+#+BEGIN_EXAMPLE
+Itwe     torelwe    rwmwe     zad.
+this-PL  cookie-PL  1-GEN-PL  be-3pS.
+These cookies are mine.
+
+Iqa   toreli  rixe    zat.
+that  cookie  2p-GEN  be-3S.
+That cookie is y'all's.
+
+Rwatwe      zad    na.
+Who-GEN-PL  be-3S  ?
+Whose are those?
+#+END_EXAMPLE
 
 *** Adjectives and Noun Classes (STUB)
 
