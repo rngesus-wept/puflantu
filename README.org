@@ -258,7 +258,7 @@ I meet *Danny*.
 ```
 #+END_EXAMPLE
 
-    It is also present /without the subject pronoun/ when using the passive voice:
+    * It is also present /without the subject pronoun/ when using the passive voice:
 
 #+BEGIN_EXAMPLE
 ```
