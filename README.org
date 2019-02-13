@@ -36,7 +36,9 @@ including on inflections, and tells you the inflections that are causing
 collision. If you have a word which you are sure will not be inflected, or one
 that violates certain morphological rules on a one-off basis (for example, a
 short noun that ends in =-w=), place it in =root_closed.tsv= instead of
-=root_nouns.tsv= or =root_verbs.tsv=.
+=root_nouns.tsv= or =root_verbs.tsv=. Adverbs that are formed from adjectives by
+suffixing =-s= should be entered in adjectival form in =root_nouns=; adverbs that
+don't have that derivation should go in =root_closed= (for now).
 
 =phones.py= can be used to generate a few Perflontus-valid words at random, which
 can be useful to avoid personal biases about what phonemes to use.
@@ -92,7 +94,7 @@ A few useful things to know when editing via the web interface alone:
   * [ ] Take a moment to consider whether we have inadvertently created words
     that are deeply taboo, spoken or written, in English and whatever other
     languages we can think to check. Is there a good way to automate this check?
-  * [ ] Actually write the section of adverbial suffixing
+  * [ ] Actually write the section on adverbial suffixing
   * [ ] Perflontus speakers use an inner/outer spatial metaphor for time (where
     most human languages use front/forward/behind/back styles of metaphor). The
     inner direction corresponds to the past.
