@@ -6,8 +6,7 @@
 # long as each putative duplicate only have one derivation, everything is okay
 # and those false positives can be added to collisions.tsv.
 
-mv collisions.tsv collisions.tsv.tmp;
+DUPS_FILE=/tmp/perflontus_duplicates;
 
-python test_lexicon.py 2>&1 | head -n-1 | cut -d' ' -f1 | xargs python test_lexicon.py 2>&1 | sort;
-
-mv collisions.tsv.tmp collisions.tsv;
+python test_lexicon.py 2>&1 | head -n-1 | cut -d' ' -f1 | xargs python test_lexicon.py 2>&1 | sort > $DUPS_FILE;
+grep -f <(cut -d' ' -f1 $DUPS_FILE | uniq -d) $DUPS_FILE;

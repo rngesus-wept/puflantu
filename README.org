@@ -13,6 +13,46 @@
   * [[https://pipenv.readthedocs.io/en/latest/install/][pipenv]] :: This allows you to isolate this project's dependencies in its own
        virtual environment, without affecting your main Python installation.
 
+*** Contributing
+
+Artifacts should be created directly in the =artifacts/= folder. Regardless of
+what form your artifact takes, a written transcription of its relevant
+Perflontus content should be provided as a like-named =.md=, =.org=, or =.txt= file.
+Be sure to also add any new vocabulary to the proper =root_*.tsv= file.
+
+The =root_*.tsv= files are lists of tab-separated (word, definition) pairs. They
+are ordered vaguely by semantic category so as to better demonstrate what gaps
+we have in the lexicon. Comments may be placed on their own line starting with
+=#=.
+
+To run any of the scripts, you will need to be in an appropriately configured
+pipenv environment. Running =pipenv install= in this project's root directory
+should create a virtual environment with all the project's (Python)
+dependencies. Then =pipenv shell= will put you into the virtual environment. Use
+=exit= to return to your original shell.
+
+The =explain_duplicates.sh= shell script checks the entire lexicon for duplicates,
+including on inflections, and tells you the inflections that are causing
+collision. If you have a word which you are sure will not be inflected, or one
+that violates certain morphological rules on a one-off basis (for example, a
+short noun that ends in =-w=), place it in =root_closed.tsv= instead of
+=root_nouns.tsv= or =root_verbs.tsv=.
+
+=phones.py= can be used to generate a few Perflontus-valid words at random, which
+can be useful to avoid personal biases about what phonemes to use.
+
+***** Using Github's Web Interface
+
+A few useful things to know when editing via the web interface alone:
+
+  * Tabs can be inserted for a =.tsv= file by setting the indentation mode in the
+    top right to "Tabs" instead of "Spaces".
+  * If you're planning to make multiple changes to one file, or changes to
+    multiple files, group your changes together by committing to your own
+    branch. (An option using these words should appear at the bottom of your
+    editing interface.) Afterwards, you can make a pull request from your branch
+    to submit your full set of changes.
+
 * Language TODOs
 
   * [ ] Fill out the lexicon
