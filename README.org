@@ -720,23 +720,23 @@ Whose teacher is she? -- Depending on context, might also be "Which (subject's) 
 *** Numbers (STUB)
 
 Perflontus uses a base 6 system. The numbers 0-6 are ~ri~, ~ke~, ~ha~, ~pai~, ~uqi~, ~lo~,
-and ~agu~.
+and ~aqe~.
 
 Multiples of 6 up through 30 are formed by dropping all the final vowels from
-the sixes digit and suffixing ~agu~: ~agu~, ~hagu~, ~pagu~, ~uqagu~, ~lagu~. Adding units
-digits replaces the final ~u~; the multiples of 7 through 35 are ~agke~, ~hagha~,
-~pagpai~, ~uqaguqi~, and ~laglo~.
+the sixes digit and suffixing ~aqe~: ~aqe~, ~haqe~, ~paqe~, ~uqaqe~, ~laqe~. Adding units
+digits replaces the final ~u~; the multiples of 7 through 35 are ~aqke~, ~haqha~,
+~paqpai~, ~uqaquqi~, and ~laqlo~.
 
 The next powers of 6 up through 6^5 are ~yo~, ~sa~, ~toe~, and ~wdo~. To count multiples
 of these, prefix the entirety of the corresponding hexit, e.g. ~keyo~, ~hayo~,
-~paiyo~, ~uqiyo~, ~loyo~. Note that unlike ~agu~, in all these cases the presence of a 1
+~paiyo~, ~uqiyo~, ~loyo~. Note that unlike ~aqe~, in all these cases the presence of a 1
 hexit is explicit: ~keyo~, ~kesa~, ~ketoe~, ~kewdo~. Additional hexits are added as
-separate words, e.g. 1023 = 4423_6 = ~uqisa uqiyo kagpai~.
+separate words, e.g. 1023 = 4423_6 = ~uqisa uqiyo kaqpai~.
 
 Powers of 6 above 6^5 are formed by naming the exponent, then replacing the
-final vowel with ~wdo~: ~agu~ \rightarrow ~agwdo~, ~agke~ \rightarrow ~agkwdo~, etc. These
+final vowel with ~wdo~: ~aqe~ \rightarrow ~aqwdo~, ~aqke~ \rightarrow ~aqkwdo~, etc. These
 are still "unit" power-of-6 words, and to express an actual quantity still
-require the explicity 1 hexit: ~keagwdo~, ~keagkwdo~, ~keaghawdo~, etc.
+require the explicity 1 hexit: ~keaqwdo~, ~keaqkwdo~, ~keaqhawdo~, etc.
 
 Exact numbers do not take any additional inflection. For example "three waters"
 is ~pai enxurwe~, not ~*paurwe enxurwe~. Inexact numbers still take additional
