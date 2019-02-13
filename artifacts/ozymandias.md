@@ -4,18 +4,24 @@ old-AUG  land-ELA  traveller  meet-1S-PST
 agizwfu  veta-ELA  ogbai      im qekwmad
 
 Who said: Two vast and trunkless legs of stone
-say-3rS-PST:  large-AUG-DU-&   body-??-DU stone-??? leg-DU
-im tacatwl:   agogw       -li
+say-RS-PST:  large-AUG-DU-&   body-??-DU  stone-???  leg-DU
+im tacalwl:  agogw       -li
 
 Stand in the desert. Near them, on the sand,
 desert-INE stand-3S. them-ALL, sand-ADE,
 
 Half sunk, a shattered visage lies, whose frown
-half sink-GER?, shatter-GER? visage lie-3S, 3r-GEN frown
+half sink-RO-& shatter-RO-DEP visage lie-3S, R-GEN frown-&
 
 And wrinkled lip, and sneer of cold command
+wrinkle-3rO-DEP lip-& cold command-GER sneer
+
 Tell that its sculptor well those passions read
+tell-3pS read-3S-PST-DEP
+
 Which yet survive, stamped on these lifeless things -
+survive-rS-IMP, this-PL lifeless-ADE stamp-rO-DEP.
+
 The hand that mocked them and the heart that fed.
 
 And on the pedestal these words appear:
