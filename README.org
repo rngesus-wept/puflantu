@@ -687,9 +687,9 @@ Whose are those?
 *** Adjectives and Noun Classes (STUB)
 
 Some nouns have classes which apply an additional mutation to the word. If this
-occurs all adjectives for that noun take the mutation as well. This mutation
-happens before polarity, numeric, and comparative inflection. It applies across
-the copula but only when the object complement is an adjective.
+occurs, all non-numeric adjectives for that noun take the mutation as well. This
+mutation happens before polarity, numeric, and comparative inflection. It
+applies across the copula but only when the object complement is an adjective.
 
   * Bodily actions (W) :: Replace the final consonant cluster ~(C+)~ with ~\1w\1~.
   * Light sources (T) :: If the first vowel is ~(V)~, prefix ~\1t~.
