@@ -1,56 +1,58 @@
 
 # Table of Contents
 
-1.  [Installing and Contributing](#org287d035)
-    1.  [Dependencies](#orge5f0b0c)
-2.  [Language TODOs](#orga125c41)
-3.  [How to *Puflantu*](#orgb9a7876)
-    1.  [General Language Elements](#org9b1122d)
-    2.  [Sounds](#orgd7495e4)
-        1.  [Vowels](#orgcb844c9)
-        2.  [Consonants](#org1b6d293)
-        3.  [Syllables](#org0cf492d)
-    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#org39d6be0)
-    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#orgbfa873b)
-    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org4ae22d4)
-    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#orgf8e55cf)
-    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#org651b618)
-    8.  [Verbs, Part 3 &#x2013; To Be](#org7aa2ff3)
-    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#orgef4fdd6)
-        1.  [Gerund Case `-a`](#orgc3c0fa7)
-        2.  [Agent Case `-afe` and Patient Case `-who`](#org5e9102a)
-        3.  [Instrumental Case `-aqo`](#orgba360aa)
-        4.  [Locative Case `-ice` (STUB)](#orgd2a2194)
-        5.  [Causative Case `-ede` (STUB)](#orgf48cc5b)
-    10. [Genitive (Possessive) Case](#orgc300a49)
-    11. [Adjectives and Noun Classes (STUB)](#org16631bc)
-    12. [Comparatives and Superlatives (STUB)](#orgb67143e)
-    13. [Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)](#org79e3ace)
-        1.  [Notes](#org33fdc8f)
-    14. [Questions (STUB)](#org74a0497)
-    15. [Numbers (STUB)](#org76319ba)
-    16. [Conjunctions (STUB)](#orga9800cc)
-    17. [Dependent Clauses (STUB)](#org07b999c)
-        1.  [Noun Clauses](#org3e79601)
-    18. [Adpositions](#org60efc1b)
-    19. [Adverbs (STUB)](#orgb1e506a)
-    20. [Verbs, Part N &#x2013; Imperatives and Instructions (STUB)](#orgae2547a)
-4.  [How to *Puflantu*, Abridged (Reference Tables)](#orgfc23873)
-    1.  [Nouns](#orga1905b3)
-    2.  [Adjectives](#org4cbf0a6)
-    3.  [Pronouns](#org36ff6f8)
-        1.  [Personal Pronouns](#org7d3a317)
-        2.  [Possessive Pronouns](#org2bc5259)
-        3.  [Indefinite Pronouns](#org1a69df5)
+1.  [Installing and Contributing](#orge881324)
+    1.  [Dependencies](#org757512b)
+    2.  [Contributing](#orge7541d6)
+        1.  [Using Github's Web Interface](#orgad39eab)
+2.  [Language TODOs](#org61b0eb4)
+3.  [How to *Puflantu*](#orge134855)
+    1.  [General Language Elements](#org5c980b9)
+    2.  [Sounds](#orgf10cade)
+        1.  [Vowels](#org40cfa22)
+        2.  [Consonants](#orgedb0997)
+        3.  [Syllables](#orgd07800f)
+    3.  [Pronouns, Part 1 &#x2013; Personal Pronouns](#orgc9bc877)
+    4.  [Verbs, Part 1 &#x2013; Basic Infixes](#org74a9b33)
+    5.  [Pronouns, Part 2 &#x2013; This, That, A, and The](#org0fbcbde)
+    6.  [Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal](#org30c909f)
+    7.  [Nouns and Adjectives, Part 1 &#x2013; Number](#orgf268f7e)
+    8.  [Verbs, Part 3 &#x2013; To Be](#orgaa5a84b)
+    9.  [Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation](#orgcc62ec5)
+        1.  [Gerund Case `-a`](#org3a8d665)
+        2.  [Agent Case `-afe` and Patient Case `-who`](#org1c2e906)
+        3.  [Instrumental Case `-aqo`](#org53412e2)
+        4.  [Locative Case `-ice` (STUB)](#org6c1a2ed)
+        5.  [Causative Case `-ede` (STUB)](#orgc6dfd77)
+    10. [Genitive (Possessive) Case](#orgae4fd91)
+    11. [Adjectives and Noun Classes (STUB)](#org857f939)
+    12. [Comparatives and Superlatives (STUB)](#orga03c251)
+    13. [Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)](#org58b8a70)
+        1.  [Notes](#orge239cdc)
+    14. [Questions (STUB)](#org673e04a)
+    15. [Numbers (STUB)](#orgf5dde1e)
+    16. [Conjunctions (STUB)](#orgee7a8fa)
+    17. [Dependent Clauses (STUB)](#org83427a3)
+        1.  [Noun Clauses](#org5debb32)
+    18. [Adpositions](#org0e625b5)
+    19. [Adverbs (STUB)](#org493f26e)
+    20. [Verbs, Part N &#x2013; Imperatives and Instructions (STUB)](#orgf83be02)
+4.  [How to *Puflantu*, Abridged (Reference Tables)](#orga3b75b5)
+    1.  [Nouns](#org2d8d200)
+    2.  [Adjectives](#org348a343)
+    3.  [Pronouns](#org85de65d)
+        1.  [Personal Pronouns](#org0d5fa3a)
+        2.  [Possessive Pronouns](#org1850f2e)
+        3.  [Indefinite Pronouns](#org7947cc1)
 
 
 
-<a id="org287d035"></a>
+<a id="orge881324"></a>
 
 # Installing and Contributing
 
 
-<a id="orge5f0b0c"></a>
+<a id="org757512b"></a>
 
 ## Dependencies
 
@@ -63,7 +65,55 @@
     virtual environment, without affecting your main Python installation.
 
 
-<a id="orga125c41"></a>
+<a id="orge7541d6"></a>
+
+## Contributing
+
+Artifacts should be created directly in the `artifacts/` folder. Regardless of
+what form your artifact takes, a written transcription of its relevant
+Perflontus content should be provided as a like-named `.md`, `.org`, or `.txt` file.
+Be sure to also add any new vocabulary to the proper `root_*.tsv` file.
+
+The `root_*.tsv` files are lists of tab-separated (word, definition) pairs. They
+are ordered vaguely by semantic category so as to better demonstrate what gaps
+we have in the lexicon. Comments may be placed on their own line starting with
+`#`.
+
+To run any of the scripts, you will need to be in an appropriately configured
+pipenv environment. Running `pipenv install` in this project's root directory
+should create a virtual environment with all the project's (Python)
+dependencies. Then `pipenv shell` will put you into the virtual environment. Use
+`exit` to return to your original shell.
+
+The `explain_duplicates.sh` shell script checks the entire lexicon for duplicates,
+including on inflections, and tells you the inflections that are causing
+collision. If you have a word which you are sure will not be inflected, or one
+that violates certain morphological rules on a one-off basis (for example, a
+short noun that ends in `-w`), place it in `root_closed.tsv` instead of
+`root_nouns.tsv` or `root_verbs.tsv`. Adverbs that are formed from adjectives by
+suffixing `-s` should be entered in adjectival form in `root_nouns`; adverbs that
+don't have that derivation should go in `root_closed` (for now).
+
+`phones.py` can be used to generate a few Perflontus-valid words at random, which
+can be useful to avoid personal biases about what phonemes to use.
+
+
+<a id="orgad39eab"></a>
+
+### Using Github's Web Interface
+
+A few useful things to know when editing via the web interface alone:
+
+-   Tabs can be inserted for a `.tsv` file by setting the indentation mode in the
+    top right to "Tabs" instead of "Spaces".
+-   If you're planning to make multiple changes to one file, or changes to
+    multiple files, group your changes together by committing to your own
+    branch. (An option using these words should appear at the bottom of your
+    editing interface.) Afterwards, you can make a pull request from your branch
+    to submit your full set of changes.
+
+
+<a id="org61b0eb4"></a>
 
 # Language TODOs
 
@@ -104,19 +154,19 @@
 -   [ ] Take a moment to consider whether we have inadvertently created words
     that are deeply taboo, spoken or written, in English and whatever other
     languages we can think to check. Is there a good way to automate this check?
--   [ ] Actually write the section of adverbial suffixing
+-   [ ] Actually write the section on adverbial suffixing
 -   [ ] Perflontus speakers use an inner/outer spatial metaphor for time (where
     most human languages use front/forward/behind/back styles of metaphor). The
     inner direction corresponds to the past.
 -   [ ] Likely need a past participial adjective for smoothness?
 
 
-<a id="orgb9a7876"></a>
+<a id="orge134855"></a>
 
 # How to *Puflantu*
 
 
-<a id="org9b1122d"></a>
+<a id="org5c980b9"></a>
 
 ## General Language Elements
 
@@ -134,7 +184,7 @@ describe. In general Perflontus is head-final, meaning that the word that
 defines the type of phrase it's in comes at the end of the phrase.
 
 
-<a id="orgd7495e4"></a>
+<a id="orgf10cade"></a>
 
 ## Sounds
 
@@ -142,7 +192,7 @@ Perflontus consists of 27 phonemes, which are mapped onto the English alphabet
 plus apostrophe `'`.
 
 
-<a id="orgcb844c9"></a>
+<a id="org40cfa22"></a>
 
 ### Vowels
 
@@ -159,7 +209,7 @@ are the "i" in "pencil", the "e" in "camera", or the second "o" in "chocolate".
 "Goon" and "pool" are good English examples.
 
 
-<a id="org1b6d293"></a>
+<a id="orgedb0997"></a>
 
 ### Consonants
 
@@ -199,7 +249,7 @@ will overlay a bell sound on top of these pauses, so maybe draw them out a
 little?
 
 
-<a id="org0cf492d"></a>
+<a id="orgd07800f"></a>
 
 ### Syllables
 
@@ -223,7 +273,7 @@ nouns, usually on the penultimate or antepenultimate.
     BUH-nuh  PAH-ee  toh-RAY-loo-ah  EEM  oo-lah-TOZH.
 
 
-<a id="org39d6be0"></a>
+<a id="orgc9bc877"></a>
 
 ## Pronouns, Part 1 &#x2013; Personal Pronouns
 
@@ -254,7 +304,7 @@ vowel does not depend at all on the number, and the consonant does not depend at
 all on the case.
 
 
-<a id="orgbfa873b"></a>
+<a id="org74a9b33"></a>
 
 ## Verbs, Part 1 &#x2013; Basic Infixes
 
@@ -329,7 +379,7 @@ Each verb accepts up to three infixes, in the following order:
     ```
 
 
-<a id="org4ae22d4"></a>
+<a id="org0fbcbde"></a>
 
 ## Pronouns, Part 2 &#x2013; This, That, A, and The
 
@@ -380,7 +430,7 @@ instead.
     The 1 bus will arrive soon.
 
 
-<a id="orgf8e55cf"></a>
+<a id="org30c909f"></a>
 
 ## Verbs, Part 2 &#x2013; Tense, Aspect, Degree, and Reversal
 
@@ -413,7 +463,7 @@ If multiple prefixes are used, DIM/AUG come before REV, i.e. `yivohor*od`, not
 `voyihor*od`.
 
 
-<a id="org651b618"></a>
+<a id="orgf268f7e"></a>
 
 ## Nouns and Adjectives, Part 1 &#x2013; Number
 
@@ -460,7 +510,7 @@ they count, but might still be pluralized in cases where they are used as
 estimation units (e.g. `yo torelwe` "36 cookies" vs `ywe torelwe` "36s of cookies").
 
 
-<a id="org7aa2ff3"></a>
+<a id="orgaa5a84b"></a>
 
 ## Verbs, Part 3 &#x2013; To Be
 
@@ -499,7 +549,7 @@ some notion of identity, e.g. `etaz` "to become".
     Didi-&   Josh  hunger-DU  be-3dS.
 
 
-<a id="orgef4fdd6"></a>
+<a id="orgcc62ec5"></a>
 
 ## Nouns and Adjectives, Part 2 &#x2013; Verb-Derivation
 
@@ -530,7 +580,7 @@ opposed to `daxice jiso` "teaching-place room". Of course, Perflontus should
 ultimately have root words for "school" and "classroom" directly.
 
 
-<a id="orgc3c0fa7"></a>
+<a id="org3a8d665"></a>
 
 ### Gerund Case `-a`
 
@@ -545,7 +595,7 @@ Perflontus the two both use the gerund case.
 When used as an adjective this case always functions as a present participle,
 and only with the connotation of a thing that is performing the action in
 question. In particular, when describing something that is used *for* an action
-rather than something that is performing the action itself, use the [instrumental case](#orgba360aa).
+rather than something that is performing the action itself, use the [instrumental case](#org53412e2).
 
     Qarluz   eqa   zumuza     hie    zat.
     Charles  that  sleep-GER  human  be-3S.
@@ -573,7 +623,7 @@ suffix, which may create subtly different meanings.
     Charles is the person who is (not-sleep)ing.  -- connotations of forced wakefulness, perhaps
 
 
-<a id="org5e9102a"></a>
+<a id="org1c2e906"></a>
 
 ### Agent Case `-afe` and Patient Case `-who`
 
@@ -611,7 +661,7 @@ the instrumental case.)
     That water is not for drinking.
 
 
-<a id="orgba360aa"></a>
+<a id="org53412e2"></a>
 
 ### Instrumental Case `-aqo`
 
@@ -639,17 +689,17 @@ use `wlocaqo` as a word that means specifically "spoon", unless there's other
 nearby context that disambiguates it.
 
 
-<a id="orgd2a2194"></a>
+<a id="org6c1a2ed"></a>
 
 ### Locative Case `-ice` (STUB)
 
 
-<a id="orgf48cc5b"></a>
+<a id="orgc6dfd77"></a>
 
 ### Causative Case `-ede` (STUB)
 
 
-<a id="orgc300a49"></a>
+<a id="orgae4fd91"></a>
 
 ## Genitive (Possessive) Case
 
@@ -699,14 +749,14 @@ for the number of possessors vs the number of possessed things.
     Whose are those?
 
 
-<a id="org16631bc"></a>
+<a id="org857f939"></a>
 
 ## Adjectives and Noun Classes (STUB)
 
 Some nouns have classes which apply an additional mutation to the word. If this
-occurs all adjectives for that noun take the mutation as well. This mutation
-happens before polarity, numeric, and comparative inflection. It applies across
-the copula but only when the object complement is an adjective.
+occurs, all non-numeric adjectives for that noun take the mutation as well. This
+mutation happens before polarity, numeric, and comparative inflection. It
+applies across the copula but only when the object complement is an adjective.
 
 -   **Bodily actions (W):** Replace the final consonant cluster `(C+)` with `\1w\1`.
 -   **Light sources (T):** If the first vowel is `(V)`, prefix `\1t`.
@@ -714,7 +764,7 @@ the copula but only when the object complement is an adjective.
     first two vowels are `(VC+)(V)`, replace with `\1ur\2`.
 
 
-<a id="orgb67143e"></a>
+<a id="orga03c251"></a>
 
 ## Comparatives and Superlatives (STUB)
 
@@ -729,7 +779,7 @@ Superlatives are formed by suffixing `'fi`, `'fw`, or `-fwe` respectively. Adjec
 that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 
 
-<a id="org79e3ace"></a>
+<a id="org58b8a70"></a>
 
 ## Pronouns, Part 3 &#x2013; Indefinite Pronouns and Other Stand-Ins (STUB)
 
@@ -840,7 +890,7 @@ that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
 </table>
 
 
-<a id="org33fdc8f"></a>
+<a id="orge239cdc"></a>
 
 ### Notes
 
@@ -862,15 +912,26 @@ that use `ogi'` instead of `-'` also take `ogi'fi` instead of `-'fi`.
     "how", while `*dul` clauses are answers to questions better phrased as "why".
 
 
-<a id="org74a0497"></a>
+<a id="org673e04a"></a>
 
 ## Questions (STUB)
 
-A sentence-final `na` marks questions. The interrogative personal pronoun is the
-corresponding third person pronoun prefixed by `w-`. (`wat/wot`, `wab/wob`, `wad/wod`)
-This pronoun works for "who", "what", and "which". The genitive forms are `rwato`,
-`rwabo`, and `rwado` &#x2013; recall that the pronoun infixed into `r*o` indicates the
-number of possessors but always takes the subjective case.
+A sentence-final `na` marks questions. This is sufficient to make a sentence
+interrogative; no further word order changes are required.
+
+    Os wlizoc  na.
+    eat-2S-PRF ?
+    Have you eaten?
+
+    Zo,  os wlwmoc.
+    yes  eat-1S-PRF.
+    Yes, I have eaten.
+
+The interrogative personal pronoun is the corresponding third person pronoun
+prefixed by `w-`. (`wat/wot`, `wab/wob`, `wad/wod`) This pronoun works for "who",
+"what", and "which". The genitive forms are `rwato`, `rwabo`, and `rwado` &#x2013; recall
+that the pronoun infixed into `r*o` indicates the number of possessors but always
+takes the subjective case.
 
     Wad     et   qekadumad    na.
     Who-PL  FUT  meet-3pS-1O  ?
@@ -884,36 +945,50 @@ number of possessors but always takes the subjective case.
     Who-GEN  teach-AGT  be-3S  ?
     Whose teacher is she? -- Depending on context, might also be "Which (subject's) teacher"
 
+Additional interrogatives are shown in the table in the previous section. In the
+same way that questions don't take on a different word order than declarative
+sentences, those interrogatives still take a "normal" word order, e.g. `wbwr`
+"when" takes the same position that a time-marking adverb would take in a
+declarative sentence.
 
-<a id="org76319ba"></a>
+    Janu  wbwr  et qekatuyad     na.
+    Jon   when  meet-3S-1pO-FUT  ?
+    When will Jon meet us?
+
+    Janu  tiroqas    et qekatuyad.
+    Jon   today-ADV  meet-3S-1pO-FUT.
+    Jon will meet us today.
+
+
+<a id="orgf5dde1e"></a>
 
 ## Numbers (STUB)
 
 Perflontus uses a base 6 system. The numbers 0-6 are `ri`, `ke`, `ha`, `pai`, `uqi`, `lo`,
-and `agu`.
+and `aqe`.
 
 Multiples of 6 up through 30 are formed by dropping all the final vowels from
-the sixes digit and suffixing `agu`: `agu`, `hagu`, `pagu`, `uqagu`, `lagu`. Adding units
-digits replaces the final `u`; the multiples of 7 through 35 are `agke`, `hagha`,
-`pagpai`, `uqaguqi`, and `laglo`.
+the sixes digit and suffixing `aqe`: `aqe`, `haqe`, `paqe`, `uqaqe`, `laqe`. Adding units
+digits replaces the final `u`; the multiples of 7 through 35 are `aqke`, `haqha`,
+`paqpai`, `uqaquqi`, and `laqlo`.
 
 The next powers of 6 up through 6<sup>5</sup> are `yo`, `sa`, `toe`, and `wdo`. To count multiples
 of these, prefix the entirety of the corresponding hexit, e.g. `keyo`, `hayo`,
-`paiyo`, `uqiyo`, `loyo`. Note that unlike `agu`, in all these cases the presence of a 1
+`paiyo`, `uqiyo`, `loyo`. Note that unlike `aqe`, in all these cases the presence of a 1
 hexit is explicit: `keyo`, `kesa`, `ketoe`, `kewdo`. Additional hexits are added as
-separate words, e.g. 1023 = 4423<sub>6</sub> = `uqisa uqiyo kagpai`.
+separate words, e.g. 1023 = 4423<sub>6</sub> = `uqisa uqiyo kaqpai`.
 
 Powers of 6 above 6<sup>5</sup> are formed by naming the exponent, then replacing the
-final vowel with `wdo`: `agu` &rarr; `agwdo`, `agke` &rarr; `agkwdo`, etc. These
+final vowel with `wdo`: `aqe` &rarr; `aqwdo`, `aqke` &rarr; `aqkwdo`, etc. These
 are still "unit" power-of-6 words, and to express an actual quantity still
-require the explicity 1 hexit: `keagwdo`, `keagkwdo`, `keaghawdo`, etc.
+require the explicity 1 hexit: `keaqwdo`, `keaqkwdo`, `keaqhawdo`, etc.
 
 Exact numbers do not take any additional inflection. For example "three waters"
 is `pai enxurwe`, not `*paurwe enxurwe`. Inexact numbers still take additional
 inflection. For example "36s of dances" is `ywywe hinalwla`.
 
 
-<a id="orga9800cc"></a>
+<a id="orgee7a8fa"></a>
 
 ## Conjunctions (STUB)
 
@@ -942,7 +1017,7 @@ Section on comparatives should incorporate the conjunctions for "&#x2026;as X as
 and "&#x2026;more/less X than Y".
 
 
-<a id="org07b999c"></a>
+<a id="org83427a3"></a>
 
 ## Dependent Clauses (STUB)
 
@@ -970,7 +1045,7 @@ clause were rephrased as a standalone sentence. Further examples below will help
 illustrate how this is decided.
 
 
-<a id="org3e79601"></a>
+<a id="org5debb32"></a>
 
 ### Noun Clauses
 
@@ -1020,7 +1095,7 @@ may require more structure:
     *The [that I ate] blue things pleased me.
 
 
-<a id="org60efc1b"></a>
+<a id="org0e625b5"></a>
 
 ## Adpositions
 
@@ -1028,14 +1103,14 @@ may require more structure:
 -   -uqo
 
 
-<a id="orgb1e506a"></a>
+<a id="org493f26e"></a>
 
 ## Adverbs (STUB)
 
 Adverbs are formed by suffixing `s`. This also applies to particles.
 
 
-<a id="orgae2547a"></a>
+<a id="orgf83be02"></a>
 
 ## Verbs, Part N &#x2013; Imperatives and Instructions (STUB)
 
@@ -1045,12 +1120,12 @@ passive voice, i.e. omitting the "you" subject. Direct, more "blunt" forms
 address, add the subject pronoun infixes.
 
 
-<a id="orgfc23873"></a>
+<a id="orga3b75b5"></a>
 
 # How to *Puflantu*, Abridged (Reference Tables)
 
 
-<a id="orga1905b3"></a>
+<a id="org2d8d200"></a>
 
 ## Nouns
 
@@ -1058,7 +1133,7 @@ address, add the subject pronoun infixes.
 -   Dual number converts the final vowel to `-w`. Plural number to `-we`.
 
 
-<a id="org4cbf0a6"></a>
+<a id="org348a343"></a>
 
 ## Adjectives
 
@@ -1069,12 +1144,12 @@ address, add the subject pronoun infixes.
 -   Suffix `-s` to convert to an adverb.
 
 
-<a id="org36ff6f8"></a>
+<a id="org85de65d"></a>
 
 ## Pronouns
 
 
-<a id="org7d3a317"></a>
+<a id="org0d5fa3a"></a>
 
 ### Personal Pronouns
 
@@ -1166,7 +1241,7 @@ address, add the subject pronoun infixes.
 </table>
 
 
-<a id="org2bc5259"></a>
+<a id="org1850f2e"></a>
 
 ### Possessive Pronouns
 
@@ -1254,7 +1329,7 @@ would a normal noun, e.g. `rwmo` &rarr; `rwmw` / `rwmwe`.
 </table>
 
 
-<a id="org1a69df5"></a>
+<a id="org7947cc1"></a>
 
 ### Indefinite Pronouns
 
