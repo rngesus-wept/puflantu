@@ -56,6 +56,15 @@ zoxa	maybe
 calu	true
 ywri	false
 
+# Time
+tibwr	now
+albwr	then, at that time
+orbwr	sometime
+yebwr	never, at no time
+axwbwr	always
+velbwr	anytime, whenever
+wbwr	when?
+
 # Indefinite adverbs and similar
 tihan	here
 alhan	there
@@ -64,13 +73,6 @@ yehan	nowhere
 axwhan	everywhere
 velhan	anywhere, wherever
 whan	where?
-tibwr	now
-albwr	then, at that time
-orbwr	sometime
-yebwr	never, at no time
-axwbwr	always
-velbwr	anytime, whenever
-wbwr	when?
 tizov	this way, thus
 alzov	that way, if
 orzov	somehow, indefinite way
