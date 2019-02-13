@@ -739,11 +739,24 @@ that use ~ogi'~ instead of ~-'~ also take ~ogi'fi~ instead of ~-'fi~.
 
 *** Questions (STUB)
 
-A sentence-final ~na~ marks questions. The interrogative personal pronoun is the
-corresponding third person pronoun prefixed by ~w-~. (~wat/wot~, ~wab/wob~, ~wad/wod~)
-This pronoun works for "who", "what", and "which". The genitive forms are ~rwato~,
-~rwabo~, and ~rwado~ -- recall that the pronoun infixed into ~r*o~ indicates the
-number of possessors but always takes the subjective case.
+A sentence-final ~na~ marks questions. This is sufficient to make a sentence
+interrogative; no further word order changes are required.
+
+#+BEGIN_EXAMPLE
+Os wlizoc  na.
+eat-2S-PRF ?
+Have you eaten?
+
+Zo,  os wlwmoc.
+yes  eat-1S-PRF.
+Yes, I have eaten.
+#+END_EXAMPLE
+
+The interrogative personal pronoun is the corresponding third person pronoun
+prefixed by ~w-~. (~wat/wot~, ~wab/wob~, ~wad/wod~) This pronoun works for "who",
+"what", and "which". The genitive forms are ~rwato~, ~rwabo~, and ~rwado~ -- recall
+that the pronoun infixed into ~r*o~ indicates the number of possessors but always
+takes the subjective case.
 
 #+BEGIN_EXAMPLE
 Wad     et   qekadumad    na.
@@ -757,6 +770,22 @@ Whom will I meet?
 Rwato    daxafe     zat    na.
 Who-GEN  teach-AGT  be-3S  ?
 Whose teacher is she? -- Depending on context, might also be "Which (subject's) teacher"
+#+END_EXAMPLE
+
+Additional interrogatives are shown in the table in the previous section. In the
+same way that questions don't take on a different word order than declarative
+sentences, those interrogatives still take a "normal" word order, e.g. =wbwr=
+"when" takes the same position that a time-marking adverb would take in a
+declarative sentence.
+
+#+BEGIN_EXAMPLE
+Janu  wbwr  et qekatuyad     na.
+Jon   when  meet-3S-1pO-FUT  ?
+When will Jon meet us?
+
+Janu  tiroqas    et qekatuyad.
+Jon   today-ADV  meet-3S-1pO-FUT.
+Jon will meet us today.
 #+END_EXAMPLE
 
 *** Numbers (STUB)
