@@ -100,31 +100,31 @@ ha	2
 pai	3
 uqi	4
 lo	5
-agke	7
-agha	8
-agpai	9
-aguqi	10
-aglo	11
-hagke	13
-hagha	14
-hagpai	15
-haguqi	16
-haglo	17
-pagke	19
-pagha	20
-pagpai	21
-paguqi	22
-paglo	23
-uqagke	25
-uqagha	26
-uqagpai	27
-uqaguqi	28
-uqaglo	29
-lagke	31
-lagha	32
-lagpai	33
-laguqi	34
-laglo	35
+aqke	7
+aqha	8
+aqpai	9
+aquqi	10
+aqlo	11
+haqke	13
+haqha	14
+haqpai	15
+haquqi	16
+haqlo	17
+paqke	19
+paqha	20
+paqpai	21
+paquqi	22
+paqlo	23
+uqaqke	25
+uqaqha	26
+uqaqpai	27
+uqaquqi	28
+uqaqlo	29
+laqke	31
+laqha	32
+laqpai	33
+laquqi	34
+laqlo	35
 keyo	36
 hayo	72
 uqiyo	144
@@ -144,3 +144,11 @@ hawdo	15552
 paiwdo	23328
 uqiwdo	31104
 lowdo	38880
+
+# These numbers should be normal nouns but are monosyllablic
+yo	thirty-six
+yw	thirty-sixes
+ywe	thirty-sixes
+sa	two hundred sixteen
+sw	two hundred sixteens
+swe	two hundred sixteens
