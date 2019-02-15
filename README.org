@@ -891,8 +891,8 @@ pronoun "that" doesn't play any role other than to indicate that what follows is
 a dependent clause.
 
 #+BEGIN_EXAMPLE
-Im   wlwmoryoc   -ka   um  im   somatun.
-PST  eat-1S-RpO  -DEP  1O  PST  please-3S.
+Im   wlwm[ory]oc  -ka   um  im   somatun.
+PST  eat-1S-RpO   -DEP  1O  PST  please-3S.
 The things that I ate pleased me.
 #+END_EXAMPLE
 
@@ -919,6 +919,20 @@ The [me-eaten] blue things pleased me.
 *[Im   wlwmoc   -ka]   honwzwe  um  im   somatun.    -- Incorrect
 *[PST  eat-1S   -DEP]  blue-PL  1O  PST  please-3S.
 *The [that I ate] blue things pleased me.
+#+END_EXAMPLE
+
+Past participles are implemented as dependent clauses. In particular, recall
+that the passive voice is formed by supplying a verb with an object, but not a
+subject infix.
+
+#+BEGIN_EXAMPLE
+Im fumalub      -ka       toreli  wlwmoc.
+combust-RS-PST  -DEP  cookie  eat-1S.
+I eat the burnt cookie. (the cookie that combusted)
+
+Im vunolod  -ka   toreli  wlwmoc.
+ignite-RO   -DEP  cookie  eat-1S.
+I eat the burnt cookie. (the cookie that is ignited)
 #+END_EXAMPLE
 
 *** Adpositions
