@@ -948,6 +948,11 @@ I eat the burnt cookie. (the cookie that combusted)
 Im vunolod  -ka   toreli  wlwmoc.
 ignite-RO   -DEP  cookie  eat-1S.
 I eat the burnt cookie. (the cookie that was ignited)
+
+Golir    -ka   lerura      ratiq.
+know-RO  -DEP  quantity-R  drink-3S.
+He drinks a known quantity (of fluid). (a quantity that is known)
+               ^ note that the noun class is not reflected in the participial clause
 #+END_EXAMPLE
 
 *** Adpositions
