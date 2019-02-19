@@ -947,7 +947,7 @@ I eat the burnt cookie. (the cookie that combusted)
 
 Im vunolod  -ka   toreli  wlwmoc.
 ignite-RO   -DEP  cookie  eat-1S.
-I eat the burnt cookie. (the cookie that is ignited)
+I eat the burnt cookie. (the cookie that was ignited)
 #+END_EXAMPLE
 
 *** Adpositions
