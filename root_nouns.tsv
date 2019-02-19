@@ -50,14 +50,14 @@ ogbai	traveller, vagabond
 toreli	cookie
 enxa	water
 kofi	coffee
-turaka	pasta
-whibo	egg
+turakolu	pasta
+wibale	egg
 oku	flour
 balorvu	dough
-zame	salt
+zalma	salt
 twipe	sugar
 hompaliso	butter
-goma	fruit
+gomu	fruit
 orbili	jelly
 mofke	oats
 paliso	milk
@@ -81,6 +81,7 @@ veta	nation, state, delineated region
 usonba	land, ground, earth
 
 # Colors
+itiye	color
 wre	black
 apo	white
 emkixa	red
@@ -91,6 +92,20 @@ honwze	blue
 # Descriptors
 izwfu	old
 zohca	young
+wepu	distinguished, magnificent
+oma	good, satisfactory
+oyu	bad, inadequate
+agi	big, large
+eyi	small (size)
+ogi	many, much
+uyi	few, little, small (quantity)
+ogwri	frequent, common
+uywri	rare, scarce
+qahe	close, near
+xuso	distant, far
+
+# Space
+puflantu	galaxy
 
 # Numbers
 aqe	6, half-dozen
@@ -116,11 +131,9 @@ ogku	???
 jano	???
 nousve	???
 hwomda	???
-oqahe	???
 ocake	???
 lirwpa	???
 mainci	???
-exuso	???
 rojde	???
 dusiko	???
 ovekqu	???
