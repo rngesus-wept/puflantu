@@ -53,7 +53,7 @@ NOUN_SUFFIXES = odict({'AGT': 'afe', 'PAT': 'who', 'INS': 'aqo',
                        'LOC': 'ice', 'CAU': 'ede', 'GER': 'a'})
 NOUN_CLASSES = [None, 'W', 'T', 'R']
 NUMBERS = odict({None: '', 'DU': 'w', 'PL': 'we'})
-COMPARISONS = odict({None: '', 'CMP': "'", 'SUP': "'f"})
+COMPARISONS = odict({None: '', 'CMP': "'f", 'SUP': "'"})
 ADVERBIAL = odict({True: 'c', False: ''})
 POSSESSIVE = odict({True: 're', False: ''})
 
