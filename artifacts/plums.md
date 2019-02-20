@@ -1,16 +1,16 @@
-This is just to say
+this just say-GER is-3S
 
-I have eaten
-the plums
-that were in
-the icebox
+Icebox-in
+were-RS-and
 
-and which
-you were probably
-saving
-for breakfast
+probably
+breakfast-for
+save-2S-RpO-PST-PRF
 
-Forgive me
-they were delicious
-so sweet
-and so cold
+???gomwe
+imor wlwmadoc
+
+forgive-1O-IMP
+delicious im zad
+sweet-AUG-and
+cold-AUG
