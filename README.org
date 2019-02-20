@@ -442,9 +442,10 @@ Jakob does not eat non-green cookies.
 #+END_EXAMPLE
 
 Note that numbers (like ~ha~ "two" in the second example) are an exception to
-this. They do not generally take on the same numeric inflection as the objects
-they count, but might still be pluralized in cases where they are used as
-estimation units (e.g. ~yo torelwe~ "36 cookies" vs ~ywe torelwe~ "36s of cookies").
+this. They do not generally take on the same inflections as the objects they
+count (including inflection due to negation or noun class), but might still be
+pluralized in cases where they are used as estimation units (e.g. ~yo torelwe~ "36
+cookies" vs ~ywe torelwe~ "36s of cookies").
 
 *** Verbs, Part 3 -- To Be
 
@@ -469,9 +470,10 @@ sort of identity relation. Separate verbs are used for other meanings that have
 been folded into the English "to be", e.g. ~z*if~ "to be located", ~j*if~ "to
 exist".
 
-=Az= copies the negative and number inflections from the things it links. This
-mirroring is primarily seen for =az= but also occurs for other verbs that express
-some notion of identity, e.g. =etaz= "to become".
+=Az= copies the number inflections from the things it links, as well as the
+negative inflection of adjectives (but not nouns). This mirroring is primarily
+seen for =az= but also occurs for other verbs that express some notion of
+identity, e.g. =etaz= "to become".
 
 #+BEGIN_EXAMPLE
 Didi  ruzeqo  zat.
@@ -482,8 +484,13 @@ Didi  ruzeq[ay]o  zat[ey].
 Didi  hunger-NEG  be-3S-NEG.
 Didi is not hungry.
 
+Didi  ruzeq[ay]o  zat.
+Didi  hunger-NEG  be-3S.
+Didi is a not-hungry (person).
+
 Didi-li  Joxu  ruzeq[w]   z[ab].
 Didi-&   Josh  hunger-DU  be-3dS.
+Didi and Josh are hungry.
 #+END_EXAMPLE
 
 *** Nouns and Adjectives, Part 2 -- Verb-Derivation
