@@ -835,15 +835,18 @@ I eat and sleep a lot.
 
 The full list of coordinating conjunctions is as follows:
 
-| -li(s) | and                        | Emkixa-li kolbao zat.        | It is red and green.            |
-| -di(s) | but, yet (contrastive and) | Ogis lifwman-dis uyis ywmel. | I study a lot but learn little. |
-| -fo(s) |                            |                              |                                 |
+| -li(s) | and                        | Emkixa-li kolbao zat.        | It is red and green.              |
+| -di(s) | but, yet (contrastive and) | Ogis lifwman-dis uyis ywmel. | I study a lot but learn little.   |
+| -ni(s) | then (sequential and)      | Bastonu-ni Yw Iorka twyex.   | We went to Boston, then New York. |
+| -fo(s) | exclusive or               | At-fo wm cwnub.              | Either he or I will speak.        |
+| -vo(s) | inclusive or               | Paliso-vo twipe orcizal na.  | Do you want milk and/or sugar?    |
 
-  * -li(s) :: and
-  * -di(s) :: but, yet (contrastive and)
-  * -gi(s) :: nor
-  * -fo(s) :: exclusive or
-  * -vo(s) :: inclusive or
+Note that the inflection of the verb, where appropriate, is based on the
+combination of all list elements for both "and" and "or". (This is in contrast
+to English, where the inflection of the verb matches the /last/ list element in
+the "or" case.) As an example, the exclusive-or sentence above uses the
+first person dual =c[wn]ub= instead of the first person singular =c[wm]ub=.
+
   * -xa(s) :: for, because
   * -ja(s) :: so, therefore
 
