@@ -833,6 +833,12 @@ frequent-ADV  eat-1S  -&-ADV  sleep-1S
 I eat and sleep a lot.
 #+END_EXAMPLE
 
+The full list of coordinating conjunctions is as follows:
+
+| -li(s) | and                        | Emkixa-li kolbao zat.        | It is red and green.            |
+| -di(s) | but, yet (contrastive and) | Ogis lifwman-dis uyis ywmel. | I study a lot but learn little. |
+| -fo(s) |                            |                              |                                 |
+
   * -li(s) :: and
   * -di(s) :: but, yet (contrastive and)
   * -gi(s) :: nor
@@ -959,7 +965,7 @@ ignite-RO   -DEP  cookie  eat-1S.
 I eat the burnt cookie. (the cookie that was ignited)
 #+END_EXAMPLE
 
-***** Simple Adverbial Clauses - When
+***** Simple Adverbial Clauses - When, Where
 
 *** Adpositions
 
