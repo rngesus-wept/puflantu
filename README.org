@@ -815,14 +815,23 @@ inflection. For example "36s of dances" is ~ywywe hinalwla~.
 
 *** Conjunctions (STUB)
 
-In all cases I have supplied as many English glosses as possible to help clarify
-the nature of the conjunction. There may be further splits into new words as we
-find new semantic use cases.
+Conjunctions in Perflontus are particles added to the end of each element they
+link, save for the last.
 
-The rule about adding ~-s~ to make something adverbial extends to the use of
-conjunctions -- they all end in vowels when used for nouns and adjectives, but
-take on the extra ~-s~ when linking two verbs or adverbs, or when linking in a
-clause or phrase that acts adverbially.
+#+BEGIN_EXAMPLE
+Setu  ha  wibalw  -li  twipe  -li  oku    solatodov.
+Seth  2   egg-DU  -&   sugar  -&   flour  need-3S-3pO
+Seth needs two eggs, sugar, and flour.
+#+END_EXAMPLE
+
+Much like adjectives take =-s= to become adverbial when modifying verbs,
+conjunctions take =-s= when linking lists of verbs or clauses.
+
+#+BEGIN_EXAMPLE
+Ogwris        wlwmoc  -lis    zumwmuz.
+frequent-ADV  eat-1S  -&-ADV  sleep-1S
+I eat and sleep a lot.
+#+END_EXAMPLE
 
   * -li(s) :: and
   * -di(s) :: but, yet (contrastive and)
@@ -954,6 +963,8 @@ know-RO  -DEP  quantity-R  drink-3S.
 He drinks a known quantity (of fluid). (a quantity that is known)
                ^ note that the noun class is not reflected in the participial clause
 #+END_EXAMPLE
+
+***** Simple Adverbial Clauses - When
 
 *** Adpositions
 
