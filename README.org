@@ -366,24 +366,27 @@ The 1 bus will arrive soon.
 
 *** Verbs, Part 2 -- Tense, Aspect, Degree, and Reversal
 
-Perflontus expresses two non-present tenses, past and future; and two aspects,
-imperfect and perfect. (Briefly, the imperfect aspect indicates that the verb
-action is ongoing or otherwise incomplete; the perfect aspect indicates that the
-verb action has concluded.) These expressions appear as proclitics, i.e. prefix
+Perflontus expresses two non-present tenses, past and future; two aspects,
+imperfect and perfect; and two irrealis moods, the hypothetical and the
+counterfactual. (Briefly, the imperfect aspect indicates that the verb action is
+ongoing or otherwise incomplete; the perfect aspect indicates that the verb
+action has concluded.) These expressions appear as proclitics, i.e. prefix
 particles.
 
-#+BEGIN_EXAMPLE
-| Present         | --       | Elaiza zumatuz.      | Eliza sleeps.           |
-| Past (PST)      | im       | Elaiza im zumatuz.   | Eliza slept.            |
-| Future (FUT)    | et       | Elaiza et zumatuz.   | Eliza will sleep.       |
-|-----------------+----------+----------------------+-------------------------|
-| Imperfect (IMP) | av / -av | Elaiza av zumatuz.   | Eliza is sleeping.      |
-|                 |          | Elaiza imav zumatuz. | Eliza was sleeping.     |
-|                 |          | Elaiza etav zumatuz. | Eliza will be sleeping. |
-|-----------------+----------+----------------------+-------------------------|
-| Perfect (PRF)   | os / -os | Elaiza os zumatuz.   | Eliza has slept.        |
-|                 |          | Elaiza imos zumatuz. | Eliza had slept.        |
-|                 |          | Elaiza etos zumatuz. | Eliza will have slept.  |
+
+| Present            | -- | Elaiza zumatuz.      | Eliza sleeps.           |
+| Past (PST)         | im | Elaiza im zumatuz.   | Eliza slept.            |
+| Future (FUT)       | et | Elaiza et zumatuz.   | Eliza will sleep.       |
+|--------------------+----+----------------------+-------------------------|
+| Imperfect (IMP)    | av | Elaiza av zumatuz.   | Eliza is sleeping.      |
+|                    |    | Elaiza imav zumatuz. | Eliza was sleeping.     |
+|                    |    | Elaiza etav zumatuz. | Eliza will be sleeping. |
+|--------------------+----+----------------------+-------------------------|
+| Perfect (PRF)      | os | Elaiza os zumatuz.   | Eliza has slept.        |
+|                    |    | Elaiza imos zumatuz. | Eliza had slept.        |
+|                    |    | Elaiza etos zumatuz. | Eliza will have slept.  |
+|--------------------+----+----------------------+-------------------------|
+| Hypothetical (HYP) |    |                      |                         |
 #+END_EXAMPLE
 
 Verbs may be modified in degree or even reversed by the use of a prefix:
