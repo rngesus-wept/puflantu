@@ -49,3 +49,19 @@ agdusikwe
 cold-AUG-PL
 so cold
 ```
+
+ITA CON COLUB
+
+Dusikoca henqo  
+im zaryif-ba-li  
+rojgomwe  
+or wlwmoc
+
+Od  
+kerum kolarvu dules  
+imorak rwgizex
+
+'iktojumit  
+Hwomdwe im zad  
+Agtwipwe-li  
+agdusikwe
