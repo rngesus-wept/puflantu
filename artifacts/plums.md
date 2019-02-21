@@ -12,9 +12,9 @@ rojgomwe
 or wlwmoc
 
 'iktojumit  
-hwomda im zad  
-agtwipe-li  
-agdusiko
+hwomdwe im zad  
+agtwipwe-li  
+agdusikwe
 
 ```
 Ita   con     colub
@@ -37,15 +37,15 @@ I have eaten the plums
 forgive-1O-IMP
 Forgive me
 
-hwomda     im   zad
-delicious  PST  be-3pS
+hwomdwe       im   zad
+delicious-PL  PST  be-3pS
 They were delicious
 
-agtwipe    -li
-sweet-AUG  -&
+agtwipwe      -li
+sweet-AUG-PL  -&
 So sweet and
 
-agdusiko
-cold-AUG
+agdusikwe
+cold-AUG-PL
 so cold
 ```
