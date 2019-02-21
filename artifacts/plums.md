@@ -1,16 +1,15 @@
 ITA CON COLUB
 
 Dusikoca  
-henqo  
+henqo im  
 zaryif-ba-li
 
 kerum kolarvu  
-dule  
-imorak  
+dules imorak  
 rwgizoryex-ba
 
 rojgomwe  
-im wlwmoc
+or wlwmoc
 
 'iktojumit  
 hwomda im zad  
@@ -22,17 +21,17 @@ Ita   con     colub
 this  simply  say-RO
 This is just to say
 
-Dusikoca  henqo     zaryif       -ba   -li
-icebox    interior  located-RpS  -DEP  -and
+Dusikoca  henqo     im   zaryif       -ba   -li
+icebox    interior  PST  located-RpS  -DEP  -and
 that were in the icebox and
 
-kerum  kolarvu  dule    imorak       rwgizoryex   -ba
-1-ORD  bread    reason  PST-PRF-HYP  save-2S-RpO  -DEP
+kerum  kolarvu  dules       imorak       rwgizoryex   -ba
+1-ORD  bread    reason-ADV  PST-PRF-HYP  save-2S-RpO  -DEP
 that you may have been saving for breakfast
 
-rojgomwe  im   wlwmoc
-plum-PL   PST  eat-1S
-I ate the plums
+rojgomwe  or   wlwmoc
+plum-PL   PRF  eat-1S
+I have eaten the plums
 
 'iktojumit
 forgive-1O-IMP
