@@ -961,6 +961,12 @@ I eat the burnt cookie. (the cookie that was ignited)
 
 ***** Simple Adverbial Clauses - When
 
+***** Comparative Clauses (STUB)
+
+Comparisons are always expanded to a full clause. Instead of `-ba` the
+subordinate verb takes the particle `-sos`, and the use of the relative pronoun
+in the clause indicates the role of the thing being compared.
+
 *** Adpositions
 
   * -uxo
