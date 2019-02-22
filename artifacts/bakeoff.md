@@ -1,12 +1,13 @@
-Rulfobafwe | incorporate-PAT-PL | Components
+Rulfobafwe | combine-PAT-PL | Components
 --- | --- | ---
 **`Turakolu`** | **pasta** | **Pasta**
-`??? ??? zat-sos ???'fi-li hwomda'fi` | [store-bought] be-3S-than fresh-CMP-& delicious-CMP | *Fresher and more delicious than store-bought.*
-x | x | Add 2-3 eggs to 3 cups flour, and knead together.
+*`kanwjice ??? zat-sos cuafi'fi-li hwomda'fi`* | buy-LOC from be-3S-than fresh-CMP-& delicious-CMP | *Fresher and more delicious than store-bought.*
+`2-3 wibalwe-li 3 oku janwe 'rulfodob-lis 'axuhotox.` | 2-3 egg-PL-& 3 flour cups combine-3pO-IMP-& knead-3O-IMP | Add 2-3 eggs to 3 cups flour, and knead together.
 x | x | Roll out mixture with a rolling pin into a flat sheet and cut into thin strips.
-**???** | dough | Dough
-x | x | *A basic, versatile dough.*
-x | x | Add 4g salt and 1g leavening agent to 1 cup flour. Add 3/4 cup water to the mixture and knead together.
+**Balorvu** | **dough** | **Dough**
+`ovekqu-li tozqwyo balorvu` | simple-& versatile dough | *A basic, versatile dough.*
+`4 zalma guramwe-li 1 laksalfa guramu-li 1 oku jano 'rulfodob.` | 4 salt gram-PL-& 1 yeast gram-& 1 cup salt combine-3pO-IMP | Add 4g salt and 1g leavening agent to 1 cup flour.
+`3/4 enxura janurwe ??? ??? 'motid-lis 'axuhotox.` | 3/4 water cups mixture into add-3O-IMP & knead-3O-IMP | Add 3/4 cup water to the mixture and knead together.
 x | x | Let rest overnight to rise.
 **`Twipe Balorvu`** | sugar dough | **Sugar Dough**
 x | x | *Use this to make a perfect pie!*
