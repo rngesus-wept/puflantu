@@ -4,16 +4,16 @@ Rulfobafwe | combine-PAT-PL | Components
 *`kanwjice ??? zat-sos cuafi'fi-li hwomda'fi`* | buy-LOC from be-3S-than fresh-CMP-& delicious-CMP | *Fresher and more delicious than store-bought.*
 `2-3 wibalwe-li 3 oku janwe 'rulfodob-lis 'axuhotox.` | 2-3 egg-PL-& 3 flour cups combine-3pO-IMP-& knead-3O-IMP | Add 2-3 eggs to 3 cups flour, and knead together.
 x | x | Roll out mixture with a rolling pin into a flat sheet and cut into thin strips.
-**Balorvu** | **dough** | **Dough**
+**`Balorvu`** | **dough** | **Dough**
 `ovekqu-li tozqwyo balorvu` | simple-& versatile dough | *A basic, versatile dough.*
 `4 zalma guramwe-li 1 laksalfa guramu-li 1 oku jano 'rulfodob.` | 4 salt gram-PL-& 1 yeast gram-& 1 cup salt combine-3pO-IMP | Add 4g salt and 1g leavening agent to 1 cup flour.
 `3/4 enxura janurwe ??? ??? 'motid-lis 'axuhotox.` | 3/4 water cups mixture into add-3O-IMP & knead-3O-IMP | Add 3/4 cup water to the mixture and knead together.
 x | x | Let rest overnight to rise.
 **`Twipe Balorvu`** | sugar dough | **Sugar Dough**
 x | x | *Use this to make a perfect pie!*
-x | x | Add 3g salt and 3g sugar to 1 cup flour.
-x | x | Add 1/2 cup cold diced butter and roughly work it in, leaving small chunks.
-x | x | Add 30g cold water and mix.
+`3 zalma guramwe-li 3 twipe guramwe-li 1 oku jano 'rulfodob.` | x | Add 3g salt and 3g sugar to 1 cup flour.
+`1/2 ??? ??? ??? ???-ka dusiko hompaliso jano 'motid-lis, ??? ??? ???-ka ???s '???.` | 1/2 small cubes into cut-DEP cold butter cup add-3O-&, small chunks leave-3pO-IMP-DEP rough-ADV work_in-IMP. | Add 1/2 cup cold diced butter and roughly work it in, leaving small chunks.
+`50 dusuriko enxura gururamwe 'modid-lis '???.` | 30 cold-R water-R gram-R-PL add-3pO-IMP-& mix-3O-IMP. | Add 30g cold water and mix.
 **`Orbili`** | jelly | **Jelly**
 x | x | Have more fruit than you can eat? Here's what to do with it.
 x | x | Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and 3 cups sugar to a saucepan.
@@ -107,3 +107,4 @@ x | x | Divide mixture into small mounts. Bake until set and lightly golden.
   * Russian: during morning +k
 * Many human languages seem to import metric units phonetically, with Chinese being a notable exception.
 * Many human languages use their existing word for "cup".
+* The Perflontus numbering system uses base 6.
