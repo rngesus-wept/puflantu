@@ -23,7 +23,7 @@
 | `Ifarwe henqo-ti 'ajoten.`                                                 | vessel-PL interior-ALL put-3O-IMP                                   | Put into jars.                                                                        |
 
 
-| Kerum Kolarvu           | 1-ORD bread   | Breakfast                                                                                                                     |
+| Keru Kolarvu            | 1-ORD bread   | Breakfast                                                                                                                     |
 | ---                     | ---           | ---                                                                                                                           |
 | **???**                 | x             | **Oatmeal**                                                                                                                   |
 | x                       | x             | *A great healthy way to start the day.*                                                                                       |

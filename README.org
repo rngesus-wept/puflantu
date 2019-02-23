@@ -813,6 +813,9 @@ Exact numbers do not take any additional inflection. For example "three waters"
 is ~pai enxurwe~, not ~*paurwe enxurwe~. Inexact numbers still take additional
 inflection. For example "36s of dances" is ~ywywe hinalwla~.
 
+Ordinal numbers are formed by the suffix =-ru=. This is subject to
+adverbialization by an added =-s=.
+
 *** Conjunctions (STUB)
 
 Conjunctions in Perflontus are particles added to the end of each element they
