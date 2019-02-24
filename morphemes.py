@@ -50,7 +50,7 @@ INVERSION = odict({True: 'vo', False: ''})
 VERB_POLARITIES = odict({None: '', 'NEG': 'ey'})
 NOUN_POLARITIES = odict({None: '', 'NEG': 'uy'})
 NOUN_SUFFIXES = odict({'AGT': 'afe', 'PAT': 'who', 'INS': 'aqo',
-                       'LOC': 'ice', 'CAU': 'ede', 'GER': 'a'})
+                       'LOC': 'ice', 'CAU': 'ede', 'GER': 'a', 'RES': 'oda'})
 NOUN_CLASSES = [None, 'W', 'T', 'R']
 NUMBERS = odict({None: '', 'DU': 'w', 'PL': 'we'})
 COMPARISONS = odict({None: '', 'CMP': "'f", 'SUP': "'"})

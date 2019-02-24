@@ -504,6 +504,7 @@ final vowel of the root verb.
 | Instrument (INS) | A thing that enables X-ing  | X-assisting, for X-ing  | -aqo   | daxaqo "educational" |
 | Location (LOC)   | A place where X-ing happens | X-hosting               | -ice   | daxice               |
 | Cause (CAU)      | A thing that causes X-ing   | X-causing               | -ede   | daxede               |
+| Result (RES)     | A thing that results from X | X-produced              | -oda   | daxoda               |
 #+END_EXAMPLE
 
 It should be noted that the use of these suffixes should be taken very
@@ -631,6 +632,7 @@ nearby context that disambiguates it.
 
 ***** Locative Case ~-ice~ (STUB)
 ***** Causative Case ~-ede~ (STUB)
+***** Resultative Case =-oda= (STUB)
 *** Genitive (Possessive) Case
 
 For nouns, the possessive case is marked simply by suffixing =-ro=. This
