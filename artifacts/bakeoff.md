@@ -16,44 +16,79 @@ Pasta
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
   * 2-3 egg-PL-& 3 flour cup-PL combine-3pO-IMP-& together(-ADV?) knead-3pO-IMP
-  * roll-3O-IMP-& cut-3O-IMP
+  * mix-RES that-way flatten-INS rod use-3O-DEP flatten-3O-IMP-& [thin strips into] cut-3O-IMP
 
-### Puflantu
+### Perflontus
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
   * 2-3 wibalwe-li 3 oku janwe 'rulfodob-lis 'axuhotox.
+  * Realoda alzov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
 
-### Notes
+## Balorvu
 
+Dough
 
+### English
 
-| Rulfobafwe | combine-PAT-PL | Components |
+*A basic, versatile dough.*
 
-| **`Turakolu`**                                          | **pasta**                                                  | **Pasta**                                                                         |
-| *`cuafi cw zat-sos cuafi'fi-li hwomda'fi`*              | store-ALL be-3S-than fresh-CMP-& delicious-CMP           | *Fresher and more delicious than store-bought.*                                   |
-| `2-3 wibalwe-li 3 oku janwe 'rulfodob-lis 'axuhotox.` | 2-3 egg-PL-& 3 flour cups combine-3pO-IMP-& knead-3O-IMP | Add 2-3 eggs to 3 cups flour, and knead together.                               |
-| `realoda alzov mohuraqo gwnde piwv-ka 'ixotop.`       | x                                                        | Roll out mixture with a rolling pin into a flat sheet and cut into thin strips. |
+  * Add 4g salt and 1g leavening agent to 1 cup flour.
+  * Add 3/4 cup water to the mixture and knead together.
+  * Let rest overnight to rise.
 
-| **`Balorvu`**                                                     | **dough**                                                    | **Dough**                                              |
-| `ovekqu-li tozqwyo balorvu`                                     | simple-& versatile dough                                   | *A basic, versatile dough.*                            |
-| `4 zalma guramwe-li 1 laksalfa guramu-li 1 oku jano 'rulfodob.` | 4 salt gram-PL-& 1 yeast gram-& 1 cup salt combine-3pO-IMP | Add 4g salt and 1g leavening agent to 1 cup flour.   |
-| `3/4 enxura janurwe ??? ??? 'kotar-lis 'axuhotox.`              | 3/4 water cups mixture into add-3O-IMP & knead-3O-IMP      | Add 3/4 cup water to the mixture and knead together. |
-| x                                                               | x                                                          | Let rest overnight to rise.                          |
+### Gloss
 
-| **`Twipe Balorvu`**                                                                    | sugar dough                                                                                                  | **Sugar Dough**                                                               |
-| x                                                                                    | x                                                                                                            | *Use this to make a perfect pie!*                                             |
-| `3 zalma guramwe-li 3 twipe guramwe-li 1 oku jano 'rulfodob.`                        | x                                                                                                            | Add 3g salt and 3g sugar to 1 cup flour.                                    |
-| `1/2 ??? ??? ??? ???-ka dusiko hompaliso jano 'kotar-lis, ??? ??? ???-ka ???s '???.` | 1/2 small cubes into cut-DEP cold butter cup add-3O-&, small chunks leave-3pO-IMP-DEP rough-ADV work_in-IMP. | Add 1/2 cup cold diced butter and roughly work it in, leaving small chunks. |
-| `50 dusuriko enxura gururamwe 'kodar-lis '???.`                                      | 30 cold-R water-R gram-R-PL add-3pO-IMP-& mix-3O-IMP.                                                        | Add 30g cold water and mix.                                                 |
+*simple-& versatile dough*
+
+  * 4 salt gram-PL-& 1 yeast gram-& 1 flour cup combine-3pO-IMP
+  * 3/4 water cups mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
+  * overnight rest-GER that-reason inflate-3O-DEP allow-3O-IMP.
+
+### Perflontus
+
+*Ovekqu-li tozqwyo balorvu.*
+
+  * 4 zalma guramwe-li 1 laksalfa guramu-li 1 oku jano 'rulfodob.
+  * 3/4 enxura janurwe realoda henqo-fws 'kotar-lis ????? 'axuhotox.
+  * ????? dobisa aldul umotav-kas 'totag.
+
+## Twipe Balorvu
+
+Sugar dough
+
+### English
+
+*Use this to make a perfect pie!*
+
+  * Add 3g salt and 3g sugar to 1 cup flour.
+  * Add 1/2 cup cold diced butter and roughly work it in, leaving small chunks.
+  * Add 30g cold water and mix.
+
+### Gloss
+
+*this that-way perfect pie make-3O-DEP use-3O-IMP.*
+
+  * 3 salt gram-PL-& 3 sugar gram-PL-& 1 flour cup combine-3pO-IMP.
+  * 1/2 small cube into cut-DEP cold butter cup-PL add-3O-& small chunks leave-3pO-IMP-DEP rough-ADV work_in-IMP.
+  * 30 cold-R water-R gram-R-PL add-3pO-IMP-& mix-3O-IMP.
+
+### Perflontus
+
+*Eta
+
+| x
+| `3 zalma guramwe-li 3 twipe guramwe-li 1 oku jano 'rulfodob.`
+| `1/2 ??? ??? ??? ???-ka dusiko hompaliso jano 'kotar-lis, ??? ??? ???-ka ???s '???.`
+| `50 dusuriko enxura gururamwe 'kodar-lis '???.`
 
 | **`Orbili`**                                                                           | jelly                                                                                                        | **Jelly**                                                                               |
 | *`Wloca merizolin-sos ogi'fi gomu qizun na.`*                                          | eat-GER able-2S-RO-than many-CMP fruit possess-2P INT.                                                       | *Have more fruit than you can eat?*                                                     |
 | *`Od tizov piwva merizin.`*                                                            | 3O thus use-GER able-2S                                                                                      | *Here's what to do with it.*                                                            |
 | `Uqi mainci gomu orcizal-ka-cw (alwpagomu, sizagomu, yx.) gezure janwe-li`           | four summer fruit desired-2S-DEP-ABL (??, ??, etc) juice-R cup-PL-&                                          | Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and |
-| ` pai twipe janwe dahzelo ti 'kodar.`                                                | three sugar cup-PL saucepan-ALL add-3pO-IMP                                                                  | 3 cups sugar to a saucepan.                                                           |
+| ` pai twipe janwe dahzelo fw 'kodar.`                                                | three sugar cup-PL saucepan-ALL add-3pO-IMP                                                                  | 3 cups sugar to a saucepan.                                                           |
 | `Albwr-tis nousve-li twipenxa zat-ka 'lirotwb.`                                      | then-ALL viscous-& syrupy be-3S-DEP boil-3O-IMP                                                              | Boil until thickened and syrupy.                                                      |
-| `Ifarwe henqo-ti 'ajoten.`                                                           | vessel-PL interior-ALL put-3O-IMP                                                                            | Put into jars.                                                                        |
+| `Ifarwe henqo fw 'ajoten.`                                                           | vessel-PL interior-ALL put-3O-IMP                                                                            | Put into jars.                                                                        |
 
 
 | Keru Kolarvu          | 1-ORD bread   | Breakfast                                                                                                                     |
@@ -145,3 +180,4 @@ Pasta
 * Many human languages seem to import metric units phonetically, with Chinese being a notable exception.
 * Many human languages use their existing word for "cup".
 * The Perflontus numbering system uses base 6.
+* How should we handle "3 cups of sugar"? '3 sugar cups'? 'sugar 3 cups'?
