@@ -1025,10 +1025,32 @@ I drink the boiled water. (I drink the water that was boiled.)
 
 ***** Simple Adverbial Clauses - When, Where
 
+Clauses with additional connotations express them with an =al-= word, placed at
+the beginning of the clause. These words are defined in [[Pronouns, Part 3 -- Indefinite Pronouns and Other Stand-Ins (STUB)][Indefinite Pronouns and
+Other Stand-Ins]]; the relevant ones are:
+
+| that-place ("where")            | alhan |
+| that-time ("when")              | albwr |
+| that-way ("if" or "how")        | alzov |
+| that-reason ("if" or "because") | aldul |
+
+Various relationships between clauses can be described using these words, along
+with locative descriptors.
+
+#+BEGIN_EXAMPLE
+Alhan       xoale  jatif     -ka,  e'a   jatif.
+that-place  smoke  exist-3S  -DEP  fire  exist-3S
+Where there is smoke, there is fire.
+#+END_EXAMPLE
+
+Perflontus uses an inner-outer spatial metaphor for expressing time; things that
+happened before the present are inside it, while things that happen afterward
+are outside it.
+
 ***** Comparative Clauses (STUB)
 
-Comparisons are always expanded to a full clause. Instead of `-ba` the
-subordinate verb takes the particle `-sos`, and the use of the relative pronoun
+Comparisons are always expanded to a full clause. Instead of =-ka= the
+subordinate verb takes the particle =-sos=, and the use of the relative pronoun
 in the clause indicates the role of the thing being compared.
 
 *** Adpositions
