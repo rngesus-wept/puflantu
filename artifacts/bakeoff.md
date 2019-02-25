@@ -15,14 +15,14 @@ Pasta
 
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
-  * 2-3 egg-PL-& 3 flour cup-PL combine-3pO-IMP-& together(-ADV?) knead-3pO-IMP
+  * 2-3 egg-PL-& flour 3 cup-PL combine-3pO-IMP-& together(-ADV?) knead-3pO-IMP
   * mix-RES that-way flatten-INS rod use-3O-DEP flatten-3O-IMP-& [thin strips into] cut-3O-IMP
 
 ### Perflontus
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
-  * 2-3 wibalwe-li 3 oku janwe 'rulfodob-lis 'axuhotox.
+  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis 'axuhotox.
   * Realoda alzov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
 
 ## Balorvu
@@ -41,7 +41,7 @@ Dough
 
 *simple-& versatile dough*
 
-  * 4 salt gram-PL-& 1 yeast gram-& 1 flour cup combine-3pO-IMP
+  * salt 4 gram-PL-& yeast 1 gram-& flour 1 cup combine-3pO-IMP
   * 3/4 water cups mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
   * overnight rest-GER that-reason inflate-3O-DEP allow-3O-IMP.
 
@@ -49,8 +49,8 @@ Dough
 
 *Ovekqu-li tozqwyo balorvu.*
 
-  * 4 zalma guramwe-li 1 laksalfa guramu-li 1 oku jano 'rulfodob.
-  * 3/4 enxura janurwe realoda henqo-fws 'kotar-lis ????? 'axuhotox.
+  * Zalma 4 guramwe-li laksalfa 1 guramu-li oku 1 jano 'rulfodob.
+  * Enxa 3/4 janwe realoda henqo-fws 'kotar-lis ????? 'axuhotox.
   * ????? dobisa aldul umotav-kas 'totag.
 
 ## Twipe Balorvu
@@ -69,27 +69,42 @@ Sugar dough
 
 *this that-way perfect pie make-3O-DEP use-3O-IMP.*
 
-  * 3 salt gram-PL-& 3 sugar gram-PL-& 1 flour cup combine-3pO-IMP.
-  * 1/2 small cube into cut-DEP cold butter cup-PL add-3O-& small chunks leave-3pO-IMP-DEP rough-ADV work_in-IMP.
-  * 30 cold-R water-R gram-R-PL add-3pO-IMP-& mix-3O-IMP.
+  * salt 3 gram-PL-& sugar 3 gram-PL-& flour 1 cup combine-3pO-IMP.
+  * small cube into cut-RO-DEP cold butter 1/2 cup-PL add-3O-& that-way, rough-ADV small chunk-PL leave-3pO-IMP-DEP work_in-IMP.
+  * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
 
-*Eta
+*Eta ??? ??? kureni qotuk-ka 'piotwv.*
 
-| x
-| `3 zalma guramwe-li 3 twipe guramwe-li 1 oku jano 'rulfodob.`
-| `1/2 ??? ??? ??? ???-ka dusiko hompaliso jano 'kotar-lis, ??? ??? ???-ka ???s '???.`
-| `50 dusuriko enxura gururamwe 'kodar-lis '???.`
+  * Zalma 3 guramwe-li twipe 3 guramwe-li oku 1 jano 'rulfodob.
+  * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, ??? alzov ??? ??? todag-kas ???.
+  * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
+  
+## Orbili
 
-| **`Orbili`**                                                                           | jelly                                                                                                        | **Jelly**                                                                               |
-| *`Wloca merizolin-sos ogi'fi gomu qizun na.`*                                          | eat-GER able-2S-RO-than many-CMP fruit possess-2P INT.                                                       | *Have more fruit than you can eat?*                                                     |
-| *`Od tizov piwva merizin.`*                                                            | 3O thus use-GER able-2S                                                                                      | *Here's what to do with it.*                                                            |
-| `Uqi mainci gomu orcizal-ka-cw (alwpagomu, sizagomu, yx.) gezure janwe-li`           | four summer fruit desired-2S-DEP-ABL (??, ??, etc) juice-R cup-PL-&                                          | Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and |
-| ` pai twipe janwe dahzelo fw 'kodar.`                                                | three sugar cup-PL saucepan-ALL add-3pO-IMP                                                                  | 3 cups sugar to a saucepan.                                                           |
-| `Albwr-tis nousve-li twipenxa zat-ka 'lirotwb.`                                      | then-ALL viscous-& syrupy be-3S-DEP boil-3O-IMP                                                              | Boil until thickened and syrupy.                                                      |
-| `Ifarwe henqo fw 'ajoten.`                                                           | vessel-PL interior-ALL put-3O-IMP                                                                            | Put into jars.                                                                        |
+Jelly
 
+### English
+
+*Have more fruit than you can eat? Here's what to do with it.*
+
+  * Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and 3 cups of sugar to a saucepan.
+  * Boil until thickened and syrupy. Put into jars.
+  
+### Gloss
+
+*eat-RO-GER able-2S-than many-CMP fruit possess-2P ?. thus use-3O-GER able-2S.*
+
+  * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL saucepan toward add-3pO-IMP.
+  * that-time-toward viscous-& syrupy be-3S-DEP boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
+  
+### Perflontus
+
+*Wloloca merizin-sos ogi'fi gomu qizun na? Tizov piotwva merizin.*
+
+  * Orcizal-ka mainci gomu-cw geze (alwpagomu, sizagomu, yx.) 4 janwe-li twipe 3 janwe dahzelo henqo-fws 'kodar.
+  * Albwr-fws nousve-li twipenxa zat-ka 'lirotwb. Ifarwe henqo-fws 'ajoten.
 
 | Keru Kolarvu          | 1-ORD bread   | Breakfast                                                                                                                     |
 | ---                   | ---           | ---                                                                                                                           |
@@ -180,5 +195,5 @@ Sugar dough
 * Many human languages seem to import metric units phonetically, with Chinese being a notable exception.
 * Many human languages use their existing word for "cup".
 * The Perflontus numbering system uses base 6.
-* How should we handle "3 cups of sugar"? '3 sugar cups'? 'sugar 3 cups'?
+* Measured units of things are expressed as $THING $NUMBER $UNIT. In particular $THING is taken as an adjective for $UNIT, and therefore the applied noun class is based on $UNIT rather than $THING.
 * Need differentiation between "Use this to do X" and "Use this by doing X".
