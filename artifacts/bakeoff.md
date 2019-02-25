@@ -16,14 +16,14 @@ Pasta
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
   * 2-3 egg-PL-& flour 3 cup-PL combine-3pO-IMP-& together(-ADV?) knead-3pO-IMP
-  * mix-RES that-way flatten-INS rod use-3O-DEP flatten-3O-IMP-& [thin strips into] cut-3O-IMP
+  * mix-RES this-way flatten-INS rod use-3O-DEP flatten-3O-IMP-& [thin strips into] cut-3O-IMP
 
 ### Perflontus
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
   * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis 'axuhotox.
-  * Realoda alzov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
+  * Realoda tizov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
 
 ## Balorvu
 
@@ -43,7 +43,7 @@ Dough
 
   * salt 4 gram-PL-& yeast 1 gram-& flour 1 cup combine-3pO-IMP
   * 3/4 water cups mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
-  * overnight rest-GER that-reason inflate-3O-DEP allow-3O-IMP.
+  * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
 
 ### Perflontus
 
@@ -51,7 +51,7 @@ Dough
 
   * Zalma 4 guramwe-li laksalfa 1 guramu-li oku 1 jano 'rulfodob.
   * Enxa 3/4 janwe realoda henqo-fws 'kotar-lis ????? 'axuhotox.
-  * ????? dobisa aldul umotav-kas 'totag.
+  * ????? dobisa alzov umotav-kas 'totag.
 
 ## Twipe Balorvu
 
@@ -67,18 +67,18 @@ Sugar dough
 
 ### Gloss
 
-*this that-way perfect pie make-3O-DEP use-3O-IMP.*
+*this that-method perfect pie make-3O-DEP use-3O-IMP.*
 
   * salt 3 gram-PL-& sugar 3 gram-PL-& flour 1 cup combine-3pO-IMP.
-  * small cube into cut-RO-DEP cold butter 1/2 cup-PL add-3O-& that-way, rough-ADV small chunk-PL leave-3pO-IMP-DEP work_in-IMP.
+  * small cube into cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, this-way rough-ADV small chunk-PL leave-3pO-IMP-DEP-ADV work_in-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
 
-*Eta ??? ??? kureni qotuk-ka 'piotwv.*
+*Eta alzov ??? kureni qotuk-ka 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe-li oku 1 jano 'rulfodob.
-  * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, ??? alzov ??? ??? todag-kas ???.
+  * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, tizov ??? ??? ??? todag-kas ???.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
   
 ## Orbili
