@@ -181,3 +181,4 @@ Sugar dough
 * Many human languages use their existing word for "cup".
 * The Perflontus numbering system uses base 6.
 * How should we handle "3 cups of sugar"? '3 sugar cups'? 'sugar 3 cups'?
+* Need differentiation between "Use this to do X" and "Use this by doing X".
