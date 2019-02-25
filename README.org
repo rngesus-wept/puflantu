@@ -310,6 +310,24 @@ Cookies were eaten.
 ```
 #+END_EXAMPLE
 
+      Note that many English words also overlap their transitive and
+      intransitive forms -- for example, compare "I boil the water" and "The
+      water boils". In Perflontus, when using the intransitive form of the verb,
+      the phrasing is identical to using the passive voice with the transitive
+      verb; the latter example can be thought of as "The water is boiled".
+
+#+BEGIN_EXAMPLE
+```
+Enxura   lirwmwb.
+water-R  boil-1S
+I boil the water.
+
+Enxura   libotwb.
+water-R  boil-3O
+The water boils / The water is boiled.
+```
+#+END_EXAMPLE
+
 *** Pronouns, Part 2 -- This, That, A, and The
 
 "This" and "that" are demonstrative pronouns that differ from regular nouns
@@ -542,8 +560,8 @@ Sleeping/to sleep pleases Charles. (Charles likes sleeping/to sleep.)
 When used as an adjective this case always functions as a present participle,
 and only with the connotation of a thing that is performing the action in
 question. In particular, when describing something that is used /for/ an action
-rather than something that is performing the action itself, use the [[Instrumental
-Case ~-aqo~][instrumental case]].
+rather than something that is performing the action itself, use the [[Instrumental Case ~-aqo~][instrumental
+case]].
 
 #+BEGIN_EXAMPLE
 Qarluz   eqa   zumuza     hie    zat.
@@ -558,6 +576,12 @@ Zumuzaqo   kworu    kworatem.
 sleep-INS  clothes  wear-3S
 He wears clothes that are for sleeping.
 #+END_EXAMPLE
+
+Also, be careful with present participial form of intransitive verbs. For
+example, in English, "boiling water" refers to water that is boiling, not water
+that is boiling something else. As noted in [[Verbs, Part 1 -- Basic Infixes][Basic Infixes]], a "passive voice"
+style of inflection is required here. A full treatment of other participial
+forms is covered in [[Dependent Clauses (STUB)][Dependent Clauses]].
 
 The resulting word acts as a root form; in particular, additional
 transformations that would be applied to a noun apply to the suffixed verb as a
@@ -969,23 +993,28 @@ The [me-eaten] blue things pleased me.
 *The [that I ate] blue things pleased me.
 #+END_EXAMPLE
 
-Past participles are implemented as dependent clauses. In particular, recall
-that the passive voice is formed by supplying a verb with an object, but not a
-subject infix.
+Participles in general are implemented as dependent clauses, with the exception
+of the present participle of an active verb, for which the [[Gerund Case =-a=][gerund case]] may be
+used. Generally these use a passive voice construction inside a dependent
+clause, as follows:
 
 #+BEGIN_EXAMPLE
-Im fumalub      -ka       toreli  wlwmoc.
-combust-RS-PST  -DEP  cookie  eat-1S.
-I eat the burnt cookie. (the cookie that combusted)
+Enxura   lirwmwb.
+water-R  boil-1S
+I boil the water.
 
-Im vunolod  -ka   toreli  wlwmoc.
-ignite-RO   -DEP  cookie  eat-1S.
-I eat the burnt cookie. (the cookie that was ignited)
+Enxura   lirotwb.
+water-R  boil-3O
+The water boils.
 
-Golir    -ka   lerura      ratiq.
-know-RO  -DEP  quantity-R  drink-3S.
-He drinks a known quantity (of fluid). (a quantity that is known)
-               ^ note that the noun class is not reflected in the participial clause
+Lirotwb-ka   enxura   rwmiq.
+boil-3O-DEP  water-R  drink-1S
+I drink the boiling water. (I drink the water that boils / is being boiled.)
+       ^ note that the R noun class is not reflected in the clause
+
+Im   lirotwb-ka   enxura   rwmiq.
+PST  boil-3O-DEP  water-R  drink-1S.
+I drink the boiled water. (I drink the water that was boiled.)
 #+END_EXAMPLE
 
 ***** Simple Adverbial Clauses - When, Where
