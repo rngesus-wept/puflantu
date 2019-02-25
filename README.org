@@ -851,9 +851,17 @@ final vowel with ~wdo~: ~aqe~ \rightarrow ~aqwdo~, ~aqke~ \rightarrow ~aqkwdo~, 
 are still "unit" power-of-6 words, and to express an actual quantity still
 require the explicity 1 hexit: ~keaqwdo~, ~keaqkwdo~, ~keaqhawdo~, etc.
 
-Exact numbers do not take any additional inflection. For example "three waters"
-is ~pai enxurwe~, not ~*paurwe enxurwe~. Inexact numbers still take additional
-inflection. For example "36s of dances" is ~ywywe hinalwla~.
+Exact numbers do not take any additional inflection. For example "three dances"
+is ~pai hinalwla~, not ~*pwpai hinalwla~. When measures of things are used -- for
+example, "5 cups of water" -- the things being measured are taken as an
+adjective for the number and the unit of measure. In this case we would
+translate "water 5 cups", or =enxa lo janwe=. Note that not only is the noun class
+applied to the unit of measure, it is also not applied to the thing being
+measured, since it is not the head of its noun phrase (it is treated as an
+adjective).
+
+Inexact numbers are treated as units of measure unto themselves, e.g. "dozens of
+dances" \rightarrow =hinala haqwe= "dance dozens".
 
 Ordinal numbers are formed by the suffix =-ru=. This is subject to
 adverbialization by an added =-s=.
