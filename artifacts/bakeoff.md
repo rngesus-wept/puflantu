@@ -1,9 +1,39 @@
-| Rulfobafwe                                                                           | combine-PAT-PL                                                                                               | Components                                                                            |
+# Rulfobafwe
+
+## Turakolu
+
+Pasta
+
+### English
+
+*Fresher and more delicious than store-bought.*
+
+  * Add 2-3 eggs to 3 cups flour, and knead together.
+  * Roll out mixture with a rolling pin into a flat sheet and cut into thin strips.
+
+### Gloss
+
+*trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
+
+  * 2-3 egg-PL-& 3 flour cup-PL combine-3pO-IMP-& together(-ADV?) knead-3pO-IMP
+  * roll-3O-IMP-& cut-3O-IMP
+
+### Puflantu
+
+*Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
+
+  * 2-3 wibalwe-li 3 oku janwe 'rulfodob-lis 'axuhotox.
+
+### Notes
+
+
+
+| Rulfobafwe | combine-PAT-PL | Components |
 
 | **`Turakolu`**                                          | **pasta**                                                  | **Pasta**                                                                         |
 | *`cuafi cw zat-sos cuafi'fi-li hwomda'fi`*              | store-ALL be-3S-than fresh-CMP-& delicious-CMP           | *Fresher and more delicious than store-bought.*                                   |
 | `2-3 wibalwe-li 3 oku janwe 'rulfodob-lis 'axuhotox.` | 2-3 egg-PL-& 3 flour cups combine-3pO-IMP-& knead-3O-IMP | Add 2-3 eggs to 3 cups flour, and knead together.                               |
-| x                                                     | x                                                        | Roll out mixture with a rolling pin into a flat sheet and cut into thin strips. |
+| `realoda alzov mohuraqo gwnde piwv-ka 'ixotop.`       | x                                                        | Roll out mixture with a rolling pin into a flat sheet and cut into thin strips. |
 
 | **`Balorvu`**                                                     | **dough**                                                    | **Dough**                                              |
 | `ovekqu-li tozqwyo balorvu`                                     | simple-& versatile dough                                   | *A basic, versatile dough.*                            |
@@ -20,25 +50,25 @@
 | **`Orbili`**                                                                           | jelly                                                                                                        | **Jelly**                                                                               |
 | *`Wloca merizolin-sos ogi'fi gomu qizun na.`*                                          | eat-GER able-2S-RO-than many-CMP fruit possess-2P INT.                                                       | *Have more fruit than you can eat?*                                                     |
 | *`Od tizov piwva merizin.`*                                                            | 3O thus use-GER able-2S                                                                                      | *Here's what to do with it.*                                                            |
-| `Uqi mainci gomu orcizal-ba-cw (alwpagomu, sizagomu, yx.) gezure janwe-li`           | four summer fruit desired-2S-DEP-ABL (??, ??, etc) juice-R cup-PL-&                                          | Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and |
+| `Uqi mainci gomu orcizal-ka-cw (alwpagomu, sizagomu, yx.) gezure janwe-li`           | four summer fruit desired-2S-DEP-ABL (??, ??, etc) juice-R cup-PL-&                                          | Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and |
 | ` pai twipe janwe dahzelo ti 'kodar.`                                                | three sugar cup-PL saucepan-ALL add-3pO-IMP                                                                  | 3 cups sugar to a saucepan.                                                           |
-| `Albwr-tis nousve-li twipenxa zat-ba 'lirotwb.`                                      | then-ALL viscous-& syrupy be-3S-DEP boil-3O-IMP                                                              | Boil until thickened and syrupy.                                                      |
+| `Albwr-tis nousve-li twipenxa zat-ka 'lirotwb.`                                      | then-ALL viscous-& syrupy be-3S-DEP boil-3O-IMP                                                              | Boil until thickened and syrupy.                                                      |
 | `Ifarwe henqo-ti 'ajoten.`                                                           | vessel-PL interior-ALL put-3O-IMP                                                                            | Put into jars.                                                                        |
 
 
-| Keru Kolarvu            | 1-ORD bread   | Breakfast                                                                                                                     |
-| ---                     | ---           | ---                                                                                                                           |
-| **???**                 | x             | **Oatmeal**                                                                                                                   |
-| x                       | x             | *A great healthy way to start the day.*                                                                                       |
-| x                       | x             | Combine 1/2 cup oats, 1 cup milk, 15 g sugar, salt, and cinnamon in a small pot.                                              |
-| x                       | x             | Bring the mixture to a boil, stirring occasionally, and then take the pot off the heat. The oatmeal will thicken as it cools. |
+| Keru Kolarvu          | 1-ORD bread   | Breakfast                                                                                                                     |
+| ---                   | ---           | ---                                                                                                                           |
+| **???**                 | x             | **Oatmeal**                                                                                                                     |
+| x                     | x             | *A great healthy way to start the day.*                                                                                         |
+| x                     | x             | Combine 1/2 cup oats, 1 cup milk, 15 g sugar, salt, and cinnamon in a small pot.                                              |
+| x                     | x             | Bring the mixture to a boil, stirring occasionally, and then take the pot off the heat. The oatmeal will thicken as it cools. |
 | **Kolarvu ??? Wibalwe** | bread top egg | Eggs on Bread                                                                                                                 |
-| x                       | x             | *Don't overcook the eggs; you want them to be light and fluffy.*                                                              |
-| x                       | x             | Obtain some bread (see recipe), and lightly toast 2 slices.                                                                   |
-| x                       | x             | Melt 1 tablespoon butter in a small sautee pan.                                                                               |
-| x                       | x             | Beat together 3 eggs, 2 tablespoons milk, and salt, and add the mixture to the pan.                                           |
-| x                       | x             | Cook over low heat, stirring frequently.                                                                                      |
-| x                       | x             | When the egg mixture is almost set, divide it and pile it on top of the slices of bread.                                      |
+| x                     | x             | *Don't overcook the eggs; you want them to be light and fluffy.*                                                                |
+| x                     | x             | Obtain some bread (see recipe), and lightly toast 2 slices.                                                                   |
+| x                     | x             | Melt 1 tablespoon butter in a small sautee pan.                                                                               |
+| x                     | x             | Beat together 3 eggs, 2 tablespoons milk, and salt, and add the mixture to the pan.                                           |
+| x                     | x             | Cook over low heat, stirring frequently.                                                                                      |
+| x                     | x             | When the egg mixture is almost set, divide it and pile it on top of the slices of bread.                                      |
 
 | ???     | ??? | Entrees                                                                                   |
 | ---     | --- | ---                                                                                       |
