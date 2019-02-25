@@ -1031,7 +1031,7 @@ PST  boil-3O-DEP  water-R  drink-1S.
 I drink the boiled water. (I drink the water that was boiled.)
 #+END_EXAMPLE
 
-***** Simple Adverbial Clauses - When, Where
+***** Location and Timing - When, Where
 
 Clauses with additional connotations express them with an =al-= word, placed at
 the beginning of the clause. These words are defined in [[Pronouns, Part 3 -- Indefinite Pronouns and Other Stand-Ins (STUB)][Indefinite Pronouns and
@@ -1039,8 +1039,6 @@ Other Stand-Ins]]; the relevant ones are:
 
 | that-place ("where")            | alhan |
 | that-time ("when")              | albwr |
-| that-way ("if" or "how")        | alzov |
-| that-reason ("if" or "because") | aldul |
 
 Various relationships between clauses can be described using these words, along
 with locative descriptors.
@@ -1054,6 +1052,61 @@ Where there is smoke, there is fire.
 Perflontus uses an inner-outer spatial metaphor for expressing time; things that
 happened before the present are inside it, while things that happen afterward
 are outside it.
+
+***** Causation and Intent - How, Why
+
+It is common for subordinate clauses and phrases to express some kind of
+causality or intent. Much like the spatial/temporal clauses, causative clauses
+are introduced by one of the following adverbs:
+
+| this-method | that-method | this-reason | that-reason |
+| tizov       | alzov       | tidul       | aldul       |
+
+The distinction between -method and -reason is somewhat blurred, but the general
+idea is that -method should be used when the clause refers to a mechanical cause
+for something, whereas -reason should be used for more abstract causes. It is
+expected that certain situations could be interpreted in either way, and it is
+up to the speaker's discretion to choose one.
+
+The choice between this- and that- depends on whether the causing event is in
+the subordinate clause, or in the main clause. To put it another way, if a this-
+adverb is used, the direction of causality or inference flows from the
+subordinate clause to the main clause. If a that- adverb is used, the opposite
+is true.
+
+#+BEGIN_EXAMPLE
+E'a   tidul        xoale  jatif      -kas      jatif.
+fire  this-reason  smoke  exists-3S  -DEP-ADV  exists-3S
+If there is smoke, there is fire.
+
+Xoale  tizov        e'a   jatif      -kas      jatif.
+smoke  this-method  fire  exists-3S  -DEP-ADV  exists-3S
+If there is fire, there is smoke.
+#+END_EXAMPLE
+
+In both of the above examples, a this- adverb is used because the logical
+direction of events is from the dependent clause to the main clause. In the
+first example, the nature of the logic is by inference, so a -reason adverb is
+used. In the second example, there is a concrete, mechanical cause in play, so a
+-method adverb is used.
+
+#+BEGIN_EXAMPLE
+E'a   alzov        xoale  jatif      -kas      jatif.
+fire  that-method  smoke  exists-3S  -DEP-ADV  exists-3S
+There is fire, therefore there is smoke.
+
+Xoale  aldul        e'a   jatif      -kas      jatif.
+smoke  that-reason  fire  exists-3S  -DEP-ADV  exists-3S
+There is smoke, therefore there is fire.
+#+END_EXAMPLE
+
+Each of the original examples can be inverted simply by changing the adverb
+used. Now in the first example, the fire in the main clause is causing the smoke
+in the dependent clause, so =alzov= is used to indicate the direction and that
+there is a mechanical reason behind it. Similarly, in the second case, the
+existence of the fire in the dependent clause is being inferred from the smoke
+in the main clause, so =aldul= is used to indicate the direction and that the
+reasoning is abstract.
 
 ***** Comparative Clauses (STUB)
 
