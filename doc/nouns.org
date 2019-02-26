@@ -30,15 +30,15 @@ intro words
   adjectives may be negated by infixing ~-ay-~ before their final vowel.
 
   #+BEGIN_EXAMPLE
-  Jekobu  kolbao  toreli  wlatoc.
+  Jekobu  colbao  toreli  wlatoc.
   Jakob   green   cookie  eat-3S.
   Jakob eats (a) green cookie.
 
-  Jekobu  ha   kolbaw    torelw     wlatoc.
+  Jekobu  ha   colbaw    torelw     wlatoc.
   Jakob   two  green-DU  cookie-DU  eat-3S.
   Jakob eats two green cookies.
 
-  Jekobu  kolba[ay]we   torelwe    wlateyoc.
+  Jekobu  colba[ay]we   torelwe    wlateyoc.
   Jakob   green-NEG-PL  cookie-DU  eat-3S-NEG.
   Jakob does not eat non-green cookies.
   #+END_EXAMPLE
@@ -209,7 +209,7 @@ For nouns, the possessive case is marked simply by suffixing =-ro=. This
 possessive form works as both a noun and an adjective.
 
 #+BEGIN_EXAMPLE
-Alanu-ro  kude  emkixa  zat.
+Alanu-ro  kude  pamono  zat.
 Alan-GEN  book  red     be-3S.
 Alan's book is red.
 
@@ -223,7 +223,7 @@ noun is inflected to indicate the number of possessors, while the =-ro= suffix m
 be inflected to indicate the number of possessed objects.
 
 #+BEGIN_EXAMPLE
-Justiinu-rwe    kudwe    kolbawe   zad.
+Justiinu-rwe    kudwe    colbawe   zad.
 Justine-GEN-PL  book-PL  green-PL  be-3pS.
 Justine's books are green.
 

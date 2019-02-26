@@ -34,19 +34,43 @@ wod	what/which objects, interrogative
 
 # Particles, conjunctions, prepositions
 
-i	directional particle ("to")
+fw	to, toward
+fws	to (adv)
+ti	at
+tis	at (adv)
+cw	away from
+cws	away from (adv)
 li	additive particle (noun-"and")
 lis	additive particle (verb-"and")
-re	genitive particle ("'s")
+ro	genitive particle ("'s")
 na	interrogative particle ("?")
-im	past tense
-et	future tense
-av	imperfect aspect
-ro	perfect aspect
-imav	past imperfect
-etav	future imperfect
-imro	past perfect
-etro	future perfect
+fel	  hypothetical
+gaq	  counterfactual
+av	 imperfective
+avfel	 imperfective hypothetical
+avgaq	 imperfective counterfactual
+os	 perfective
+osfel	 perfective hypothetical
+osgaq	 perfective counterfactual
+im	past
+imfel	past  hypothetical
+imgaq	past  counterfactual
+imav	past imperfective
+imavfel	past imperfective hypothetical
+imavgaq	past imperfective counterfactual
+imos	past perfective
+imosfel	past perfective hypothetical
+imosgaq	past perfective counterfactual
+et	future
+etfel	future  hypothetical
+etgaq	future  counterfactual
+etav	future imperfective
+etavfel	future imperfective hypothetical
+etavgaq	future imperfective counterfactual
+etos	future perfective
+etosfel	future perfective hypothetical
+etosgaq	future perfective counterfactual
+
 
 # Useful words
 
@@ -55,6 +79,7 @@ xa	no
 zoxa	maybe
 calu	true
 ywri	false
+yoxa	and so forth, etc.
 
 # Time
 tibwr	now
@@ -146,6 +171,9 @@ hawdo	15552
 paiwdo	23328
 uqiwdo	31104
 lowdo	38880
+
+# Interjections
+w'ne	yikes
 
 # These numbers should be normal nouns but are monosyllablic
 yo	thirty-six
