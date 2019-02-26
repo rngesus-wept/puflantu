@@ -54,3 +54,7 @@ A few useful things to know when editing via the web interface alone:
     branch. (An option using these words should appear at the bottom of your
     editing interface.) Afterwards, you can make a pull request from your branch
     to submit your full set of changes.
+
+* Speaking and Writing Perflontus
+
+Documentation on how the actual language works is provided [[doc/main.org][here]].
