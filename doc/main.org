@@ -41,6 +41,8 @@ the shirt store~.)
 
 [[file:todo.org::* Test Heading][heading search test]]
 
+[[file:todo.org#test-heading][heading link test]]
+
 * How to /Puflantu/
 
 *** Sounds
