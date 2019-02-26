@@ -57,4 +57,4 @@ A few useful things to know when editing via the web interface alone:
 
 * Speaking and Writing Perflontus
 
-Documentation on how the actual language works is provided [[doc/main.org][here]].
+Documentation on how the actual language works is provided [[file:doc/main.org][here]].
