@@ -107,7 +107,7 @@ I eat and sleep a lot.
 
 The full list of coordinating conjunctions is as follows:
 
-| -li(s) | and                        | Emkixa-li kolbao zat.        | It is red and green.              |
+| -li(s) | and                        | Pamono-li colbao zat.        | It is red and green.              |
 | -di(s) | but, yet (contrastive and) | Ogis lifwman-dis uyis ywmel. | I study a lot but learn little.   |
 | -ni(s) | then (sequential and)      | Bastonu-ni Yw Iorka twyex.   | We went to Boston, then New York. |
 | -fo(s) | exclusive or               | At-fo wm cwnub.              | Either he or I will speak.        |
