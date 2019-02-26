@@ -39,6 +39,8 @@ the shirt store~.)
 
 * How to /Puflantu/
 
+  * [[file:phonetics.org][Phonetics]] :: How to pronounce all the words
+
 *** Pronouns, Part 1 -- Personal Pronouns
 
 Pronouns play a core role in Perflontic inflection, and therefore must be
