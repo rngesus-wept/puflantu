@@ -186,3 +186,10 @@ Didi-li  Joxu  ruzeq[w]   z[ab].
 Didi-&   Josh  hunger-DU  be-3dS.
 Didi and Josh are hungry.
 #+END_EXAMPLE
+
+*** Imperatives and Instructions
+
+The imperative voice is indicated by prefixing the active verb with ~'~. The most
+polite forms, as might be used by a manual, inflect the verb as though using the
+passive voice, i.e. omitting the "you" subject. Direct, more "blunt" forms
+address, add the subject pronoun infixes.

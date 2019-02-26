@@ -102,3 +102,34 @@ Iqa   ke   tusvo  yipox  et   capatil.
 That  one  bus    soon   FUT  arrive-3S.
 The 1 bus will arrive soon.
 #+END_EXAMPLE
+
+*** Indefinite Pronouns et al.
+
+*State:* Stub
+
+|               | this    | that    | some    | no      | every  | any     | interr.     |
+| person/thing  | ita/eta | iqa/eqa | orvo    | yemo    | axwe   | veli    | wat/.../wod |
+| place ~hanu~    | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
+| time ~bwri~     | tibwr   | albwr   | orbwr   | yebwr   | axwbwr | velbwr  | wbwr        |
+| way ~zove~      | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
+| reason ~dule~   | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
+| quantity ~lera~ | tilerwe | alerwe  | orlerwe | yelerwe |        | velerwe | wlerwe      |
+
+***** Notes
+
+  * ~Axwe~ "every" is always plural in Perflontus; there is not singular
+    inflection. It also imposes the plural inflection on anything in modifies.
+    This is counter to many languages where "every" is frequently singular, e.g.
+    "everything", "cada vez", "tout".
+  * For similar reasons the same is true of all the quantity forms.
+  * The "this" and "that" forms of most things do not take a subject/object
+    inflection.
+  * The various forms referring to place, time, way, and reason are
+    systematically formed from their nouns, but also drop the final vowel in
+    their converstion to adverbs.
+  * ~tizov~ "this-way" and ~tidul~ "this-reason" are both reasonably glossed as
+    "if", but ~tizov~ is used in cases where the if-clause indicates a mechanical
+    cause for something, whereas ~tidul~ indicates more abstract causality.
+    Another way to put it, which also applies to ~alzov~ and ~aldul~ in the opposite
+    direction, is that ~*zov~ clauses are answers to questions better phrased as
+    "how", while ~*dul~ clauses are answers to questions better phrased as "why".
