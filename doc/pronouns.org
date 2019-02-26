@@ -50,3 +50,55 @@ This possessive infixing pattern is used for some, but not all, other pronouns,
 where explicitly noted below.
 
 *** Determinatives and Demonstratives
+
+"This" and "that" are demonstrative pronouns that differ from regular nouns
+primarily in that they have special handling for their objective and possessive
+cases that regular nouns don't. They are otherwise handled like regular nouns,
+and in particular pluralized like them. These rules will be discussed later; for
+now, the following table should suffice:
+
+#+BEGIN_EXAMPLE
+|      | Singular  | Dual      | Plural      |
+|------+-----------+-----------+-------------|
+| This | ita / eta | itw / etw | itwe / etwe |
+| That | iqa / eqa | iqw / eqw | iqwe / eqwe |
+#+END_EXAMPLE
+
+Like most Perflontus nouns (again, to be covered more thoroughly later), ~ita~ et
+al. may also be used as demonstrative adjectives.
+
+#+BEGIN_EXAMPLE
+Demiunu  etwe       torelwe  et   wlatoc.
+Damien   these-OBJ  cookies  FUT  eat-3S.
+Damien will eat these cookies.
+
+Demiunu  etwe       et   wlatoc.
+Damien   these-OBJ  FUT  eat-3S.
+Damien will eat these.
+
+Ita       somatotun.
+This-SUB  please-3S-3O.
+This pleases him.
+#+END_EXAMPLE
+
+There is no direct equivalent for the definite article "the". Depending on the
+context it is correct to either omit any qualifier at all or to use "this" or
+"that" as appropriate instead.
+
+Similarly there is no directly equivalent to the indefinite article "a(n)". When
+it is necessary to refer to some indefinite item ~ke~ (literally "one") is used
+instead.
+
+#+BEGIN_EXAMPLE
+Tusvo  yipox  et   capatil.
+Bus    soon   FUT  arrive-3S.
+(The) bus will arrive soon.
+
+Ke   tusvo  yipox  et   capatil.
+One  bus    soon   FUT  arrive-3S.
+A bus will arrive soon.
+
+Iqa   ke   tusvo  yipox  et   capatil.
+That  one  bus    soon   FUT  arrive-3S.
+The 1 bus will arrive soon.
+#+END_EXAMPLE
