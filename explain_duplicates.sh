@@ -9,4 +9,6 @@
 DUPS_FILE=/tmp/perflontus_duplicates;
 
 python test_lexicon.py 2>&1 | head -n-1 | cut -d' ' -f1 | xargs python test_lexicon.py 2>&1 | sort > $DUPS_FILE;
-grep -f <(cut -d' ' -f1 $DUPS_FILE | uniq -d) $DUPS_FILE;
+if [ -s <(cut -d' ' -f1 $DUPS_FILE | uniq -d) ]; then
+    grep -f <(cut -d' ' -f1 $DUPS_FILE | uniq -d) $DUPS_FILE;
+fi
