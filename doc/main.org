@@ -1,0 +1,130 @@
+* General Language Elements
+
+Spelling is directly mapped onto pronunciation, which generally follows the
+rules you'd expect for some kind of Romanized hybrid of Mandarin and Japanese.
+
+Word order in Perflontus (Perflontus "/Puflantu/") is Subject-Object-Verb. Unlike
+many natural SOV languages, there are no particle markers for subject and
+object, so word order is somewhat more constrained.
+
+Nouns and adjectives always end in vowels; in addition, the boundaries between
+these two parts of speech are rather fluid, and many words that function as one
+also function as the other. Verbs and adverbs always end in consonants (though
+the definition of "adverb" is somewhat loose). Verbs have a root form which is
+never used directly; instead, a large body of affixes is used to inflect the
+root form with syntactic and semantic meaning.
+
+#+BEGIN_EXAMPLE
+Alisu  Puflantu    catub.
+Alice  Perflontus  speak-she.
+Alice speaks Perflontus.
+#+END_EXAMPLE
+
+Descriptors are generally prepositive, i.e. they come before the things they
+describe. Conversely, things that appear in English as prepositions generally
+appear as /post/-positions in Perflontus. To put it another way, Perflontus is
+strongly head-final, meaning that the word that defines the type of phrase it's
+in comes at the end of the phrase.
+
+#+BEGIN_EXAMPLE
+Honwze  jozrwpo  entuyice  tis     im   kanwmwj.
+blue    shirt    store     at-ADV  PST  buy-1S
+I bought a blue shirt at the store.
+#+END_EXAMPLE
+
+(Note that because of noun/adjective duality and the lack of markers, it is up
+to the listener to determine that the speaker does not intend something like ~I
+bought a blue (thing) at the shirt store~ or ~I bought (the color/concept) blue at
+the shirt store~.)
+
+* How to /Puflantu/
+
+/Everything just got transplanted from this megafile, so some references to
+section order are not currently correct and will be gradually fixed./
+
+  * [[file:phonetics.org][Phonetics]] :: How to pronounce all the words
+  * [[file:pronouns.org][Pronouns]] :: Pronouns and other stand-ins
+  * [[file:verbs.org][Verbs]] :: Verbs and their affix inventory
+  * [[file:nouns.org][Nouns]] :: Nouns and adjectives
+  * [[file:clauses.org][Clauses]] :: Subordinate clauses and complicated syntax
+  * [[file:bits.org][Bits and Pieces]] :: Other small things that tie a language together
+  * [[file:todo.org][Todos]] :: Use cases not yet covered
+
+*** Pedagogic Ordering
+
+  * [[file:phonetics.org][Phonetics]] :: How to pronounce all the words
+  * [[file:pronouns.org#personal-pronouns][Personal Pronouns]] :: Personal pronouns (I, they, y'all, et al.)
+  * [[file:verbs.org#basic-infixes][Basic Verbal Inflection]] :: Inflections for basic SOV constructions
+  * [[file:pronouns.org#determinatives-and-demonstratives][This, That, A, and The]] :: Determinative and demonstrative pronouns
+  * [[file:verbs.org#tense-aspect-and-mood][Tense, Aspect, and Mood]] :: On time, duration, and reality
+  * [[file:nouns.org][Noun and Adjective Basics]] :: Number and negation
+  * [[file:verbs.org#to-be][To Be]] :: Handling the most common copula
+  * [[file:nouns.org#verb-derived-nouns-and-adjectives][Verb-Derived Nouns]] :: Nominalizing suffixes e.g. -er, -ing, -tion
+  * [[file:nouns.org#possessives][Possessives]] :: Things what belong to other things
+  * [[file:nouns.org#noun-classes][Noun Classes]] :: Extra inflections for particular types of nouns
+  * [[file:nouns.org#comparatives-and-superlatives][Comparatives and Superlatives]] :: Suffixes for -er and -est
+  * [[file:pronouns.org#indefinite-pronouns-et-al][Indefinite Pronouns]] :: Things like "someone", "anywhere", etc.
+  * [[file:bits.org][Asking Questions]] :: Who/what/which, whose, where, when, why, how
+  * [[file:bits.org][Numbers]] :: How to count from =ke= to =haqe=.
+  * [[file:bits.org][Conjunctions]] :: Words for combining things
+  * [[file:bits.org#adpositions][Adpositions]] :: How to indicate things relative to other things
+  * [[file:bits.org#adverbs][Adverbs]] :: Adverbial formation and positioning
+  * [[file:clauses.org][Clauses]] :: Subordinate clauses and complicated syntax
+  * [[file:verbs.org#imperatives-and-instructions][Imperative Voice]] :: Requests, instructions, and orders
+
+* How to /Puflantu/, Abridged (Reference Tables)
+
+*** Nouns
+
+  * Always end in a non-"w" vowel.
+  * Dual number converts the final vowel to =-w=. Plural number to =-we=.
+
+*** Adjectives
+
+  * Always end in a non-"w" vowel.
+  * Inflect number to match the modified noun.
+  * Come before the noun they modify.
+  * Infix =-ay-= before the final vowel to negate.
+  * Suffix =-s= to convert to an adverb.
+
+*** Pronouns
+
+***** Personal Pronouns
+
+|        | Singular  | Dual      | Plural      |
+|        | Subj/Obj  | Subj/Obj  | Subj/Obj    |
+|--------+-----------+-----------+-------------|
+| 1st    | wm / um   | wn / un   | wy / uy     |
+| 2nd    | iz / ez   | ij / ej   | ix / ex     |
+| 3rd    | at / ot   | ab / ob   | ad / od     |
+| REL    | al / ol   | ar / or   | ary / ory   |
+| "this" | ita / eta | itw / etw | itwe / etwe |
+| "that" | iqa / eqa | iqw / eqw | iqwe / eqwe |
+| "what" | wat / wot | wab / wob | wad / wod   |
+
+***** Possessive Pronouns
+
+All the items in the list below indicate a singular possessed object. Instead,
+the table indicate the number of possessors. Inflect the resulting word as you
+would a normal noun, e.g. =rwmo= \rightarrow =rwmw= / =rwmwe=.
+
+|        | Singular | Dual  | Plural |
+|--------+----------+-------+--------|
+| 1st    | rwmo     | rwno  | rwyo   |
+| 2nd    | rizo     | rijo  | rixo   |
+| 3rd    | rato     | rabo  | rado   |
+| REL    | ralo     | raro  | raryo  |
+| "this" | ritao    | ritwo | ritweo |
+| "that" | riqao    | riqwo | riqweo |
+| "what" | rwato    | rwabo | rwado  |
+
+***** Indefinite Pronouns
+
+|               | this    | that    | some    | no      | every  | any     | interr.     |
+|---------------+---------+---------+---------+---------+--------+---------+-------------|
+| person/thing  | ita/eta | iqa/eqa | orvo    | yemo    | axwe   | veli    | wat/.../wod |
+| place ~hanu~    | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
+| time ~bwri~     | tibwr   | albwr   | orbwr   | yebwr   | axwbwr | velbwr  | wbwr        |
+| way ~zove~      | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
+| reason ~dule~   | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
+| quantity ~lera~ | tilerwe | alerwe  | orlerwe | yelerwe |        | velerwe | wlerwe      |
