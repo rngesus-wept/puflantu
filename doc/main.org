@@ -39,6 +39,9 @@ the shirt store~.)
 
 * How to /Puflantu/
 
+/Everything just got transplanted from this megafile, so some references to
+section order are not currently correct and will be gradually fixed./
+
   * [[file:phonetics.org][Phonetics]] :: How to pronounce all the words
   * [[file:pronouns.org][Pronouns]] :: Pronouns and other stand-ins
   * [[file:verbs.org][Verbs]] :: Verbs and their affix inventory
