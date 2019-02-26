@@ -310,6 +310,24 @@ Cookies were eaten.
 ```
 #+END_EXAMPLE
 
+      Note that many English words also overlap their transitive and
+      intransitive forms -- for example, compare "I boil the water" and "The
+      water boils". In Perflontus, when using the intransitive form of the verb,
+      the phrasing is identical to using the passive voice with the transitive
+      verb; the latter example can be thought of as "The water is boiled".
+
+#+BEGIN_EXAMPLE
+```
+Enxura   lirwmwb.
+water-R  boil-1S
+I boil the water.
+
+Enxura   libotwb.
+water-R  boil-3O
+The water boils / The water is boiled.
+```
+#+END_EXAMPLE
+
 *** Pronouns, Part 2 -- This, That, A, and The
 
 "This" and "that" are demonstrative pronouns that differ from regular nouns
@@ -373,20 +391,26 @@ ongoing or otherwise incomplete; the perfect aspect indicates that the verb
 action has concluded.) These expressions appear as proclitics, i.e. prefix
 particles.
 
-
-| Present            | -- | Elaiza zumatuz.      | Eliza sleeps.           |
-| Past (PST)         | im | Elaiza im zumatuz.   | Eliza slept.            |
-| Future (FUT)       | et | Elaiza et zumatuz.   | Eliza will sleep.       |
-|--------------------+----+----------------------+-------------------------|
-| Imperfect (IMP)    | av | Elaiza av zumatuz.   | Eliza is sleeping.      |
-|                    |    | Elaiza imav zumatuz. | Eliza was sleeping.     |
-|                    |    | Elaiza etav zumatuz. | Eliza will be sleeping. |
-|--------------------+----+----------------------+-------------------------|
-| Perfect (PRF)      | os | Elaiza os zumatuz.   | Eliza has slept.        |
-|                    |    | Elaiza imos zumatuz. | Eliza had slept.        |
-|                    |    | Elaiza etos zumatuz. | Eliza will have slept.  |
-|--------------------+----+----------------------+-------------------------|
-| Hypothetical (HYP) |    |                      |                         |
+#+BEGIN_EXAMPLE
+| Present              | --  | Elaiza zumatuz.       | Eliza sleeps.                        |
+| Past (PST)           | im  | Elaiza im zumatuz.    | Eliza slept.                         |
+| Future (FUT)         | et  | Elaiza et zumatuz.    | Eliza will sleep.                    |
+|----------------------+-----+-----------------------+--------------------------------------|
+| Imperfect (IMP)      | av  | Elaiza av zumatuz.    | Eliza is sleeping.                   |
+|                      |     | Elaiza imav zumatuz.  | Eliza was sleeping.                  |
+|                      |     | Elaiza etav zumatuz.  | Eliza will be sleeping.              |
+|----------------------+-----+-----------------------+--------------------------------------|
+| Perfect (PRF)        | os  | Elaiza os zumatuz.    | Eliza has slept.                     |
+|                      |     | Elaiza imos zumatuz.  | Eliza had slept.                     |
+|                      |     | Elaiza etos zumatuz.  | Eliza will have slept.               |
+|----------------------+-----+-----------------------+--------------------------------------|
+| Hypothetical (HYP)   | fel | Elaiza fel zumatuz.   | Eliza might sleep.                   |
+|                      |     | Elaiza avfel zumatuz. | Eliza might be sleeping.             |
+|                      |     | Elaiza imfel zumatuz. | Eliza might have slept.              |
+|----------------------+-----+-----------------------+--------------------------------------|
+| Counterfactual (CFT) | gaq | Elaiza gaq zumatuz.   | Eliza would sleep (but isn't).       |
+|                      |     | Elaiza avgaq zumatuz. | Eliza would be sleeping (but isn't). |
+|                      |     | Elaiza imgaq zumatuz. | Eliza would have slept (but didn't). |
 #+END_EXAMPLE
 
 Verbs may be modified in degree or even reversed by the use of a prefix:
@@ -445,9 +469,10 @@ Jakob does not eat non-green cookies.
 #+END_EXAMPLE
 
 Note that numbers (like ~ha~ "two" in the second example) are an exception to
-this. They do not generally take on the same numeric inflection as the objects
-they count, but might still be pluralized in cases where they are used as
-estimation units (e.g. ~yo torelwe~ "36 cookies" vs ~ywe torelwe~ "36s of cookies").
+this. They do not generally take on the same inflections as the objects they
+count (including inflection due to negation or noun class), but might still be
+pluralized in cases where they are used as estimation units (e.g. ~yo torelwe~ "36
+cookies" vs ~ywe torelwe~ "36s of cookies").
 
 *** Verbs, Part 3 -- To Be
 
@@ -472,9 +497,10 @@ sort of identity relation. Separate verbs are used for other meanings that have
 been folded into the English "to be", e.g. ~z*if~ "to be located", ~j*if~ "to
 exist".
 
-=Az= copies the negative and number inflections from the things it links. This
-mirroring is primarily seen for =az= but also occurs for other verbs that express
-some notion of identity, e.g. =etaz= "to become".
+=Az= copies the number inflections from the things it links, as well as the
+negative inflection of adjectives (but not nouns). This mirroring is primarily
+seen for =az= but also occurs for other verbs that express some notion of
+identity, e.g. =etaz= "to become".
 
 #+BEGIN_EXAMPLE
 Didi  ruzeqo  zat.
@@ -485,8 +511,13 @@ Didi  ruzeq[ay]o  zat[ey].
 Didi  hunger-NEG  be-3S-NEG.
 Didi is not hungry.
 
+Didi  ruzeq[ay]o  zat.
+Didi  hunger-NEG  be-3S.
+Didi is a not-hungry (person).
+
 Didi-li  Joxu  ruzeq[w]   z[ab].
 Didi-&   Josh  hunger-DU  be-3dS.
+Didi and Josh are hungry.
 #+END_EXAMPLE
 
 *** Nouns and Adjectives, Part 2 -- Verb-Derivation
@@ -507,6 +538,7 @@ final vowel of the root verb.
 | Instrument (INS) | A thing that enables X-ing  | X-assisting, for X-ing  | -aqo   | daxaqo "educational" |
 | Location (LOC)   | A place where X-ing happens | X-hosting               | -ice   | daxice               |
 | Cause (CAU)      | A thing that causes X-ing   | X-causing               | -ede   | daxede               |
+| Result (RES)     | A thing that results from X | X-produced              | -oda   | daxoda               |
 #+END_EXAMPLE
 
 It should be noted that the use of these suffixes should be taken very
@@ -534,8 +566,8 @@ Sleeping/to sleep pleases Charles. (Charles likes sleeping/to sleep.)
 When used as an adjective this case always functions as a present participle,
 and only with the connotation of a thing that is performing the action in
 question. In particular, when describing something that is used /for/ an action
-rather than something that is performing the action itself, use the [[Instrumental
-Case ~-aqo~][instrumental case]].
+rather than something that is performing the action itself, use the [[Instrumental Case ~-aqo~][instrumental
+case]].
 
 #+BEGIN_EXAMPLE
 Qarluz   eqa   zumuza     hie    zat.
@@ -550,6 +582,12 @@ Zumuzaqo   kworu    kworatem.
 sleep-INS  clothes  wear-3S
 He wears clothes that are for sleeping.
 #+END_EXAMPLE
+
+Also, be careful with present participial form of intransitive verbs. For
+example, in English, "boiling water" refers to water that is boiling, not water
+that is boiling something else. As noted in [[Verbs, Part 1 -- Basic Infixes][Basic Infixes]], a "passive voice"
+style of inflection is required here. A full treatment of other participial
+forms is covered in [[Dependent Clauses (STUB)][Dependent Clauses]].
 
 The resulting word acts as a root form; in particular, additional
 transformations that would be applied to a noun apply to the suffixed verb as a
@@ -634,6 +672,7 @@ nearby context that disambiguates it.
 
 ***** Locative Case ~-ice~ (STUB)
 ***** Causative Case ~-ede~ (STUB)
+***** Resultative Case =-oda= (STUB)
 *** Genitive (Possessive) Case
 
 For nouns, the possessive case is marked simply by suffixing =-ro=. This
@@ -812,9 +851,20 @@ final vowel with ~wdo~: ~aqe~ \rightarrow ~aqwdo~, ~aqke~ \rightarrow ~aqkwdo~, 
 are still "unit" power-of-6 words, and to express an actual quantity still
 require the explicity 1 hexit: ~keaqwdo~, ~keaqkwdo~, ~keaqhawdo~, etc.
 
-Exact numbers do not take any additional inflection. For example "three waters"
-is ~pai enxurwe~, not ~*paurwe enxurwe~. Inexact numbers still take additional
-inflection. For example "36s of dances" is ~ywywe hinalwla~.
+Exact numbers do not take any additional inflection. For example "three dances"
+is ~pai hinalwla~, not ~*pwpai hinalwla~. When measures of things are used -- for
+example, "5 cups of water" -- the things being measured are taken as an
+adjective for the number and the unit of measure. In this case we would
+translate "water 5 cups", or =enxa lo janwe=. Note that not only is the noun class
+applied to the unit of measure, it is also not applied to the thing being
+measured, since it is not the head of its noun phrase (it is treated as an
+adjective).
+
+Inexact numbers are treated as units of measure unto themselves, e.g. "dozens of
+dances" \rightarrow =hinala haqwe= "dance dozens".
+
+Ordinal numbers are formed by the suffix =-ru=. This is subject to
+adverbialization by an added =-s=.
 
 *** Conjunctions (STUB)
 
@@ -836,11 +886,20 @@ frequent-ADV  eat-1S  -&-ADV  sleep-1S
 I eat and sleep a lot.
 #+END_EXAMPLE
 
-  * -li(s) :: and
-  * -di(s) :: but, yet (contrastive and)
-  * -gi(s) :: nor
-  * -fo(s) :: exclusive or
-  * -vo(s) :: inclusive or
+The full list of coordinating conjunctions is as follows:
+
+| -li(s) | and                        | Emkixa-li kolbao zat.        | It is red and green.              |
+| -di(s) | but, yet (contrastive and) | Ogis lifwman-dis uyis ywmel. | I study a lot but learn little.   |
+| -ni(s) | then (sequential and)      | Bastonu-ni Yw Iorka twyex.   | We went to Boston, then New York. |
+| -fo(s) | exclusive or               | At-fo wm cwnub.              | Either he or I will speak.        |
+| -vo(s) | inclusive or               | Paliso-vo twipe orcizal na.  | Do you want milk and/or sugar?    |
+
+Note that the inflection of the verb, where appropriate, is based on the
+combination of all list elements for both "and" and "or". (This is in contrast
+to English, where the inflection of the verb matches the /last/ list element in
+the "or" case.) As an example, the exclusive-or sentence above uses the
+first person dual =c[wn]ub= instead of the first person singular =c[wm]ub=.
+
   * -xa(s) :: for, because
   * -ja(s) :: so, therefore
 
@@ -948,26 +1007,112 @@ The [me-eaten] blue things pleased me.
 *The [that I ate] blue things pleased me.
 #+END_EXAMPLE
 
-Past participles are implemented as dependent clauses. In particular, recall
-that the passive voice is formed by supplying a verb with an object, but not a
-subject infix.
+Participles in general are implemented as dependent clauses, with the exception
+of the present participle of an active verb, for which the [[Gerund Case =-a=][gerund case]] may be
+used. Generally these use a passive voice construction inside a dependent
+clause, as follows:
 
 #+BEGIN_EXAMPLE
-Im fumalub      -ka       toreli  wlwmoc.
-combust-RS-PST  -DEP  cookie  eat-1S.
-I eat the burnt cookie. (the cookie that combusted)
+Enxura   lirwmwb.
+water-R  boil-1S
+I boil the water.
 
-Im vunolod  -ka   toreli  wlwmoc.
-ignite-RO   -DEP  cookie  eat-1S.
-I eat the burnt cookie. (the cookie that was ignited)
+Enxura   lirotwb.
+water-R  boil-3O
+The water boils.
 
-Golir    -ka   lerura      ratiq.
-know-RO  -DEP  quantity-R  drink-3S.
-He drinks a known quantity (of fluid). (a quantity that is known)
-               ^ note that the noun class is not reflected in the participial clause
+Lirotwb-ka   enxura   rwmiq.
+boil-3O-DEP  water-R  drink-1S
+I drink the boiling water. (I drink the water that boils / is being boiled.)
+       ^ note that the R noun class is not reflected in the clause
+
+Im   lirotwb-ka   enxura   rwmiq.
+PST  boil-3O-DEP  water-R  drink-1S.
+I drink the boiled water. (I drink the water that was boiled.)
 #+END_EXAMPLE
 
-***** Simple Adverbial Clauses - When
+***** Location and Timing - When, Where
+
+Clauses with additional connotations express them with an =al-= word, placed at
+the beginning of the clause. These words are defined in [[Pronouns, Part 3 -- Indefinite Pronouns and Other Stand-Ins (STUB)][Indefinite Pronouns and
+Other Stand-Ins]]; the relevant ones are:
+
+| that-place ("where")            | alhan |
+| that-time ("when")              | albwr |
+
+Various relationships between clauses can be described using these words, along
+with locative descriptors.
+
+#+BEGIN_EXAMPLE
+Alhan       xoale  jatif     -ka,  e'a   jatif.
+that-place  smoke  exist-3S  -DEP  fire  exist-3S
+Where there is smoke, there is fire.
+#+END_EXAMPLE
+
+Perflontus uses an inner-outer spatial metaphor for expressing time; things that
+happened before the present are inside it, while things that happen afterward
+are outside it.
+
+***** Causation and Intent - How, Why
+
+It is common for subordinate clauses and phrases to express some kind of
+causality or intent. Much like the spatial/temporal clauses, causative clauses
+are introduced by one of the following adverbs:
+
+| this-method | that-method | this-reason | that-reason |
+| tizov       | alzov       | tidul       | aldul       |
+
+The distinction between -method and -reason is somewhat blurred, but the general
+idea is that -method should be used when the clause refers to a mechanical cause
+for something, whereas -reason should be used for more abstract causes. It is
+expected that certain situations could be interpreted in either way, and it is
+up to the speaker's discretion to choose one.
+
+The choice between this- and that- depends on whether the causing event is in
+the subordinate clause, or in the main clause. To put it another way, if a this-
+adverb is used, the direction of causality or inference flows from the
+subordinate clause to the main clause. If a that- adverb is used, the opposite
+is true.
+
+#+BEGIN_EXAMPLE
+E'a   tidul        xoale  jatif      -kas      jatif.
+fire  this-reason  smoke  exists-3S  -DEP-ADV  exists-3S
+If there is smoke, there is fire.
+
+Xoale  tizov        e'a   jatif      -kas      jatif.
+smoke  this-method  fire  exists-3S  -DEP-ADV  exists-3S
+If there is fire, there is smoke.
+#+END_EXAMPLE
+
+In both of the above examples, a this- adverb is used because the logical
+direction of events is from the dependent clause to the main clause. In the
+first example, the nature of the logic is by inference, so a -reason adverb is
+used. In the second example, there is a concrete, mechanical cause in play, so a
+-method adverb is used.
+
+#+BEGIN_EXAMPLE
+E'a   alzov        xoale  jatif      -kas      jatif.
+fire  that-method  smoke  exists-3S  -DEP-ADV  exists-3S
+There is fire, therefore there is smoke.
+
+Xoale  aldul        e'a   jatif      -kas      jatif.
+smoke  that-reason  fire  exists-3S  -DEP-ADV  exists-3S
+There is smoke, therefore there is fire.
+#+END_EXAMPLE
+
+Each of the original examples can be inverted simply by changing the adverb
+used. Now in the first example, the fire in the main clause is causing the smoke
+in the dependent clause, so =alzov= is used to indicate the direction and that
+there is a mechanical reason behind it. Similarly, in the second case, the
+existence of the fire in the dependent clause is being inferred from the smoke
+in the main clause, so =aldul= is used to indicate the direction and that the
+reasoning is abstract.
+
+***** Comparative Clauses (STUB)
+
+Comparisons are always expanded to a full clause. Instead of =-ka= the
+subordinate verb takes the particle =-sos=, and the use of the relative pronoun
+in the clause indicates the role of the thing being compared.
 
 *** Adpositions
 
