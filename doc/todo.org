@@ -1,0 +1,44 @@
+* Language TODOs
+
+  * [ ] Fill out the lexicon
+    * [ ] Common verbs - to have (possess), to need, to want, to must (obligatory)
+    * [ ] Common "particles" - on, from, positions
+    * [ ] Mother, father, parent, child, other familial relations
+    * [ ] Same, different
+    * [ ] Elements of the periodic table
+      * There are some interesting etymological choices to be made here. For
+        example, in human languages, many of the smaller atoms are named for
+        their most common occurrences, whereas many of the larger ones are named
+        for their discoverers (as people or as institutions).
+  * [ ] Reflexive constructions -- easiest way is probably just to create
+    another class of pronouns. In particular, because the pronoun infix always
+    precedes a vowel, you can do something like add ~-b~ to the end of the
+    existing pronoun and specify that the special reflexive pronoun never occurs
+    as a word on its own. Thus ~Dwmax.~ "I teach" can be ~Dwmbax.~ "I teach myself."
+    (But probably not exactly ~-b~; "I teach myself" is getting a little
+    phonetically close to "Dumbass" there.)
+  * [ ] Appositives
+  * [ ] Addressing the listener
+  * [ ] Adpositions or equivalent -- Note that many human languages use these
+    cases in ways that only overlap via locational metaphor, e.g. when
+    describing /temporal/ location like in "in five minutes"; and the mapping is
+    not consistent across languages.
+    * Inessive (INE) -- "in" or "located at"
+    * Elative (ELA) -- "out of"
+    * Illative (ILL) -- "into" (contrast inessive, which does not have
+      directional connotations)
+    * Adessive (ADE) -- "on"
+    * Ablative (ABL) -- "away from" (this one is more commonly mentioned / has
+      more WP elaboration than the others; is it somehow more important?)
+    * Allative (ALL) -- "toward"
+    * Superessive (SUPE) -- "upon"
+  * [ ] Use of ~ag-~ and ~yi-~ as intensifier and downtoner respectively should be
+    extended to adjectives, even if they aren't verb-derived.
+  * [ ] Take a moment to consider whether we have inadvertently created words
+    that are deeply taboo, spoken or written, in English and whatever other
+    languages we can think to check. Is there a good way to automate this check?
+  * [ ] Actually write the section on adverbial suffixing
+  * [ ] Perflontus speakers use an inner/outer spatial metaphor for time (where
+    most human languages use front/forward/behind/back styles of metaphor). The
+    inner direction corresponds to the past.
+  * [ ] Likely need a past participial adjective for smoothness?
