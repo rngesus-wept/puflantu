@@ -2,23 +2,35 @@
 
 ### English
 
-Love me now, when I'm gone, love me none
-Love me none, love me none, numb, numb, numb, numb
-Sink full of dishes pacin' in the kitchen, cocaine for breakfast, yikes
+Love me now, when I'm gone, love me none  
+Love me none, love me none,  
+Numb, numb, numb, numb
+
+Sink full of dishes  
+pacin' in the kitchen  
+cocaine for breakfast  
+...yikes
 
 ### Gloss
 
-now love-1O-IMP, that-time exist-1S-NEG-DEP, zero-ADV love-1O-IMP
-zero-ADV love-1O-IMP, zero-ADV love-1O-IMP, feel-NEG-GER, feel-NEG-GER, feel-NEG-GER
-dish-PL full sink, kitchen interior-ADV pace-1S, breakfast cocaine, yikes
+now love-1O-IMP, that-time exist-1S-NEG-DEP, zero-ADV love-1O-IMP  
+zero-ADV love-1O-IMP, zero-ADV love-1O-IMP,  
+feel-NEG-GER, feel-NEG-GER, feel-NEG-GER
+
+dish-PL full sink,  
+kitchen interior-ADV pace-1S,  
+breakfast cocaine,  
+...yikes
 
 ### Perflontus
 
-Tibwr 'sumen, albwr jwmeyif-ka, ris 'sumen
-Ris 'sumen, ris 'sumen,
-Eyaxa, eyaxa, eyaxa, eyaxa
-?????we ???? ???, dunse henqos arkahwmut
-Keru kolarvu kokeini
+Tibwr 'sumen, albwr jwmeyif-ka, ris 'sumen  
+Ris 'sumen, ris 'sumen,  
+Eyaxa, eyaxa, eyaxa, eyaxa  
+
+?????we ???? ???  
+Dunse henqos arkahwmut  
+Keru kolarvu kokeini  
 ...w'ne
 
 ## Entry 2
