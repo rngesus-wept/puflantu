@@ -42,6 +42,7 @@ the shirt store~.)
   * [[file:phonetics.org][Phonetics]] :: How to pronounce all the words
   * [[file:pronouns.org][Pronouns]] :: Pronouns and other stand-ins
   * [[file:verbs.org][Verbs]] :: Verbs and their affix inventory
+  * [[file:nouns.org][Nouns]] :: Nouns and adjectives
 
 *** Pedagogic Ordering
 
@@ -49,98 +50,8 @@ the shirt store~.)
   * [[file:pronouns.org#personal-pronouns][Personal Pronouns]] :: Personal pronouns (I, they, y'all, et al.)
   * [[file:verbs.org#basic-infixes][Basic Verbal Inflection]] :: Inflections for basic SOV constructions
   * [[file:pronouns.org#determinatives-and-demonstratives][This, That, A, and The]] :: Determinative and demonstrative pronouns
-
-*** Verbs, Part 2 -- Tense, Aspect, Degree, and Reversal
-
-Perflontus expresses two non-present tenses, past and future; two aspects,
-imperfect and perfect; and two irrealis moods, the hypothetical and the
-counterfactual. (Briefly, the imperfect aspect indicates that the verb action is
-ongoing or otherwise incomplete; the perfect aspect indicates that the verb
-action has concluded.) These expressions appear as proclitics, i.e. prefix
-particles.
-
-#+BEGIN_EXAMPLE
-| Present              | --  | Elaiza zumatuz.       | Eliza sleeps.                        |
-| Past (PST)           | im  | Elaiza im zumatuz.    | Eliza slept.                         |
-| Future (FUT)         | et  | Elaiza et zumatuz.    | Eliza will sleep.                    |
-|----------------------+-----+-----------------------+--------------------------------------|
-| Imperfect (IMP)      | av  | Elaiza av zumatuz.    | Eliza is sleeping.                   |
-|                      |     | Elaiza imav zumatuz.  | Eliza was sleeping.                  |
-|                      |     | Elaiza etav zumatuz.  | Eliza will be sleeping.              |
-|----------------------+-----+-----------------------+--------------------------------------|
-| Perfect (PRF)        | os  | Elaiza os zumatuz.    | Eliza has slept.                     |
-|                      |     | Elaiza imos zumatuz.  | Eliza had slept.                     |
-|                      |     | Elaiza etos zumatuz.  | Eliza will have slept.               |
-|----------------------+-----+-----------------------+--------------------------------------|
-| Hypothetical (HYP)   | fel | Elaiza fel zumatuz.   | Eliza might sleep.                   |
-|                      |     | Elaiza avfel zumatuz. | Eliza might be sleeping.             |
-|                      |     | Elaiza imfel zumatuz. | Eliza might have slept.              |
-|----------------------+-----+-----------------------+--------------------------------------|
-| Counterfactual (CFT) | gaq | Elaiza gaq zumatuz.   | Eliza would sleep (but isn't).       |
-|                      |     | Elaiza avgaq zumatuz. | Eliza would be sleeping (but isn't). |
-|                      |     | Elaiza imgaq zumatuz. | Eliza would have slept (but didn't). |
-#+END_EXAMPLE
-
-Verbs may be modified in degree or even reversed by the use of a prefix:
-
-#+BEGIN_EXAMPLE
-|                    | Alpoxe horwmod.   | I remember that time.             |
-| Diminutive (DIM)   | Alpoxe yihorwmod. | I remember that time (a bit).     |
-| Augmentative (AUG) | Alpoxe aghorwmod. | I remember that time (intensely). |
-| Reverse (REV)      | Alpoxe vohorwmod. | I forget that time.               |
-#+END_EXAMPLE
-
-If multiple prefixes are used, DIM/AUG come before REV, i.e. ~yivohor*od~, not
-~voyihor*od~.
-
-*** Nouns and Adjectives, Part 1 -- Number
-
-Perflontic nouns always have at least two syllables (which is to say, vowels)
-and always end in a vowel other than ~w~. In their noun form, they don't take any
-interesting inflections other than for number. When a noun is given the dual
-number its final vowel is replaced by ~w~. For the plural number, it is replaced
-by ~we~. Zero is considered to be part of the plural number.
-
-#+BEGIN_EXAMPLE
-Furedu  toreli  wlatoc.
-Fred    cookie  eat-3S.
-Fred eats (a) cookie.
-
-Ha   torelw     wlatoc.
-Two  cookie-DU  eat-3S.
-He eats two cookies.
-
-Hasa   pagke  torelwe    wlatoc.
-2*216  25     cookie-PL  eat-3S.
-He eats 461 cookies.
-#+END_EXAMPLE
-
-Nouns also function as adjectives with no additional inflection. Some root forms
-are translated as one part of speech or the other in English, but the parts of
-speech in Perflontus should be understood as interchangeable as appropriate.
-
-Adjectives take on the numeric inflection of the nouns they modify. In addition,
-adjectives may be negated by infixing ~-ay-~ before their final vowel.
-
-#+BEGIN_EXAMPLE
-Jekobu  kolbao  toreli  wlatoc.
-Jakob   green   cookie  eat-3S.
-Jakob eats (a) green cookie.
-
-Jekobu  ha   kolbaw    torelw     wlatoc.
-Jakob   two  green-DU  cookie-DU  eat-3S.
-Jakob eats two green cookies.
-
-Jekobu  kolba[ay]we   torelwe    wlateyoc.
-Jakob   green-NEG-PL  cookie-DU  eat-3S-NEG.
-Jakob does not eat non-green cookies.
-#+END_EXAMPLE
-
-Note that numbers (like ~ha~ "two" in the second example) are an exception to
-this. They do not generally take on the same inflections as the objects they
-count (including inflection due to negation or noun class), but might still be
-pluralized in cases where they are used as estimation units (e.g. ~yo torelwe~ "36
-cookies" vs ~ywe torelwe~ "36s of cookies").
+  * [[file:verbs.org#tense-aspect-and-mood][Tense, Aspect, and Mood]] :: On time, duration, and reality
+  * [[file:nouns.org][Noun and Adjective Basics]] :: Number and negation
 
 *** Verbs, Part 3 -- To Be
 
