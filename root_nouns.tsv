@@ -47,28 +47,32 @@ hie	human
 ogbai	traveller, vagabond
 
 # Food and drink
-toreli	cookie
-enxa	water
-kofi	coffee
-turakolu	pasta
-wibale	egg
-oku	flour
-balorvu	dough
-zalma	salt
-twipe	sugar
-hompaliso	butter
-gomu	fruit
-orbili	jelly
-mofke	oats
-paliso	milk
 ataru	cinnamon
+balorvu	dough
+enxa	water
+gomu	fruit
+hompaliso	butter
+kofi	coffee
 kolarvu	bread
-ruzeqo	hunger
+mofke	oats
+oku	flour
+orbili	jelly
+paliso	milk
 rojgomu plum
+ruzeqo	hunger
+toreli	cookie
+turakolu	pasta
+twipe	sugar
+wibale	egg
+zalma	salt
 kureni	pie
 jarpagomu	pumpkin
 alwpagomu	strawberry
 sizagomu	raspberry
+geze	juice
+laksalfa	leavening agent, yeast
+dahzelo	saucepan
+twipenxa	syrup
 
 # Structures
 veonxi	building
@@ -108,6 +112,9 @@ ogwri	frequent, common
 uywri	rare, scarce
 qahe	close, near
 xuso	distant, far
+ovekqu	simple, easy
+dusiko	cold
+lirwpa	hot
 
 # Space
 puflantu	galaxy
@@ -136,26 +143,24 @@ aquqiru	tenth
 aqloru	eleventh
 haqeru	twelfth
 
-# Misc
-jozrwpo	shirt
-roqa	day
-tiroqa	today
+# Positional
 nafi	right-side
 defi	left-side
 henqo	interior
 jasqo	exterior
-dusiko	cold
-lirwpa	hot
+
+# Time
+
+# Misc
+jozrwpo	shirt
+roqa	day
+tiroqa	today
 oca	container, box
 hwomda	delicious
 cuafi	fresh, newly-made, unused
 jano	cup
-ovekqu	simple, easy
-tozqwyo	verastile
+tozqwyo	versatile
 guramu	gram
-laksalfa	leavening agent, yeast
-dahzelo	saucepan
-geze	juice
 mainci	summer
 nousve	viscous
 ifaro	jar, vessel
