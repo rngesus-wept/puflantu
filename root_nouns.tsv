@@ -84,10 +84,14 @@ tusvo	bus
 # Things
 kworu	clothing
 kude	book
+jozrwpo	shirt
+oca	container, box
+ifaro	jar, vessel
 
 # Places
 veta	nation, state, delineated region
 usonba	land, ground, earth
+cuafi	store
 
 # Colors
 itiye	color
@@ -115,6 +119,9 @@ xuso	distant, far
 ovekqu	simple, easy
 dusiko	cold
 lirwpa	hot
+tozqwyo	versatile
+hwomda	delicious
+nousve	viscous
 
 # Space
 puflantu	galaxy
@@ -150,21 +157,14 @@ henqo	interior
 jasqo	exterior
 
 # Time
-
-# Misc
-jozrwpo	shirt
 roqa	day
 tiroqa	today
-oca	container, box
-hwomda	delicious
+mainci	summer
+
+# Misc
 cuafi	fresh, newly-made, unused
 jano	cup
-tozqwyo	versatile
 guramu	gram
-mainci	summer
-nousve	viscous
-ifaro	jar, vessel
-cuafi	store
 gwnde	rod
 e'a	fire
 xoale	smoke
