@@ -37,12 +37,6 @@ to the listener to determine that the speaker does not intend something like ~I
 bought a blue (thing) at the shirt store~ or ~I bought (the color/concept) blue at
 the shirt store~.)
 
-[[file:todo.org::lexicon][lexicon search test]]
-
-[[file:todo.org::* Test Heading][heading search test]]
-
-[[file:todo.org#test-heading][heading link test]]
-
 * How to /Puflantu/
 
 *** Sounds
