@@ -72,14 +72,26 @@ Mwbes et qobwnur
 
 ## Entry 3
 
-"So much to do, so much to see
-So what's wrong with taking the back streets?
-You'll never know if you don't go
-You'll never shine if you don't glow"
+### English
+
+So much to do, so much to see  
+So what's wrong with taking the back streets?  
+You'll never know if you don't go  
+You'll never shine if you don't glow
 
 ### Gloss
 
+FUT do-RO-DEP much, FUT see-RO-DEP much  
+[back streets] use-GER wrong that-reason is-3S ?  
+this-reason HYP go-2S-NEG-DEP no-time FUT know-2S-NEG  
+this-reason light-T HYP emit-2S-NEG-DEP light-T no-time FUT reflect-2S-NEG
+
 ### Perflontus
+
+Et yolad-ka ogi, et molid-ka ogi,
+?????????????? piwva ????? aldul zat na?  
+Yebwr et gizeyir tidul fel tizeyex-kas  
+Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
 ## Entry 4
 
