@@ -140,3 +140,49 @@ Verbs may be modified in degree or even reversed by the use of a prefix:
 
 If multiple prefixes are used, DIM/AUG come before REV, i.e. ~yivohor*od~, not
 ~voyihor*od~.
+
+*** To Be
+
+Perflontus has only one irregular verb, the copula ~az~ "to be". When inflected as
+a main verb, ~az~ is inflected as ~z*~:
+
+#+BEGIN_EXAMPLE
+| z[wm] | z[at] | z[ad]    | z[at][ey] |
+| I am  | It is | They are | It is not |
+#+END_EXAMPLE
+
+It is possible for ~az~ to take an object "infix" in this form, e.g. ~zateyot~ "It
+is not it", but it's unclear whether this is formally correct. A good example of
+this issue is the use of "It is I" vs "It is me" in English, which raises
+questions of whether the things linked by the copula should both have subjective
+case and so forth. In other words, the use of ~az~ in these cases is undecided,
+but the above object-free examples should be enough to get you through a lot of
+use cases.
+
+~az~ is only "to be" in the strictly copular sense, i.e. one that expresses some
+sort of identity relation. Separate verbs are used for other meanings that have
+been folded into the English "to be", e.g. ~z*if~ "to be located", ~j*if~ "to
+exist".
+
+=Az= copies the number inflections from the things it links, as well as the
+negative inflection of adjectives (but not nouns). This mirroring is primarily
+seen for =az= but also occurs for other verbs that express some notion of
+identity, e.g. =etaz= "to become".
+
+#+BEGIN_EXAMPLE
+Didi  ruzeqo  zat.
+Didi  hunger  be-3S.
+Didi is hungry.
+
+Didi  ruzeq[ay]o  zat[ey].
+Didi  hunger-NEG  be-3S-NEG.
+Didi is not hungry.
+
+Didi  ruzeq[ay]o  zat.
+Didi  hunger-NEG  be-3S.
+Didi is a not-hungry (person).
+
+Didi-li  Joxu  ruzeq[w]   z[ab].
+Didi-&   Josh  hunger-DU  be-3dS.
+Didi and Josh are hungry.
+#+END_EXAMPLE
