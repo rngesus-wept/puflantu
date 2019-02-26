@@ -48,3 +48,157 @@ intro words
   count (including inflection due to negation or noun class), but might still be
   pluralized in cases where they are used as estimation units (e.g. ~yo torelwe~ "36
   cookies" vs ~ywe torelwe~ "36s of cookies").
+
+*** Verb-Derived Nouns and Adjectives
+
+Verbs may be suffixed to form nouns. These suffixes are applied to the root form
+of the verb, including ~az~. They are compatible with all the affixes described
+previously, except for the pronoun infixes. The resulting noun/adjective is
+considered a root form unto itself, so that inflections like ~-ay-~ that target
+the final vowel of the word apply to the final vowel of the verb+suffix, not the
+final vowel of the root verb.
+
+#+BEGIN_EXAMPLE
+| Suffix type      | Noun sense                  | Adjective sense         | Suffix | Example              |
+|------------------+-----------------------------+-------------------------+--------+----------------------|
+| Gerund (GER)     | The act of X-ing            | In the process of X-ing | -a     | daxa "teaching"      |
+| Agent (AGT)      | A thing that X's            | Capable of X-ing        | -afe   | daxafe "teacher"     |
+| Patient (PAT)    | A thing that is X'd         | X-able                  | -who   | daxwho "student"     |
+| Instrument (INS) | A thing that enables X-ing  | X-assisting, for X-ing  | -aqo   | daxaqo "educational" |
+| Location (LOC)   | A place where X-ing happens | X-hosting               | -ice   | daxice               |
+| Cause (CAU)      | A thing that causes X-ing   | X-causing               | -ede   | daxede               |
+| Result (RES)     | A thing that results from X | X-produced              | -oda   | daxoda               |
+#+END_EXAMPLE
+
+It should be noted that the use of these suffixes should be taken very
+literally, which is one of the reasons that many suffixes will not have a clean
+gloss into English. For example, it may be tempting to gloss ~daxice~
+"teach-location" as "school" but you could just as easily interpret that as
+"classroom". The best you can really do is just substitute "teaching-place"
+where it appears to avoid carrying in any unmerited assumptions. Thus to specify
+"school" you might have to say ~daxice veonxi~ "teaching-place building" as
+opposed to ~daxice jiso~ "teaching-place room". Of course, Perflontus should
+ultimately have root words for "school" and "classroom" directly.
+
+***** Gerund Case ~-a~
+
+The gerund case of a verb is a derived noun meaning that verb's action. Some
+uses of the infinitive in various languages also perform this role; in
+Perflontus the two both use the gerund case.
+
+#+BEGIN_EXAMPLE
+Zumuz[a]   Qarluz   somatun.
+sleep-GER  Charles  please-3S.
+Sleeping/to sleep pleases Charles. (Charles likes sleeping/to sleep.)
+#+END_EXAMPLE
+
+When used as an adjective this case always functions as a present participle,
+and only with the connotation of a thing that is performing the action in
+question. In particular, when describing something that is used /for/ an action
+rather than something that is performing the action itself, use the [[Instrumental Case ~-aqo~][instrumental
+case]].
+
+#+BEGIN_EXAMPLE
+Qarluz   eqa   zumuza     hie    zat.
+Charles  that  sleep-GER  human  be-3S.
+Charles is the sleeping person.
+
+*Zumuza     kworu    kworatem.  -- Incorrect, the clothes are *for* sleeping
+*sleep-GER  clothes  wear-3S
+He wears clothes that are sleeping.  -- unless the clothes are alive???
+
+Zumuzaqo   kworu    kworatem.
+sleep-INS  clothes  wear-3S
+He wears clothes that are for sleeping.
+#+END_EXAMPLE
+
+Also, be careful with present participial form of intransitive verbs. For
+example, in English, "boiling water" refers to water that is boiling, not water
+that is boiling something else. As noted in [[Verbs, Part 1 -- Basic Infixes][Basic Infixes]], a "passive voice"
+style of inflection is required here. A full treatment of other participial
+forms is covered in [[Dependent Clauses (STUB)][Dependent Clauses]].
+
+The resulting word acts as a root form; in particular, additional
+transformations that would be applied to a noun apply to the suffixed verb as a
+whole. It is still possible to apply some affixes to the verbal root before the
+suffix, which may create subtly different meanings.
+
+#+BEGIN_EXAMPLE
+Qarluz   eqa   zumuzaya       hie    zat.
+Charles  that  sleep-GER-NEG  human  be-3P.
+Charles is the person who is not sleeping.
+
+Qarluz   eqa   zumeyuza       hie    zat.
+Charles  that  sleep-NEG-GER  human  be-3P.
+Charles is the person who is (not-sleep)ing.  -- connotations of forced wakefulness, perhaps
+#+END_EXAMPLE
+
+***** Agent Case ~-afe~ and Patient Case ~-who~
+
+The agent case of a verb is a derived noun referring to an entity that is taking
+the action or is capable of taking the action. In English this functions much
+like the "-er" suffix for verbs.
+
+In the adjective form the derived word strictly denotes capability. To refer to
+an entity that is currently taking the action, use the Gerund case instead.
+
+#+BEGIN_EXAMPLE
+Maksu  hinalafe   zat.
+Max    dance-AGT  be-3P.
+Max is a dancer / Max is dance-capable.  -- context required to disambiguate
+
+Maksu  hinalafe   hie    zat.
+Max    dance-AGT  human  be-3P.
+Max is a dance-capable person.  -- example of grammatical disambiguation
+
+Maksu  hinalafaye     zatey.
+Max    dance-AGT-NEG  be-3P-NEG.
+Max is not a dancer / Max is not dance-capable.
+#+END_EXAMPLE
+
+Conversely the patient case refers to something that is the target of the
+suffixed action, or capable of being such. In English the "-ee" suffix might be
+used in the noun form. For the adjective form reasonable translations are
+"X-able" or "for X-ing" (as an object). ("For X-ing" as a subject falls under
+the instrumental case.)
+
+#+BEGIN_EXAMPLE
+Eqwe     torelwe    wlocwho  zad.
+That-PL  cookie-PL  eat-PAT  be-3pS.
+Those cookies are for eating / edible / to be eaten.
+
+Equra   enxura   riqwhurayo       zatey.
+That-R  water-R  drink-PAT-NEG-R  be-3S-NEG.
+That water is not for drinking.
+#+END_EXAMPLE
+
+***** Instrumental Case ~-aqo~
+
+The instrumental case of a verb refers to something that is used for the action
+in question. This is slightly different from something that /causes/ the action in
+question.
+
+#+BEGIN_EXAMPLE
+Burainu  daxaqo     kude  gaten.
+Brian    teach-INS  book  read-3S.
+Brian reads a textbook.
+
+Burainu  sinqeraqo     kude  gaten.
+Brian    describe-INS  book  read-3S.
+Brian reads a manual.
+
+Burainu  uqilwe  yelaqwe  moratuh.
+Brian    several-PL  learn-INS  own-3S.
+Brian has several things used for learning.
+#+END_EXAMPLE
+
+Note that this is more a descriptive term than anything else and should not be
+used to generate specific words, primarily because many different things can be
+instrumental for an action. For example a spoon can be ~wlocaqo~ "eat-instrument",
+but so can a fork, a bowl, or a person's mouth. So it would be inappropriate to
+use ~wlocaqo~ as a word that means specifically "spoon", unless there's other
+nearby context that disambiguates it.
+
+***** Locative Case ~-ice~ (STUB)
+***** Causative Case ~-ede~ (STUB)
+***** Resultative Case =-oda= (STUB)
