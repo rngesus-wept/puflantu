@@ -25,7 +25,7 @@ The table below gives an exact breakdown.
 | i      | <i>     | "ee" in "feet"                                                     |
 | j      | <dʒ>    |                                                                    |
 | k      | <k>     |                                                                    |
-| l      | \<l>    |                                                                    |
+| l      | <l>     |                                                                    |
 | m      | <m>     |                                                                    |
 | n      | <n>     |                                                                    |
 | o      | <o>     | "oa" in "goat"                                                     |
