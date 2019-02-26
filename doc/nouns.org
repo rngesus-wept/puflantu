@@ -255,3 +255,31 @@ Rwatwe      zad    na.
 Who-GEN-PL  be-3S  ?
 Whose are those?
 #+END_EXAMPLE
+
+*** Noun Classes
+
+*State:* Stub
+
+Some nouns have classes which apply an additional mutation to the word. If this
+occurs, all non-numeric adjectives for that noun take the mutation as well. This
+mutation happens before polarity, numeric, and comparative inflection. It
+applies across the copula but only when the object complement is an adjective.
+
+  * Bodily actions (W) :: Replace the final consonant cluster ~(C+)~ with ~\1w\1~.
+  * Light sources (T) :: If the first vowel is ~(V)~, prefix ~\1t~.
+  * Fluids (R) :: If the first two vowels are ~(V)(V)~, replace with ~\1r\2~. If the
+                  first two vowels are ~(VC+)(V)~, replace with ~\1ur\2~.
+
+*** Comparatives and Superlatives
+
+*State:* Stub
+
+Comparatives are formed by suffixing ~'fi~ . This happens after negation but before
+numeric inflection. The corresponding dual and plural forms are ~'fw~ and ~'fwe~.
+
+Some types of adjectives do not permit standard comparative formation. Instead,
+these take on ~ogi'fi~ as adverbial modifiers, in the same way "more" is used
+instead of "-er" in English, e.g. "bigger" vs "more gigantic".
+
+Superlatives are formed by suffixing ~'~ , ~'w~, or ~-'we~ respectively. Adjectives
+that use ~ogi'fi~ instead of ~-'fi~ also take ~ogi'~ instead of ~-'~.

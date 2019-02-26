@@ -55,30 +55,8 @@ the shirt store~.)
   * [[file:verbs.org#to-be][To Be]] :: Handling the most common copula
   * [[file:nouns.org#verb-derived-nouns-and-adjectives][Verb-Derived Nouns]] :: Nominalizing suffixes e.g. -er, -ing, -tion
   * [[file:nouns.org#possessives][Possessives]] :: Things what belong to other things
-
-*** Adjectives and Noun Classes (STUB)
-
-Some nouns have classes which apply an additional mutation to the word. If this
-occurs, all non-numeric adjectives for that noun take the mutation as well. This
-mutation happens before polarity, numeric, and comparative inflection. It
-applies across the copula but only when the object complement is an adjective.
-
-  * Bodily actions (W) :: Replace the final consonant cluster ~(C+)~ with ~\1w\1~.
-  * Light sources (T) :: If the first vowel is ~(V)~, prefix ~\1t~.
-  * Fluids (R) :: If the first two vowels are ~(V)(V)~, replace with ~\1r\2~. If the
-                  first two vowels are ~(VC+)(V)~, replace with ~\1ur\2~.
-
-*** Comparatives and Superlatives (STUB)
-
-Comparatives are formed by suffixing ~'fi~ . This happens after negation but before
-numeric inflection. The corresponding dual and plural forms are ~'fw~ and ~'fwe~.
-
-Some types of adjectives do not permit standard comparative formation. Instead,
-these take on ~ogi'fi~ as adverbial modifiers, in the same way "more" is used
-instead of "-er" in English, e.g. "bigger" vs "more gigantic".
-
-Superlatives are formed by suffixing ~'~ , ~'w~, or ~-'we~ respectively. Adjectives
-that use ~ogi'fi~ instead of ~-'fi~ also take ~ogi'~ instead of ~-'~.
+  * [[file:nouns.org#noun-classes][Noun Classes]] :: Extra inflections for particular types of nouns
+  * [[file:nouns.org#comparatives-and-superlatives][Comparatives and Superlatives]] :: Suffixes for -er and -est
 
 *** Pronouns, Part 3 -- Indefinite Pronouns and Other Stand-Ins (STUB)
 
