@@ -24,7 +24,7 @@ Pasta
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
-  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis 'axuhotox.
+  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis ????? 'axuhodox.
   * Realoda tizov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
 
 ## Balorvu
@@ -82,7 +82,7 @@ Sugar dough
   * Zalma 3 guramwe-li twipe 3 guramwe-li oku 1 jano 'rulfodob.
   * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
-  
+
 ## Orbili
 
 Jelly
@@ -93,14 +93,14 @@ Jelly
 
   * Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and 3 cups of sugar to a saucepan.
   * Boil until thickened and syrupy. Put into jars.
-  
+
 ### Gloss
 
 *eat-RO-GER able-2S-than many-CMP fruit possess-2P ?. this use-RS-3O-DEP method be-3S.*
 
   * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL saucepan toward add-3pO-IMP.
   * that-time-toward viscous-& syrupy be-3S-DEP boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
-  
+
 ### Perflontus
 
 *Wloloca merizin-sos ogi'fi gomu qizun na? Ita pialotwv-ka zove zat.*
@@ -122,8 +122,13 @@ Oatmeal (?????)
 
   * Combine 1/2 cup oats, 1 cup milk, 15g sugar, salt, and cinnamon in a small pot.
   * Bring the mixture to a boil, stirring occasionally, and then take the pot off the heat. The oatmeal will thicken as it cools.
-  
+
 ### Gloss
+
+*that-method day start-GER great healthy method*
+
+  * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
+  * occasional-ADV stir-3O-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
 
 ### Perflontus
 
@@ -143,6 +148,8 @@ Eggs on Bread (bread top egg)
 
 ### Gloss
 
+
+
 ### Perflontus
 
 # [Kozzobben]
@@ -161,7 +168,7 @@ Pasta-& Cheese
   * Melt 8 tablespoons butter in a saucepan and whisk in 1/2 cup flour.
   * Whisk in 6 cups milk and 2 lb cheese.
   * Pour the mixture over the baking pan, and bake until cheese mixture is bubbly and golden.
-  
+
 ### Gloss
 
 ### Perflontus
@@ -178,7 +185,7 @@ Pizza
   * Top with a layer of tomatoes.
   * Top with another layer of cheese.
   * Bake until dough is cooked.
-  
+
 ### Gloss
 
 ### Perflontus
@@ -208,7 +215,7 @@ Bread
 
   * Make the recipe for dough, but additionally add 1/4 cup butter and 1/8 cup sugar.
   * Form into a loaf and put into a baking pan. Bake until done.
-  
+
 ### Gloss
 
 ### Perflontus
@@ -239,7 +246,7 @@ Fried Potatoes
 
   * Pell 2 lb potatoes and cut into strips.
   * Fry until golden and crispy. Add salt.
-  
+
 ### Gloss
 
 ### Perflontus
@@ -256,7 +263,7 @@ Potato Croquettes
   * Add additional 1 tablespoon milk, 1 egg, and salt.
   * Divide the mixture into small mounts.
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
-  
+
 ### Gloss
 
 ### Perflontus
@@ -296,7 +303,7 @@ Pumpkin Pie
   * Combine 5g salt, 10g cinnamon, 5g nutmeg, and 1g cloves (to form pumpkin pie spice).
   * Add 3 eggs, 500g pumpkin, and 250g cream, and mix together.
   * Pour the mixture into the dish. Bake until the filling is cooked.
-  
+
 ### Gloss
 
 ### Perflontus
@@ -313,7 +320,7 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Add 2 eggs.
   * Add 2 cups flour, 1.5 cups oats, and 340g chocolate chips.
   * Divide mixture into small mounts. Bake until set and lightly golden.
-  
+
 ### Gloss
 
 ### Perflontus
