@@ -44,17 +44,17 @@ li	additive particle (noun-"and")
 lis	additive particle (verb-"and")
 ro	genitive particle ("'s")
 na	interrogative particle ("?")
-fel	  hypothetical
-gaq	  counterfactual
-av	 imperfective
-avfel	 imperfective hypothetical
-avgaq	 imperfective counterfactual
-os	 perfective
-osfel	 perfective hypothetical
-osgaq	 perfective counterfactual
+fel	hypothetical
+gaq	counterfactual
+av	imperfective
+avfel	imperfective hypothetical
+avgaq	imperfective counterfactual
+os	perfective
+osfel	perfective hypothetical
+osgaq	perfective counterfactual
 im	past
-imfel	past  hypothetical
-imgaq	past  counterfactual
+imfel	past hypothetical
+imgaq	past counterfactual
 imav	past imperfective
 imavfel	past imperfective hypothetical
 imavgaq	past imperfective counterfactual
@@ -62,8 +62,8 @@ imos	past perfective
 imosfel	past perfective hypothetical
 imosgaq	past perfective counterfactual
 et	future
-etfel	future  hypothetical
-etgaq	future  counterfactual
+etfel	future hypothetical
+etgaq	future counterfactual
 etav	future imperfective
 etavfel	future imperfective hypothetical
 etavgaq	future imperfective counterfactual
