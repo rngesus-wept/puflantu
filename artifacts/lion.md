@@ -106,7 +106,7 @@ Even after you're gone"
 spot-PL mirror from-ADV wipe-1S  
 key-PL door in-ADV leave-1S-NEG-IMP  
 no-time wet towel-PL floor on-ADV put-1S  
-this-reason dream-3pS some-time last-3pS-DEP  
+this-reason dream-PL some-time last-3pS-DEP  
 that-time exterior-ADV this-place be_located-2S-NEG-DEP  
 
 ### Perflontus
@@ -121,7 +121,7 @@ I'll be there with open arms and open eyes"
 ### Gloss
 
 water-R choose-2S-3O-FUT-HYP-than much-R-CMP wine-R choose-2S-FUT-HYP ?  
-wheel-3O hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?  
+wheel hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?  
 any-thing tomorrow-3S bring-3S-FUT-HYP  
 open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT  
 
