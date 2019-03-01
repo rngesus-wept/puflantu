@@ -44,7 +44,7 @@ Dough
 *simple-& versatile dough*
 
   * salt 4 gram-PL-& yeast 1 gram-& flour 1 cup combine-3pO-IMP
-  * 3/4 water cups mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
+  * water-R 3/4 cup-PL mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
   * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
 
 ### Perflontus
@@ -128,7 +128,7 @@ Oatmeal (?????)
 *that-method day start-GER great healthy method*
 
   * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
-  * occasional-ADV stir-3O-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
+  * occasional-ADV stir-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
 
 ### Perflontus
 
@@ -148,7 +148,13 @@ Eggs on Bread (bread top egg)
 
 ### Gloss
 
+*egg-PL cook-AUG-NEG-IMP; light-& fluffy be-3pO-DEP want-2S.*
 
+  * some-quantity bread (recipe see-IMP) make-IMP-&-seq, 2 slice-DU toast-DIM.
+  * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
+  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward add-3O-IMP.
+  * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
+  * that-time egg mixture almost is_set-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
 ### Perflontus
 
@@ -170,6 +176,13 @@ Pasta-& Cheese
   * Pour the mixture over the baking pan, and bake until cheese mixture is bubbly and golden.
 
 ### Gloss
+
+*comfort-AGT food ??????????*
+
+  * pasta (recipe see-IMP) 1 pound make-IMP-&-seq, cook-3O-IMP-&-seq, bake-INS pan interior-ADV put-3O-DEP.
+  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-& flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
+  * milk 6 cup-PL-& cheese 2 pound-DU this-way whisk use-DEP-ADV add-3pO-IMP.
+  * mixture-R bake-INS pan over-ADV pour-3O-IMP-& that-time toward-ADV cheese mixture bubbly-& golden be-3S.
 
 ### Perflontus
 
