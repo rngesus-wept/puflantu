@@ -136,6 +136,11 @@ You'd better run, better run, faster than my bullet"
 
 ### Gloss
 
+augmented shoe_colloquial-PL -DEP ??? Kids,  
+run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP  
+augmented shoe_colloquial-PL -DEP ??? Kids,  
+run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP  
+
 ### Perflontus
 
 ## Entry 7
