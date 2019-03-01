@@ -2,8 +2,8 @@
 Most follow english, gloss, pufluntu. Vocab at the very end. Could use a lot of postprodding
 
 Exceptional Expedition  
-`GOOD-AUG TRAVEL`
-`Oma'fi Ogbafi`
+`GOOD-AUG TRAVEL`  
+`Oma'fi Ogbafi`  
 
 English:
 
