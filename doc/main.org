@@ -68,6 +68,13 @@ to indicate how a thing is being inflected, as follows:
     * LOC = locative, X-hosting (eat-LOC room = dining room)
     * CAU = causative, X-causing (eat-CAU medicine = appetite stimulant)
     * RES = resultative, resulting from X (mix-RES = mixture)
+  * Tense, aspect, and mood are indicated before their verb. By default verbs have present tense, unspecified aspect, and realis mood.
+    * PST = past tense (PST walk-1S = I walked)
+    * FUT = future tense (FUT walk-1S = I will walk)
+    * IMP = imperfective aspect (IMP walk-1S = I am walking)
+    * PRF = perfective aspect (PRF walk-1S = I was walking)
+    * HYP = hypothetical mood (HYP walk-1S = I would walk (500 miles, just to be...))
+    * CNT = contrafactual mood (CNT walk-1S = I would walk (500 miles, but I'm too damn lazy...))
   * Nounjectives take the following affixes:
     * DU = dual number (lemon-DU = pair of lemons)
     * PL = plural number (lemon-PL = lemons)
