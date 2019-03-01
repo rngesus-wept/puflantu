@@ -151,12 +151,17 @@ Tomorrow may be too late"
 
 ## Entry 9
 
-"Call me on the line
+Call me on the line
 Call me, call me any, anytime
 Call me my love
-You can call me any day or night"
+You can call me any day or night
 
 ### Gloss
+
+line on call-1O-IMP 
+call-1O-IMP, any call-1O-imp, anytime
+1S-GEN love-PAT, call-1O-IMP
+any day-or any night call-GER-1O may-2S
 
 ### Perflontus
 
