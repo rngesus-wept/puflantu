@@ -50,7 +50,7 @@ Falcon: Word 1S-GEN here be-3S.
 *sounds of 6 tiles*
 Lion: Wow-BELL, together-ADV word-DU make-GER can-2S ?
 Falcon: Yes, and that-reason double T two-ADV count-GER may-1S-DEP
-Rat: [but?] triple word square[?] PRF open-up-2S, scary be-3S
+Rat: [but?] triple word square[?] PST open-up-2S, scary be-3S
 
 
 
@@ -96,7 +96,7 @@ Falcon: Shush, I’m winning.
 
 *6 tiles*
 Rat: that-way triple-DL square-DL use-2S ?
-Falcon: quiet be-2S-IMP. lead-1S.
+Falcon: quiet be-2S-IMP. IMPF lead-1S.
 
 
 
@@ -141,8 +141,8 @@ Falcon: You guys have your words up there, I’ll fight [Rat name] down here at 
 Rat: Hey, isn’t this whole thing a peace conference?
 
 *4 tiles*
-Falcon: You guys have your words up there, I’ll fight [Rat name] down here at the bottom. 38 ain’t bad.
-Rat: Hey, isn’t this whole thing a peace conference?
+Falcon: 2dS-GEN word-PL North interior-ADV have-2S-3O. South interior-ADV here [rat name] FUT fight-1S. 38 bad be-3S-NEG.
+Rat: Hey, this-SUB event peace-GEN conference be-3S. peace be-IMP
 
 
 
@@ -154,6 +154,13 @@ Lion: Well, that sucks.
 Falcon: By the way, what’s the blank?
 Lion: Oh, that should be an F.
 
+*5 tiles*
+Lion: look-IMP-2pS, true-ADV long word PRF make-1S. that-OBJ 7 letter bonus receive-1S ?
+Pidgey: No. five PRF play-3pO-2S.
+Lion: sad be-3S.
+Falcon: Also, what-thing blank be-3S ?
+Lion: Oh, F be-GER should-3S
+
 
 
 !!!7 tiles!!!
@@ -162,12 +169,21 @@ Lion: No way, how many points is that?!
 Falcon: It looks like 106. This is already becoming a total shutout.
 Rat: Well, you all keep letting me have the triple word squares...
 
+!!!7 tiles!!!
+Lion: be-GER can-3S-NEG, what-quantity point-PL be-3S ?
+Falcon: 106 seem-3S. This is already becoming a total shutout.
+Rat: Well, you all keep letting me have the triple word squares...
+
 
 
 *5 tiles*
 [Pidgey plays WGIFZW which means 'animation-DU' and gets 29 points]
 Falcon: Wow, looks we have the same score now. 
 Pidgey: But it’s too bad I didn’t have another W; if I did, I could have played on the left to get the double letter on the G.
+
+*5 tiles*
+Falcon: Wow, same score now have-1dS-DEP seem-3S. 
+Pidgey: second W PRF have-1S-NEG-DEP sad be-3S-DIM. this-reason CNT have-1S-3O-DEP, West interior-ADV play-GER and double letter G interior-ADV get-GER CNT PRF can-1S
 
 
 
@@ -178,6 +194,12 @@ Sounds of paging through a dictionary
 Rat: Wow[this should contain a bell], it is! Sometimes I feel like someone made these up just for this game.
 Falcon: And that brings me to a little over 120.
 
+*6 tiles*
+Lion: That-SUB real word be-GER can-3S-NEG
+*Sounds of paging through a dictionary*
+Rat: Wow, be-3S! some-person-SUB that-reason this-OBJ game play-3O-DEP PAS make-DEP some-time think-1S.
+Falcon: And this-way 120 exceed-DIM-GER point-PL have-1S
+
 
 
 *4 tiles*
@@ -185,11 +207,19 @@ Falcon: And that brings me to a little over 120.
 Falcon: [whispered] Did he really just open up the the top row like that? And only for 10 points?
 Lion: I can hear you.
 
+*4 tiles*
+[Lion plays EWSIG which means '' and gets 10 points]
+Falcon: [whispered] that-way North-SUP row true-ADV PRF open-3S ? And this-reason 10 point-PL get-DEP ?
+Lion: hear-2dO-GER can-1S.
+
 
 
 [Rat plays JWNTU' which means 'most dual' and gets 32 points]
 *5 tiles*
 Rat: Hmm, if I put it here I can triple the T…. no, I should put it here, and double the whole word.
+
+*5 tiles*
+Rat: Hmm, this-reason here FUT CNT put-3O-1S-DEP T triple-GER CNT put-1S…. here put-3O-GER and whole word double-GER should-1S
 
 
 
@@ -199,11 +229,19 @@ Pidgey: Welp, this is all I got. AV.
 Rat: Technically, you’re supposed to write down the longest word you made if you only play one letter.
 Pidgey: AV.
 
+*1 tile*
+Pidgey: Welp, this have-1S-RO be-3S. AV.
+Rat: Technically, this-reason just 1 letter play-2S-DEP,  long-SUP word make-2S-RO write-GER should-2S.
+Pidgey: "AV" IMPF play-1S.
+
 
 
 [Falcon plays INE'FI which means 'weaker' and gets 21 points]
 *5 tiles*
-Falcon: Here’s what I have. Something about the word ‘FU’.
+Falcon: Here’s what I have. Something about the word ‘FW’.
+
+*5 tiles*
+Falcon: This-SUB have-1S-RO be-3S. 'FW' toward victory!
 
 
 
@@ -213,17 +251,28 @@ Rat: Risky move, someone could bell that and access the right triples.
 Lion: Wait, you can’t bell a color, right?
 Rat: Oh, I stand corrected.
 
+*3 tiles*
+Rat: Dangerous play-PAT be-3S. some-person-SUB bell(?)-GER and East-PL triple-PL access-GER FUT CNT can-3S
+Lion: Wait-IMP, color bell-GER can-3S. can-3S?
+Rat: Oh, truth IMPF PAS say-1S-NEG
+
 
 
 [Rat plays ERQOYE' which means 'most lunar' and gets 76 points]
 *6 tiles*
 Rat: 60 + 16 is 76. Ooh, the bag is empty now!
 
+*6 tiles*
+Rat: 60 + 16 be-3S 76. Ooh, now bag letter-PL have-NEG-3S
 
 
-[Pidgey plays HAXIBNA which means '' and gets 38 points]
+
 *5 tiles*
 Pidgey: At this point, we’re all playing for second. Hope this lead is big enough to stick.
+
+Pidgey: this-time, that-reason second place get-DEP IMPF play-1pS. 
+*5 tiles*
+Pidgey: difference big remain-GER enough be-3S-DEP hope-1S
 
 
 
@@ -233,17 +282,29 @@ Falcon: That blank should be a Z.
 Lion: Nice hook on the A!
 Pidgey: Oh no, it looks like you have one more point than I do! Let’s hope that [Rat name] can’t finish off their tiles this turn.
 
+*5 tiles*
+Falcon: That-SUB blank Z be-GER should-3S.
+Lion: That-SUB attach-PAT A with good be-3S!
+Pidgey: Oh no, 2S-GEN point-PL 1S-GEN point-PL 1 by exceed-3pS-DEP see-1S! [Rat name] 3S-GEN tiles finish-GER this-?? turn during can-3S-NEG hope-1S
+
 
 
 [Lion plays HONWSE which means '' and gets 36 points]
 *5 tiles*
 Lion: Hey, I finally got to make a high scoring play! I’ve been eying that corner for a while. What happens when we run out of tiles?
 
+*5 tiles*
+Lion: Hey, many points have-RS play-PAT make-GER final-ADV PRF manage-1S! I that-OBJ corner long time during PAS PRF look-1S. this-time any letters have-NEG-1pS-DEP what-thing occur-3S ?
+
 
 
 [Rat plays OBWNERE' which means 'muddiest' and gets 44 points]
 Rat: If the last player finishes their tiles,
-6 tiles clatter on the board
+*6 tiles clatter on the board*
 Rat: The game ends. Good game everyone!
+
+Rat: this-reason last play-AGT any letters have-NEG-1pS-DEP,
+*6 tiles clatter on the board*
+Rat: play-INS end-3S. Good play-INS, every-person-SUB(?)!
 
 TODO insert more plot here. Something something treaty signing?
