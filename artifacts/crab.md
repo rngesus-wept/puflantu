@@ -3,7 +3,7 @@ Pidgey: Yes, and with only a few days left to go too!
 Lion: I’m excited!
 Rat: Everyone draw a letter...
 
-Falcon: All, ([after] cold war-GEN milleni) ([in-order-that] [for-good] end-3O-DEP PRF come-1pS)
+Falcon: All, ([after] cold war-GEN milleni) (this-way come-1pS-DEP FUT PRF end-3O-DEP ) glad be-1S
 Pidgey: yes! and also much-NEG time remain-3S.
 Lion: excited be-1S!
 Rat: All letter take-2pS-3O-IMP...
@@ -14,9 +14,15 @@ Rat: All letter take-2pS-3O-IMP...
 Rat: I got X!
 Lion: I got P!
 Pidgey: A for the Alrogs!  TODO: change to the actual name of this civilization
-Falcon: M for me! That’s a rare one. TODO: change letter to the wepp word for “me” 
+Falcon: W for me! TODO: change letter to the wepp word for “me” 
 
-Sounds of a bunch of tiles clinking against each other and against wooden holders
+*Rummaging sounds... tiles clicking against one another*
+Rat: possess-1S X!
+Lion: possess-1S P!
+Pidgey: A Alrogs-GEN!  TODO: change to the actual name of this civilization
+Falcon: W 1S-GEN ! 
+
+*Sounds of a bunch of tiles clinking against each other and against wooden holders*
 
 Pidgey: I guess this means I start. How’s…. This?
 Sounds of 4 tiles clinking onto the surface
@@ -24,12 +30,30 @@ Sounds of 4 tiles clinking onto the surface
 Falcon: That’s not a bad first turn.
 Rat: Yeah, 28 points is pretty good.
 
+
+Pidgey: that-reason start-1S-DEP suppose-1S. how ... be-3S ?
+*Sounds of 4 tiles clinking onto the surface*
+Falcon: bad first turn be-NEG-3S
+Rat: Yes, 28 point-PL be-3S good-DIM.
+
+
+
 Falcon: Here’s my word.
 [Falcon plays TIMORA which means 'insertion' and gets 34 points]
 Sounds of a bunch of tiles clinking onto the surface
 Lion: Whoa, you can make more than one word at once?
 Falcon: Yeah, and I get to count my double T twice for it.
 Rat: You opened up the triple word though, scary.
+
+
+
+Falcon: Word 1S-GEN here be-3S.
+*sounds of 6 tiles*
+Lion: Wow-BELL, at-once [more than one ???] word make-GER can-2S ?
+Falcon: Yes, and that-reason double T twice count-GER may-1S-DEP
+Rat: [but?] triple word square[?] PRF open-up-2S, scary be-3S
+
+
 
 Sounds of 3 tiles clinking onto the board
 [Lion plays UQI which means 'four' and gets 16 points]
