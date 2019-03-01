@@ -28,13 +28,13 @@ gloss
 
 |   | base 6   | see rocks | base 6   | transliteration  | see cells  |  see months  |
 |---|----|----------|------|------------------------|------------------|-----------|
-| T | aqke  | `utipu`   | 0.01 | `pulestosin`  | TARRIEST PITS-pl-R | QOYEAQUQIRU   |
-| I | aqke  | `utipu`   | 122   | `iosin`      | GREEN RIVER   | QOYEAQPAIRU |
+| T | aqke  | `utipu`   | 0.01 | `pulestosin`  | TARRIEST-R PITS-pl-R | QOYEAQUQIRU   |
+| I | aqke  | `utipu`   | 122   | `iosin`      | GREEN-R RIVER   | QOYEAQPAIRU |
 | S | ke  | `wmipu`    | 300  | `albiun`    | transliterate    | QOYEKERU   |
 | I | ha  | `apatipu`  | 325  | `barumiun` | transl. | QOYEPAIRU    |
 | E | aqha  | `ceritipu`   | 401  | `jurasik`       | transl.*       | QOYEAQLORU |
 | D | pai  | `turatipu`  | 535  | `qraesik`          | transl.   | QOYELORU |
-| A | ha  | `apatipu`   | 1234  | `karbunifurus`    | transl.*  RIVER   | QOYEHARU |
+| A | ha  | `apatipu`   | 1234  | `karbunifurus`    | transl.*-R  RIVER   | QOYEHARU |
 | R | lo  | `rokotipu` | 1450  | `devoniun`             | transl.     | QOYEAQKERU      |
 | G | uqi  | `eritipu` | 2204  | `kambrian pairu`     | trasl. SHALE    | QOYEAQERU |
 | P | aqke  | `utipu`   | 2222  | `kambrian haru`  | transl. MOUNTAIN | QOYEAQHARU |
@@ -47,22 +47,22 @@ Translated Version:
 |   |    |  |    |  |  |   |
 |---|----|----------|------|------------------------|------------------|-----------|
 | T | aqke  | `utipu`   | 0.01 | `pulestosinu`  | `zupuroTe'fw ejurw` | QOYEAQUQIRU   |
-| I | aqke  | `utipu`   | 122   | `iosinu`      | `colbao Ixuri`     | QOYEAQPAIRU |
-| S | ke  | `wmipu`    | 300  | `albiunu`    | `Santana`        | QOYEKERU   |
-| I | ha  | `apatipu`  | 325  | `barumiunu` | `yIxenu`  | QOYEPAIRU    |
+| A | aqke  | `utipu`   | 122   | `iosinu`      | `colburAo ixuri`     | QOYEAQPAIRU |
+| Z | ke  | `wmipu`    | 300  | `albiunu`    | `Zantana`        | QOYEKERU   |
+| (') | ha  | `apatipu`  | 325  | `barumiunu` | `i'xenu`  | QOYEPAIRU    |
 | E | aqha  | `ceritipu`   | 401  | `jurasiku`       | `solnofuEn`        | QOYEAQLORU |
 | D | pai  | `turatipu`  | 535  | `qraesiku`          | `maDiju`    | QOYELORU |
-| A | ha  | `apatipu`   | 1234  | `karbunifurusu`    | `mAzonu ixuri`      | QOYEHARU |
+| A | ha  | `apatipu`   | 1234  | `karbunifurusu`    | `mAzuronu ixuri`      | QOYEHARU |
 | R | lo  | `rokotipu` | 1450  | `devoniunu`             | `unsuRuku`         | QOYEAQKERU      |
 | G | uqi  | `eritipu` | 2204  | `kambrian pairu`     | `bo uGirotipu `    | QOYEAQERU |
-| P | aqke  | `utipu`   | 2222  | `kambrian haru`  | `siriusu Pahamwpe` | QOYEAQHARU |
+| P | aqke  | `utipu`   | 2222  | `kambrian haru`  | `siriusu Pahamope` | QOYEAQHARU |
 | O | aquqi | `stipu`  | 2341  | `ediakaranu`            | `paux pahamOpe`   | QOYEHAQERU    |
 | T | pai  | `turatipu`  | 3534  | `prikambrianu`  | `beTw xwoxw`   | QOYEUQIRU   |
 
 
-SOLUTION:  TOP GRADE  
+SOLUTION: TOP GRADE  
 `SOLUTION: TOP GRADE`  
-`ANSA: TOP GRADE`  
+`"TOPGRADE" ZAT -> ANSA: TOP GRADE`  
 
 ----------Definitions below-----------
 
@@ -70,12 +70,11 @@ Some locations are transliterated. As long as nobody else is reusing the names,
 they can be arbitrary. Maybe they can be added to the dictionary?
 
 Location names  
-TAR	 ZUPOTE  
+TAR	 ZUPOTE 
 LAKE	 EJW  
 RIVER	 IXI  
 WRONG    PAUX   
-POINT	 XACPE  
-MOUNTAIN PAHAMWPE  
+POINT/MOUNT PAHAMWPE  
 BITTER	 BETHU  
 SPRINGS	 XWOXE  
 
