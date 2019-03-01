@@ -6,6 +6,7 @@ Exceptional Expedition
 `Oma'fi Ogbafi`
 
 English:
+
 |   | |  | | |  |  |
 |---|----|----------|------|------------------------|------------------|-----------|
 | T | 7  | QUARTZ   | 0.04 | PLEISTOCENE            | LA BREA TAR PITS | October   |
@@ -24,6 +25,7 @@ English:
 (unused: ORTHOCLASE, CORUNDUM)
 
 gloss
+
 |   | base 6   | see rocks | base 6   | transliteration  | see cells  |  see months  |
 |---|----|----------|------|------------------------|------------------|-----------|
 | T | aqke  | `utipu`   | 0.01 | `pulestosin`  | TARRIEST PITS-pl-R | QOYEAQUQIRU   |
@@ -58,65 +60,65 @@ Translated Version:
 | T | pai  | `turatipu`  | 3534  | `prikambrianu`  | `beTw xwoxw`   | QOYEUQIRU   |
 
 
-SOLUTION:  TOP GRADE
-`SOLUTION: TOP GRADE`
-`ANSA: TOP GRADE`
+SOLUTION:  TOP GRADE  
+`SOLUTION: TOP GRADE`  
+`ANSA: TOP GRADE`  
 
 ----------Definitions below-----------
 
 Some locations are transliterated. As long as nobody else is reusing the names,
 they can be arbitrary. Maybe they can be added to the dictionary?
 
-Location names
-TAR	 ZUPOTE
-LAKE	 EJW
-RIVER	 IXI
-WRONG    PAUX 
-POINT	 XACPE
-MOUNTAIN PAHAMWPE
-BITTER	 BETHU
-SPRINGS	 XWOXE
+Location names  
+TAR	 ZUPOTE  
+LAKE	 EJW  
+RIVER	 IXI  
+WRONG    PAUX   
+POINT	 XACPE  
+MOUNTAIN PAHAMWPE  
+BITTER	 BETHU  
+SPRINGS	 XWOXE  
 
 NUMBERS (for reference)
-0 ri
-1 ke
-2 ha
-3 pai
-4 uqi
-5 lo
-10 aqe
-11 aqke
-12 aqha
-13 aqpai
-14 aquqi
-15 aqlo
-20 haqe
+0 ri  
+1 ke  
+2 ha  
+3 pai  
+4 uqi  
+5 lo  
+10 aqe  
+11 aqke  
+12 aqha  
+13 aqpai  
+14 aquqi  
+15 aqlo  
+20 haqe  
 
-MONTH      QOYERU
-JANUARY    1st month QOYEKERU
-FEBRUARY   2nd month QOYEHARU
-MARCH      3rd month QOYEPAIRU
-APRIL      4th month QOYEUQIRU
-MAY        5th month QOYELORU
-JUNE       10th month QOYEAQERU
-JULY       11th month QOYEAQKERU
-AUGUST     12th month QOYEAQHARU
-SEPTEMBER  13th month QOYEAQPAIRU
-OCTOBER    14th month QOYEAQUQIRU
-NOVEMBER   15th month QOYEAQLORU
-DECEMBER   20th month QOYEHAQERU
+MONTH      QOYERU  
+JANUARY    1st month QOYEKERU  
+FEBRUARY   2nd month QOYEHARU  
+MARCH      3rd month QOYEPAIRU  
+APRIL      4th month QOYEUQIRU  
+MAY        5th month QOYELORU  
+JUNE       10th month QOYEAQERU  
+JULY       11th month QOYEAQKERU  
+AUGUST     12th month QOYEAQHARU  
+SEPTEMBER  13th month QOYEAQPAIRU  
+OCTOBER    14th month QOYEAQUQIRU  
+NOVEMBER   15th month QOYEAQLORU  
+DECEMBER   20th month QOYEHAQERU  
 
 
-ROCK         ATIPU
-SHALE        GIROTIPU
-TALC         WMIPU
-GYPSUM       APATIPU
-CALCITE      TURATIPU
-FLUORITE     ERITIPU
-APATITE      ROKOTIPU
-ORTHOCLASE   SIZITIPU
-QUARTZ       UTIPU
-TOPAZ        CERITIPU
-CORUNDUM     KOKOTIPU
-DIAMOND      STIPU
+ROCK         ATIPU  
+SHALE        GIROTIPU  
+TALC         WMIPU  
+GYPSUM       APATIPU  
+CALCITE      TURATIPU  
+FLUORITE     ERITIPU  
+APATITE      ROKOTIPU  
+ORTHOCLASE   SIZITIPU  
+QUARTZ       UTIPU  
+TOPAZ        CERITIPU  
+CORUNDUM     KOKOTIPU  
+DIAMOND      STIPU  
 
