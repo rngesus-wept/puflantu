@@ -135,10 +135,10 @@ I'm findin' it hard to believe
 We're in heaven"
 
 ### Gloss
-Baby, want-1S-RO-DEP all be-2S  
+Baby, want-1S-RO-DEP-ADV all be-2S  
 that-time here 1S-GEN arms between-ADV lie-2S-DEP
-believe-3S-GER struggle-1S
-heaven interior-ADJ be-2S
+believe-3O-GER struggle-1S
+heaven interior-ADV be-2S
 
 ### Perflontus
 
@@ -152,7 +152,7 @@ Tomorrow may be too late"
 ### Gloss
 
 2S-AND 1S  
-wait-GER can-NEG-1pS-DEP know-1S  
+wait-GER can-NEG-1dS-DEP know-1S  
 and swear-1S, false be-NEG-3S-DEP, swear-1S, girl  
 tomorrow too late HYP be-GER 
 
@@ -168,7 +168,7 @@ You can call me any day or night
 ### Gloss
 
 line on call-1O-IMP  
-call-1O-IMP, any call-1O-imp, anytime  
+call-1O-IMP, any anytime call-1O-imp
 1S-GEN love-PAT, call-1O-IMP  
 any day-or any night call-GER-1O may-2S  
 
@@ -183,8 +183,8 @@ And we can learn to love again"
 
 ### Gloss
 
-stars in locate-3S
-heart-PL on scar-PL interior-ADV PRF write-3O
+stars among locate-3S
+1dS-GEN heart-DU on scar-PL among PRF write-3O
 break-DEP-NEG-1pO, just bend-DEP-NEG-1pO
 and again love-GER learn-GER can-1pS
 
