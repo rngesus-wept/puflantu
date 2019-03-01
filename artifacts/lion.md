@@ -103,10 +103,10 @@ Even after you're gone"
 
 ### Gloss
 
-spot-3pO mirror from-ADV wipe-1S  
-key-3pO door in-ADV leave-1S-NEG-IMP  
-no-time wet towel-3pO floor on-ADV put-1S  
-this-reason dream-3pS some-time last-3pO-DEP  
+spot-PL mirror from-ADV wipe-1S  
+key-PL door in-ADV leave-1S-NEG-IMP  
+no-time wet towel-PL floor on-ADV put-1S  
+this-reason dream-3pS some-time last-3pS-DEP  
 that-time exterior-ADV this-place be_located-2S-NEG-DEP  
 
 ### Perflontus
