@@ -103,6 +103,12 @@ Even after you're gone"
 
 ### Gloss
 
+spot-3pO mirror from-ADV wipe-1S
+key-3pO door in-ADV leave-1S-NEG-IMP
+no-time wet towel-3pO floor on-ADV put-1S
+this-reason dream-3pS some-time last-3pO-DEP
+that-time exterior-ADV this-place be_located-2S-NEG-DEP
+
 ### Perflontus
 
 ## Entry 5
@@ -113,6 +119,11 @@ Whatever tomorrow brings
 I'll be there with open arms and open eyes"
 
 ### Gloss
+
+water-R choose-2S-3O-FUT-HYP-than much-R-CMP wine-R choose-2S-FUT-HYP ?
+wheel-3O hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?
+any-thing tomorrow-3S bring-3S-FUT-HYP
+open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT
 
 ### Perflontus
 
