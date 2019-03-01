@@ -200,4 +200,31 @@ reasoning is abstract.
 
 Comparisons are always expanded to a full clause. Instead of =-ka= the
 subordinate verb takes the particle =-sos=, and the use of the relative pronoun
-in the clause indicates the role of the thing being compared.
+in the clause indicates the role of the thing being compared. The inflection of
+the subordinate verb should reflect the things being changed in the comparison,
+rather than always including the subject inflection. In particular, if only the
+verb is being used, then no pronoun infixes appear.
+
+Alisu Bab zat-sos wepu' zat. 
+Alice is greater than Bob is.
+
+Bab kofuri ratotiq-sos oguri' enxura ratiq.
+Bob drinks more water than he drinks coffee.
+
+Rate eyotuqa rwne rulfatob-sos ogi' zalma rulfatob.
+His recipe uses more salt than mine uses.
+
+Enxura rwmotiq-sos ogwa' torewa eywmot.
+I ate more cookies than [I] drank water.
+
+Wm at eyatot-sos ogwa' torewa eywmot.
+I ate more cookies than he ate.
+
+At sag im zalatotov-sos ogi' sagwho im satag.
+She gave more gifts than she was required to.
+
+At im solatodov-sos ogi' sagwho im satag.
+She gave more gifts than were needed.
+
+At sagwho zalatov-sos xogi' im satag.
+She gave gifts more often than required.
