@@ -77,7 +77,7 @@ Mwbes et qobwnur
 So much to do, so much to see  
 So what's wrong with taking the back streets?  
 You'll never know if you don't go  
-You'll never shine if you don't glow
+You'll never shine if you don't glow  
 
 ### Gloss
 
@@ -123,16 +123,16 @@ I'll be there with open arms and open eyes"
 water-R choose-2S-3O-FUT-HYP-than much-R-CMP wine-R choose-2S-FUT-HYP ?  
 wheel-3O hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?  
 any-thing tomorrow-3S bring-3S-FUT-HYP  
-open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT
+open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT  
 
 ### Perflontus
 
 ## Entry 6
 
-"All the other kids with the pumped up kicks
-You'd better run, better run, out run my gun
-All the other kids with the pumped up kicks
-You'd better run, better run, faster than my bullet"
+"All the other kids with the pumped up kicks  
+You'd better run, better run, out run my gun  
+All the other kids with the pumped up kicks  
+You'd better run, better run, faster than my bullet"  
 
 ### Gloss
 
