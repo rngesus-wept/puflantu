@@ -78,22 +78,6 @@ POINT/MOUNT PAHAMWPE
 BITTER	 BETHU  
 SPRINGS	 XWOXE  
 
-// OUTDATED!!  
-NUMBERS (for reference)
-0 ri  
-1 ke  
-2 ha  
-3 pai  
-4 uqi  
-5 lo  
-10 aqe  
-11 aqke  
-12 aqha  
-13 aqpai  
-14 aquqi  
-15 aqlo  
-20 haqe  
-
 // UPDATED!!  
 MONTH      QOYELU  
 JANUARY    1st month QOYEUTARU  
