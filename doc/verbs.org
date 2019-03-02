@@ -92,7 +92,7 @@ Enxura   lirwmwb.
 water-R  boil-1S
 I boil the water.
 
-Enxura   libotwb.
+Enxura   lirotwb.
 water-R  boil-3O
 The water boils / The water is boiled.
 ```

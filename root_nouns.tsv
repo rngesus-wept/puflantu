@@ -168,6 +168,45 @@ vaxfi	bottom-side
 # Time
 roqa	day
 tiroqa	today
+qoyelu	month
+
+# Months
+january	qoyeutaru
+february	qoyeferu
+march	qoyepairu
+april	qoyeavuru
+may	qoyeneru
+june	qoyesaqeru
+july	qoyesaqteru
+august	qoyesaqferu
+september	qoyesaqpairu
+october	qoyesaqavuru
+november	qoyesaqneru
+december	qoyefesaqeru
+
+# rocks
+atipu	rock
+girotipu	shale
+wmipu	talc
+apatipu	gypsum
+turatipu	calcite
+eritipu	fluorite
+rokotipu	apatite
+sizitipu	orthoclase
+utipu	quartz
+ceritipu	topaz
+kokotipu	corundum
+sotipu	diamond
+
+# misc exceptional stuff
+zupote tar
+ejo    lake
+ixi    river
+paux   wrong
+pahamope	mountain
+bethu	bitter
+xwoxe	springs
+ansa	solution/answer
 
 # The Outdoors
 qunxe	sun
