@@ -37,7 +37,7 @@ gloss
 | A | 2  | `apatipu`   | 1234  | `karbunifurus`    | transl.*-R  RIVER   | 2nd |
 | R | 5  | `rokotipu` | 1450  | `devoniun`             | transl.     | 11th      |
 | G | 4  | `eritipu` | 2204  | `kambrian pairu`     | trasl. SHALE    | 10th |
-| P | 11  | `utipu`   | 2222  | `kambrian haru`  | transl. MOUNTAIN | 12th |
+| P | 11  | `utipu`   | 2222  | `kambrian feru`  | transl. MOUNTAIN | 12th |
 | O | 14 | `stipu`  | 2341  | `ediakaran`            | MISTAKEN POINT   | 20th    |
 | T | 3  | `turatipu`  | 3534  | `prikambrian`  | BITTER-pl SPRINGS-pl-R   | 4th   |
 
@@ -55,7 +55,7 @@ Translated Version:
 | A | fe  | `apatipu`   | 1234  | `karbunifurusu`    | `mAzuronu ixuri`      | QOYEFERU |
 | R | ne  | `rokotipu` | 1450  | `devoniunu`             | `unsuRuku`         | QOYESAQTERU      |
 | G | avu  | `eritipu` | 2204  | `kamubrian pairu`     | `bo uGirotipu `    | QOYESAQERU |
-| P | saqta  | `utipu`   | 2222  | `kamubrian haru`  | `siriusu Pahamope` | QOYESAQFERU |
+| P | saqta  | `utipu`   | 2222  | `kamubrian feru`  | `siriusu Pahamope` | QOYESAQFERU |
 | O | saqavu | `sotipu`  | 2341  | `ediakaranu`            | `paux pahamOpe`   | QOYEFESAQERU    |
 | T | pai  | `turatipu`  | 3534  | `kamubrianunqo`  | `beTw xwoxw`   | QOYEAVURU   |
 
