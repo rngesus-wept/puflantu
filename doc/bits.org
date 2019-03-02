@@ -51,24 +51,27 @@ Jon will meet us today.
 
 * Numbers (STUB)
 
-Perflontus uses a base 6 system. The numbers 0-6 are ~ri~, ~ke~, ~ha~, ~pai~, ~uqi~, ~lo~,
-and ~aqe~.
+Perflontus uses a base 6 system. The numbers 0-6 are ~ri~, =uta=, =fe=, =pai=, =avu=, =ne=,
+and =saqe=.
 
-Multiples of 6 up through 30 are formed by dropping all the final vowels from
-the sixes digit and suffixing ~aqe~: ~aqe~, ~haqe~, ~paqe~, ~uqaqe~, ~laqe~. Adding units
-digits replaces the final ~u~; the multiples of 7 through 35 are ~aqke~, ~haqha~,
-~paqpai~, ~uqaquqi~, and ~laqlo~.
+Multiples of 6 up through 30 are formed by picking the correct multiplier and
+suffixing =saqe=: =saqe=, =fesaqe=, =paisaqe=, =avsaqe=, =nesaqe=. Note the omission of the
+middle =u= from =avsaqe=. Adding units digits is done by replacing the =e= in =saqe=
+with the units digit, omitting the first =u= from =uta= as a special case. Thus the
+multiples of 7 through 35 are =saqta=, =fesaqfe=, =paisaqpai=, =avsaqavu=, and =nesaqne=.
 
 The next powers of 6 up through 6^5 are ~yo~, ~sa~, ~toe~, and ~wdo~. To count multiples
-of these, prefix the entirety of the corresponding hexit, e.g. ~keyo~, ~hayo~,
-~paiyo~, ~uqiyo~, ~loyo~. Note that unlike ~aqe~, in all these cases the presence of a 1
-hexit is explicit: ~keyo~, ~kesa~, ~ketoe~, ~kewdo~. Additional hexits are added as
-separate words, e.g. 1023 = 4423_6 = ~uqisa uqiyo kaqpai~.
+of these, prefix the entirety of the corresponding hexit, e.g. ~utayo~, ~feyo~,
+~paiyo~, ~avuyo~, ~neyo~. Note that unlike ~aqe~, in all these cases the presence of a 1
+hexit is explicit: ~utayo~, ~utasa~, ~utatoe~, ~utawdo~. Additional hexits are added as
+separate words, e.g. 1023 = 4423_6 = ~avusa avuyo fesaqpai~.
 
 Powers of 6 above 6^5 are formed by naming the exponent, then replacing the
-final vowel with ~wdo~: ~aqe~ \rightarrow ~aqwdo~, ~aqke~ \rightarrow ~aqkwdo~, etc. These
-are still "unit" power-of-6 words, and to express an actual quantity still
-require the explicity 1 hexit: ~keaqwdo~, ~keaqkwdo~, ~keaqhawdo~, etc.
+final vowel with ~wdo~: 6 = ~saqe~ \rightarrow 6^6 = ~saqwdo~, 7 = ~saqta~ \rightarrow
+6^7 = ~saqtwdo~, etc. These are still "unit" power-of-6 words, and to express an
+actual quantity still require the explicity 1 hexit: ~keaqwdo~, ~keaqkwdo~,
+~keaqhawdo~, etc. The removal of the final =u= is not done here, e.g. 4 \times 6^7 =
+~avusaqtwdo~.
 
 Exact numbers do not take any additional inflection. For example "three dances"
 is ~pai hinalwla~, not ~*pwpai hinalwla~. When measures of things are used -- for
@@ -80,10 +83,12 @@ measured, since it is not the head of its noun phrase (it is treated as an
 adjective).
 
 Inexact numbers are treated as units of measure unto themselves, e.g. "dozens of
-dances" \rightarrow =hinala haqwe= "dance dozens".
+dances" \rightarrow =hinala fesaqwe= "dance dozens".
 
-Ordinal numbers are formed by the suffix =-ru=. This is subject to
-adverbialization by an added =-s=.
+Things happening a number of times is given by the adverb form of a number, e.g.
+~fes cwmub~ "I speak twice". Ordinal numbers are formed by the suffix =-ru=, e.g.
+second = ~feru.~ This is subject to adverbialization by an added =-s=, e.g. ~ferus im
+capatil~ "He arrived second".
 
 * Conjunctions (STUB)
 
