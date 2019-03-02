@@ -133,3 +133,4 @@ The 1 bus will arrive soon.
     Another way to put it, which also applies to ~alzov~ and ~aldul~ in the opposite
     direction, is that ~*zov~ clauses are answers to questions better phrased as
     "how", while ~*dul~ clauses are answers to questions better phrased as "why".
+    A fuller treatment of these particular words is in [[file:clauses.org#causation-and-intent---how-why][Causation and Intent Clauses]].
