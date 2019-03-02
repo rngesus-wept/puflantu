@@ -16,3 +16,5 @@ Here are some examples. The more person/number examples we have for subject and 
 * Y'all come back now ya hear? (Green Acres)
 * We come in peace (The Day the Earth Stood Still)
 
+## Speak
+* Excuse me miss, I speak Jive. (Airplane!)
