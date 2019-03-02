@@ -200,4 +200,38 @@ reasoning is abstract.
 
 Comparisons are always expanded to a full clause. Instead of =-ka= the
 subordinate verb takes the particle =-sos=, and the use of the relative pronoun
-in the clause indicates the role of the thing being compared.
+in the clause indicates the role of the thing being compared. The inflection of
+the subordinate verb should reflect the things being changed in the comparison,
+rather than always including the subject inflection. In particular, if only the
+verb is being used, then no pronoun infixes appear.
+
+#+BEGIN_EXAMPLE
+Alisu  [Bab  zat-sos]  wepu'fi    zat.
+Alice  [Bob  be-than]  great-CMP  be-3S.
+Alice is greater than Bob is.
+
+Bab  [kofuri    ratotiq-sos     ]  oguri'fi    enxura   ratiq.
+Bob  [coffee-R  drink-3S-3O-than]  much-R-CMP  water-R  drink-3S.
+Bob  drinks more water than he drinks coffee.
+
+Rate    eyotuqa  [rwne    rulfatob-sos       ]  ogi'fi    zalma  rulfatob.
+3S-GEN  recipe   [1S-GEN  incorporate-3S-than]  more-CMP  salt   incorporate-3S
+His recipe uses more salt than mine uses.
+
+[Enxura   rwmotiq-sos     ]  ogwe'fi      torewe     wlwmoc.
+[water-R  drink-1S-3O-than]  more-PL-CMP  cookie-PL  eat-1S.
+I ate more cookies than [I] drank water.
+
+[Wlatoc-sos]  ogwe'fi      torewe     wlwmoc.
+[eat-3S    ]  more-PL-CMP  cookie-PL  eat-1S.
+I ate more cookies than he ate.
+
+At sag im zalatotov-sos ogi' sagwho im satag.
+She gave more gifts than she was required to.
+
+At im solatodov-sos ogi' sagwho im satag.
+She gave more gifts than were needed.
+
+At sagwho zalatov-sos xogi' im satag.
+She gave gifts more often than required.
+#+END_EXAMPLE

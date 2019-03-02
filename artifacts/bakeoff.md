@@ -24,7 +24,7 @@ Pasta
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
-  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis 'axuhotox.
+  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis ????? 'axuhodox.
   * Realoda tizov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
 
 ## Balorvu
@@ -44,7 +44,7 @@ Dough
 *simple-& versatile dough*
 
   * salt 4 gram-PL-& yeast 1 gram-& flour 1 cup combine-3pO-IMP
-  * 3/4 water cups mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
+  * water-R 3/4 cup-PL mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
   * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
 
 ### Perflontus
@@ -82,7 +82,7 @@ Sugar dough
   * Zalma 3 guramwe-li twipe 3 guramwe-li oku 1 jano 'rulfodob.
   * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
-  
+
 ## Orbili
 
 Jelly
@@ -93,14 +93,14 @@ Jelly
 
   * Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and 3 cups of sugar to a saucepan.
   * Boil until thickened and syrupy. Put into jars.
-  
+
 ### Gloss
 
 *eat-RO-GER able-2S-than many-CMP fruit possess-2P ?. this use-RS-3O-DEP method be-3S.*
 
   * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL saucepan toward add-3pO-IMP.
   * that-time-toward viscous-& syrupy be-3S-DEP boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
-  
+
 ### Perflontus
 
 *Wloloca merizin-sos ogi'fi gomu qizun na? Ita pialotwv-ka zove zat.*
@@ -122,8 +122,13 @@ Oatmeal (?????)
 
   * Combine 1/2 cup oats, 1 cup milk, 15g sugar, salt, and cinnamon in a small pot.
   * Bring the mixture to a boil, stirring occasionally, and then take the pot off the heat. The oatmeal will thicken as it cools.
-  
+
 ### Gloss
+
+*that-method day start-GER great healthy method*
+
+  * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
+  * occasional-ADV stir-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
 
 ### Perflontus
 
@@ -143,6 +148,14 @@ Eggs on Bread (bread top egg)
 
 ### Gloss
 
+*egg-PL cook-AUG-NEG-IMP; light-& fluffy be-3pO-DEP want-2S.*
+
+  * some-quantity bread (recipe see-IMP) make-IMP-&-seq, 2 slice-DU toast-DIM.
+  * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
+  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward add-3O-IMP.
+  * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
+  * that-time egg mix-RES almost is_set-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
+
 ### Perflontus
 
 # [Kozzobben]
@@ -161,8 +174,22 @@ Pasta-& Cheese
   * Melt 8 tablespoons butter in a saucepan and whisk in 1/2 cup flour.
   * Whisk in 6 cups milk and 2 lb cheese.
   * Pour the mixture over the baking pan, and bake until cheese mixture is bubbly and golden.
+
+*// Pour mixture _into_ the baking pan?*
   
 ### Gloss
+* good-superlative comfort food
+  * (recipe see-3sO-INF) pasta 1 pound obtain-3sO-IMP-& cook-3sO-IMP-& bake-INS pan in put-3sO-IMP.
+  * saucepan in butter 8 tablespoon-PL melt-3pO-IMP-& this-way whisk use-3sO-DEP flour 1/2 cup add-3sO-INF.
+  * this-way whisk use-3sO-DEP milk 6 cup-PL-& cheese 2 pound-DU add-3pO-IMP.
+  * bake-INS pan over mix-RES pour-3sO-IMP-& this-time-toward cheese mix-RES bubbly-& golden be-3P-DEP bake-3sO-IMP.
+
+*comfort-AGT food ??????????*
+
+  * pasta (recipe see-IMP) 1 pound make-IMP-&-seq, cook-3O-IMP-&-seq, bake-INS pan interior-ADV put-3O-DEP.
+  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-& flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
+  * milk 6 cup-PL-& cheese 2 pound-DU this-way whisk use-DEP-ADV add-3pO-IMP.
+  * mixture-R bake-INS pan over-ADV pour-3O-IMP-& that-time toward-ADV cheese mixture bubbly-& golden be-3S.
 
 ### Perflontus
 
@@ -178,8 +205,14 @@ Pizza
   * Top with a layer of tomatoes.
   * Top with another layer of cheese.
   * Bake until dough is cooked.
-  
+
 ### Gloss
+
+* this-way shape-PL-& top-INS-PL use-3pO-DEP [feel free to experiment]
+  * (recipe see-3sO-IMP) some dough obtain-3sO-IMP-& this-way roll-INS rod use-3sO-DEP  flatten-3sO-IMP.  
+  * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP 
+  * this-way cheese-possessive another layer use-3sO-DEP cover-3sO-IMP
+  * this-time-toward dough cook-3sO-passive bake-3sO-IMP
 
 ### Perflontus
 
@@ -208,7 +241,7 @@ Bread
 
   * Make the recipe for dough, but additionally add 1/4 cup butter and 1/8 cup sugar.
   * Form into a loaf and put into a baking pan. Bake until done.
-  
+
 ### Gloss
 
 ### Perflontus
@@ -226,6 +259,10 @@ Mashed Potatoes
   * Add 2 tablespoons butter, 1 cup milk, and salt.
 
 ### Gloss
+* leftover-PL worry-3sO-IMP-NEG; [if you have any, you can make potato croquettes]
+  * potato-DU 2 pound-DU peel-3dO-IMP-& chunk-PL into cut-3dO-IMP.
+  * water in boil-3dO-IMP, then drain-3dO-IMP-& mash-3dO-IMP
+  * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
 
@@ -239,8 +276,11 @@ Fried Potatoes
 
   * Pell 2 lb potatoes and cut into strips.
   * Fry until golden and crispy. Add salt.
-  
+
 ### Gloss
+* ?
+  * potato-DU 2 pound-DU peel-3dO-IMP-& strip-PL into cut-3dO-IMP
+  * that-time-toward golden-PL-& crispy-PL fry-3pO-IMP.
 
 ### Perflontus
 
@@ -256,8 +296,13 @@ Potato Croquettes
   * Add additional 1 tablespoon milk, 1 egg, and salt.
   * Divide the mixture into small mounts.
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
-  
+
 ### Gloss
+* A great way leftover PST mash-3pO-DEP use-3pO-INF
+  * (recipe see-3sO-IMP) PST mash-PSV-3sO-DEP potato-PL cup-PL 2.
+  * additional milk 1 tablespoon-& 1 egg-& salt.
+  * Mix-RES small-PL mount-PL into divide-3pO-IMP.
+  * egg in mound-PL dip-3pO-IMP then flour in roll-3pO-IMP. That-time-toward outer-PL coating-PL golden-PL-& crispy-PL be-3P fry-3pO-IMP.
 
 ### Perflontus
 
@@ -282,6 +327,14 @@ Cinnamon Rolls
 
 ### Gloss
 
+* Cinnamon very much
+  * some dough obtain-3sO-IMP.
+  * Thick sheet into flatten-3sO-IMP-& PST melt-PSV-3sO-DEP butter over spread-3sO-IMP.  
+  * cinnamon 10 g-& sugar 1/3 cup combine-3pO-IMP. Mix-RES dough cover-3sO-IMP. 
+  * Mix-RES log into roll-3sO-IMP. Rounds into slice-3pO-IMP. Bake-INS dish in put-3sO-IMP.
+  * Sugar 1 cup-& butter 15 g-&, milk 8 g combine. Mix-RES dish over pour-3sO-IMP.
+  *  That-time-toward finish-PSV-3sO-DEP bake-3pO-IMP.
+
 ### Perflontus
 
 ## Jarpagomu Creni
@@ -291,13 +344,18 @@ Pumpkin Pie
 ### English
 
 *Feel free to make this any time of year.*
-
   * Obtain some sugar dough (see recipe). Roll out with a rolling pin into a circle, and put in a baking dish.
   * Combine 5g salt, 10g cinnamon, 5g nutmeg, and 1g cloves (to form pumpkin pie spice).
   * Add 3 eggs, 500g pumpkin, and 250g cream, and mix together.
   * Pour the mixture into the dish. Bake until the filling is cooked.
-  
+
 ### Gloss
+
+* year-POS any time [feel free to make this]
+  * (recipe see-3sO-IMP) some sugar dough obtain-3sO-IMP. dough this-way flatten-INS rod use-3sO-DEP circle into flatten-3sO-IMP-& baking dish in put-3sO-IMP.
+  * (this-way pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
+  * 3 eggs-& pumpkin 500 g-& cream 250 g add-3pO-IMP-& together mix-3pO-IMP
+  * mix-RES dish into pour-3sO-IMP. That-time-toward filling cook-3sO-passive bake-3sO-IMP
 
 ### Perflontus
 
@@ -313,8 +371,15 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Add 2 eggs.
   * Add 2 cups flour, 1.5 cups oats, and 340g chocolate chips.
   * Divide mixture into small mounts. Bake until set and lightly golden.
-  
+
 ### Gloss
+
+* anywhere galaxy in delicious-comparative cookie FUT find-NEG-2S
+
+  * sugar 2 cup-PL-&  peanut butter 3/4 cup-& butter 1 cup-& salt 4 grams-& yeast 8 grams combine-3pO-IMP.
+  * 2 egg-PL add-3pO-IMP.
+  * flour 2 cup-PL-& oats 1.5 cup-PL-& chocolate chip-PL 340 grams add-3pO-IMP
+  * mix-RES small mounds into divide-3sO-IMP. that-time-toward PRF set-intransitive/"passive"-& golden lightly be-3S-DEP bake-3pO-IMP
 
 ### Perflontus
 
