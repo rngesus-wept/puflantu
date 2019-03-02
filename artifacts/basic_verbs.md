@@ -12,6 +12,12 @@ Here are some examples. The more person/number examples we have for subject and 
 * Kel loves orange soda (Kenan and Kel)
 * Because you loved me (Celine Dion)
 
+## Like
+
+*Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
+
+* How do you like them apples? (Good Will Hunting)
+
 ## Come
 * Y'all come back now ya hear? (Green Acres)
 * We come in peace (The Day the Earth Stood Still)
