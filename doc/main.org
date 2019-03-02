@@ -37,6 +37,52 @@ to the listener to determine that the speaker does not intend something like ~I
 bought a blue (thing) at the shirt store~ or ~I bought (the color/concept) blue at
 the shirt store~.)
 
+* Notation
+
+Throughout this documentation, examples will include glosses in English to help
+convey Perflontic grammar without requiring vocabulary knowledge from the reader.
+Because of the nature of Perflontic inflection, we use a large body of short tags
+to indicate how a thing is being inflected, as follows:
+
+  * Personal pronouns are indicated by their person and their case, with their
+    number indicated in lowercase if they are not singular. Some examples:
+    * 1S = first person (singular) subject = "I"
+    * 2dO = second person dual object = "you two"
+    * 3pO = third person plural object = "them"
+    * RS = relative pronoun, subject case (this frequently appears as "that" in
+      English; these pronouns are only used in [[file:clauses.org][dependent clauses]] to indicate the
+      role of "that" within the clause, if it has one)
+  * Verbs are infixed by personal pronouns, abbreviated as above. In addition:
+    * NEG = negated (drink-1S-NEG = I do not drink)
+    * REV = reversed (remember-3S-REV = He forgets)
+    * AUG = augmentative (cook-2S-AUG = You overcook)
+    * DIM = diminutive (look-1S-DIM = I peek)
+    * DEP = this verb is the main verb of a dependent clause
+    * IMP = imperative (card draw-3O-IMP = Draw a card)
+    * 2S-IMP = impolite imperative (leave-2S-IMP = Leave!)
+  * Verbs can be turned into noun/adjectives in the following ways:
+    * GER = gerund OR present participle (sleep-GER = sleeping, sleep-GER man = sleeping man, relax-GER = relaxation)
+    * INS = instrumental (sleep-INS clothes = sleeping clothes)
+    * AGT = agent, thing that X-es (drink-AGT = drinker)
+    * PAT = patient, thing that is X'd or can be X'd (drink-PAT = potable)
+    * LOC = locative, X-hosting (eat-LOC room = dining room)
+    * CAU = causative, X-causing (eat-CAU medicine = appetite stimulant)
+    * RES = resultative, resulting from X (mix-RES = mixture)
+  * Tense, aspect, and mood are indicated before their verb. By default verbs have present tense, unspecified aspect, and realis mood.
+    * PST = past tense (PST walk-1S = I walked)
+    * FUT = future tense (FUT walk-1S = I will walk)
+    * IMP = imperfective aspect (IMP walk-1S = I am walking)
+    * PRF = perfective aspect (PRF walk-1S = I was walking)
+    * HYP = hypothetical mood (HYP walk-1S = I would walk (500 miles, just to be...))
+    * CNT = contrafactual mood (CNT walk-1S = I would walk (500 miles, but I'm too damn lazy...))
+  * Nounjectives take the following affixes:
+    * DU = dual number (lemon-DU = pair of lemons)
+    * PL = plural number (lemon-PL = lemons)
+    * NEG = negation (blue-NEG = not blue)
+    * CMP = comparative (loud-CMP = louder)
+    * SUP = superlative (loud-SUP = loudest)
+    * ADV = adverb (loud-ADV = loudly) -- note that *not all adverbs use this, only the ones formed from nounjectives*
+
 * How to /Puflantu/
 
 /Everything just got transplanted from this megafile, so some references to
