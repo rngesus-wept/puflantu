@@ -28,3 +28,14 @@ identifiable if numbers are given by a different artifact.
 
 Note the Spanish-style phrasing in the second line; the dependent clause is
 written as "... puzzles please you", not "... you like puzzles".
+
+## Actual Artifact
+
+*Someone seems to have left a note for you.*
+
+    'bovipa!
+    
+    **Pazul** somadexun-ka onwmir. Eta xwes os onixir na?:
+    
+    Wat avu eqmwe henroqas qatun-lis, fe eqmw uraroqas qatun-lis, pai eqmwe jasroqas qatun na?
+
