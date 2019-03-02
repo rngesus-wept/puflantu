@@ -125,6 +125,10 @@ Oatmeal (?????)
   
 ### Gloss
 
+*Good-SUP healthy day-GEN start.
+  * Small pot in oat 1/2 cup-& milk 1 cup-& sugar 15 g-& salt-& cinnamon combine-3pO-IMP.
+  * Occasional-ADV stir-GER, this-time-toward mix-RES boil-GER start-3pO-intransitive-"passive" heat-3sO-IMP. Then heat from pot remove-3sO-IMP. 
+
 ### Perflontus
 
 ## Kolarvu ??? Wibalwe
@@ -142,6 +146,13 @@ Eggs on Bread (bread top egg)
   * When the egg mixture is almost set, divide it and pile it on top of the slices of bread.
 
 ### Gloss
+
+* Egg-PL too-much-ADV cook-NEG-IMP-3pO. Light-PL-& fluffy-PL egg-PL want-2S.
+  * (recipe see-3sO-IMP) some bread obtain-3sO-IMP-& 2 slice-DU light-ADV toast.
+  * small sautee-INS pan in Butter 1 tablespoon melt-3sO-IMP.
+  * 3 egg-PL-& milk 2 tablespoon-PL-& salt together beat-3pO-IMP-& pan in mix-RES add-3sO-IMP.
+  * this-way low heat use-3sO-DEP this-way frequent-ADV stir-3sO-DEP cook-3sO-IMP 
+  * This-time egg mix-RES almost set be-3S-DEP, divide-3sO-IMP-& bread-GEN slice-PL on pile-3sO-IMP.
 
 ### Perflontus
 
