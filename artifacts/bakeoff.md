@@ -227,6 +227,12 @@ Peanut Butter-& Jelly
   * Obtain some bread (see recipe) and slice it.
   * Apply jelly (see recipe) to one slice. Add peanut butter to the other. Combine slices.
 
+### Gloss
+
+* ?
+  * (recipe see-3sO-IMP) some bread obtain-3sO-IMP-& slice-3sO-IMP.
+  * (recipe see-3sO-IMP) one slice to jelly apply-3sO-IMP. Other slice to peanut butter add-3sO-IMP. Slice-PL combine-3pO-IMP. 
+
 # [Spibben]
 
 Side Dishes
@@ -243,6 +249,10 @@ Bread
   * Form into a loaf and put into a baking pan. Bake until done.
 
 ### Gloss
+
+*Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S 
+  * dough recipe make-3sO-IMP-but also butter 1/4 cup-& sugar 1/8 cup add.
+  * loaf into form-3sO-IMP-& bake-INS pan into put-3sO-IMP. This-time-toward done bake-3sO-IMP. 
 
 ### Perflontus
 
@@ -278,7 +288,7 @@ Fried Potatoes
   * Fry until golden and crispy. Add salt.
 
 ### Gloss
-* ?
+* ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP. 
   * potato-DU 2 pound-DU peel-3dO-IMP-& strip-PL into cut-3dO-IMP
   * that-time-toward golden-PL-& crispy-PL fry-3pO-IMP.
 
