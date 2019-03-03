@@ -77,7 +77,7 @@ Mwbes et qobwnur
 So much to do, so much to see  
 So what's wrong with taking the back streets?  
 You'll never know if you don't go  
-You'll never shine if you don't glow
+You'll never shine if you don't glow  
 
 ### Gloss
 
@@ -95,35 +95,51 @@ Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
 ## Entry 4
 
-"I wipe the spots off the mirror
-Don't leave the keys in the door
-I never put wet towels on the floor anymore 'cause
-Dreams last for so long
-Even after you're gone"
+"I wipe the spots off the mirror  
+Don't leave the keys in the door  
+I never put wet towels on the floor anymore 'cause  
+Dreams last for so long  
+Even after you're gone"  
 
 ### Gloss
+
+spot-PL mirror from-ADV wipe-1S  
+key-PL door in-ADV leave-1S-NEG-IMP  
+no-time wet towel-PL floor on-ADV put-1S  
+this-reason dream-PL some-time last-3pS-DEP  
+that-time exterior-ADV this-place be_located-2S-NEG-DEP  
 
 ### Perflontus
 
 ## Entry 5
 
-"Would you choose water over wine
-Hold the wheel and drive?
-Whatever tomorrow brings
-I'll be there with open arms and open eyes"
+"Would you choose water over wine  
+Hold the wheel and drive?  
+Whatever tomorrow brings  
+I'll be there with open arms and open eyes"  
 
 ### Gloss
+
+water-R choose-2S-3O-FUT-HYP-than much-R-CMP wine-R choose-2S-FUT-HYP ?  
+wheel hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?  
+any-thing tomorrow-3S bring-3S-FUT-HYP  
+open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT  
 
 ### Perflontus
 
 ## Entry 6
 
-"All the other kids with the pumped up kicks
-You'd better run, better run, out run my gun
-All the other kids with the pumped up kicks
-You'd better run, better run, faster than my bullet"
+"All the other kids with the pumped up kicks  
+You'd better run, better run, out run my gun  
+All the other kids with the pumped up kicks  
+You'd better run, better run, faster than my bullet"  
 
 ### Gloss
+
+augmented shoe_colloquial-PL -DEP ??? Kids,  
+run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP  
+augmented shoe_colloquial-PL -DEP ??? Kids,  
+run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP  
 
 ### Perflontus
 
@@ -135,6 +151,10 @@ I'm findin' it hard to believe
 We're in heaven"
 
 ### Gloss
+Baby, want-1S-RO-DEP-ADV all be-2S  
+that-time here 1S-GEN arms between-ADV lie-2S-DEP
+believe-3O-GER struggle-1S
+heaven interior-ADV be-2S
 
 ### Perflontus
 
@@ -147,27 +167,43 @@ Tomorrow may be too late"
 
 ### Gloss
 
+2S-AND 1S  
+wait-GER can-NEG-1dS-DEP know-1S  
+and swear-1S, false be-NEG-3S-DEP, swear-1S, girl  
+tomorrow too late HYP be-GER 
+
 ### Perflontus
 
 ## Entry 9
 
-"Call me on the line
+Call me on the line
 Call me, call me any, anytime
 Call me my love
-You can call me any day or night"
+You can call me any day or night
 
 ### Gloss
+
+line on call-1O-IMP  
+call-1O-IMP, any anytime call-1O-imp
+1S-GEN love-PAT, call-1O-IMP  
+any day-or any night call-GER-1O may-2S  
 
 ### Perflontus
 
 ## Entry 10
 
-"It's in the stars
+It's in the stars
 It's still written in the scars on our hearts
 That we're not broken just bent
 And we can learn to love again"
 
 ### Gloss
+
+stars among locate-3S
+1dS-GEN heart-DU on scar-PL among PRF write-3O
+break-DEP-NEG-1pO, just bend-DEP-NEG-1pO
+and again love-GER learn-GER can-1pS
+
 
 ### Perflontus
 

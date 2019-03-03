@@ -24,7 +24,7 @@ Pasta
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
-  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis 'axuhotox.
+  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis ????? 'axuhodox.
   * Realoda tizov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
 
 ## Balorvu
@@ -44,7 +44,7 @@ Dough
 *simple-& versatile dough*
 
   * salt 4 gram-PL-& yeast 1 gram-& flour 1 cup combine-3pO-IMP
-  * 3/4 water cups mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
+  * water-R 3/4 cup-PL mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
   * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
 
 ### Perflontus
@@ -82,7 +82,7 @@ Sugar dough
   * Zalma 3 guramwe-li twipe 3 guramwe-li oku 1 jano 'rulfodob.
   * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
-  
+
 ## Orbili
 
 Jelly
@@ -93,14 +93,14 @@ Jelly
 
   * Add 4 cups of the juice of the desired summer fruit (strawberry, raspberry, etc.) and 3 cups of sugar to a saucepan.
   * Boil until thickened and syrupy. Put into jars.
-  
+
 ### Gloss
 
 *eat-RO-GER able-2S-than many-CMP fruit possess-2P ?. this use-RS-3O-DEP method be-3S.*
 
   * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL saucepan toward add-3pO-IMP.
   * that-time-toward viscous-& syrupy be-3S-DEP boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
-  
+
 ### Perflontus
 
 *Wloloca merizin-sos ogi'fi gomu qizun na? Ita pialotwv-ka zove zat.*
@@ -122,12 +122,13 @@ Oatmeal (?????)
 
   * Combine 1/2 cup oats, 1 cup milk, 15g sugar, salt, and cinnamon in a small pot.
   * Bring the mixture to a boil, stirring occasionally, and then take the pot off the heat. The oatmeal will thicken as it cools.
-  
+
 ### Gloss
 
-*Good-SUP healthy day-GEN start.
-  * Small pot in oat 1/2 cup-& milk 1 cup-& sugar 15 g-& salt-& cinnamon combine-3pO-IMP.
-  * Occasional-ADV stir-GER, this-time-toward mix-RES boil-GER start-3pO-intransitive-"passive" heat-3sO-IMP. Then heat from pot remove-3sO-IMP. 
+*that-method day start-GER great healthy method*
+
+  * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
+  * occasional-ADV stir-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
 
 ### Perflontus
 
@@ -147,12 +148,13 @@ Eggs on Bread (bread top egg)
 
 ### Gloss
 
-* Egg-PL too-much-ADV cook-NEG-IMP-3pO. Light-PL-& fluffy-PL egg-PL want-2S.
-  * (recipe see-3sO-IMP) some bread obtain-3sO-IMP-& 2 slice-DU light-ADV toast.
-  * small sautee-INS pan in Butter 1 tablespoon melt-3sO-IMP.
-  * 3 egg-PL-& milk 2 tablespoon-PL-& salt together beat-3pO-IMP-& pan in mix-RES add-3sO-IMP.
-  * this-way low heat use-3sO-DEP this-way frequent-ADV stir-3sO-DEP cook-3sO-IMP 
-  * This-time egg mix-RES almost set be-3S-DEP, divide-3sO-IMP-& bread-GEN slice-PL on pile-3sO-IMP.
+*egg-PL cook-AUG-NEG-IMP; light-& fluffy be-3pO-DEP want-2S.*
+
+  * some-quantity bread (recipe see-IMP) make-IMP-&-seq, 2 slice-DU toast-DIM.
+  * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
+  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward add-3O-IMP.
+  * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
+  * that-time egg mix-RES almost is_set-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
 ### Perflontus
 
@@ -173,7 +175,7 @@ Pasta-& Cheese
   * Whisk in 6 cups milk and 2 lb cheese.
   * Pour the mixture over the baking pan, and bake until cheese mixture is bubbly and golden.
 
-# Comment - Pour mixture /into/ the baking pan?
+*// Pour mixture _into_ the baking pan?*
   
 ### Gloss
 * good-superlative comfort food
@@ -181,6 +183,13 @@ Pasta-& Cheese
   * saucepan in butter 8 tablespoon-PL melt-3pO-IMP-& this-way whisk use-3sO-DEP flour 1/2 cup add-3sO-INF.
   * this-way whisk use-3sO-DEP milk 6 cup-PL-& cheese 2 pound-DU add-3pO-IMP.
   * bake-INS pan over mix-RES pour-3sO-IMP-& this-time-toward cheese mix-RES bubbly-& golden be-3P-DEP bake-3sO-IMP.
+
+*comfort-AGT food ??????????*
+
+  * pasta (recipe see-IMP) 1 pound make-IMP-&-seq, cook-3O-IMP-&-seq, bake-INS pan interior-ADV put-3O-DEP.
+  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-& flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
+  * milk 6 cup-PL-& cheese 2 pound-DU this-way whisk use-DEP-ADV add-3pO-IMP.
+  * mixture-R bake-INS pan over-ADV pour-3O-IMP-& that-time toward-ADV cheese mixture bubbly-& golden be-3S.
 
 ### Perflontus
 
@@ -196,7 +205,7 @@ Pizza
   * Top with a layer of tomatoes.
   * Top with another layer of cheese.
   * Bake until dough is cooked.
-  
+
 ### Gloss
 
 * this-way shape-PL-& top-INS-PL use-3pO-DEP [feel free to experiment]
@@ -238,7 +247,7 @@ Bread
 
   * Make the recipe for dough, but additionally add 1/4 cup butter and 1/8 cup sugar.
   * Form into a loaf and put into a baking pan. Bake until done.
-  
+
 ### Gloss
 
 *Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S 
@@ -277,7 +286,7 @@ Fried Potatoes
 
   * Pell 2 lb potatoes and cut into strips.
   * Fry until golden and crispy. Add salt.
-  
+
 ### Gloss
 * ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP. 
   * potato-DU 2 pound-DU peel-3dO-IMP-& strip-PL into cut-3dO-IMP
@@ -297,7 +306,7 @@ Potato Croquettes
   * Add additional 1 tablespoon milk, 1 egg, and salt.
   * Divide the mixture into small mounts.
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
-  
+
 ### Gloss
 * A great way leftover PST mash-3pO-DEP use-3pO-INF
   * (recipe see-3sO-IMP) PST mash-PSV-3sO-DEP potato-PL cup-PL 2.
@@ -349,7 +358,7 @@ Pumpkin Pie
   * Combine 5g salt, 10g cinnamon, 5g nutmeg, and 1g cloves (to form pumpkin pie spice).
   * Add 3 eggs, 500g pumpkin, and 250g cream, and mix together.
   * Pour the mixture into the dish. Bake until the filling is cooked.
-  
+
 ### Gloss
 
 * year-POS any time [feel free to make this]
@@ -372,7 +381,7 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Add 2 eggs.
   * Add 2 cups flour, 1.5 cups oats, and 340g chocolate chips.
   * Divide mixture into small mounts. Bake until set and lightly golden.
-  
+
 ### Gloss
 
 * anywhere galaxy in delicious-comparative cookie FUT find-NEG-2S
