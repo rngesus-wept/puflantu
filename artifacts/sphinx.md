@@ -6,7 +6,7 @@
     
     I hear you like puzzles.
     puzzle  please-3pS-2pO-DEP  hear-1S.
-    pazul   somadexun-ka        onwmir.
+    pazulu  somadexun-ka        onwmir.
     
     Have you heard this one before?
     this  already  PRF  hear-2pS  ?
@@ -35,7 +35,7 @@ written as "... puzzles please you", not "... you like puzzles".
 
     'bovipa!
     
-    **Pazul** somadexun-ka onwmir. Eta xwes os onixir na?:
+    **Pazulu** somadexun-ka onwmir. Eta xwes os onixir na?:
     
     Wat avu eqmwe henroqas qatun-lis, fe eqmw uraroqas qatun-lis, pai eqmwe jasroqas qatun na?
 
