@@ -14,6 +14,12 @@ Please add verbs and examples as they occur to you. Each clue should have an ima
 * Because you loved me (Celine Dion)
 * I don't love you (Don't Ask Me Why - Eurythmics)
 
+## Like
+
+*Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
+
+* How do you like them apples? (Good Will Hunting)
+
 ## Come
 * Y'all come back now ya hear? (Green Acres)
 * We have come to visit you in peace (The Day the Earth Stood Still)
@@ -55,3 +61,5 @@ Please add verbs and examples as they occur to you. Each clue should have an ima
 ## See
 * They see me rollin (Ridin Dirty)
 
+## Speak
+* Excuse me miss, I speak Jive. (Airplane!)
