@@ -165,11 +165,15 @@ henqo	interior
 jasqo	exterior
 bedfi	top-side
 vaxfi	bottom-side
+dokfe	between
+ura	middle
 
 # Time
-roqa	day
+roqa	day (24 hour period)
 tiroqa	today
 qoyelu	month
+henroqa	morning
+jasroqa	night
 
 # Months
 january	qoyeutaru
@@ -215,6 +219,9 @@ erqoye	moon
 obwnere	mud
 mainci	summer
 furwne	cloud
+
+# Body parts
+eqme	leg
 
 # Misc
 cuafi	fresh, newly-made, unused
