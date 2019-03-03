@@ -1,7 +1,5 @@
 # -*- eval: (local-set-key (kbd "TAB") '(lambda () (interactive) (insert "\t"))) -*-
 
-## TODO: Convert spaces to tabs
-
 # Pronouns
 
 # These technically violate the rule that nouns should have two syllables and end in a vowel.
