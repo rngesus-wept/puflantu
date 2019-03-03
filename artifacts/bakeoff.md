@@ -17,15 +17,15 @@ Pasta
 
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
-  * 2-3 egg-PL-& flour 3 cup-PL combine-3pO-IMP-& together(-ADV?) knead-3pO-IMP
-  * mix-RES this-way flatten-INS rod use-3O-DEP flatten-3O-IMP-& [thin strips into] cut-3O-IMP
+  * 2-3 egg-PL-& flour 3 cup-PL combine-3pO-IMP-& together knead-3pO-IMP
+  * mix-RES this-way flatten-INS rod use-3O-DEP-ADV flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
 
 ### Perflontus
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
-  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis ????? 'axuhodox.
-  * Realoda tizov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
+  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis jiay 'axuhodox.
+  * Realoda tizov mohuraqo gwnde piotwv-kas 'mohotur-lis ????????? 'erotok.
 
 ## Balorvu
 
@@ -44,7 +44,7 @@ Dough
 *simple-& versatile dough*
 
   * salt 4 gram-PL-& yeast 1 gram-& flour 1 cup combine-3pO-IMP
-  * water-R 3/4 cup-PL mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
+  * water-R 3/4 cup-PL mixture interior-toward-ADV add-3pO-IMP-& together knead-3O-IMP.
   * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
 
 ### Perflontus
