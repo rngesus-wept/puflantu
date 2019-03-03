@@ -108,7 +108,7 @@ Jelly
   * Orcizal-ka mainci gomu-cw geze (alwpagomu, sizagomu, yx.) 4 janwe-li twipe 3 janwe dahzelo henqo-fws 'kodar.
   * Albwr-fws nousve-li twipenxa zat-ka 'lirotwb. Ifarwe henqo-fws 'ajoten.
 
-# Keru Kolarvu
+# Utaru Kolarvu
 
 Breakfast (1-ORD bread)
 

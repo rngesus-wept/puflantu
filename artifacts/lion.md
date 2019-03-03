@@ -30,7 +30,7 @@ Eyaxa, eyaxa, eyaxa, eyaxa
 
 ?????we ???? ???  
 Dunse henqos arkahwmut  
-Keru kolarvu kokeini  
+Utaru kolarvu kokeini  
 ...w'ne
 
 ## Entry 2

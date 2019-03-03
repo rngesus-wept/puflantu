@@ -131,28 +131,29 @@ nousve	viscous
 puflantu	galaxy
 
 # Numbers
-aqe	6, half-dozen
-haqe	12, dozen
-paqe	18
-uqaqe	24
-laqe	30
+saqe	6, half-dozen
+fesaqe	12, dozen
+paisaqe	18
+avsaqe	24
+nesaqe	30
 paiyo	108
 toe	twelve hundred ninety-six
 wdo	seventy-seven hundred seventy-six
 
 # Ordinal numbers
-keru	first
-haru	second
+utaru	first
+feru	second
 pairu	third
-uqiru	fourth
-loru	fifth
-aqeru	sixth
-aqkeru	seventh
-aqharu	eighth
-aqpairu	ninth
-aquqiru	tenth
-aqloru	eleventh
-haqeru	twelfth
+avuru	fourth
+neru	fifth
+saqeru	sixth
+saqtaru	seventh
+saqferu	eighth
+saqpairu	ninth
+saqavuru	tenth
+saqneru	eleventh
+fesaqeru	twelfth
+# Of course these exist for higher numbers but I have gotten bored.
 
 # Other math
 gabxo	parabola
