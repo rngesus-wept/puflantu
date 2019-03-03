@@ -17,7 +17,6 @@ Please add verbs and examples as they occur to you. Each clue should have an ima
 ## Like
 
 *Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
-
 * How do you like them apples? (Good Will Hunting)
 
 ## Come
