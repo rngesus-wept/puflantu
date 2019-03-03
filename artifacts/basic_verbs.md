@@ -10,13 +10,48 @@ Please add verbs and examples as they occur to you. Each clue should have an ima
 
 
 ## Love
-
 * Kel loves orange soda (Kenan and Kel)
 * Because you loved me (Celine Dion)
+* I don't love you (Don't Ask Me Why - Eurythmics)
 
 ## Come
 * Y'all come back now ya hear? (Green Acres)
 * We have come to visit you in peace (The Day the Earth Stood Still)
+* Santa Claus is comin to town (Movie)
+* When Tomorrow Comes (Eurythmics) 
 
+## Wear
+* On Wednesdays we wear pink (Mean Girls)
 
+## Remind
+* U remind me (Usher)
+* This is how you remind me (Nickelback)
+
+## Know
+* I know what boys like (The Waitresses)
+* You know nothing Jon Snow (Game of Thrones)
+
+## Want
+* Oh y'all wanted a twist eh? (Laganja Estranja)
+* I'm wanted dead or alive (Bon Jovi)
+* I want my mtv (Money for Nothing - Dire Straits)
+* I want you back (Jackson 5)
+
+## Like
+* He likes me (Avenue Q)
+
+## Be
+* I know I'm not the only one (Sam Smith)
+* She's a super freak (Rick James)
+* I'm not a girl, not yet a woman (Britney Spears)
+* It's not unusual (Carlton Dance)
+* We are family (The Birdcage, Gene Hackman)
+
+## Do
+* Oops I did it again (Britney Spears)
+* This is how we do it (Montell Jordan)
+* What mama don't know won't hurt her (The Waterboy - Roy Orbison tattoo)
+
+## See
+* They see me rollin (Ridin Dirty)
 
