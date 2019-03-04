@@ -72,7 +72,7 @@ Sugar dough
 *that-method perfect pie make-3O-DEP, this use-3O-IMP.*
 
   * salt 3 gram-PL-& sugar 3 gram-PL, flour 1 cup-toward-ADV add-3pO-IMP.
-  * small cube resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
+  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
