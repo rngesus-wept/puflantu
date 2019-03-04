@@ -25,7 +25,7 @@ Pasta
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
   * 2-3 wibalwe oku 3 janwe-fws 'kodar-lis jiay 'axuhodox.
-  * Tizov mohuraqo gwnde piotwv-kas, realoda 'mohotur-lis ????????? 'erotok.
+  * Tizov mohuraqo gwnde piotwv-kas, realoda 'mohotur-lis yaje jalwe eg 'erotok.
 
 ## Balorvu
 
