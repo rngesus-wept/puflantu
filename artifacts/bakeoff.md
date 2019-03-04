@@ -17,15 +17,15 @@ Pasta
 
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
-  * 2-3 egg-PL-& flour 3 cup-PL combine-3pO-IMP-& together knead-3pO-IMP
-  * mix-RES this-way flatten-INS rod use-3O-DEP-ADV flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
+  * 2-3 egg-PL flour 3 cup-PL-toward-ADV add-3pO-IMP-& together knead-3pO-IMP
+  * this-way flatten-INS rod use-3O-DEP-ADV, mix-RES flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
 
 ### Perflontus
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
-  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis jiay 'axuhodox.
-  * Realoda tizov mohuraqo gwnde piotwv-kas 'mohotur-lis ????????? 'erotok.
+  * 2-3 wibalwe oku 3 janwe-fws 'kodar-lis jiay 'axuhodox.
+  * Tizov mohuraqo gwnde piotwv-kas, realoda 'mohotur-lis ????????? 'erotok.
 
 ## Balorvu
 
