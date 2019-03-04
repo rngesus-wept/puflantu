@@ -98,15 +98,15 @@ Jelly
 
 *eat-RO-GER able-2S-than many-CMP fruit possess-2P ?. this use-RS-3O-DEP method be-3S.*
 
-  * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL saucepan toward add-3pO-IMP.
-  * that-time-toward viscous-& syrupy be-3S-DEP boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
+  * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL, saucepan interior-toward-ADV add-3pO-IMP.
+  * that-time-toward viscous-& syrupy be-3S-DEP-ADV boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
 
 ### Perflontus
 
 *Wloloca merizin-sos ogi'fi gomu qizun na? Ita pialotwv-ka zove zat.*
 
-  * Orcizal-ka mainci gomu-cw geze (alwpagomu, sizagomu, yx.) 4 janwe-li twipe 3 janwe dahzelo henqo-fws 'kodar.
-  * Albwr-fws nousve-li twipenxa zat-ka 'lirotwb. Ifarwe henqo-fws 'ajoten.
+  * Orcizal-ka mainci gomu-cw geze (alwpagomu, sizagomu, yx.) 4 janwe-li twipe 3 janwe, dahzelo henqo-fws 'kodar.
+  * Albwr-fws nousve-li twipenxa zat-kas 'lirotwb. Ifarwe henqo-fws 'ajoten.
 
 # Utaru Kolarvu
 
