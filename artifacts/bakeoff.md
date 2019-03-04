@@ -69,18 +69,18 @@ Sugar dough
 
 ### Gloss
 
-*this that-method perfect pie make-3O-DEP use-3O-IMP.*
+*that-method perfect pie make-3O-DEP, this use-3O-IMP.*
 
-  * salt 3 gram-PL-& sugar 3 gram-PL-& flour 1 cup combine-3pO-IMP.
-  * small cube into cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
+  * salt 3 gram-PL-& sugar 3 gram-PL, flour 1 cup-toward-ADV add-3pO-IMP.
+  * small cube resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
 
-*Eta alzov ??? kureni qotuk-ka 'piotwv.*
+*Alzov ??? kureni qotuk-kas, eta 'piotwv.*
 
-  * Zalma 3 guramwe-li twipe 3 guramwe-li oku 1 jano 'rulfodob.
-  * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
+  * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
+  * ??? ??? eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
 ## Orbili
