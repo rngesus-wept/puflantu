@@ -44,15 +44,15 @@ Dough
 *simple-& versatile dough*
 
   * salt 4 gram-PL-& yeast 1 gram flour 1 cup-toward-ADV add-3pO-IMP
-  * water-R 3/4 cup-PL mixture interior-toward-ADV add-3pO-IMP-& together knead-3O-IMP.
+  * water-R 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
   * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
 
 ### Perflontus
 
 *Ovekqu-li tozqwyo balorvu.*
 
-  * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'rulfodob.
-  * Enxa 3/4 janwe realoda henqo-fws 'kotar-lis ????? 'axuhotox.
+  * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'kodar.
+  * Enxa 3/4 janwe realoda-fws 'kodar-lis jiay 'axuhodox.
   * ????? dobisa alzov umotav-kas 'totag.
 
 ## Twipe Balorvu
