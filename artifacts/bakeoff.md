@@ -44,8 +44,8 @@ Dough
 *simple-& versatile dough*
 
   * salt 4 gram-PL-& yeast 1 gram flour 1 cup-toward-ADV add-3pO-IMP
-  * water-R 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
-  * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
+  * water 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
+  * overnight rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
 
 ### Perflontus
 
@@ -176,7 +176,7 @@ Pasta-& Cheese
   * Pour the mixture over the baking pan, and bake until cheese mixture is bubbly and golden.
 
 *// Pour mixture _into_ the baking pan?*
-  
+
 ### Gloss
 * good-superlative comfort food
   * (recipe see-3sO-INF) pasta 1 pound obtain-3sO-IMP-& cook-3sO-IMP-& bake-INS pan in put-3sO-IMP.
@@ -209,8 +209,8 @@ Pizza
 ### Gloss
 
 * this-way shape-PL-& top-INS-PL use-3pO-DEP [feel free to experiment]
-  * (recipe see-3sO-IMP) some dough obtain-3sO-IMP-& this-way roll-INS rod use-3sO-DEP  flatten-3sO-IMP.  
-  * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP 
+  * (recipe see-3sO-IMP) some dough obtain-3sO-IMP-& this-way roll-INS rod use-3sO-DEP  flatten-3sO-IMP.
+  * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP
   * this-way cheese-possessive another layer use-3sO-DEP cover-3sO-IMP
   * this-time-toward dough cook-3sO-passive bake-3sO-IMP
 
@@ -231,7 +231,7 @@ Peanut Butter-& Jelly
 
 * ?
   * (recipe see-3sO-IMP) some bread obtain-3sO-IMP-& slice-3sO-IMP.
-  * (recipe see-3sO-IMP) one slice to jelly apply-3sO-IMP. Other slice to peanut butter add-3sO-IMP. Slice-PL combine-3pO-IMP. 
+  * (recipe see-3sO-IMP) one slice to jelly apply-3sO-IMP. Other slice to peanut butter add-3sO-IMP. Slice-PL combine-3pO-IMP.
 
 # [Spibben]
 
@@ -250,9 +250,9 @@ Bread
 
 ### Gloss
 
-*Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S 
+*Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S
   * dough recipe make-3sO-IMP-but also butter 1/4 cup-& sugar 1/8 cup add.
-  * loaf into form-3sO-IMP-& bake-INS pan into put-3sO-IMP. This-time-toward done bake-3sO-IMP. 
+  * loaf into form-3sO-IMP-& bake-INS pan into put-3sO-IMP. This-time-toward done bake-3sO-IMP.
 
 ### Perflontus
 
@@ -288,7 +288,7 @@ Fried Potatoes
   * Fry until golden and crispy. Add salt.
 
 ### Gloss
-* ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP. 
+* ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP.
   * potato-DU 2 pound-DU peel-3dO-IMP-& strip-PL into cut-3dO-IMP
   * that-time-toward golden-PL-& crispy-PL fry-3pO-IMP.
 
@@ -339,8 +339,8 @@ Cinnamon Rolls
 
 * Cinnamon very much
   * some dough obtain-3sO-IMP.
-  * Thick sheet into flatten-3sO-IMP-& PST melt-PSV-3sO-DEP butter over spread-3sO-IMP.  
-  * cinnamon 10 g-& sugar 1/3 cup combine-3pO-IMP. Mix-RES dough cover-3sO-IMP. 
+  * Thick sheet into flatten-3sO-IMP-& PST melt-PSV-3sO-DEP butter over spread-3sO-IMP.
+  * cinnamon 10 g-& sugar 1/3 cup combine-3pO-IMP. Mix-RES dough cover-3sO-IMP.
   * Mix-RES log into roll-3sO-IMP. Rounds into slice-3pO-IMP. Bake-INS dish in put-3sO-IMP.
   * Sugar 1 cup-& butter 15 g-&, milk 8 g combine. Mix-RES dish over pour-3sO-IMP.
   *  That-time-toward finish-PSV-3sO-DEP bake-3pO-IMP.
