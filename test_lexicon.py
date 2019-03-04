@@ -107,12 +107,31 @@ def TestClosed(debug=None):
   return errors, count
 
 
+def TestAdverbs(debug=None):
+  errors, count = 0, 0
+
+  with open('root_adverbs.tsv', 'r') as f:
+    for line in f:
+      if not line.strip() or line.startswith('#'):  # comment syntax
+        continue
+      word, meaning = line.strip().split('\t')
+      if debug:
+        if word.lower() in debug:
+          print('{} -- {}'.format(word.upper(), meaning), file=sys.stderr)
+        continue
+      errors += (1 - TestUniqueness(word))
+      errors += (1 - TestSyllabification(word))
+      count += 2
+  return errors, count
+
+
 def main(args):
   LoadCollisions()
 
   debug = [arg.lower() for arg in args[1:]] if len(args) > 1 else None
 
   closed_errors, closed_count = TestClosed(debug=debug)
+  adverb_errors, adverb_count = TestAdverbs(debug=debug)
   verb_errors, verb_count = TestVerbs(debug=debug)
   noun_errors, noun_count = TestNouns(debug=debug)
 
