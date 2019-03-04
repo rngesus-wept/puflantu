@@ -99,7 +99,7 @@ Jelly
 *eat-RO-GER able-2S-than many-CMP fruit possess-2P ?. this use-RS-3O-DEP method be-3S.*
 
   * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL, saucepan interior-toward-ADV add-3pO-IMP.
-  * that-time-toward viscous-& syrupy be-3S-DEP-ADV boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
+  * that-time-toward-ADV viscous-& syrupy be-3S-DEP-ADV boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
 
 ### Perflontus
 
@@ -112,9 +112,9 @@ Jelly
 
 Breakfast (1-ORD bread)
 
-## Ozo Mafke
+## Mafke Ozuro
 
-Oatmeal (?????)
+Oatmeal (oats stew)
 
 ### English
 
@@ -150,9 +150,9 @@ Eggs on Bread (bread top egg)
 
 *egg-PL cook-AUG-NEG-IMP; light-& fluffy be-3pO-DEP want-2S.*
 
-  * some-quantity bread (recipe see-IMP) make-IMP-&-seq, 2 slice-DU toast-DIM.
+  * some-quantity bread (recipe see-IMP) make-IMP-&then, 2 slice-DU toast-DIM.
   * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
-  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward add-3O-IMP.
+  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
   * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
   * that-time egg mix-RES almost is_set-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
@@ -175,21 +175,14 @@ Pasta-& Cheese
   * Whisk in 6 cups milk and 2 lb cheese.
   * Pour the mixture over the baking pan, and bake until cheese mixture is bubbly and golden.
 
-*// Pour mixture _into_ the baking pan?*
-
 ### Gloss
-* good-superlative comfort food
-  * (recipe see-3sO-INF) pasta 1 pound obtain-3sO-IMP-& cook-3sO-IMP-& bake-INS pan in put-3sO-IMP.
-  * saucepan in butter 8 tablespoon-PL melt-3pO-IMP-& this-way whisk use-3sO-DEP flour 1/2 cup add-3sO-INF.
-  * this-way whisk use-3sO-DEP milk 6 cup-PL-& cheese 2 pound-DU add-3pO-IMP.
-  * bake-INS pan over mix-RES pour-3sO-IMP-& this-time-toward cheese mix-RES bubbly-& golden be-3P-DEP bake-3sO-IMP.
 
-*comfort-AGT food ??????????*
+*good-SUP comfort-??? food*
 
   * pasta (recipe see-IMP) 1 pound make-IMP-&-seq, cook-3O-IMP-&-seq, bake-INS pan interior-ADV put-3O-DEP.
-  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-& flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
-  * milk 6 cup-PL-& cheese 2 pound-DU this-way whisk use-DEP-ADV add-3pO-IMP.
-  * mixture-R bake-INS pan over-ADV pour-3O-IMP-& that-time toward-ADV cheese mixture bubbly-& golden be-3S.
+  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
+  * milk 6 cup-PL-& cheese 2 pound-DU, this-way whisk use-DEP-ADV add-3pO-IMP.
+  * mix-RES-R bake-INS pan interior-toward-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-RS-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
@@ -208,7 +201,7 @@ Pizza
 
 ### Gloss
 
-* this-way shape-PL-& top-INS-PL use-3pO-DEP [feel free to experiment]
+* this-way shape-PL-& top-INS-PL use-3pO-DEP-ADV [feel free to experiment]
   * (recipe see-3sO-IMP) some dough obtain-3sO-IMP-& this-way roll-INS rod use-3sO-DEP  flatten-3sO-IMP.
   * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP
   * this-way cheese-possessive another layer use-3sO-DEP cover-3sO-IMP
