@@ -201,8 +201,8 @@ Pizza
 
 ### Gloss
 
-* this-way shape-PL-& top-INS-PL use-3pO-DEP-ADV [feel free to experiment]
-  * (recipe see-3sO-IMP) some dough obtain-3sO-IMP-& this-way roll-INS rod use-3sO-DEP  flatten-3sO-IMP.
+*shape-PL-& top-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
+  * some-quantity dough (recipe see-IMP) make-IMP-&then, this-way flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
   * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP
   * this-way cheese-possessive another layer use-3sO-DEP cover-3sO-IMP
   * this-time-toward dough cook-3sO-passive bake-3sO-IMP
