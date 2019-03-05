@@ -1,6 +1,4 @@
-# All words needed, by thing that needs them:
-
-### Misc
+### Misc	Misc	Misc
 zero	Lion	??
 poissibly numb -> feel-NEG-GER	Lion	??
 yikes	Lion	??
@@ -25,19 +23,19 @@ DEP	Crab,Lion	??
 yes	Crab 	??
 and	Crab,Lion	??
 SUP	Crab!!	??
-ADV !!
-NEG !!
-GER !!
-PAT
-PAS
-DIM
-wow
-but
-toward
-by [e.g. exceed by]
-during
+ADV !!	Crab,Lion	??
+NEG !!	Crab,Lion	??
+GER !!	Crab,Lion	??
+PAT	Crab	??
+PAS	Crab,Lion	??
+DIM	Crab	??
+wow	Crab	??
+but	Crab	??
+toward	Crab	??
+by [e.g. exceed by]	Crab	??
+during	Crab	??
 
-### Adverbs
+### Adverbs	Adverbs	Adverbs
 now	Lion 	??
 that-time	Lion 	??
 no-time	Lion 	??
@@ -68,7 +66,7 @@ every-person (everyone)	Crab	??
 some-time	Crab	??
 technically	Crab	??
 
-### Verbs
+### Verbs	Verbs	Verbs
 be	Lion 	??
 be located	Lion 	??
 can	Lion 	??
@@ -139,7 +137,7 @@ finish (as in, exaust)	Crab	??
 manage (as in, manage to do something)	Crab	??
 occur	Crab	??
 
-### Nouns
+### Nouns	Nouns	Nouns
 dish	Lion 	??
 sink	Lion 	??
 breakfast	Lion 	??
@@ -218,7 +216,7 @@ place [as in, second place]	Crab	??
 difference	Crab	??
 corner	Crab	??
 
-### Adj
+### Adj	Adj	Adj
 full	Lion 	??
 some	Lion 	??
 random	Lion 	??
@@ -272,7 +270,7 @@ final	Crab	??
 right [correct]	Crab	??
 [TODO: wepp names for civilizations]
 
-### Answers
+### Answers	Answers	Answers
 EXTRACTION	Crab	??
 SALMON	Crab	??
 LEATHER COATS	Crab	??
