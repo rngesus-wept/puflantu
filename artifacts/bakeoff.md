@@ -228,7 +228,7 @@ Peanut Butter-& Jelly
 
 ### Perflontus
 
-# [Spibben]
+# Fevi Wlocafwe
 
 Side Dishes
 
@@ -245,9 +245,9 @@ Bread
 
 ### Gloss
 
-*Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S
-  * dough recipe make-3sO-IMP-but also butter 1/4 cup-& sugar 1/8 cup add.
-  * loaf into form-3sO-IMP-& bake-INS pan into put-3sO-IMP. This-time-toward done bake-3sO-IMP.
+*Perfect-ADV soft-& fluffy, this loaf ????????? FUT exist-3S-NEG.*
+  * dough recipe do-IMP-but butter 1/4 cup-PL-& sugar 1/8 cup-PL also-ADV incorporate-3pO-IMP.
+  * loaf resulting_in shape-3O-IMP-& bake-INS pan interior-toward put-3O-IMP. that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
