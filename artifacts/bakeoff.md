@@ -179,7 +179,7 @@ Pasta-& Cheese
 
 *good-SUP comfort-??? food*
 
-  * pasta (recipe see-IMP) 1 pound make-IMP-&-seq, cook-3O-IMP-&-seq, bake-INS pan interior-ADV put-3O-DEP.
+  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-DEP.
   * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
   * milk 6 cup-PL-& cheese 2 pound-DU, this-way whisk use-DEP-ADV add-3pO-IMP.
   * mix-RES-R bake-INS pan interior-toward-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-RS-DEP-ADV bake-3O-IMP.
@@ -251,9 +251,9 @@ Bread
 
 ### Perflontus
 
-## ????-ka Ranwe
+## Axuhoryox-ka Ranwe
 
-Mashed Potatoes
+Mashed Potatoes (potatoes that are kneaded)
 
 ### English
 
@@ -264,9 +264,9 @@ Mashed Potatoes
   * Add 2 tablespoons butter, 1 cup milk, and salt.
 
 ### Gloss
-* leftover-PL worry-3sO-IMP-NEG; [if you have any, you can make potato croquettes]
-  * potato-DU 2 pound-DU peel-3dO-IMP-& chunk-PL into cut-3dO-IMP.
-  * water in boil-3dO-IMP, then drain-3dO-IMP-& mash-3dO-IMP
+*leftover-PL worry-2O-NEG; this-way some-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+  * potato 2 pound-DU peel-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
+  * this-way water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
