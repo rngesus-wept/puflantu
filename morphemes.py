@@ -45,16 +45,16 @@ class Inflectable(object):
 # This helps us do iteration and express certain morpheme choices more easily later
 TENSES = odict({None: '', 'PST': 'im', 'FUT': 'et'})
 ASPECTS = odict({None: '', 'IMP': 'av', 'PRF': 'ro'})
-DEGREES = odict({None: '', 'AUG': 'ag', 'DIM': 'yi'})
+DEGREES = odict({None: '', 'AUG': 'ag', 'DIM': 'sa'})
 INVERSION = odict({True: 'vo', False: ''})
 VERB_POLARITIES = odict({None: '', 'NEG': 'ey'})
-NOUN_POLARITIES = odict({None: '', 'NEG': 'uy'})
+NOUN_POLARITIES = odict({None: '', 'NEG': 'ay'})
 NOUN_SUFFIXES = odict({'AGT': 'afe', 'PAT': 'who', 'INS': 'aqo',
                        'LOC': 'ice', 'CAU': 'ede', 'GER': 'a', 'RES': 'oda'})
 NOUN_CLASSES = [None, 'W', 'T', 'R']
 NUMBERS = odict({None: '', 'DU': 'w', 'PL': 'we'})
 COMPARISONS = odict({None: '', 'CMP': "'f", 'SUP': "'"})
-ADVERBIAL = odict({True: 'c', False: ''})
+ADVERBIAL = odict({True: 's', False: ''})
 POSSESSIVE = odict({True: 're', False: ''})
 
 
@@ -195,7 +195,11 @@ class NounLemma(Inflectable):
         main_syl[1] = re.sub(phones.VOWEL_RE, r'ur\g<0>', main_syl[1])
       main = ''.join(main_syl)
 
-    return proclitics, main, enclitics
+    return '', proclitics + main, enclitics
+
+  def GenerateProclitics(self, degree=None, **kwargs):
+    result = [DEGREES.get(degree, None)]
+    return [_ for _ in result if _]
 
   def GenerateInfixes(self, polarity=None, **kwargs):
     result = [NOUN_POLARITIES.get(polarity, None)]
@@ -226,18 +230,21 @@ class NounLemma(Inflectable):
     for polarity in NOUN_POLARITIES:
       for klass in NOUN_CLASSES:
         for number in NUMBERS:
-          for possessive in ([] if exclude_clitics else POSSESSIVE):
-            kwargs = {'polarity': polarity, 'klass': klass,
-                      'number': number, 'possessive': possessive}
-            inflected_noun = self.Inflect(**kwargs)
-            if debug and inflected_noun[1].lower() in debug:
-              # if the debug target is found, generate and output a gloss
-              gloss = '+'.join([_ for _ in [
-                  self.gloss, polarity, klass, number, 'POS' if possessive else '']
-                                if _])
-              print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
-                    file=sys.stderr)
-            yield inflected_noun
+          for degree in DEGREES:
+            for possessive in ([] if exclude_clitics else POSSESSIVE):
+              kwargs = {'polarity': polarity, 'klass': klass,
+                        'number': number, 'possessive': possessive,
+                        'degree': degree}
+              inflected_noun = self.Inflect(**kwargs)
+              if debug and inflected_noun[1].lower() in debug:
+                # if the debug target is found, generate and output a gloss
+                gloss = '+'.join([_ for _ in [
+                    self.gloss, polarity, klass, number, degree,
+                    'POS' if possessive else '']
+                                  if _])
+                print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
+                      file=sys.stderr)
+              yield inflected_noun
           for compare in COMPARISONS:
             kwargs = {'polarity': polarity, 'klass': klass,
                       'number': number, 'compare': compare}
@@ -250,6 +257,17 @@ class NounLemma(Inflectable):
               print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
                     file=sys.stderr)
             yield inflected_noun
+      for degree in DEGREES:
+        ## Adverbial
+        kwargs = {'polarity': polarity, 'degree': degree}
+        inflected_noun = self.Inflect(adverbial=True, **kwargs)
+        if debug and inflected_noun[1].lower() in debug:
+          gloss = '+'.join([_ for _ in [
+              self.gloss, polarity, degree, 'ADV']
+                            if _])
+          print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
+                file=sys.stderr)
+        yield inflected_noun
       for compare in COMPARISONS:
         ## Adverbial
         kwargs = {'polarity': polarity, 'compare': compare}

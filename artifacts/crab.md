@@ -141,7 +141,7 @@ Falcon: You guys have your words up there, I’ll fight [Rat name] down here at 
 Rat: Hey, isn’t this whole thing a peace conference?
 
 *4 tiles*
-Falcon: 2dS-GEN word-PL North interior-ADV have-2S-3O. South interior-ADV here [rat name] FUT fight-1S. 38 bad be-3S-NEG.
+Falcon: 2dS-GEN word-PL North interior-ADV possess-2S-3O. South interior-ADV here [rat name] FUT fight-1S. 38 bad be-3S-NEG.
 Rat: Hey, this-SUB event peace-GEN conference be-3S. peace be-IMP
 
 

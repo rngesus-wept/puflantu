@@ -133,13 +133,13 @@ Verbs may be modified in degree or even reversed by the use of a prefix:
 
 #+BEGIN_EXAMPLE
 |                    | Alpoxe horwmod.   | I remember that time.             |
-| Diminutive (DIM)   | Alpoxe yihorwmod. | I remember that time (a bit).     |
+| Diminutive (DIM)   | Alpoxe sahorwmod. | I remember that time (a bit).     |
 | Augmentative (AUG) | Alpoxe aghorwmod. | I remember that time (intensely). |
 | Reverse (REV)      | Alpoxe vohorwmod. | I forget that time.               |
 #+END_EXAMPLE
 
-If multiple prefixes are used, DIM/AUG come before REV, i.e. ~yivohor*od~, not
-~voyihor*od~.
+If multiple prefixes are used, DIM/AUG come before REV, i.e. ~savohor*od~, not
+~vosahor*od~.
 
 *** To Be
 
