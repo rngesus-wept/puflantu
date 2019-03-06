@@ -45,7 +45,7 @@ Dough
 
   * salt 4 gram-PL-& yeast 1 gram flour 1 cup-toward-ADV add-3pO-IMP
   * water 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
-  * overnight rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
+  * night through rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
 
 ### Perflontus
 
@@ -53,7 +53,7 @@ Dough
 
   * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'kodar.
   * Enxa 3/4 janwe realoda-fws 'kodar-lis jiay 'axuhodox.
-  * ????? dobisa alzov umotav-kas 'totag.
+  * Jasroqa zoan dobisa alzov umotav-kas 'totag.
 
 ## Twipe Balorvu
 
@@ -72,7 +72,7 @@ Sugar dough
 *that-method perfect pie make-3O-DEP, this use-3O-IMP.*
 
   * salt 3 gram-PL-& sugar 3 gram-PL, flour 1 cup-toward-ADV add-3pO-IMP.
-  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
+  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV thorough-NEG-ADV knead-3O-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
@@ -80,7 +80,7 @@ Sugar dough
 *Alzov ??? kureni qotuk-kas, eta 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
-  * ??? ??? eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
+  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe todagas velqegsayos 'axuhotox.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
 ## Orbili
