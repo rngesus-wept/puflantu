@@ -1,4 +1,4 @@
-# Children's books (currently only glossed)
+# Children's books
 Will be placed on images of the covers
 
 Good night moon
