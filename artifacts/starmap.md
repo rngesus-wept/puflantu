@@ -13,7 +13,7 @@ Full freedom otherwise
 *hen'ogbi*	Mercury (INNERMOST!-wanderer)  
 *olcogbi*	Venus (pearl-wanderer)  
 *lahrogbi*	Earth (penguin-wanderer)
-*ihrogbi*	Mars (blood-planet)  
+*ihrogbi*	Mars (Earth blood-planet)  
 *saqwnogbi*	Jupiter (storm-wanderer)  
 *tavrogbi*	Saturn (ring-wanderer)  
 *ixnogbi*	Uranus (tilt-wanderer)  
