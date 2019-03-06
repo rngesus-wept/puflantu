@@ -10,15 +10,13 @@ Full freedom otherwise
 
 ## Words
 
-h Mercury  
-o Venus  
-l Earth  
-i Mars  
-s Jupiter  
-t Saturn  
-i Uranus  
-c Neptune  
-
-## Miscellaneous Ideas for Solar System
+henqogba Mercury  
+ogkuogba Venus  
+laksalfogba Earth  
+izwfogba Mars  
+swnanogba Jupiter  
+tihogba Saturn  
+ifarogba Uranus  
+cuafogba Neptune  
 
 ## Other Systems
