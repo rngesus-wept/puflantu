@@ -154,7 +154,7 @@ Eggs on Bread (bread top egg)
   * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
   * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
   * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
-  * that-time egg mix-RES almost is_set-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
+  * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
 ### Perflontus
 
@@ -203,9 +203,9 @@ Pizza
 
 *shape-PL-& top-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
   * some-quantity dough (recipe see-IMP) make-IMP-&then, this-way flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
-  * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP
-  * this-way cheese-possessive another layer use-3sO-DEP cover-3sO-IMP
-  * this-time-toward dough cook-3sO-passive bake-3sO-IMP
+  * this-way tomato layer use-3O-DEP-ADV cover-3O-IMP
+  * this-way another cheese layer use-3O-DEP-ADV cover-3O-IMP
+  * that-time-toward dough finish-3O-DEP-ADV bake-3O-IMP
 
 ### Perflontus
 
