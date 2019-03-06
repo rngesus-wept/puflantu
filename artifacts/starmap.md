@@ -17,6 +17,6 @@ izwfogbi Mars
 swnogbi Jupiter  
 tihogbi Saturn  
 ifarogbi Uranus  
-cuafogbi Neptune  
+cafogbi Neptune  
 
 ## Other Systems
