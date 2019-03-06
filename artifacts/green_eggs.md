@@ -16,7 +16,7 @@ Do you like / green eggs and ham?
 I do not like them, Sam-I-am.  
 `Zamu-wm-zat, somadeyumun.`  
 I do not like green eggs and ham.  
-`Colbawe wibalwe-li ????? somadeyumun.`
+`Colbawe wibalwe-li veskepi somadeyumun.`
 
 ---
 
@@ -30,40 +30,39 @@ I would not like them / here or there. / I would not like them anywhere.
 `Tihan-vos alhan fel somadeyumun. Velhan fel somadeyumun.`
 
 I do not like green eggs and ham. / I do not like them, Sam-I-am.  
-`Colbawe wibalwe-li ????? somadeyumun. Zamu-wm-zat, somadeyumun.`
+`Colbawe wibalwe-li veskepi somadeyumun. Zamu-wm-zat, somadeyumun.`
 
 ---
 
 Would you like them in a house? Would you like them with a mouse?  
-`????? henqo ad fel somadezun na? ????? ????? ad fel somadezun na?`  
+`Rali henqo ad fel somadezun na? Balri wli ad fel somadezun na?`  
 (In this case the prepositional phrases seem to be able the GE&H. That is, the GE&H are in a house or with a mouse, rather than the liking being done in a house etc. Therefore I've used adjectival `henqo` rather than adverbial `henqos`.)
 
 ---
 
 I do not like them in a house. / I do not like them with a mouse.  
-`????? henqo ad somadeyumun. / ????? ????? ad somadeyumun.`  
+`Rali henqo ad somadeyumun. / Balri wli ad somadeyumun.`  
 (Note that the speaker drops the hypothetical in his phrasing.)
 
 I do not like them here or there. / I do not like them anywhere.  
 `Tihan-vos alhan fel somadeyumun. / Velhan fel somadeyumun.`
 
 I do not like green eggs and ham. / I do not like them, Sam-I-am.  
-`Colbawe wibalwe-li ????? somadeyumun. / Zamu-wm-zat, somadeyumun.`
+`Colbawe wibalwe-li veskepi somadeyumun. / Zamu-wm-zat, somadeyumun.`
 
 ---
 
 Would you eat them in a box? / Would you eat them with a fox?  
-`Oca henqos fel wlizodoc na? / ??????? ????? fel wlizodoc na?`  
-(In this case the eating is taking place in a box / with a fox, so we're back to using adverbs.)
+`Oca henqo ad fel wlizodoc na? / Qerwkse wli ad fel wlizodoc na?`  
 
 ---
 
 Not in a box. / Not with a fox. / Not in a house. / Not with a mouse.  
-`Oca henqayos. / ?????? ?????. / ???????? henqayo. / ???????? ?????`  
+`Oca henqo, xa. / Qerwkse wli, xa. / Rali henqo, xa. / Qerwkse wli, xa.`  
 I would not eat them / here or there. / I would not eat them anywhere.  
 `Tihan-vos alhan fel wlwmeyodoc. / Velhan fel wlwmeyodoc.`  
 I would not eat green eggs and ham.  
-`Colbawe wibalwe-li ????? fel wlwmeyodoc.`  
+`Colbawe wibalwe-li veskepi fel wlwmeyodoc.`  
 I do not like them, Sam-I-am.  
 `Zamu-wm-zat, somadeyumun.`  
 (https://twitter.com/eveewing/status/1102221477166923776)
@@ -71,7 +70,7 @@ I do not like them, Sam-I-am.
 ---
 
 Would you? Could you? In a car?  
-`Fel iz na? Fel merizin na? ?????? henqos na?`  
+`Fel iz na? Fel merizin na? Xotilu henqos na?`  
 Eat them! Eat them! Here they are.  
 `'wlodoc! 'wlodoc! Tihan jadif.`  
 (Possible to drop the second `fel` for meter? (i.e. "Can you?") Use `'wlizodoc!` for the impolite imperative, because Jesus Christ Sam-I-am.)
