@@ -8,16 +8,25 @@ HOLISTIC
 
 Full freedom otherwise
 
-## Words
+## Names
 
-henqogbi Mercury  
-ogkuogbi Venus  
-laksalfogbi Earth  
-izwfogbi Mars  
-swnogbi Jupiter  
-tihogbi Saturn  
-ifarogbi Uranus  
-cafogbi Neptune  
+hen'ogbi Mercury (INNERMOST!-wanderer)  
+olcogbi Venus (pearl-wanderer)  
+lahrogbi Earth (penguin-wanderer)
+ihrogbi Mars (blood-planet)  
+maqwnogbi Jupiter (storm-wanderer)  
+tavrogbi Saturn (ring-wanderer)  
+ixnogbi Uranus (tilt-wanderer)  
+cwrzogbi Neptune (ice-wanderer)  
+
+## Potential New Words
+
+lahro penguin (inspired by penguin calls)  
+ixnu tilt (see also ixi "river" and ixop "to roll")  
+olcusa pearl  
+maqwne storm  
+ihro blood (what no that's totally not "ichor")  
+cwrza ice  
 
 ## Other Systems
 
@@ -31,3 +40,4 @@ wibaleogbi (derived from "egg-wanderer")
 zalmaogbi (derived from "salt-wanderer")  
 wreogbi (derived from "black-wanderer")  
 zohcaogbi (derived from "young-planet")  
+ihilogbi (derived from "lose-planet")  
