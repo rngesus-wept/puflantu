@@ -14,29 +14,29 @@ harold-and violet crayon
 harodu-li siovqi pekle
 
 where the wild things are
-that-place wild-PL thing-PL located-3pS-DEP
-Alhan yuqinwe LOCATED????
+that-place wild-PL  located-3pS-DEP
+Alhan yuqinwe zadif-ka
 
 Charlotte's Web
 charlotte-GEN web
 xarluta-ro podfu
 
 a wrinkle in time
-time in wrinkle
-bwri henqo wnwli
+time in a wrinkle
+bwri henqo uta wnwli
 
 Go, dog, go
 go-IMP, dog, go-IMP
 'tex, ukge, 'tex
 
 wow, the places you'll go
-wow, FUT go-RO-PL place-PL
-o're, et tolex hanwe
+wow, FUT go-2S-RO-DEP place-PL
+o're, et tizolex-ka hanwe
 
 one fish two fish red fish blue fish
 one fish two fish-DU red fish blue fish
 uta zwmsi fe zwmsw, pamono zwmsi honwze zwmsi
 
 if I ran the circus
-that-reason circus CNT run-1S
-aldul circus gaq lwmiv
+this-reason circus CNT run-1S
+tidul circus gaq lwmiv
