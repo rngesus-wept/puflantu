@@ -271,21 +271,22 @@ Mashed Potatoes (potatoes that are kneaded)
 
 ### Perflontus
 
-## ????-ka Ranwe
+## Zajoryuf-ka Ranwe
 
-Fried Potatoes
+Fried Potatoes (potatoes that are fried)
 
 ### English
 
 *Make sure to cut the strips evenly so they cook evenly.*
 
-  * Pell 2 lb potatoes and cut into strips.
+  * Peel 2 lb potatoes and cut into strips.
   * Fry until golden and crispy. Add salt.
 
 ### Gloss
-* ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP.
-  * potato-DU 2 pound-DU peel-3dO-IMP-& strip-PL into cut-3dO-IMP
-  * that-time-toward golden-PL-& crispy-PL fry-3pO-IMP.
+
+*this-reason equal-GER-ADV cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
+  * potato 2 pound-DU peel-3dO-IMP-&then strip-PL result_in cut-3dO-IMP.
+  * that-time-toward golden-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
 
 ### Perflontus
 
