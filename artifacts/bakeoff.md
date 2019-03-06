@@ -304,7 +304,7 @@ Potato Croquettes
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
 
 ### Gloss
-* A great way leftover PST mash-3pO-DEP use-3pO-INF
+*leftover knead-RpO-DEP potato-PL use-RS-DEP great method*
   * (recipe see-3sO-IMP) PST mash-PSV-3sO-DEP potato-PL cup-PL 2.
   * additional milk 1 tablespoon-& 1 egg-& salt.
   * Mix-RES small-PL mount-PL into divide-3pO-IMP.
