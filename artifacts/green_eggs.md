@@ -68,8 +68,16 @@ I do not like them, Sam-I-am.
 `Zamu-wm-zat, somadeyumun.`  
 (https://twitter.com/eveewing/status/1102221477166923776)
 
-Would you? Could you? In a car?
-Eat them! Eat them! Here they are.
+---
+
+Would you? Could you? In a car?  
+`Fel iz na? Fel merizin na? ?????? henqos na?`  
+Eat them! Eat them! Here they are.  
+`'wlodoc! 'wlodoc! Tihan jadif.`  
+(Possible to drop the second `fel` for meter? (i.e. "Can you?") Use `'wlizodoc!` for the impolite imperative, because Jesus Christ Sam-I-am.)
+
+---
+
 I would not, could not, in a car.
 
 You may like them. You will see. 
