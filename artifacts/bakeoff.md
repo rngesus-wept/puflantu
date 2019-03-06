@@ -289,7 +289,7 @@ Fried Potatoes
 
 ### Perflontus
 
-## Ranu Samagmalwe
+## Ranu Samaglamwe
 
 Potato Croquettes
 
