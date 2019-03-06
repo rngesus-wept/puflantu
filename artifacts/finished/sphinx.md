@@ -3,23 +3,23 @@
     Hello!
     hello
     'bovipa!
-    
+
     I hear you like puzzles.
-    puzzle  please-3pS-2pO-DEP  hear-1S.
-    pazulu  somadexun-ka        onwmir.
-    
+    puzzle-PL  please-3pS-2pO-DEP  hear-1S.
+    pazulwe    somadexun-ka        onwmir.
+
     Have you heard this one before?
     this  already  PRF  hear-2pS  ?
     eta   xwes     os   onixir    na?
-    
+
     What has four legs in the morning,
     what  four  leg-PL  morning-ADV  possess-3S-&,
     wat   avu   eqmwe   henroqas     qatun-lis
-    
+
     two legs in the afternoon, and three legs at night?
     two  leg-DU  afternoon-ADV  possess-3S-&,  three  leg-PL  night-ADV  possess-3S  ?
     fe   eqmw    uraroqas       qatun-lis      pai    eqmwe   jasroqas   qatun       na?
-    
+
 ### Notes
 
 Footholds given to teams: The note is accompanied by a picture of a sphinx.
@@ -34,8 +34,7 @@ written as "... puzzles please you", not "... you like puzzles".
 *Someone seems to have left a note for you.*
 
     'bovipa!
-    
-    **Pazulu** somadexun-ka onwmir. Eta xwes os onixir na?:
-    
-    Wat avu eqmwe henroqas qatun-lis, fe eqmw uraroqas qatun-lis, pai eqmwe jasroqas qatun na?
 
+    **Pazul** somadexun-ka onwmir. Eta xwes os onixir na?:
+
+    Wat avu eqmwe henroqas qatun-lis, fe eqmw uraroqas qatun-lis, pai eqmwe jasroqas qatun na?

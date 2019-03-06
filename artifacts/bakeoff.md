@@ -17,15 +17,15 @@ Pasta
 
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
-  * 2-3 egg-PL-& flour 3 cup-PL combine-3pO-IMP-& together(-ADV?) knead-3pO-IMP
-  * mix-RES this-way flatten-INS rod use-3O-DEP flatten-3O-IMP-& [thin strips into] cut-3O-IMP
+  * 2-3 egg-PL flour 3 cup-PL-toward-ADV add-3pO-IMP-& together knead-3pO-IMP
+  * this-way flatten-INS rod use-3O-DEP-ADV, mix-RES flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
 
 ### Perflontus
 
 *Entuyice cw zat-sos cuafi'fi-li hwomda'fi.*
 
-  * 2-3 wibalwe-li oku 3 janwe 'rulfodob-lis ????? 'axuhodox.
-  * Realoda tizov mohuraqo gwnde piotwv-ka 'mohotur-lis ????????? 'erotok.
+  * 2-3 wibalwe oku 3 janwe-fws 'kodar-lis jiay 'axuhodox.
+  * Tizov mohuraqo gwnde piotwv-kas, realoda 'mohotur-lis yaje jalwe eg 'erotok.
 
 ## Balorvu
 
@@ -43,16 +43,16 @@ Dough
 
 *simple-& versatile dough*
 
-  * salt 4 gram-PL-& yeast 1 gram-& flour 1 cup combine-3pO-IMP
-  * water-R 3/4 cup-PL mixture interior-toward add-3pO-IMP-& together knead-3O-IMP.
-  * overnight rest-GER that-method inflate-3O-DEP allow-3O-IMP.
+  * salt 4 gram-PL-& yeast 1 gram flour 1 cup-toward-ADV add-3pO-IMP
+  * water 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
+  * overnight rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
 
 ### Perflontus
 
 *Ovekqu-li tozqwyo balorvu.*
 
-  * Zalma 4 guramwe-li laksalfa 1 guramu-li oku 1 jano 'rulfodob.
-  * Enxa 3/4 janwe realoda henqo-fws 'kotar-lis ????? 'axuhotox.
+  * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'kodar.
+  * Enxa 3/4 janwe realoda-fws 'kodar-lis jiay 'axuhodox.
   * ????? dobisa alzov umotav-kas 'totag.
 
 ## Twipe Balorvu
@@ -69,18 +69,18 @@ Sugar dough
 
 ### Gloss
 
-*this that-method perfect pie make-3O-DEP use-3O-IMP.*
+*that-method perfect pie make-3O-DEP, this use-3O-IMP.*
 
-  * salt 3 gram-PL-& sugar 3 gram-PL-& flour 1 cup combine-3pO-IMP.
-  * small cube into cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
+  * salt 3 gram-PL-& sugar 3 gram-PL, flour 1 cup-toward-ADV add-3pO-IMP.
+  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
 
-*Eta alzov ??? kureni qotuk-ka 'piotwv.*
+*Alzov ??? kureni qotuk-kas, eta 'piotwv.*
 
-  * Zalma 3 guramwe-li twipe 3 guramwe-li oku 1 jano 'rulfodob.
-  * ??? ??? ??? erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
+  * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
+  * ??? ??? eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
 ## Orbili
@@ -98,23 +98,23 @@ Jelly
 
 *eat-RO-GER able-2S-than many-CMP fruit possess-2P ?. this use-RS-3O-DEP method be-3S.*
 
-  * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL saucepan toward add-3pO-IMP.
-  * that-time-toward viscous-& syrupy be-3S-DEP boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
+  * desire-2S-RO-DEP summer fruit-from juice (??, ??, etc.) 4 cup-PL-& sugar 3 cup-PL, saucepan interior-toward-ADV add-3pO-IMP.
+  * that-time-toward-ADV viscous-& syrupy be-3S-DEP-ADV boil-3O-IMP. vessel-PL interior-toward put-3O-IMP.
 
 ### Perflontus
 
 *Wloloca merizin-sos ogi'fi gomu qizun na? Ita pialotwv-ka zove zat.*
 
-  * Orcizal-ka mainci gomu-cw geze (alwpagomu, sizagomu, yx.) 4 janwe-li twipe 3 janwe dahzelo henqo-fws 'kodar.
-  * Albwr-fws nousve-li twipenxa zat-ka 'lirotwb. Ifarwe henqo-fws 'ajoten.
+  * Orcizal-ka mainci gomu-cw geze (alwpagomu, sizagomu, yx.) 4 janwe-li twipe 3 janwe, dahzelo henqo-fws 'kodar.
+  * Albwr-fws nousve-li twipenxa zat-kas 'lirotwb. Ifarwe henqo-fws 'ajoten.
 
 # Utaru Kolarvu
 
 Breakfast (1-ORD bread)
 
-## Ozo Mafke
+## Mafke Ozuro
 
-Oatmeal (?????)
+Oatmeal (oats stew)
 
 ### English
 
@@ -150,9 +150,9 @@ Eggs on Bread (bread top egg)
 
 *egg-PL cook-AUG-NEG-IMP; light-& fluffy be-3pO-DEP want-2S.*
 
-  * some-quantity bread (recipe see-IMP) make-IMP-&-seq, 2 slice-DU toast-DIM.
+  * some-quantity bread (recipe see-IMP) make-IMP-&then, 2 slice-DU toast-DIM.
   * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
-  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward add-3O-IMP.
+  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
   * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
   * that-time egg mix-RES almost is_set-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
@@ -175,21 +175,14 @@ Pasta-& Cheese
   * Whisk in 6 cups milk and 2 lb cheese.
   * Pour the mixture over the baking pan, and bake until cheese mixture is bubbly and golden.
 
-*// Pour mixture _into_ the baking pan?*
-  
 ### Gloss
-* good-superlative comfort food
-  * (recipe see-3sO-INF) pasta 1 pound obtain-3sO-IMP-& cook-3sO-IMP-& bake-INS pan in put-3sO-IMP.
-  * saucepan in butter 8 tablespoon-PL melt-3pO-IMP-& this-way whisk use-3sO-DEP flour 1/2 cup add-3sO-INF.
-  * this-way whisk use-3sO-DEP milk 6 cup-PL-& cheese 2 pound-DU add-3pO-IMP.
-  * bake-INS pan over mix-RES pour-3sO-IMP-& this-time-toward cheese mix-RES bubbly-& golden be-3P-DEP bake-3sO-IMP.
 
-*comfort-AGT food ??????????*
+*good-SUP comfort-??? food*
 
   * pasta (recipe see-IMP) 1 pound make-IMP-&-seq, cook-3O-IMP-&-seq, bake-INS pan interior-ADV put-3O-DEP.
-  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-& flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
-  * milk 6 cup-PL-& cheese 2 pound-DU this-way whisk use-DEP-ADV add-3pO-IMP.
-  * mixture-R bake-INS pan over-ADV pour-3O-IMP-& that-time toward-ADV cheese mixture bubbly-& golden be-3S.
+  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
+  * milk 6 cup-PL-& cheese 2 pound-DU, this-way whisk use-DEP-ADV add-3pO-IMP.
+  * mix-RES-R bake-INS pan interior-toward-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-RS-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
@@ -208,9 +201,9 @@ Pizza
 
 ### Gloss
 
-* this-way shape-PL-& top-INS-PL use-3pO-DEP [feel free to experiment]
-  * (recipe see-3sO-IMP) some dough obtain-3sO-IMP-& this-way roll-INS rod use-3sO-DEP  flatten-3sO-IMP.  
-  * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP 
+*shape-PL-& top-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
+  * some-quantity dough (recipe see-IMP) make-IMP-&then, this-way flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
+  * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP
   * this-way cheese-possessive another layer use-3sO-DEP cover-3sO-IMP
   * this-time-toward dough cook-3sO-passive bake-3sO-IMP
 
@@ -231,7 +224,7 @@ Peanut Butter-& Jelly
 
 * ?
   * (recipe see-3sO-IMP) some bread obtain-3sO-IMP-& slice-3sO-IMP.
-  * (recipe see-3sO-IMP) one slice to jelly apply-3sO-IMP. Other slice to peanut butter add-3sO-IMP. Slice-PL combine-3pO-IMP. 
+  * (recipe see-3sO-IMP) one slice to jelly apply-3sO-IMP. Other slice to peanut butter add-3sO-IMP. Slice-PL combine-3pO-IMP.
 
 # [Spibben]
 
@@ -250,9 +243,9 @@ Bread
 
 ### Gloss
 
-*Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S 
+*Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S
   * dough recipe make-3sO-IMP-but also butter 1/4 cup-& sugar 1/8 cup add.
-  * loaf into form-3sO-IMP-& bake-INS pan into put-3sO-IMP. This-time-toward done bake-3sO-IMP. 
+  * loaf into form-3sO-IMP-& bake-INS pan into put-3sO-IMP. This-time-toward done bake-3sO-IMP.
 
 ### Perflontus
 
@@ -288,7 +281,7 @@ Fried Potatoes
   * Fry until golden and crispy. Add salt.
 
 ### Gloss
-* ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP. 
+* ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP.
   * potato-DU 2 pound-DU peel-3dO-IMP-& strip-PL into cut-3dO-IMP
   * that-time-toward golden-PL-& crispy-PL fry-3pO-IMP.
 
@@ -339,8 +332,8 @@ Cinnamon Rolls
 
 * Cinnamon very much
   * some dough obtain-3sO-IMP.
-  * Thick sheet into flatten-3sO-IMP-& PST melt-PSV-3sO-DEP butter over spread-3sO-IMP.  
-  * cinnamon 10 g-& sugar 1/3 cup combine-3pO-IMP. Mix-RES dough cover-3sO-IMP. 
+  * Thick sheet into flatten-3sO-IMP-& PST melt-PSV-3sO-DEP butter over spread-3sO-IMP.
+  * cinnamon 10 g-& sugar 1/3 cup combine-3pO-IMP. Mix-RES dough cover-3sO-IMP.
   * Mix-RES log into roll-3sO-IMP. Rounds into slice-3pO-IMP. Bake-INS dish in put-3sO-IMP.
   * Sugar 1 cup-& butter 15 g-&, milk 8 g combine. Mix-RES dish over pour-3sO-IMP.
   *  That-time-toward finish-PSV-3sO-DEP bake-3pO-IMP.
