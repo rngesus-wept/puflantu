@@ -14,7 +14,7 @@ henqogbi Mercury
 ogkuogbi Venus  
 laksalfogbi Earth  
 izwfogbi Mars  
-swnanogbi Jupiter  
+swnogbi Jupiter  
 tihogbi Saturn  
 ifarogbi Uranus  
 cuafogbi Neptune  
