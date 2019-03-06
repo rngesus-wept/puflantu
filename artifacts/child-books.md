@@ -3,7 +3,7 @@ Will be placed on images of the covers
 
 Good night moon
 moon, good night
-erqoye, oma jasroqa
+eterqoye, oma jasroqa
 
 the cat in the hat
 hat in cat
@@ -38,5 +38,5 @@ one fish two fish-DU red fish blue fish
 uta zwmsi fe zwmsw, pamono zwmsi honwze zwmsi
 
 if I ran the circus
-this-reason circus CNT run-1S
+this-reason circus CNT manage-1S
 tidul circus gaq lwmiv
