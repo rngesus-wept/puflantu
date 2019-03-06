@@ -222,9 +222,9 @@ Peanut Butter-& Jelly
 
 ### Gloss
 
-* ?
-  * (recipe see-3sO-IMP) some bread obtain-3sO-IMP-& slice-3sO-IMP.
-  * (recipe see-3sO-IMP) one slice to jelly apply-3sO-IMP. Other slice to peanut butter add-3sO-IMP. Slice-PL combine-3pO-IMP.
+*selective-SUP-PL palate-PL possess-RpS-DEP adult-PL [solely for]*
+  * some-quantity bread (recipe see-IMP) make-IMP-&then slice-PL resulting_in cut-3O-IMP.
+  * jelly (recipe see-IMP) one slice at-ADV apply-3O-IMP. peanut butter other slice toward-ADV add-3O-IMP. slice-DU combine-3dO-IMP.
 
 # [Spibben]
 
