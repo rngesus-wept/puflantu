@@ -18,7 +18,7 @@ Pasta
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
   * 2-3 egg-PL flour 3 cup-PL-toward-ADV add-3pO-IMP-& together knead-3pO-IMP
-  * this-way flatten-INS rod use-3O-DEP-ADV, mix-RES flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
+  * this-method flatten-INS rod use-3O-DEP-ADV, mix-RES flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
 
 ### Perflontus
 
@@ -153,7 +153,7 @@ Eggs on Bread (bread top egg)
   * some-quantity bread (recipe see-IMP) make-IMP-&then, 2 slice-DU toast-DIM.
   * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
   * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
-  * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
+  * frequent-ADV stir-GER-ADV, this-method low heat use-DEP-ADV cook-IMP.
   * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
 ### Perflontus
@@ -180,8 +180,8 @@ Pasta-& Cheese
 *good-SUP comfort-??? food*
 
   * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-DEP.
-  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
-  * milk 6 cup-PL-& cheese 2 pound-DU, this-way whisk use-DEP-ADV add-3pO-IMP.
+  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-method whisk use-DEP-ADV add-3O-IMP.
+  * milk 6 cup-PL-& cheese 2 pound-DU, this-method whisk use-DEP-ADV add-3pO-IMP.
   * mix-RES-R bake-INS pan interior-toward-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-RS-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
@@ -202,9 +202,9 @@ Pizza
 ### Gloss
 
 *shape-PL-& top-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
-  * some-quantity dough (recipe see-IMP) make-IMP-&then, this-way flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
-  * this-way tomato layer use-3O-DEP-ADV cover-3O-IMP
-  * this-way another cheese layer use-3O-DEP-ADV cover-3O-IMP
+  * some-quantity dough (recipe see-IMP) make-IMP-&then, this-method flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
+  * this-method tomato layer use-3O-DEP-ADV cover-3O-IMP
+  * this-method another cheese layer use-3O-DEP-ADV cover-3O-IMP
   * that-time-toward dough finish-3O-DEP-ADV bake-3O-IMP
 
 ### Perflontus
@@ -264,9 +264,9 @@ Mashed Potatoes (potatoes that are kneaded)
   * Add 2 tablespoons butter, 1 cup milk, and salt.
 
 ### Gloss
-*leftover-PL worry-2O-NEG; this-way some-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+*leftover-PL worry-2O-NEG; this-method some-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
   * potato 2 pound-DU peel-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
-  * this-way water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then knead-3pO-IMP.
+  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
@@ -358,8 +358,8 @@ Pumpkin Pie
 ### Gloss
 
 * year-POS any time [feel free to make this]
-  * (recipe see-3sO-IMP) some sugar dough obtain-3sO-IMP. dough this-way flatten-INS rod use-3sO-DEP circle into flatten-3sO-IMP-& baking dish in put-3sO-IMP.
-  * (this-way pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
+  * (recipe see-3sO-IMP) some sugar dough obtain-3sO-IMP. dough this-method flatten-INS rod use-3sO-DEP circle into flatten-3sO-IMP-& baking dish in put-3sO-IMP.
+  * (this-method pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
   * 3 eggs-& pumpkin 500 g-& cream 250 g add-3pO-IMP-& together mix-3pO-IMP
   * mix-RES dish into pour-3sO-IMP. That-time-toward filling cook-3sO-passive bake-3sO-IMP
 
