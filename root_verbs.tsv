@@ -10,6 +10,7 @@ etaz	become, turn
 merin	can, be able
 pem	cause
 yad	do, perform
+sok	end
 onam	equal
 pog	give
 tex	go
@@ -22,6 +23,7 @@ ajen	put
 yit	receive
 rwgex	save, conserve
 siveg	show, demonstrate
+goz	start, begin
 piwv	use
 
 # Intellectual
@@ -48,9 +50,14 @@ wloc	eat
 zumuz	sleep
 
 # Mechanical
+juyun	break
 lirwb	boil
 fumub	combust
+juf	cook
+volir	cool
 erok	cut
+zajuf	fry
+lir	heat
 vunod	ignite
 rulfob	incorporate, combine
 umav	inflate
@@ -59,10 +66,7 @@ real	mix
 mohur	press, flatten
 dobis	rest, sit
 ixop	roll, move by rotating
-juyun	break
 radok	shape, mold, form
-juf	cook
-zajuf	fry
 
 # Domestic
 capil	arrive
