@@ -125,14 +125,19 @@ Oatmeal (oats stew)
 
 ### Gloss
 
-*that-method day start-GER great healthy method*
+*that-method 2-GEN day start-GER great healthy method*
 
   * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
-  * occasional-ADV stir-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
+  * occasional-ADV mix-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
 
 ### Perflontus
 
-## Kolarvu ??? Wibalwe
+*Rizo roqa goza wepu kirwge zove.*
+
+  * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
+  * Zoxuras realas, realoda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozuro ogje et etataz.
+
+## Kolarvu Jide Wibalwe
 
 Eggs on Bread (bread top egg)
 
