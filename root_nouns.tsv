@@ -208,14 +208,14 @@ kokotipu	corundum
 sotipu	diamond  
 
 # Planets
-hen'ogbi  Mercury (INNERMOST!-wanderer)  
-olcogbi   Venus (pearl-wanderer)  
-lahrogbi  Earth (penguin-wanderer)  
-ihrogbi   Mars (blood-planet)  
-maqwnogbi Jupiter (storm-wanderer)  
-tavrogbi  Saturn (ring-wanderer)  
-ixnogbi   Uranus (tilt-wanderer)  
-cwrzogbi  Neptune (ice-wanderer)  
+hen'ogbi	Mercury (INNERMOST!-wanderer)  
+olcogbi	Venus (pearl-wanderer)  
+lahrogbi	Earth (penguin-wanderer)  
+ihrogbi	Mars (blood-planet)  
+maqwnogbi	Jupiter (storm-wanderer)  
+tavrogbi	Saturn (ring-wanderer)  
+ixnogbi	Uranus (tilt-wanderer)  
+cwrzogbi	Neptune (ice-wanderer)  
 
 # misc exceptional stuff
 zupote tar
@@ -262,14 +262,15 @@ tixuo	heart
 antuho	glue
 mwbe	random
 tiha  light  
-lahro   penguin   
-olcusa  pearl  
-maqwne  storm  
-ihro    blood  
-cwrza   ice  
-ixnu    tilt  
+lahro	penguin   
+olcusa	pearl  
+saqwne	storm  
+ihro	Earth-blood  
+cwrza	ice  
+ixnu	tilt  
 pekle	crayon  
 noigle	circus  
+tavro	ring  
 
 
 
