@@ -1,6 +1,6 @@
 ```
-Ita   con     colub
-this  simply  say-RO
+Ita   cuba     zove    zat
+this  say-GER  method  be-3S
 This is just to say
 
 Dusikoca  henqos        im   zaryif       -ka
@@ -35,7 +35,7 @@ so cold
 ITA CON COLUB
 
 Dusikoca henqos  
-im zaryif-ba-li  
+im zaryif-ka  
 rojgomwe  
 or wlwmoc
 
