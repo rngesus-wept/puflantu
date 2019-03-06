@@ -9,14 +9,15 @@ HOLISTIC
 Full freedom otherwise
 
 ## Words
-h Mercury
-o Venus
-l Earth
-i Mars
-s Jupiter
-t Saturn
-i Uranus
-c Neptune
+
+h Mercury  
+o Venus  
+l Earth  
+i Mars  
+s Jupiter  
+t Saturn  
+i Uranus  
+c Neptune  
 
 ## Miscellaneous Ideas for Solar System
 
