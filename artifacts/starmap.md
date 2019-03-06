@@ -10,23 +10,23 @@ Full freedom otherwise
 
 ## Names
 
-*hen'ogbi* Mercury (INNERMOST!-wanderer)  
-*olcogbi* Venus (pearl-wanderer)  
-*lahrogbi* Earth (penguin-wanderer)
-*ihrogbi* Mars (blood-planet)  
-*maqwnogbi* Jupiter (storm-wanderer)  
-*tavrogbi* Saturn (ring-wanderer)  
-*ixnogbi* Uranus (tilt-wanderer)  
-*cwrzogbi* Neptune (ice-wanderer)  
+*hen'ogbi*	Mercury (INNERMOST!-wanderer)  
+*olcogbi*	Venus (pearl-wanderer)  
+*lahrogbi*	Earth (penguin-wanderer)
+*ihrogbi*	Mars (blood-planet)  
+*saqwnogbi*	Jupiter (storm-wanderer)  
+*tavrogbi*	Saturn (ring-wanderer)  
+*ixnogbi*	Uranus (tilt-wanderer)  
+*cwrzogbi*	Neptune (ice-wanderer)  
 
 ## Potential New Words
 
-*lahro* penguin (inspired by penguin calls)  
-*ixnu* tilt (see also ixi "river" and ixop "to roll")  
-*olcusa* pearl  
-*maqwne* storm  
-*ihro* blood (what no that's totally not "ichor")  
-*cwrza* ice  
+*lahro*	penguin (inspired by penguin calls)  
+*ixnu*	tilt (see also ixi "river" and ixop "to roll")  
+*olcusa*	pearl  
+*saqwne*	storm  
+*ihro*	blood (what no that's totally not "ichor")  
+*cwrza*	ice  
 
 *Interestingly, there's a similarity between **ihro** (blood) and **lahro** (penguin), which suggests that the aliens find penguins to be particularly fierce warrior creatures.*
 
