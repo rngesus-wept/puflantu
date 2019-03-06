@@ -10,13 +10,13 @@ Full freedom otherwise
 
 ## Words
 
-henqogba Mercury  
-ogkuogba Venus  
-laksalfogba Earth  
-izwfogba Mars  
-swnanogba Jupiter  
-tihogba Saturn  
-ifarogba Uranus  
-cuafogba Neptune  
+henqogbi Mercury  
+ogkuogbi Venus  
+laksalfogbi Earth  
+izwfogbi Mars  
+swnanogbi Jupiter  
+tihogbi Saturn  
+ifarogbi Uranus  
+cuafogbi Neptune  
 
 ## Other Systems
