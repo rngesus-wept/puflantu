@@ -153,17 +153,23 @@ Eggs on Bread (bread top egg)
 
 ### Gloss
 
-*egg-PL cook-AUG-NEG-IMP; light-& fluffy be-3pO-DEP want-2S.*
+*egg-PL cook-AUG-NEG-IMP; light-PL-& cloud-PL be-3pO-DEP want-2S.*
 
-  * some-quantity bread (recipe see-IMP) make-IMP-&then, 2 slice-DU toast-DIM.
-  * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
-  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
+  * some-quantity bread (recipe consult-IMP) make-IMP-&then, 2 flat-DU toast-DIM.
+  * small jump-GER pan interior-ADV, butter 1 eye melt-IMP.
+  * 3 egg-PL-& milk 2 eye-DU-& salt vigor-ADV together mix-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
   * frequent-ADV stir-GER-ADV, this-method low heat use-DEP-ADV cook-IMP.
-  * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
+  * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread flat-PL top-ADV put-3O-IMP.
 
 ### Perflontus
 
-*Wibalwe 'agjeyuf; 
+*Wibalwe 'agjeyuf; liswe-li furwnwe zad-ka orcizal.*
+
+  * Orlerwe kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
+  * Eyi onpeta tahlo henqos, hompaliso 1 tama 'kurotar.
+  * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
+  * Ogwris realas, tizov salirwpa piwv-kas 'jotuq.
+  * Albwr wibale realoda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
 
 # Utavi Wlocafwe
 
