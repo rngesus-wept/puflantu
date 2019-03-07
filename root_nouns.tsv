@@ -159,6 +159,11 @@ saqneru	eleventh
 fesaqeru	twelfth
 # Of course these exist for higher numbers but I have gotten bored.
 
+# Multiple numbers
+utale	single
+fele	double
+paile	triple
+
 # Other math
 gabxo	parabola
 
@@ -233,6 +238,12 @@ furwne	cloud
 
 # Body parts
 eqme	leg
+
+# Physical actions
+faloko	walk
+donel	hit
+zunat	run
+tanuv	jump
 
 # Sentiment
 xoso	happy
