@@ -11,7 +11,7 @@ rojgomwe  or   wlwmoc
 plum-PL   PRF  eat-1S
 I have eaten the plums
 
-Utaru  kolarvu  dules       imorak       rwgizodex
+Utaru  kolarvu  dules       imosfel      rwgizodex
 1-ORD  bread    reason-ADV  PST-PRF-HYP  save-2S-3O
 You may have been saving them for breakfast.
 
@@ -41,7 +41,7 @@ or wlwmoc
 
 Od  
 utaru kolarvu dules  
-imorak rwgizex
+imosfel rwgizex
 
 'iktojumit  
 Hwomdwe im zad  
