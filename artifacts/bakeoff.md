@@ -366,11 +366,11 @@ Pumpkin Pie
 
 ### Gloss
 
-*this year any-time-ADV make-3O-GER hesitate-NEG-IMP.*
+*year any-time-ADV make-3O-GER hesitate-NEG-IMP.*
   * some-quantity sugar dough (recipe see-IMP) make-IMP. this-method flatten-INS rod use-3O-DEP-ADV, circle resulting_in flatten-3O-IMP-& bake-INS dish interior-toward-ADV put-3O-IMP.
-  * (this-method pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
-  * 3 eggs-& pumpkin 500 g-& cream 250 g add-3pO-IMP-& together mix-3pO-IMP
-  * mix-RES dish into pour-3sO-IMP. That-time-toward filling cook-3sO-passive bake-3sO-IMP
+  * salt 5 gram-PL-& cinnamon 10 gram-PL-& nutmeg 5 gram-PL-& cloves 1 gram combine-3pO-IMP. (pumpkin spice this-method make-3O.)
+  * 3 egg-PL-& pumpkin 500 gram-PL-& cream 250 gram-PL add-3pO-IMP-& together mix-3pO-IMP.
+  * mix-RES dish interior-toward-ADV pour-3O-IMP. that-time-toward fill-INS finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
