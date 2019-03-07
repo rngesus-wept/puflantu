@@ -45,7 +45,7 @@ Dough
 
   * salt 4 gram-PL-& yeast 1 gram flour 1 cup-toward-ADV add-3pO-IMP
   * water 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
-  * night through rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
+  * that-method inflate-3O-DEP-ADV, night through rest-GER allow-3O-IMP.
 
 ### Perflontus
 
@@ -53,7 +53,7 @@ Dough
 
   * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'kodar.
   * Enxa 3/4 janwe realoda-fws 'kodar-lis jiay 'axuhodox.
-  * Jasroqa zoan dobisa alzov umotav-kas 'totag.
+  * Alzov umotav-kas, jasroqa zoan dobisa 'totag.
 
 ## Twipe Balorvu
 
@@ -77,7 +77,7 @@ Sugar dough
 
 ### Perflontus
 
-*Alzov ??? kureni qotuk-kas, eta 'piotwv.*
+*Alzov omeze kureni qotuk-kas, eta 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
   * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe todagas velqegsayos 'axuhotox.
@@ -162,6 +162,8 @@ Eggs on Bread (bread top egg)
   * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
 ### Perflontus
+
+*Wibalwe 'agjeyuf; 
 
 # Utavi Wlocafwe
 
@@ -352,7 +354,7 @@ Cinnamon Rolls
 
 ### Perflontus
 
-## Jarpagomu Creni
+## Jarpagomu Kureni
 
 Pumpkin Pie
 
