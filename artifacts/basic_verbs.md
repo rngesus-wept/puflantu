@@ -6,7 +6,19 @@ If in addition, this artifact gives puzzlers experience with tense, degree modif
 
 Here are some examples. The more person/number examples we have for subject and object, the better. Some negations of the verb (e.g. love -> not love, rather than love -> hate) would be great too. 
 
-Please add verbs and examples as they occur to you. Each clue should have an image that clearly corresponds to a short caption. 
+# Final verb list
+* Come
+* Want 
+* Be
+* Love
+* Like
+
+## Come
+* Y'all come back now ya hear? (Green Acres)
+* We have come to visit you in peace (The Day the Earth Stood Still)
+* Santa Claus is comin to town (Movie)
+* Coming to America
+* You come into my house on the day my daughter is to be married
 
 ## Want
 * You guys want some cookies?
@@ -14,35 +26,31 @@ Please add verbs and examples as they occur to you. Each clue should have an ima
 * I'm wanted dead or alive (Bon Jovi)
 * I want you back (Jackson 5)
 * The wanted
-* I want my mtv (Money for Nothing - Dire Straits)
-
-## Come
-* Y'all come back now ya hear? (Green Acres)
-* We have come to visit you in peace (The Day the Earth Stood Still)
-* Santa Claus is comin to town (Movie)
-* When Tomorrow Comes (Eurythmics) 
-* Coming to America
 
 ## Be
-* I know I'm not the only one (Sam Smith)
-* She's a super freak (Rick James)
-* I'm not a girl, not yet a woman (Britney Spears)
 * It's not unusual (Carlton Dance)
-* We are family (The Birdcage, Gene Hackman)
+* I'm not a girl, not yet a woman (Britney Spears)
+* We are a family (Dreamgirls)
+* Earth girls are easy
+* I'll be back (Terminator)
 
 ## Love
 * Kel loves orange soda (Kenan and Kel)
 * Because you loved me (Celine Dion)
-* If I loved you 
-
+* If I loved you (Carousel)
+* And I will always love you (Whitney Houston)
+* Love one another as I have loved you (Jesus)
 
 ## Like
 
 *Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
+* He likes me. I think he likes me. But does he "like me" like me, like I like him? (Avenue Q)
 * How do you like them apples? (Good Will Hunting)
 * I know what boys like (The Waitresses)
-* He likes me. I think he likes me. But does he "like me" like me, like I like him? (Avenue Q)
+* We like to party (Vengaboys)
+* You like me. Right now. You like me. 
 
+# Extras
 
 ## Wear
 * On Wednesdays we wear pink (Mean Girls)
