@@ -2,7 +2,7 @@ I am Sam / Sam I am
 `Wm Zamu zwm. / Zamu wm zat.`
 
 That Sam-I-am! / That Sam-I-am! / I do not like that Sam-I-am!  
-`Iqa Zamu-wm-zat! / Iqa Zamu-wm-zat! / Eqa Zamu-wm-zat somateyumun!`  
+`Iqa Zamu-wm-zat! / Iqa Zamu-wm-zat! / Iqa Zamu-wm-zat somateyumun!`  
 (`som-(at-ey-um)-un` - `please-3S-1O-NEG`, it does not please me)
 
 ---
@@ -57,7 +57,7 @@ Would you eat them in a box? / Would you eat them with a fox?
 ---
 
 Not in a box. / Not with a fox. / Not in a house. / Not with a mouse.  
-`Oca henqo, xa. / Qerwkse wli, xa. / Rali henqo, xa. / Qerwkse wli, xa.`  
+`Oca henqo, xa. / Qerwkse wli, xa. / Rali henqo, xa. / Balri wli, xa.`  
 I would not eat them / here or there. / I would not eat them anywhere.  
 `Tihan-vos alhan fel wlwmeyodoc. / Velhan fel wlwmeyodoc.`  
 I would not eat green eggs and ham.  
