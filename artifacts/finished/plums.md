@@ -1,6 +1,6 @@
 ```
-Ita   cuba     zove    zat
-this  say-GER  method  be-3S
+Ita   cuba     zove    aqes      zat
+this  say-GER  method  mere-ADV  be-3S
 This is just to say
 
 Dusikoca  henqos        im   zaryif       -ka
@@ -32,7 +32,7 @@ cold-AUG-PL
 so cold
 ```
 
-ITA CON COLUB
+ITA CUBA ZOVE AQES ZAT
 
 Dusikoca henqos  
 im zaryif-ka  

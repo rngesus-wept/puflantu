@@ -18,7 +18,7 @@ Pasta
 *trade-LOC from be-3S-THAN fresh-CMP-& delicious-CMP*
 
   * 2-3 egg-PL flour 3 cup-PL-toward-ADV add-3pO-IMP-& together knead-3pO-IMP
-  * this-way flatten-INS rod use-3O-DEP-ADV, mix-RES flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
+  * this-method flatten-INS rod use-3O-DEP-ADV, mix-RES flatten-3O-IMP-& 3O thin strip-PL resulting_in cut-3O-IMP
 
 ### Perflontus
 
@@ -45,7 +45,7 @@ Dough
 
   * salt 4 gram-PL-& yeast 1 gram flour 1 cup-toward-ADV add-3pO-IMP
   * water 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
-  * overnight rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
+  * night through rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
 
 ### Perflontus
 
@@ -53,7 +53,7 @@ Dough
 
   * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'kodar.
   * Enxa 3/4 janwe realoda-fws 'kodar-lis jiay 'axuhodox.
-  * ????? dobisa alzov umotav-kas 'totag.
+  * Jasroqa zoan dobisa alzov umotav-kas 'totag.
 
 ## Twipe Balorvu
 
@@ -72,7 +72,7 @@ Sugar dough
 *that-method perfect pie make-3O-DEP, this use-3O-IMP.*
 
   * salt 3 gram-PL-& sugar 3 gram-PL, flour 1 cup-toward-ADV add-3pO-IMP.
-  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV rough-ADV work_in-IMP.
+  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV thorough-NEG-ADV knead-3O-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
@@ -80,7 +80,7 @@ Sugar dough
 *Alzov ??? kureni qotuk-kas, eta 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
-  * ??? ??? eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe ??? todagas ??? ???.
+  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe todagas velqegsayos 'axuhotox.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
 ## Orbili
@@ -125,14 +125,19 @@ Oatmeal (oats stew)
 
 ### Gloss
 
-*that-method day start-GER great healthy method*
+*that-method 2-GEN day start-GER great healthy method*
 
   * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
-  * occasional-ADV stir-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
+  * occasional-ADV mix-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
 
 ### Perflontus
 
-## Kolarvu ??? Wibalwe
+*Rizo roqa goza wepu kirwge zove.*
+
+  * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
+  * Zoxuras realas, realoda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozuro ogje et etataz.
+
+## Kolarvu Jide Wibalwe
 
 Eggs on Bread (bread top egg)
 
@@ -153,12 +158,12 @@ Eggs on Bread (bread top egg)
   * some-quantity bread (recipe see-IMP) make-IMP-&then, 2 slice-DU toast-DIM.
   * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
   * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
-  * frequent-ADV stir-GER-ADV, this-way low heat use-DEP-ADV cook-IMP.
-  * that-time egg mix-RES almost is_set-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
+  * frequent-ADV stir-GER-ADV, this-method low heat use-DEP-ADV cook-IMP.
+  * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
 
 ### Perflontus
 
-# [Kozzobben]
+# Utavi Wlocafwe
 
 Entrees
 
@@ -179,9 +184,9 @@ Pasta-& Cheese
 
 *good-SUP comfort-??? food*
 
-  * pasta (recipe see-IMP) 1 pound make-IMP-&-seq, cook-3O-IMP-&-seq, bake-INS pan interior-ADV put-3O-DEP.
-  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-way whisk use-DEP-ADV add-3O-IMP.
-  * milk 6 cup-PL-& cheese 2 pound-DU, this-way whisk use-DEP-ADV add-3pO-IMP.
+  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-DEP.
+  * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-method whisk use-DEP-ADV add-3O-IMP.
+  * milk 6 cup-PL-& cheese 2 pound-DU, this-method whisk use-DEP-ADV add-3pO-IMP.
   * mix-RES-R bake-INS pan interior-toward-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-RS-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
@@ -202,10 +207,10 @@ Pizza
 ### Gloss
 
 *shape-PL-& top-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
-  * some-quantity dough (recipe see-IMP) make-IMP-&then, this-way flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
-  * this-way tomato-PL-possessive layer use-3sO-DEP  cover-3sO-IMP
-  * this-way cheese-possessive another layer use-3sO-DEP cover-3sO-IMP
-  * this-time-toward dough cook-3sO-passive bake-3sO-IMP
+  * some-quantity dough (recipe see-IMP) make-IMP-&then, this-method flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
+  * this-method tomato layer use-3O-DEP-ADV cover-3O-IMP
+  * this-method another cheese layer use-3O-DEP-ADV cover-3O-IMP
+  * that-time-toward dough finish-3O-DEP-ADV bake-3O-IMP
 
 ### Perflontus
 
@@ -222,11 +227,13 @@ Peanut Butter-& Jelly
 
 ### Gloss
 
-* ?
-  * (recipe see-3sO-IMP) some bread obtain-3sO-IMP-& slice-3sO-IMP.
-  * (recipe see-3sO-IMP) one slice to jelly apply-3sO-IMP. Other slice to peanut butter add-3sO-IMP. Slice-PL combine-3pO-IMP.
+*selective-SUP-PL palate-PL possess-RpS-DEP adult-PL [solely for]*
+  * some-quantity bread (recipe see-IMP) make-IMP-&then slice-PL resulting_in cut-3O-IMP.
+  * jelly (recipe see-IMP) one slice at-ADV apply-3O-IMP. peanut butter other slice toward-ADV add-3O-IMP. slice-DU combine-3dO-IMP.
 
-# [Spibben]
+### Perflontus
+
+# Fevi Wlocafwe
 
 Side Dishes
 
@@ -243,15 +250,15 @@ Bread
 
 ### Gloss
 
-*Perfect-ADV soft-& fluffy, this loaf gone quick-ADV FUT be-3S
-  * dough recipe make-3sO-IMP-but also butter 1/4 cup-& sugar 1/8 cup add.
-  * loaf into form-3sO-IMP-& bake-INS pan into put-3sO-IMP. This-time-toward done bake-3sO-IMP.
+*Perfect-ADV soft-& fluffy, this loaf ????????? FUT exist-3S-NEG.*
+  * dough recipe do-IMP-but butter 1/4 cup-PL-& sugar 1/8 cup-PL also-ADV incorporate-3pO-IMP.
+  * loaf resulting_in shape-3O-IMP-& bake-INS pan interior-toward put-3O-IMP. that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
-## ????-ka Ranwe
+## Axuhoryox-ka Ranwe
 
-Mashed Potatoes
+Mashed Potatoes (potatoes that are kneaded)
 
 ### English
 
@@ -262,32 +269,33 @@ Mashed Potatoes
   * Add 2 tablespoons butter, 1 cup milk, and salt.
 
 ### Gloss
-* leftover-PL worry-3sO-IMP-NEG; [if you have any, you can make potato croquettes]
-  * potato-DU 2 pound-DU peel-3dO-IMP-& chunk-PL into cut-3dO-IMP.
-  * water in boil-3dO-IMP, then drain-3dO-IMP-& mash-3dO-IMP
+*leftover-PL worry-2O-NEG; this-method some-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+  * potato 2 pound-DU peel-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
+  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
 
-## ????-ka Ranwe
+## Zajoryuf-ka Ranwe
 
-Fried Potatoes
+Fried Potatoes (potatoes that are fried)
 
 ### English
 
 *Make sure to cut the strips evenly so they cook evenly.*
 
-  * Pell 2 lb potatoes and cut into strips.
+  * Peel 2 lb potatoes and cut into strips.
   * Fry until golden and crispy. Add salt.
 
 ### Gloss
-* ?? [Make sure] this-way even-ADV cut-3sO-IMP-DEP even-ADV strip-PL cook-3pO-IMP.
-  * potato-DU 2 pound-DU peel-3dO-IMP-& strip-PL into cut-3dO-IMP
-  * that-time-toward golden-PL-& crispy-PL fry-3pO-IMP.
+
+*this-reason equal-GER-ADV cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
+  * potato 2 pound-DU peel-3dO-IMP-&then strip-PL result_in cut-3dO-IMP.
+  * that-time-toward golden-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
 
 ### Perflontus
 
-## Ranu Samagmalwe
+## Ranu Samaglamwe
 
 Potato Croquettes
 
@@ -301,7 +309,7 @@ Potato Croquettes
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
 
 ### Gloss
-* A great way leftover PST mash-3pO-DEP use-3pO-INF
+*leftover knead-RpO-DEP potato-PL use-RS-DEP great method*
   * (recipe see-3sO-IMP) PST mash-PSV-3sO-DEP potato-PL cup-PL 2.
   * additional milk 1 tablespoon-& 1 egg-& salt.
   * Mix-RES small-PL mount-PL into divide-3pO-IMP.
@@ -355,8 +363,8 @@ Pumpkin Pie
 ### Gloss
 
 * year-POS any time [feel free to make this]
-  * (recipe see-3sO-IMP) some sugar dough obtain-3sO-IMP. dough this-way flatten-INS rod use-3sO-DEP circle into flatten-3sO-IMP-& baking dish in put-3sO-IMP.
-  * (this-way pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
+  * (recipe see-3sO-IMP) some sugar dough obtain-3sO-IMP. dough this-method flatten-INS rod use-3sO-DEP circle into flatten-3sO-IMP-& baking dish in put-3sO-IMP.
+  * (this-method pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
   * 3 eggs-& pumpkin 500 g-& cream 250 g add-3pO-IMP-& together mix-3pO-IMP
   * mix-RES dish into pour-3sO-IMP. That-time-toward filling cook-3sO-passive bake-3sO-IMP
 
