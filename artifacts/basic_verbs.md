@@ -28,11 +28,11 @@ Here are some examples. The more person/number examples we have for subject and 
 * The wanted
 
 ## Be
+* She's a super freak (Rick James)
 * It's not unusual (Carlton Dance)
 * I'm not a girl, not yet a woman (Britney Spears)
 * We are a family (Dreamgirls)
 * Earth girls are easy
-* I'll be back (Terminator)
 
 ## Love
 * Kel loves orange soda (Kenan and Kel)
