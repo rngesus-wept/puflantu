@@ -168,7 +168,7 @@ Eggs on Bread (bread top egg)
   * Orlerwe kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
   * Eyi onpeta tahlo henqos, hompaliso 1 tama 'kurotar.
   * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
-  * Ogwris realas, tizov salirwpa piwv-kas 'jotuq.
+  * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
   * Albwr wibale realoda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
 
 # Utavi Wlocafwe
