@@ -8,8 +8,7 @@ That Sam-I-am! / That Sam-I-am! / I do not like that Sam-I-am!
 ---
 
 Do you like / green eggs and ham?  
-`Colbawe wibalwe-li ????? / somadezun na?`  
-(Missing word for "ham")
+`Colbawe wibalwe-li veskepi / somadezun na?`  
 
 ---
 
