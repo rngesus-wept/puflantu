@@ -28,36 +28,36 @@ gloss
 
 |   | base 6   | see rocks | base 6   | transliteration  | see cells  |  see months  |
 |---|----|----------|------|------------------------|------------------|-----------|
-| T | 11  | `utipu`   | 0.01 | `pulestosin`  | TARRIEST-R PITS-pl-R | 14th   |
-| I | 11  | `utipu`   | 122   | `iosin`      | GREEN-R RIVER   | 13th |
-| S | 1  | `wmipu`    | 300  | `albiun`    | transliterate    | 1st   |
-| I | 2  | `apatipu`  | 325  | `barumiun` | transl. | 3rd    |
-| E | 12  | `ceritipu`   | 401  | `jurasik`       | transl.*       | 15th |
-| D | 3  | `turatipu`  | 535  | `qraesik`          | transl.   | 5th |
-| A | 2  | `apatipu`   | 1234  | `karbunifurus`    | transl.*-R  RIVER   | 2nd |
-| R | 5  | `rokotipu` | 1450  | `devoniun`             | transl.     | 11th      |
-| G | 4  | `eritipu` | 2204  | `kambrian pairu`     | trasl. SHALE    | 10th |
-| P | 11  | `utipu`   | 2222  | `kambrian feru`  | transl. MOUNTAIN | 12th |
+| T | 11  | `wtipu`   | 0.01 | `pulestosin`  | TARRIEST-R PITS-pl-R | 14th   |
+| I | 11  | `wtipu`   | 122   | `iosin`      | GREEN-R RIVER   | 13th |
+| S | 1  | `amipu`    | 300  | `albiun`    | transliterate    | 1st   |
+| I | 2  | `catipu`  | 325  | `barumiun` | transl. | 3rd    |
+| E | 12  | `oyitipu`   | 401  | `jurasik`       | transl.*       | 15th |
+| D | 3  | `rupatipu`  | 535  | `qraesik`          | transl.   | 5th |
+| A | 2  | `catipu`   | 1234  | `karbunifurus`    | transl.*-R  RIVER   | 2nd |
+| R | 5  | `sokotipu` | 1450  | `devoniun`             | transl.     | 11th      |
+| G | 4  | `oritipu` | 2204  | `kambrian pairu`     | trasl. SHALE    | 10th |
+| P | 11  | `wtipu`   | 2222  | `kambrian feru`  | transl. MOUNTAIN | 12th |
 | O | 14 | `stipu`  | 2341  | `ediakaran`            | MISTAKEN POINT   | 20th    |
-| T | 3  | `turatipu`  | 3534  | `prikambrian`  | BITTER-pl SPRINGS-pl-R   | 4th   |
+| T | 3  | `rupatipu`  | 3534  | `prikambrian`  | BITTER-pl SPRINGS-pl-R   | 4th   |
 
 
 Translated Version:
 
 |   |    |  |    |  |  |   |
 |---|----|----------|------|------------------------|------------------|-----------|
-| T | saqta  | `utipu`   | 0.01 | `pulestosinu`  | `zupuroTe'fw ejuro` | QOYESAQAVURU   |
-| A | saqta  | `utipu`   | 122   | `iosinu`      | `colburAo ixuri`     | QOYESAQPAIRU |
-| Z | uta  | `wmipu`    | 300  | `albiunu`    | `Zantana`        | QOYEUTARU   |
-| (') | fe  | `apatipu`  | 325  | `barumiunu` | `i'xenu`  | QOYEPAIRU    |
-| E | saqfe  | `ceritipu`   | 401  | `jurasiku`       | `solnofuEn`        | QOYESAQNERU |
-| D | pai  | `turatipu`  | 535  | `qraesiku`          | `maDiju`    | QOYENERU |
-| A | fe  | `apatipu`   | 1234  | `karbunifurusu`    | `mAzuronu ixuri`      | QOYEFERU |
-| R | ne  | `rokotipu` | 1450  | `devoniunu`             | `unsuRuku`         | QOYESAQTERU      |
-| G | avu  | `eritipu` | 2204  | `kamubrian pairu`     | `bo uGirotipu `    | QOYESAQERU |
-| P | saqta  | `utipu`   | 2222  | `kamubrian feru`  | `siriusu Pahamope` | QOYESAQFERU |
-| O | saqavu | `sotipu`  | 2341  | `ediakaranu`            | `paux pahamOpe`   | QOYEFESAQERU    |
-| T | pai  | `turatipu`  | 3534  | `kamubrianunqo`  | `beTw xwoxw`   | QOYEAVURU   |
+| T | saqta  | `wtipu`   | 0.01 | `pulestosinu`  | `zupuroTe'fw ejuro` | QOYESAQAVURU   |
+| A | saqta  | `wtipu`   | 122   | `iosinu`      | `colburAo ixuri`     | QOYESAQPAIRU |
+| Z | uta  | `amipu`    | 300  | `albiunu`    | `Zantana`        | QOYEUTARU   |
+| (') | fe  | `catipu`  | 325  | `barumiunu` | `i'xenu`  | QOYEPAIRU    |
+| E | saqfe  | `oyitipu`   | 401  | `jurasiku`       | `solnofuEn`        | QOYESAQNERU |
+| D | pai  | `rupatipu`  | 535  | `qraesiku`          | `maDiju`    | QOYENERU |
+| A | fe  | `catipu`   | 1234  | `karbunifurusu`    | `mAzuronu ixuri`      | QOYEFERU |
+| R | ne  | `sokotipu` | 1450  | `devoniunu`             | `unsuRuku`         | QOYESAQTERU      |
+| G | avu  | `oritipu` | 2204  | `kamubrian pairu`     | `bo uGirotipu `    | QOYESAQERU |
+| P | saqta  | `wtipu`   | 2222  | `kamubrian feru`  | `siriusu Pahamope` | QOYESAQFERU |
+| O | saqavu | `dotipu`  | 2341  | `ediakaranu`            | `paux pahamOpe`   | QOYEFESAQERU    |
+| T | pai  | `rupatipu`  | 3534  | `kamubrianunqo`  | `beTw xwoxw`   | QOYEAVURU   |
 
 
 SOLUTION: TOP GRADE  
@@ -96,14 +96,14 @@ DECEMBER   20th month QOYEFESAQERU
 // rocks  
 ROCK         ATIPU  
 SHALE        GIROTIPU  
-TALC         WMIPU  
-GYPSUM       APATIPU  
-CALCITE      TURATIPU  
-FLUORITE     ERITIPU  
-APATITE      ROKOTIPU  
+TALC         amipu  
+GYPSUM       catipu  
+CALCITE      rupatipu  
+FLUORITE     oritipu  
+APATITE      sokotipu  
 ORTHOCLASE   SIZITIPU  
-QUARTZ       UTIPU  
-TOPAZ        CERITIPU  
-CORUNDUM     KOKOTIPU  
-DIAMOND      SOTIPU  
+QUARTZ       wtipu  
+TOPAZ        oyitipu  
+CORUNDUM     rokotipu  
+DIAMOND      dotipu  
 
