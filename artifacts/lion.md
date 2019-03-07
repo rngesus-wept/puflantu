@@ -2,7 +2,7 @@
 
 ### English
 
-Love me now, when I'm gone, love me none ("none" turns into "two")
+Love me now, when I'm gone, love me none ("none" turns into "two")  
 Love me none, love me none,  
 Numb, numb, numb, numb
 
@@ -38,7 +38,7 @@ Utaru kolarvu kokeini
 ### English
 
 My heart is broke  
-But I have some glue ("glue" turns into "five")
+But I have some glue ("glue" turns into "five")  
 Help me inhale  
 And mend it with you  
 We'll float around  
@@ -74,7 +74,7 @@ Mwbes et qobwnur
 
 ### English
 
-So much to do, so much to see ("see" turns into "five")
+So much to do, so much to see ("see" turns into "five")  
 So what's wrong with taking the back streets?  
 You'll never know if you don't go  
 You'll never shine if you don't glow  
@@ -96,7 +96,7 @@ Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 ## Entry 4
 
 "I wipe the spots off the mirror  
-Don't leave the keys in the door ("door" becomes "seven")
+Don't leave the keys in the door ("door" becomes "seven")  
 I never put wet towels on the floor anymore 'cause  
 Dreams last for so long  
 Even after you're gone"  
@@ -114,7 +114,7 @@ that-time exterior-ADV this-place be_located-2S-NEG-DEP
 ## Entry 5
 
 "Would you choose water over wine  
-Hold the wheel and drive? ("drive" becomes "two")
+Hold the wheel and drive? ("drive" becomes "two")  
 Whatever tomorrow brings  
 I'll be there with open arms and open eyes"  
 
@@ -129,7 +129,7 @@ open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT
 
 ## Entry 6
 
-"All the other kids with the pumped up kicks ("kicks" becomes "eight")
+"All the other kids with the pumped up kicks ("kicks" becomes "eight")  
 You'd better run, better run, out run my gun  
 All the other kids with the pumped up kicks  
 You'd better run, better run, faster than my bullet"  
@@ -148,7 +148,7 @@ run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP
 "Baby, you're all that I want
 When you're lyin' here in my arms
 I'm findin' it hard to believe
-We're in heaven" ("heaven" becomes "five")
+We're in heaven" ("heaven" becomes "five")  
 
 ### Gloss
 Baby, want-1S-RO-DEP-ADV all be-2S  
@@ -161,7 +161,7 @@ heaven interior-ADV be-2S
 ## Entry 8
 
 "You and I
-I know that we can't wait ("wait" becomes "nine")
+I know that we can't wait ("wait" becomes "nine")  
 And I swear, I swear it's not a lie girl
 Tomorrow may be too late"
 
@@ -176,7 +176,7 @@ tomorrow too late HYP be-GER
 
 ## Entry 9
 
-Call me on the line ("line" becomes "two")
+Call me on the line ("line" becomes "two")  
 Call me, call me any, anytime
 Call me my love
 You can call me any day or night
@@ -195,7 +195,7 @@ any day-or any night call-GER-1O may-2S
 It's in the stars
 It's still written in the scars on our hearts
 That we're not broken just bent
-And we can learn to love again" ("again" becomes "one")
+And we can learn to love again" ("again" becomes "one")  
 
 ### Gloss
 
