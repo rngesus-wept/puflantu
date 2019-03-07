@@ -8,22 +8,41 @@ Here are some examples. The more person/number examples we have for subject and 
 
 Please add verbs and examples as they occur to you. Each clue should have an image that clearly corresponds to a short caption. 
 
-
-## Love
-* Kel loves orange soda (Kenan and Kel)
-* Because you loved me (Celine Dion)
-* I don't love you (Don't Ask Me Why - Eurythmics)
-
-## Like
-
-*Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
-* How do you like them apples? (Good Will Hunting)
+## Want
+* You guys want some cookies?
+* Oh y'all wanted a twist eh? (Laganja Estranja)
+* I'm wanted dead or alive (Bon Jovi)
+* I want you back (Jackson 5)
+* The wanted
+* I want my mtv (Money for Nothing - Dire Straits)
 
 ## Come
 * Y'all come back now ya hear? (Green Acres)
 * We have come to visit you in peace (The Day the Earth Stood Still)
 * Santa Claus is comin to town (Movie)
 * When Tomorrow Comes (Eurythmics) 
+* Coming to America
+
+## Be
+* I know I'm not the only one (Sam Smith)
+* She's a super freak (Rick James)
+* I'm not a girl, not yet a woman (Britney Spears)
+* It's not unusual (Carlton Dance)
+* We are family (The Birdcage, Gene Hackman)
+
+## Love
+* Kel loves orange soda (Kenan and Kel)
+* Because you loved me (Celine Dion)
+* If I loved you 
+
+
+## Like
+
+*Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
+* How do you like them apples? (Good Will Hunting)
+* I know what boys like (The Waitresses)
+* He likes me. I think he likes me. But does he "like me" like me, like I like him? (Avenue Q)
+
 
 ## Wear
 * On Wednesdays we wear pink (Mean Girls)
@@ -35,30 +54,26 @@ Please add verbs and examples as they occur to you. Each clue should have an ima
 ## Know
 * I know what boys like (The Waitresses)
 * You know nothing Jon Snow (Game of Thrones)
-
-## Want
-* Oh y'all wanted a twist eh? (Laganja Estranja)
-* I'm wanted dead or alive (Bon Jovi)
-* I want my mtv (Money for Nothing - Dire Straits)
-* I want you back (Jackson 5)
-
-## Like
-* He likes me (Avenue Q)
-
-## Be
-* I know I'm not the only one (Sam Smith)
-* She's a super freak (Rick James)
-* I'm not a girl, not yet a woman (Britney Spears)
-* It's not unusual (Carlton Dance)
-* We are family (The Birdcage, Gene Hackman)
+* What mama don't know won't hurt her (The Waterboy - Roy Orbison tattoo)
 
 ## Do
 * Oops I did it again (Britney Spears)
 * This is how we do it (Montell Jordan)
-* What mama don't know won't hurt her (The Waterboy - Roy Orbison tattoo)
 
 ## See
 * They see me rollin (Ridin Dirty)
 
 ## Speak
 * Excuse me miss, I speak Jive. (Airplane!)
+* Don't speak (no doubt)
+
+# Have
+* You've got mail
+
+# Prefer
+Gentlemen prefer blondes
+
+# Need
+* You're (singular) going to need a bigger boat (Jaws)
+
+
