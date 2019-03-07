@@ -7,7 +7,7 @@ Dusikoca  henqos        im   zaryif       -ka
 icebox    interior-ADV  PST  located-RpS  -DEP
 that were in the icebox
 
-rojgomwe  or   wlwmoc
+rojgomwe  os   wlwmoc
 plum-PL   PRF  eat-1S
 I have eaten the plums
 
@@ -37,7 +37,7 @@ ITA CUBA ZOVE AQES ZAT
 Dusikoca henqos  
 im zaryif-ka  
 rojgomwe  
-or wlwmoc
+os wlwmoc
 
 Od  
 utaru kolarvu dules  
