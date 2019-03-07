@@ -307,7 +307,7 @@ Potato Croquettes
 
   * Obtain 2 cups mashed potatoes (see recipe).
   * Add additional 1 tablespoon milk, 1 egg, and salt.
-  * Divide the mixture into small mounts.
+  * Divide the mixture into small mounds.
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
 
 ### Gloss
@@ -317,7 +317,7 @@ Potato Croquettes
   * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP-ior obtain-IMP.
   * milk 1 tablespoon-& 1 egg-& additional milk 1 tablespoon-& 1 egg-& salt.
   * mix-RES loaf-DIM-PL resulting_in divide-3pO-IMP.
-  * mound-PL egg interior-toward dip-3pO-IMP-&then flour interior-toward roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
+  * loaf-DIM-PL egg interior-toward dip-3pO-IMP-&then flour interior-toward roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
 
 ### Perflontus
 
@@ -374,7 +374,7 @@ Pumpkin Pie
 
 ### Perflontus
 
-## Ozo Mafke-li Toka Hompaliso-li Rotwipe Torelwe
+## Mafke Ozuro-li Toka Hompaliso-li Rotwipe Torelwe
 
 Oatmeal Peanut Butter Chocolate Cookies
 
@@ -385,16 +385,16 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Combine 2 cups sugar, 3/4 cup peanut butter, 1 cup butter, 4g salt, and 8g leavening agent.
   * Add 2 eggs.
   * Add 2 cups flour, 1.5 cups oats, and 340g chocolate chips.
-  * Divide mixture into small mounts. Bake until set and lightly golden.
+  * Divide mixture into small mounds. Bake until set and lightly golden.
 
 ### Gloss
 
-* anywhere galaxy in delicious-comparative cookie FUT find-NEG-2S
+*galaxy interior no-where-ADV, delicious-CMP cookie FUT find-2S-NEG.*
 
-  * sugar 2 cup-PL-&  peanut butter 3/4 cup-& butter 1 cup-& salt 4 grams-& yeast 8 grams combine-3pO-IMP.
+  * sugar 2 cup-PL-& peanut butter 3/4 cup-PL-& butter 1 cup-& salt 4 gram-PL-& yeast 8 gramPL combine-3pO-IMP.
   * 2 egg-PL add-3pO-IMP.
-  * flour 2 cup-PL-& oats 1.5 cup-PL-& chocolate chip-PL 340 grams add-3pO-IMP
-  * mix-RES small mounds into divide-3sO-IMP. that-time-toward PRF set-intransitive/"passive"-& golden lightly be-3S-DEP bake-3pO-IMP
+  * flour 2 cup-PL-& oats 1.5 cup-PL-& chocolate chip 340 gram-PL add-3pO-IMP.
+  * mix-RES small-PL loaf-DIM-PL resulting_in divide-3sO-IMP. that-time-toward light-ADV golden-PL be-3pS-DEP bake-3pO-IMP.
 
 ### Perflontus
 
