@@ -16,9 +16,10 @@ You can pay in dollars ($) or in Galactic Coin (ᛈ).
 ## what follows is a series of pictures labelled with prices and descriptions
 
 Paint:
- - comes in orange, silver, and chartreuse
+ - we orange, silver, and chartreuse paints.
  - chose any 2 colors
 $ 36 / 24 ᛈ
+* note these are of the fluid noun class*
 
 Guns and bullets
  - you should be prepared - the world is dangerous
