@@ -269,7 +269,8 @@ Mashed Potatoes (potatoes that are kneaded)
   * Add 2 tablespoons butter, 1 cup milk, and salt.
 
 ### Gloss
-*leftover-PL worry-2O-NEG; this-method some-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+
+*leftover-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
   * potato 2 pound-DU peel-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
   * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
@@ -290,6 +291,7 @@ Fried Potatoes (potatoes that are fried)
 ### Gloss
 
 *this-reason equal-GER-ADV cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
+
   * potato 2 pound-DU peel-3dO-IMP-&then strip-PL result_in cut-3dO-IMP.
   * that-time-toward golden-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
 
@@ -309,19 +311,21 @@ Potato Croquettes
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
 
 ### Gloss
+
 *leftover knead-RpO-DEP potato-PL use-RS-DEP great method*
-  * (recipe see-3sO-IMP) PST mash-PSV-3sO-DEP potato-PL cup-PL 2.
-  * additional milk 1 tablespoon-& 1 egg-& salt.
-  * Mix-RES small-PL mount-PL into divide-3pO-IMP.
-  * egg in mound-PL dip-3pO-IMP then flour in roll-3pO-IMP. That-time-toward outer-PL coating-PL golden-PL-& crispy-PL be-3P fry-3pO-IMP.
+
+  * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP-ior obtain-IMP.
+  * milk 1 tablespoon-& 1 egg-& additional milk 1 tablespoon-& 1 egg-& salt.
+  * mix-RES loaf-DIM-PL resulting_in divide-3pO-IMP.
+  * mound-PL egg interior-toward dip-3pO-IMP-&then flour interior-toward roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
 
 ### Perflontus
 
-# [Twippibben]
+# Twipibnwe
 
 Desserts
 
-## Atare ???
+## Atsarwe ???
 
 Cinnamon Rolls
 
@@ -338,13 +342,13 @@ Cinnamon Rolls
 
 ### Gloss
 
-* Cinnamon very much
-  * some dough obtain-3sO-IMP.
-  * Thick sheet into flatten-3sO-IMP-& PST melt-PSV-3sO-DEP butter over spread-3sO-IMP.
-  * cinnamon 10 g-& sugar 1/3 cup combine-3pO-IMP. Mix-RES dough cover-3sO-IMP.
-  * Mix-RES log into roll-3sO-IMP. Rounds into slice-3pO-IMP. Bake-INS dish in put-3sO-IMP.
-  * Sugar 1 cup-& butter 15 g-&, milk 8 g combine. Mix-RES dish over pour-3sO-IMP.
-  *  That-time-toward finish-PSV-3sO-DEP bake-3pO-IMP.
+*that cinnamon differ-GER all make-3S.*
+  * some-quantity dough (recipe see-IMP) make-3O-IMP.
+  * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-3O-DEP butter use-3O-DEP-ADV cover-3O-IMP.
+  * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. dough this-method mix-RES use-3O-DEP-ADV cover-3O-IMP.
+  * mix-RES log resulting\_in roll-3sO-IMP. log round-PL resulting\_in slice-3O-IMP. round-PL bake-INS dish interior-toward-ADV put-3pO-IMP.
+  * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. dish this-method mix-RES use-3O-DEP-ADV cover-3O-IMP.
+  * that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
@@ -362,8 +366,8 @@ Pumpkin Pie
 
 ### Gloss
 
-* year-POS any time [feel free to make this]
-  * (recipe see-3sO-IMP) some sugar dough obtain-3sO-IMP. dough this-method flatten-INS rod use-3sO-DEP circle into flatten-3sO-IMP-& baking dish in put-3sO-IMP.
+*this year any-time-ADV make-3O-GER hesitate-NEG-IMP.*
+  * some-quantity sugar dough (recipe see-IMP) make-IMP. this-method flatten-INS rod use-3O-DEP-ADV, circle resulting_in flatten-3O-IMP-& bake-INS dish interior-toward-ADV put-3O-IMP.
   * (this-method pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
   * 3 eggs-& pumpkin 500 g-& cream 250 g add-3pO-IMP-& together mix-3pO-IMP
   * mix-RES dish into pour-3sO-IMP. That-time-toward filling cook-3sO-passive bake-3sO-IMP
