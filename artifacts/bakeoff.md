@@ -395,7 +395,7 @@ Cinnamon Rolls
 
 ### Gloss
 
-*that cinnamon all differ-GER make-3S.*
+*that cinnamon all differ-GER-PL make-3S.*
   * some-quantity dough (recipe see-IMP) make-3O-IMP.
   * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-RO-DEP butter use-3O-DEP-ADV cover-3O-IMP.
   * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. this-method mix-RES use-3O-DEP-ADV, dough cover-3O-IMP.
@@ -405,7 +405,7 @@ Cinnamon Rolls
 
 ### Perflontus
 
-*Iqa atsaro axwe odelesa qatuk.*
+*Iqa atsaro axwe odeleswe qatuk.*
 
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk.
   * Ogje pahi eg 'mohotur-nis tizov karolur-ka hompaliso piotwv-kas 'urmotez.
