@@ -7,11 +7,11 @@ Dusikoca  henqos        im   zaryif       -ka
 icebox    interior-ADV  PST  located-RpS  -DEP
 that were in the icebox
 
-rojgomwe  or   wlwmoc
+rojgomwe  os   wlwmoc
 plum-PL   PRF  eat-1S
 I have eaten the plums
 
-Utaru  kolarvu  dules       imorak       rwgizodex
+Utaru  kolarvu  dules       imosfel      rwgizodex
 1-ORD  bread    reason-ADV  PST-PRF-HYP  save-2S-3O
 You may have been saving them for breakfast.
 
@@ -37,11 +37,11 @@ ITA CUBA ZOVE AQES ZAT
 Dusikoca henqos  
 im zaryif-ka  
 rojgomwe  
-or wlwmoc
+os wlwmoc
 
 Od  
 utaru kolarvu dules  
-imorak rwgizex
+imosfel rwgizex
 
 'iktojumit  
 Hwomdwe im zad  

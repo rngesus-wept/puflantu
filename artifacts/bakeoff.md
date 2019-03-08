@@ -1,3 +1,5 @@
+**A booklet with slightly greasy pages. The cover says: "Wepu Puflantu Noma-Ji'saga (Feru Qoqra)".**
+
 # Rulfobafwe
 
 Components (combine-PAT-PL)
@@ -45,7 +47,7 @@ Dough
 
   * salt 4 gram-PL-& yeast 1 gram flour 1 cup-toward-ADV add-3pO-IMP
   * water 3/4 cup-PL mixture-toward-ADV add-3pO-IMP-& together knead-3pO-IMP.
-  * night through rest-GER that-method inflate-3O-DEP-ADV allow-3O-IMP.
+  * that-method inflate-3O-DEP-ADV, night through rest-GER allow-3O-IMP.
 
 ### Perflontus
 
@@ -53,7 +55,7 @@ Dough
 
   * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'kodar.
   * Enxa 3/4 janwe realoda-fws 'kodar-lis jiay 'axuhodox.
-  * Jasroqa zoan dobisa alzov umotav-kas 'totag.
+  * Alzov umotav-kas, jasroqa zoan dobisa 'totag.
 
 ## Twipe Balorvu
 
@@ -77,15 +79,15 @@ Sugar dough
 
 ### Perflontus
 
-*Alzov ??? kureni qotuk-kas, eta 'piotwv.*
+*Alzov omeze kureni qotuk-kas, eta 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
   * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe todagas velqegsayos 'axuhotox.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
-## Orbili
+## Orburili
 
-Jelly
+Jelly (jelly-R)
 
 ### English
 
@@ -112,7 +114,7 @@ Jelly
 
 Breakfast (1-ORD bread)
 
-## Mafke Ozuro
+## Mafke Ozro
 
 Oatmeal (oats stew)
 
@@ -128,14 +130,14 @@ Oatmeal (oats stew)
 *that-method 2-GEN day start-GER great healthy method*
 
   * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
-  * occasional-ADV mix-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
+  * occasional-ADV mix-GER-ADV, mix-RES-R boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP, oatmeal thick FUT become-3S.
 
 ### Perflontus
 
 *Rizo roqa goza wepu kirwge zove.*
 
   * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
-  * Zoxuras realas, realoda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozuro ogje et etataz.
+  * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozro ogje et etataz.
 
 ## Kolarvu Jide Wibalwe
 
@@ -153,15 +155,23 @@ Eggs on Bread (bread top egg)
 
 ### Gloss
 
-*egg-PL cook-AUG-NEG-IMP; light-& fluffy be-3pO-DEP want-2S.*
+*egg-PL cook-AUG-NEG-IMP; light-PL-& cloud-PL be-3pO-DEP want-2S.*
 
-  * some-quantity bread (recipe see-IMP) make-IMP-&then, 2 slice-DU toast-DIM.
-  * butter 1 tablespoon small sautee-INS pan interior-ADV melt-IMP.
-  * 3 egg-PL-& milk 2 tablespoon-DU-& salt together beat-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
+  * some-quantity bread (recipe consult-IMP) make-IMP-&then, 2 flat-DU toast-DIM.
+  * small jump-GER pan interior-ADV, butter 1 eye melt-IMP.
+  * 3 egg-PL-& milk 2 eye-DU-& salt vigor-ADV together mix-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
   * frequent-ADV stir-GER-ADV, this-method low heat use-DEP-ADV cook-IMP.
-  * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread slice-PL top-ADV pile-3O-IMP.
+  * that-time egg mix-RES-R almost finish-3O-DEP-ADV, divide-3O-IMP-& bread flat-PL top-ADV put-3O-IMP.
 
 ### Perflontus
+
+*Wibalwe 'agjeyuf; liswe-li furwnwe zad-ka orcizal.*
+
+  * Orlerwe kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
+  * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
+  * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
+  * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
+  * Albwr wibale reraloda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
 
 # Utavi Wlocafwe
 
@@ -182,14 +192,21 @@ Pasta-& Cheese
 
 ### Gloss
 
-*good-SUP comfort-??? food*
+*good-SUP comfort-INS food*
 
-  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-DEP.
+  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-IMP.
   * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-method whisk use-DEP-ADV add-3O-IMP.
   * milk 6 cup-PL-& cheese 2 pound-DU, this-method whisk use-DEP-ADV add-3pO-IMP.
-  * mix-RES-R bake-INS pan interior-toward-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-RS-DEP-ADV bake-3O-IMP.
+  * mix-RES-R bake-INS pan top-ADV pour-3O-IMP-& that-time-toward-ADV cheese-R mix-RES-R bubbly-& gold_color be-3S-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
+
+*Oma' xolunaqo locho.*
+
+  * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
+  * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
+  * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
+  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jintiye zat-kas 'notom.
 
 ## Pitale
 
@@ -206,13 +223,20 @@ Pizza
 
 ### Gloss
 
-*shape-PL-& top-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
+*shape-PL-& cover-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
   * some-quantity dough (recipe see-IMP) make-IMP-&then, this-method flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
   * this-method tomato layer use-3O-DEP-ADV cover-3O-IMP
   * this-method another cheese layer use-3O-DEP-ADV cover-3O-IMP
   * that-time-toward dough finish-3O-DEP-ADV bake-3O-IMP
 
 ### Perflontus
+
+*Malavwe-li urmezaqwe huqodyova 'baceyev.*
+
+  * Orlerwe balorvu (jufzove 'wndak) 'qotuk-nis tizov mohuraqo gwnde piotwv-kas 'mohotur.
+  * Tizov zamgomu sotwma piotwv-kas 'urmotez.
+  * Tizov utarai zampaliso sotwma piotwv-kas 'urmotez.
+  * Albwr-fws balorvu sotok-ka 'notom.
 
 ## Toka Hompaliso-li Orbili
 
@@ -227,11 +251,17 @@ Peanut Butter-& Jelly
 
 ### Gloss
 
-*selective-SUP-PL palate-PL possess-RpS-DEP adult-PL [solely for]*
+*selective-SUP-PL tongue-PL possess-RpS-DEP adult-PL sole_ADV for_recipient*
+
   * some-quantity bread (recipe see-IMP) make-IMP-&then slice-PL resulting_in cut-3O-IMP.
-  * jelly (recipe see-IMP) one slice at-ADV apply-3O-IMP. peanut butter other slice toward-ADV add-3O-IMP. slice-DU combine-3dO-IMP.
+  * jelly-R (recipe see-IMP) one slice at-ADV apply-3O-IMP. peanut butter other slice toward-ADV add-3O-IMP. slice-DU combine-3dO-IMP.
 
 ### Perflontus
+
+*Tolorca'we eyosfwe qaryun-ka pexwe ityas ziyu.*
+
+  * Orlerwe kolarve (jufzove 'wndak) 'qotuk-nis pahwe eg 'erotok.
+  * Orburili (jufzove 'wndak) uta pahi tis 'dotab. Toka hompaliso rai pahi-fws 'kotar. Pahw 'rulfobob.
 
 # Fevi Wlocafwe
 
@@ -250,11 +280,16 @@ Bread
 
 ### Gloss
 
-*Perfect-ADV soft-& fluffy, this loaf ????????? FUT exist-3S-NEG.*
+*Perfect-ADV soft-& cloud, this loaf that-time interior-ADV know-2S-3O-DEP-ADV FUT exist-3S-NEG.*
   * dough recipe do-IMP-but butter 1/4 cup-PL-& sugar 1/8 cup-PL also-ADV incorporate-3pO-IMP.
-  * loaf resulting_in shape-3O-IMP-& bake-INS pan interior-toward put-3O-IMP. that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
+  * loaf resulting_in shape-3O-IMP-& bake-INS pan interior-toward put-3O-IMP. that-time-toward-ADV finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
+
+*Omezes exuri-li furwne, ita maglame alhan henqos gizotir-kas et jateyif.*
+
+  * Balorvu jufzove 'yotad-dis hompaliso 1/4 janwe-li twipe 1/12 janwe-li karkas 'rulfodob.
+  * Maglame eg 'radotok-lis nomaqo tahlo henqo-fws 'ajoten. Albwr-fws sotok-kas 'notom.
 
 ## Axuhoryox-ka Ranwe
 
@@ -269,12 +304,19 @@ Mashed Potatoes (potatoes that are kneaded)
   * Add 2 tablespoons butter, 1 cup milk, and salt.
 
 ### Gloss
-*leftover-PL worry-2O-NEG; this-method some-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
-  * potato 2 pound-DU peel-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
-  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then knead-3pO-IMP.
+
+*remain-GER-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+  * potato 2 pound-DU cover-REV-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
+  * this-method water-R use-3O-DEP-ADV boil-3pO-IMP-&then, submerge-REV-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
+
+*Topexa locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*
+
+  * Ranu 2 amwlw 'vourmobez-li talnwe eg 'erobok.
+  * Tizov enxura piotwv-kas 'lirodwb-nis, 'voenxodaq-nis, velqegsos 'axuhodox.
+  * Hompaliso 2 tamw-li paliso 1 jano-li zalma henqos 'reodal.
 
 ## Zajoryuf-ka Ranwe
 
@@ -289,11 +331,17 @@ Fried Potatoes (potatoes that are fried)
 
 ### Gloss
 
-*this-reason equal-GER-ADV cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
+*this-reason equal-GER-ADV FUT cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
+
   * potato 2 pound-DU peel-3dO-IMP-&then strip-PL result_in cut-3dO-IMP.
-  * that-time-toward golden-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
+  * that-time-toward gold_color-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
 
 ### Perflontus
+
+*Tizov onamas et joduf-kas, atimorwe jalwe eg erizok-ka 'calpem.*
+
+  * Ranu 2 amwlw 'vourmobez-li jalwe eg 'erobok.
+  * Albwr-fws jintiywe-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
 
 ## Ranu Samaglamwe
 
@@ -305,23 +353,32 @@ Potato Croquettes
 
   * Obtain 2 cups mashed potatoes (see recipe).
   * Add additional 1 tablespoon milk, 1 egg, and salt.
-  * Divide the mixture into small mounts.
+  * Divide the mixture into small mounds.
   * Dip mounds in egg, then roll them in flour. Fry until the outer coating is golden and crispy.
 
 ### Gloss
-*leftover knead-RpO-DEP potato-PL use-RS-DEP great method*
-  * (recipe see-3sO-IMP) PST mash-PSV-3sO-DEP potato-PL cup-PL 2.
-  * additional milk 1 tablespoon-& 1 egg-& salt.
-  * Mix-RES small-PL mount-PL into divide-3pO-IMP.
-  * egg in mound-PL dip-3pO-IMP then flour in roll-3pO-IMP. That-time-toward outer-PL coating-PL golden-PL-& crispy-PL be-3P fry-3pO-IMP.
+
+*remain-GER-PL knead-RpO-DEP potato-PL use-RS-DEP great method*
+
+  * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP.
+  * milk 1 tablespoon-& 1 egg-& salt add-3pO-IMP.
+  * mix-RES loaf-DIM-PL resulting_in divide-3O-IMP.
+  * loaf-DIM-PL egg-R interior-ADV submerge-DIM-3pO-IMP-&then flour interior-ADV roll-3pO-IMP. that-time-toward exterior-PL layer-PL gold_color-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
 
 ### Perflontus
 
-# [Twippibben]
+*Topexwe axuhoryox-ka ranwe piatwv-ka wepu zove.*
+
+  * Axuhoryox-ka ranwe (jufzove 'wndak) 2 janw 'qotuk.
+  * Paliso 1 tama-li 1 wibale-li zalma 'kodar.
+  * Realoda samaglamwe eg 'viqotel.
+  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws jasqwe sotwmwe jintiywe-li kirakwe zad-ka 'zajotuf.
+
+# Twipibnwe
 
 Desserts
 
-## Atare ???
+## Atsarwe Ixopkwe
 
 Cinnamon Rolls
 
@@ -338,17 +395,26 @@ Cinnamon Rolls
 
 ### Gloss
 
-* Cinnamon very much
-  * some dough obtain-3sO-IMP.
-  * Thick sheet into flatten-3sO-IMP-& PST melt-PSV-3sO-DEP butter over spread-3sO-IMP.
-  * cinnamon 10 g-& sugar 1/3 cup combine-3pO-IMP. Mix-RES dough cover-3sO-IMP.
-  * Mix-RES log into roll-3sO-IMP. Rounds into slice-3pO-IMP. Bake-INS dish in put-3sO-IMP.
-  * Sugar 1 cup-& butter 15 g-&, milk 8 g combine. Mix-RES dish over pour-3sO-IMP.
-  *  That-time-toward finish-PSV-3sO-DEP bake-3pO-IMP.
+*that cinnamon all differ-GER make-3S.*
+  * some-quantity dough (recipe see-IMP) make-3O-IMP.
+  * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-RO-DEP butter use-3O-DEP-ADV cover-3O-IMP.
+  * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. this-method mix-RES use-3O-DEP-ADV, dough cover-3O-IMP.
+  * mix-RES log resulting\_in roll-3O-IMP. log round-PL resulting\_in cut-3O-IMP. round-PL bake-INS pan interior-toward-ADV put-3pO-IMP.
+  * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. mix-RES-R pan top-ADV pour-3O-IMP.
+  * that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
-## Jarpagomu Creni
+*Iqa atsaro axwe odelesa qatuk.*
+
+  * Orlerwe balorvu (jufzove 'wndak) 'qotuk.
+  * Ogje pahi eg 'mohotur-nis tizov karolur-ka hompaliso piotwv-kas 'urmotez.
+  * Atsaro 14 guramwe-li twipe 1/3 janwe 'rulfodob. Tizov realoda 'piotwv-kas, balorvu 'urmotez.
+  * Realoda ogje gwnde eg 'ixotop. Ogje gwnde rwtxwe eg 'erotok. Rwtxwe nomaqo tahlo henqo-fws 'ajoden.
+  * Twipe 1 janu-li hompaliso 23 guramwe-li paliso 12 guramwe 'rulfodob. Reraloda tahlo bedfis 'irotal.
+  * Albwr-fws sodok-kas 'nodom.
+
+## Jarpagomu Kureni
 
 Pumpkin Pie
 
@@ -356,21 +422,28 @@ Pumpkin Pie
 
 *Feel free to make this any time of year.*
   * Obtain some sugar dough (see recipe). Roll out with a rolling pin into a circle, and put in a baking dish.
-  * Combine 5g salt, 10g cinnamon, 5g nutmeg, and 1g cloves (to form pumpkin pie spice).
+  * Combine 5g salt, 10g cinnamon, 5g nutmeg, and 1g cloves (to form pumpkin pie spice). Combine that with 1 cup sugar and 8g flour.
   * Add 3 eggs, 500g pumpkin, and 250g cream, and mix together.
   * Pour the mixture into the dish. Bake until the filling is cooked.
 
 ### Gloss
 
-* year-POS any time [feel free to make this]
-  * (recipe see-3sO-IMP) some sugar dough obtain-3sO-IMP. dough this-method flatten-INS rod use-3sO-DEP circle into flatten-3sO-IMP-& baking dish in put-3sO-IMP.
-  * (this-method pumpkin spice form-3sO-INF) salt 5 g-& cinnamon 10 g-& nutmeg 5 g-& cloves 1 g combine-3pO-IMP.
-  * 3 eggs-& pumpkin 500 g-& cream 250 g add-3pO-IMP-& together mix-3pO-IMP
-  * mix-RES dish into pour-3sO-IMP. That-time-toward filling cook-3sO-passive bake-3sO-IMP
+*this year any-time make-3O-GER hesitate-NEG-IMP.*
+  * some-quantity sugar dough (recipe see-IMP) make-IMP. this-method flatten-INS rod use-3O-DEP-ADV, circle resulting_in flatten-3O-IMP-& bake-INS pan interior-toward-ADV put-3O-IMP.
+  * salt 5 gram-PL-& cinnamon 10 gram-PL-& nutmeg 5 gram-PL-& cloves 1 gram combine-3pO-IMP. (pumpkin spice this-method make-3O.)
+  * 3 egg-PL-& pumpkin 500 gram-PL-& cream 250 gram-PL add-3pO-IMP-& together mix-3O-IMP.
+  * mix-RES-R dish interior-toward-ADV pour-3O-IMP. that-time-toward fill-INS finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
-## Ozo Mafke-li Toka Hompaliso-li Rotwipe Torelwe
+*eta aneyo velbwr qotuka 'baceyev.*
+
+  * Orlerwe twipe balorvu (jufzove 'wndak) 'qotuk. Tizov mohuraqo gwnde piotwv-kas, rwtxo eg 'mohotur-lis nomaqo tahlo henqo-fws 'ajoten.
+  * Zalma 5 guramwe-li atsaro 14 guramwe-li ewsaro 1 guramu 'rulfodob. (Ita realoda "jarpagomu kureni saro" zat.) Realoda-li twipe 1 jano-li oku 12 guramwe 'rulfodob.
+  * 3 wibalwe-li jarpagom 2512 guramwe-li pampaliso 1054 guramwe 'kodar-lis jiay 'reotal.
+  * Reraloda tahlo henqo-fws 'enxotaq. Albwr-fws ombuqaqo sotok-kas 'notom.
+
+## Mafke Ozuro-li Toka Hompaliso-li Rotwipe Torelwe
 
 Oatmeal Peanut Butter Chocolate Cookies
 
@@ -381,18 +454,25 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Combine 2 cups sugar, 3/4 cup peanut butter, 1 cup butter, 4g salt, and 8g leavening agent.
   * Add 2 eggs.
   * Add 2 cups flour, 1.5 cups oats, and 340g chocolate chips.
-  * Divide mixture into small mounts. Bake until set and lightly golden.
+  * Divide mixture into small mounds. Bake until set and lightly golden.
 
 ### Gloss
 
-* anywhere galaxy in delicious-comparative cookie FUT find-NEG-2S
+*galaxy interior no-where, delicious-CMP cookie FUT meet-2S-NEG.*
 
-  * sugar 2 cup-PL-&  peanut butter 3/4 cup-& butter 1 cup-& salt 4 grams-& yeast 8 grams combine-3pO-IMP.
-  * 2 egg-PL add-3pO-IMP.
-  * flour 2 cup-PL-& oats 1.5 cup-PL-& chocolate chip-PL 340 grams add-3pO-IMP
-  * mix-RES small mounds into divide-3sO-IMP. that-time-toward PRF set-intransitive/"passive"-& golden lightly be-3S-DEP bake-3pO-IMP
+  * sugar 2 cup-DU-& peanut butter 3/4 cup-PL-& butter 1 cup-& salt 4 gram-PL-& yeast 8 gram-PL combine-3pO-IMP.
+  * 2 egg-DU add-3pO-IMP.
+  * flour 2 cup-DU-& oats 1.5 cup-PL-& chocolate chunk-DIM 340 gram-PL add-3pO-IMP.
+  * mix-RES small-PL loaf-DIM-PL resulting_in divide-3sO-IMP. that-time-toward light-ADV gold_color-PL be-3pS-DEP bake-3pO-IMP.
 
 ### Perflontus
+
+*Puflantu henqo yehan, hwomda'fi toreli et qekizeyad.*
+
+  * Twipe 2 janw-li toka hompaliso 3/4 janwe-li hompaliso 1 jano-li zalma 4 guramwe-li laksalfa 12 guramwe 'rulfodob.
+  * 2 wibalw 'kobar.
+  * Oku 2 janw-li mafke 3/2 janwe-li rotwipe satalne 1324 guramwe 'kodar.
+  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises jintiywe zad-ka 'nodom.
 
 # Notes
 
