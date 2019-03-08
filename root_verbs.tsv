@@ -33,11 +33,12 @@ tol	choose, select
 wndak	consult, refer to
 sinqer	describe
 gir	know
-yen	learn
+yel	learn
 gen	read
 horod	remember
 mid	see
-dax	teach
+lifan	study
+dax	teach, instruct
 
 # Emotional
 solov	need (intrinsic motive)
@@ -45,7 +46,7 @@ zalov	need (extrinstic motive)
 somun	please
 orcal	want, desire
 sen	love
-ax	feel
+map	feel
 bacev	wait, hesitate, pause
 pelig	worry, concern
 
@@ -59,8 +60,7 @@ eyos	taste
 juyun	break
 lirwb	boil
 fumub	combust
-juf	cook
-volir	cool
+# volir	cool
 erok	cut
 zajuf	fry
 lir	heat
@@ -75,8 +75,18 @@ ixop	roll, move by rotating
 radok	shape, mold, form
 kohan	toast
 
+# Physical
+hinal	dance
+ji'sag	fight
+donel	hit
+tanuv	jump
+zunat	run
+falok	walk
+
 # Domestic
 capil	arrive
+nom	bake
+juf	cook
 kworem	wear, don
 
 # Social
@@ -85,16 +95,6 @@ sag	give
 qekad	meet
 tacwl	say
 cub	speak
-
-# Combat
-ji'sag	fight
-
-# Occupational
-hinal	dance
-yel	learn
-lifan	study
-dax	teach, instruct
-nom	bake
 
 # Commercial
 kanwj	buy
@@ -107,9 +107,7 @@ zamoc	hang out, loiter
 dog	emit
 kak	reflect
 liv	manage
-hinal	dance
-onpet	jump
-kurar	melt
+karur	melt
 viqel	divide, split
 xolun	comfort, soothe
 iral	pour

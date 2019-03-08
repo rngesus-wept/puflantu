@@ -82,7 +82,6 @@ zampaliso	cheese
 veonxi	building
 jiso	room
 dunse	kitchen
-cuafi	store
 
 # Machinery
 tusvo	bus
@@ -238,7 +237,7 @@ cwrzogbi	Neptune (ice-wanderer)
 zupote	tar
 ejo	lake
 ixi	river
-paux	wrong
+paxu	wrong
 pahamope	mountain
 bethu	bitter
 xwoxe	springs
@@ -260,12 +259,6 @@ furwne	cloud, fluff
 
 # Body parts
 eqme	leg
-
-# Physical actions
-faloko	walk
-donel	hit
-zunat	run
-tanuv	jump
 
 # Sentiment
 xoso	happy
@@ -309,7 +302,7 @@ iporo	pot
 zoxura	occaional, sometimes
 ogje	thick (linear dimension)
 jide	top, above
-ombw	full
+ombu	full
 tini	wine
 durema	straight
 ungikpe	flush
@@ -323,8 +316,6 @@ saqwne	storm
 ihro	Earth-blood
 cwrza	ice
 ixnu	tilt
-pekle	crayon
-noigle	circus
 tavro	ring
 twipibne	dessert
 omeze	exemplar, perfect
