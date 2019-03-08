@@ -38,7 +38,7 @@ def SyllableSplit(word):
       syllables[position] += syllables[position + 1]
       del syllables[position + 1]
     position += 1
-  assert all(re.match('^[{}]?[{}][{}]?$'.format(CONSONANTS, VOWELS, CONSONANTS),
+  assert all(re.match("^'|[{}]?[{}][{}]?$".format(CONSONANTS, VOWELS, CONSONANTS),
                       syllable, re.I) for syllable in syllables), \
       '{} does not syllabize legally (C?VC?).'.format(repr(word.upper()))
   return syllables
