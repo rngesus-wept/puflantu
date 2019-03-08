@@ -458,14 +458,21 @@ Oatmeal Peanut Butter Chocolate Cookies
 
 ### Gloss
 
-*galaxy interior no-where-ADV, delicious-CMP cookie FUT find-2S-NEG.*
+*galaxy interior no-where, delicious-CMP cookie FUT meet-2S-NEG.*
 
-  * sugar 2 cup-PL-& peanut butter 3/4 cup-PL-& butter 1 cup-& salt 4 gram-PL-& yeast 8 gramPL combine-3pO-IMP.
-  * 2 egg-PL add-3pO-IMP.
-  * flour 2 cup-PL-& oats 1.5 cup-PL-& chocolate chip 340 gram-PL add-3pO-IMP.
+  * sugar 2 cup-DU-& peanut butter 3/4 cup-PL-& butter 1 cup-& salt 4 gram-PL-& yeast 8 gram-PL combine-3pO-IMP.
+  * 2 egg-DU add-3pO-IMP.
+  * flour 2 cup-DU-& oats 1.5 cup-PL-& chocolate chunk-DIM 340 gram-PL add-3pO-IMP.
   * mix-RES small-PL loaf-DIM-PL resulting_in divide-3sO-IMP. that-time-toward light-ADV golden-PL be-3pS-DEP bake-3pO-IMP.
 
 ### Perflontus
+
+*Puflantu henqo yehan, hwomda'fi toreli et qekizeyad.*
+
+  * Twipe 2 janw-li toka hompaliso 3/4 janwe-li hompaliso 1 jano-li zalma 4 guramwe-li laksalfa 12 guramwe 'rulfodob.
+  * 2 wibalw 'kobar.
+  * Oku 2 janw-li mafke 3/2 janwe-li rotwipe satalne 1324 guramwe 'kodar.
+  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises ????????? zad-ka 'nodom.
 
 # Notes
 
