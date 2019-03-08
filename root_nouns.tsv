@@ -60,7 +60,7 @@ mofke	oats
 oku	flour
 orbili	jelly
 paliso	milk
-rojgomu plum
+rojgomu	plum
 ruzeqo	hunger
 toreli	cookie
 turakolu	pasta
@@ -81,7 +81,7 @@ zampaliso	cheese
 # Structures
 veonxi	building
 jiso	room
-dunse kitchen
+dunse	kitchen
 cuafi	store
 
 # Machinery
@@ -197,18 +197,18 @@ henroqa	morning
 jasroqa	night
 
 # Months
-january	qoyeutaru
-february	qoyeferu
-march	qoyepairu
-april	qoyeavuru
-may	qoyeneru
-june	qoyesaqeru
-july	qoyesaqteru
-august	qoyesaqferu
-september	qoyesaqpairu
-october	qoyesaqavuru
-november	qoyesaqneru
-december	qoyefesaqeru
+qoyeutaru	january
+qoyeferu	february
+qoyepairu	march
+qoyeavuru	april
+qoyeneru	may
+qoyesaqeru	june
+qoyesaqteru	july
+qoyesaqferu	august
+qoyesaqpairu	september
+qoyesaqavuru	october
+qoyesaqneru	november
+qoyefesaqeru	december
 
 # rocks
 atipu	rock
