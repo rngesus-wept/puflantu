@@ -85,9 +85,9 @@ Sugar dough
   * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe todagas velqegsayos 'axuhotox.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
-## Orbili
+## Orburili
 
-Jelly
+Jelly (jelly-R)
 
 ### English
 
@@ -114,7 +114,7 @@ Jelly
 
 Breakfast (1-ORD bread)
 
-## Mafke Ozuro
+## Mafke Ozro
 
 Oatmeal (oats stew)
 
@@ -137,7 +137,7 @@ Oatmeal (oats stew)
 *Rizo roqa goza wepu kirwge zove.*
 
   * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
-  * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozuro ogje et etataz.
+  * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozro ogje et etataz.
 
 ## Kolarvu Jide Wibalwe
 
@@ -161,7 +161,7 @@ Eggs on Bread (bread top egg)
   * small jump-GER pan interior-ADV, butter 1 eye melt-IMP.
   * 3 egg-PL-& milk 2 eye-DU-& salt vigor-ADV together mix-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
   * frequent-ADV stir-GER-ADV, this-method low heat use-DEP-ADV cook-IMP.
-  * that-time egg mix-RES almost finish-3O-DEP-ADV, divide-3O-IMP-& bread flat-PL top-ADV put-3O-IMP.
+  * that-time egg mix-RES-R almost finish-3O-DEP-ADV, divide-3O-IMP-& bread flat-PL top-ADV put-3O-IMP.
 
 ### Perflontus
 
@@ -171,7 +171,7 @@ Eggs on Bread (bread top egg)
   * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
   * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
   * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
-  * Albwr wibale realoda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
+  * Albwr wibale reraloda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
 
 # Utavi Wlocafwe
 
@@ -197,7 +197,7 @@ Pasta-& Cheese
   * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-IMP.
   * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-method whisk use-DEP-ADV add-3O-IMP.
   * milk 6 cup-PL-& cheese 2 pound-DU, this-method whisk use-DEP-ADV add-3pO-IMP.
-  * mix-RES-R bake-INS pan top-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-3S-DEP-ADV bake-3O-IMP.
+  * mix-RES-R bake-INS pan top-ADV pour-3O-IMP-& that-time-toward-ADV cheese-R mix-RES-R bubbly-& golden be-3S-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
@@ -206,7 +206,7 @@ Pasta-& Cheese
   * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
   * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
   * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
-  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampaliso reraloda ??????-li ?????? zat-kas 'notom.
+  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li ?????? zat-kas 'notom.
 
 ## Pitale
 
@@ -254,14 +254,14 @@ Peanut Butter-& Jelly
 *selective-SUP-PL tongue-PL possess-RpS-DEP adult-PL sole_ADV for_recipient*
 
   * some-quantity bread (recipe see-IMP) make-IMP-&then slice-PL resulting_in cut-3O-IMP.
-  * jelly (recipe see-IMP) one slice at-ADV apply-3O-IMP. peanut butter other slice toward-ADV add-3O-IMP. slice-DU combine-3dO-IMP.
+  * jelly-R (recipe see-IMP) one slice at-ADV apply-3O-IMP. peanut butter other slice toward-ADV add-3O-IMP. slice-DU combine-3dO-IMP.
 
 ### Perflontus
 
 *Tolorca'we eyosfwe qaryun-ka pexwe ityas ziyu.*
 
   * Orlerwe kolarve (jufzove 'wndak) 'qotuk-nis pahwe eg 'erotok.
-  * Orbili (jufzove 'wndak) uta pahi tis 'dotab. Toka hompaliso rai pahi-fws 'kotar. Pahw 'rulfobob.
+  * Orburili (jufzove 'wndak) uta pahi tis 'dotab. Toka hompaliso rai pahi-fws 'kotar. Pahw 'rulfobob.
 
 # Fevi Wlocafwe
 
@@ -307,7 +307,7 @@ Mashed Potatoes (potatoes that are kneaded)
 
 *remain-GER-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
   * potato 2 pound-DU cover-REV-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
-  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, submerge-REV-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
+  * this-method water-R use-3O-DEP-ADV boil-3pO-IMP-&then, submerge-REV-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
@@ -363,7 +363,7 @@ Potato Croquettes
   * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP.
   * milk 1 tablespoon-& 1 egg-& salt add-3pO-IMP.
   * mix-RES loaf-DIM-PL resulting_in divide-3O-IMP.
-  * loaf-DIM-PL egg interior-ADV submerge-DIM-3pO-IMP-&then flour interior-ADV roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
+  * loaf-DIM-PL egg-R interior-ADV submerge-DIM-3pO-IMP-&then flour interior-ADV roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
 
 ### Perflontus
 
@@ -372,7 +372,7 @@ Potato Croquettes
   * Axuhoryox-ka ranwe (jufzove 'wndak) 2 janw 'qotuk.
   * Paliso 1 tama-li 1 wibale-li zalma 'kodar.
   * Realoda samaglamwe eg 'viqotel.
-  * Samaglamwe wibale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws jasqwe sotwmwe ???????-li kirakwe zad-ka 'zajotuf.
+  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws jasqwe sotwmwe ???????-li kirakwe zad-ka 'zajotuf.
 
 # Twipibnwe
 
