@@ -331,16 +331,16 @@ Fried Potatoes (potatoes that are fried)
 
 ### Gloss
 
-*this-reason equal-GER-ADV FUT cook-3pO-DEP-ADV, match-GER-PL thin-PL resulting_in cut-2S-DEP ensure-IMP.*
+*this-reason equal-GER-ADV FUT cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
 
   * potato 2 pound-DU peel-3dO-IMP-&then strip-PL result_in cut-3dO-IMP.
   * that-time-toward golden-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
 
 ### Perflontus
 
-*Tizov onamas et joduf-kas, atimorwe yajwe eg erizok-ka 'calpem.*
+*Tizov onamas et joduf-kas, atimorwe jalwe eg erizok-ka 'calpem.*
 
-  * Ranu 2 amwlw 'vourmobez-li yajwe eg 'erobok.
+  * Ranu 2 amwlw 'vourmobez-li jalwe eg 'erobok.
   * Albwr-fws ???????-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
 
 ## Ranu Samaglamwe
