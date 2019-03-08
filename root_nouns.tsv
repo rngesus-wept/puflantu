@@ -104,13 +104,13 @@ usonba	land, ground, earth
 itiye	color
 wre	black
 apo	white
-pamono  red
+pamono	red
 emkixa	orange
 amelte	yellow
 colbao	green
 honwze	blue
-emewle  indigo
-siovqi  violet
+emewle	indigo
+siovqi	violet
 
 # Descriptors
 izwfu	old
@@ -235,10 +235,10 @@ ixnogbi	Uranus (tilt-wanderer)
 cwrzogbi	Neptune (ice-wanderer)
 
 # misc exceptional stuff
-zupote tar
-ejo    lake
-ixi    river
-paux   wrong
+zupote	tar
+ejo	lake
+ixi	river
+paux	wrong
 pahamope	mountain
 bethu	bitter
 xwoxe	springs
@@ -284,7 +284,7 @@ egaska	dazzling
 tixuo	heart
 antuho	glue
 mwbe	random
-tiha  light, luminescence
+tiha	light, luminescence
 pekle	crayon
 noigle	circus
 veskepi	ham
