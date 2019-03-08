@@ -31,7 +31,7 @@ go-IMP, dog, go-IMP
 
 wow, the places you'll go  
 wow, FUT go-2S-RO-DEP place-PL  
-o're, et tizolex-ka hanwe
+o're, et tizoryex-ka hanwe
 
 one fish two fish red fish blue fish  
 one fish two fish-DU red fish blue fish  
@@ -39,4 +39,4 @@ uta zwmsi fe zwmsw, pamono zwmsi honwze zwmsi
 
 if I ran the circus  
 this-reason circus CNT manage-1S  
-tidul circus gaq lwmiv
+tidul noigle gaq lwmiv
