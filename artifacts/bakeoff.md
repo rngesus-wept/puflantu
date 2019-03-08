@@ -168,7 +168,7 @@ Eggs on Bread (bread top egg)
 *Wibalwe 'agjeyuf; liswe-li furwnwe zad-ka orcizal.*
 
   * Orlerwe kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
-  * Eyi tanuva tahlo henqos, hompaliso 1 tama 'kurotar.
+  * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
   * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
   * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
   * Albwr wibale realoda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
@@ -204,7 +204,7 @@ Pasta-& Cheese
 *Oma' xolunaqo locho.*
 
   * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
-  * Hompaliso 12 tamwe dahzelo henqos 'kurodar-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
+  * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
   * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
   * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampaliso reraloda ??????-li ?????? zat-kas 'notom.
 
@@ -397,7 +397,7 @@ Cinnamon Rolls
 
 *that cinnamon all differ-GER make-3S.*
   * some-quantity dough (recipe see-IMP) make-3O-IMP.
-  * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-3O-DEP butter use-3O-DEP-ADV cover-3O-IMP.
+  * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-RO-DEP butter use-3O-DEP-ADV cover-3O-IMP.
   * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. dough this-method mix-RES use-3O-DEP-ADV cover-3O-IMP.
   * mix-RES log resulting\_in roll-3sO-IMP. log round-PL resulting\_in slice-3O-IMP. round-PL bake-INS dish interior-toward-ADV put-3pO-IMP.
   * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. dish this-method mix-RES use-3O-DEP-ADV cover-3O-IMP.
@@ -408,6 +408,7 @@ Cinnamon Rolls
 *Iqa atsaro axwe odelesa qatuk.*
 
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk.
+  * Ogje pahi eg 'mohotur-nis tizov karolur-ka hompaliso piotwv-kas 'urmotez.
 
 ## Jarpagomu Kureni
 
