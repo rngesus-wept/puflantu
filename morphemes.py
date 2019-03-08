@@ -189,10 +189,9 @@ class NounLemma(Inflectable):
                       r'\1t\g<0>', main)
     elif klass == 'R':
       main_syl = phones.SyllableSplit(main)
-      if main_syl[1][0] in phones.VOWELS:
-        main_syl[1] = 'r' + main_syl[1]
-      else:
-        main_syl[1] = re.sub(phones.VOWEL_RE, r'ur\g<0>', main_syl[1])
+      addend = 'ur' if (main_syl[0][-1] in phones.CONSONANTS and
+                       main_syl[1][0] in phones.CONSONANTS) else 'r'
+      main_syl[1] = re.sub(phones.VOWEL_RE, addend + r'\g<0>', main_syl[1])
       main = ''.join(main_syl)
 
     return '', proclitics + main, enclitics
@@ -321,5 +320,4 @@ def IterPronounArgs(person=None, number=None, case=None):
 
 if __name__ == '__main__':
   ## For debugging purposes
-  for proclitic, main, enclitic in NounLemma('riqwho', 'drinkable').Inflections(exclude_clitics=True):
-    print(proclitic, main, enclitic)
+  print(NounLemma('swtabxi', 'wine').Inflect(klass='R'))
