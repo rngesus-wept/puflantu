@@ -46,9 +46,8 @@ def TestVerbs(debug=None):
       else:
         verb = morphemes.VerbLemma(root, meaning)
 
-      for _, inflected_verb, _ in verb.Inflections(exclude_clitics=True, debug=debug):
-        if debug:
-          continue
+      for (_, inflected_verb, _), gloss in verb.Inflections(exclude_clitics=True):
+        print('{:<32}{}'.format(inflected_verb, gloss))
         errors += (1 - TestUniqueness(inflected_verb))
         errors += (1 - TestSyllabification(inflected_verb))
         count += 2
@@ -66,9 +65,8 @@ def TestNouns(debug=None):
       root, meaning = line.strip().split('\t')
       noun = morphemes.NounLemma(root, meaning)
 
-      for _, inflected_noun, _ in noun.Inflections(exclude_clitics=True, debug=debug):
-        if debug:
-          continue
+      for (_, inflected_noun, _), gloss in noun.Inflections(exclude_clitics=True, debug=debug):
+        print('{:<32}{}'.format(inflected_noun, gloss))
         errors += (1 - TestUniqueness(inflected_noun))
         errors += (1 - TestSyllabification(inflected_noun))
         count += 2
@@ -97,10 +95,7 @@ def TestClosed(debug=None):
       if not line.strip() or line.startswith('#'):  # comment syntax
         continue
       word, meaning = line.strip().split('\t')
-      if debug:
-        if word.lower() in debug:
-          print('{} -- {}'.format(word.upper(), meaning), file=sys.stderr)
-        continue
+      print('{:<32}{}'.format(word, meaning))
       errors += (1 - TestUniqueness(word))
       errors += (1 - TestSyllabification(word))
       count += 2
@@ -115,10 +110,7 @@ def TestAdverbs(debug=None):
       if not line.strip() or line.startswith('#'):  # comment syntax
         continue
       word, meaning = line.strip().split('\t')
-      if debug:
-        if word.lower() in debug:
-          print('{} -- {}'.format(word.upper(), meaning), file=sys.stderr)
-        continue
+      print('{:<32}{}'.format(word, meaning))
       errors += (1 - TestUniqueness(word))
       errors += (1 - TestSyllabification(word))
       count += 2

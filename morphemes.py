@@ -115,28 +115,24 @@ class VerbLemma(Inflectable):
                             'subject': subject, 'objekt': objekt,
                             'inverted': inverted, }
                   inflected_verb = self.Inflect(**kwargs)
-                  if debug and inflected_verb[1].lower() in debug:
-                    # If the debug target is found, generate and output a gloss
-                    gloss = '+'.join([_ for _ in [
-                        self.gloss, tense, aspect, degree, polarity,
-                        'INV' if inverted else '',
-                        '-'.join(subject), '-'.join(objekt) if objekt else '']
-                                      if _])
-                    print('{} -- {}'.format(inflected_verb[1].upper(), gloss),
-                          file=sys.stderr)
-                  yield inflected_verb
+                  gloss = '+'.join(
+                    [_ for _ in [self.gloss, tense, aspect, degree, polarity,
+                                 'INV' if inverted else '',
+                                 '-'.join(subject), '-'.join(objekt) if objekt else '']
+                     if _])
+                  yield inflected_verb, gloss
 
           if not self.derivative:
             for nounify in NOUN_SUFFIXES:
-              for noun_inflection in NounLemma(
+              semigloss = '+'.join([_ for _ in [self.gloss, 'INV' if inverted else '',
+                                                degree, polarity, 'N', nounify] if _])
+              for noun_inflection, gloss in NounLemma(
                   self.Inflect(inverted=inverted, polarity=polarity,
                                degree=degree, nounify=nounify)[1],
-                  '+'.join([_ for _ in [self.gloss, 'INV' if inverted else '',
-                                        degree, polarity, 'N', nounify] if _]),
-                  derivative=True).Inflections(exclude_clitics=exclude_clitics,
-                                               debug=debug):
+                  semigloss, derivative=True).Inflections(exclude_clitics=exclude_clitics,
+                                                          debug=debug):
                 # Debug targetting for nouns is passed down to the NounLemma layer
-                yield noun_inflection
+                yield noun_inflection, gloss
 
   def SampleInflection(self):
     kwargs = {}
@@ -230,54 +226,41 @@ class NounLemma(Inflectable):
       for klass in NOUN_CLASSES:
         for number in NUMBERS:
           for degree in DEGREES:
+            if degree and 'N' in self.gloss.split('+'):
+              continue
             for possessive in ([] if exclude_clitics else POSSESSIVE):
               kwargs = {'polarity': polarity, 'klass': klass,
                         'number': number, 'possessive': possessive,
                         'degree': degree}
               inflected_noun = self.Inflect(**kwargs)
-              if debug and inflected_noun[1].lower() in debug:
-                # if the debug target is found, generate and output a gloss
-                gloss = '+'.join([_ for _ in [
-                    self.gloss, polarity, klass, number, degree,
-                    'POS' if possessive else '']
-                                  if _])
-                print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
-                      file=sys.stderr)
-              yield inflected_noun
+              gloss = '+'.join(
+                  [_ for _ in [self.gloss, polarity, klass, number, degree,
+                               'POS' if possessive else '']
+                   if _])
+              yield inflected_noun, gloss
           for compare in COMPARISONS:
             kwargs = {'polarity': polarity, 'klass': klass,
                       'number': number, 'compare': compare}
             inflected_noun = self.Inflect(**kwargs)
-            if debug and inflected_noun[1].lower() in debug:
-              # if the debug target is found, generate and output a gloss
-              gloss = '+'.join([_ for _ in [
-                  self.gloss, polarity, klass, number, compare]
-                                if _])
-              print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
-                    file=sys.stderr)
-            yield inflected_noun
+            gloss = '+'.join(
+                [_ for _ in [self.gloss, polarity, klass, number, compare] if _])
+            yield inflected_noun, gloss
       for degree in DEGREES:
+        if degree and 'N' in self.gloss.split('+'):
+          continue
         ## Adverbial
         kwargs = {'polarity': polarity, 'degree': degree}
         inflected_noun = self.Inflect(adverbial=True, **kwargs)
-        if debug and inflected_noun[1].lower() in debug:
-          gloss = '+'.join([_ for _ in [
-              self.gloss, polarity, degree, 'ADV']
-                            if _])
-          print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
-                file=sys.stderr)
-        yield inflected_noun
+        gloss = '+'.join([_ for _ in [self.gloss, polarity, degree, 'ADV'] if _])
+        yield inflected_noun, gloss
       for compare in COMPARISONS:
+        if compare is None:
+          continue
         ## Adverbial
         kwargs = {'polarity': polarity, 'compare': compare}
         inflected_noun = self.Inflect(adverbial=True, **kwargs)
-        if debug and inflected_noun[1].lower() in debug:
-          gloss = '+'.join([_ for _ in [
-              self.gloss, polarity, compare, 'ADV']
-                            if _])
-          print('{} -- {}'.format(inflected_noun[1].upper(), gloss),
-                file=sys.stderr)
-        yield inflected_noun
+        gloss = '+'.join([_ for _ in [self.gloss, polarity, compare, 'ADV'] if _])
+        yield inflected_noun, gloss
 
 
   def SampleInflection(self):
