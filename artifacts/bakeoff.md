@@ -305,9 +305,9 @@ Mashed Potatoes (potatoes that are kneaded)
 
 ### Gloss
 
-*leftover-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+*remain-GER-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
   * potato 2 pound-DU cover-REV-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
-  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
+  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, submerge-REV-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
@@ -358,14 +358,21 @@ Potato Croquettes
 
 ### Gloss
 
-*leftover knead-RpO-DEP potato-PL use-RS-DEP great method*
+*remain-GER-PL knead-RpO-DEP potato-PL use-RS-DEP great method*
 
-  * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP-ior obtain-IMP.
-  * milk 1 tablespoon-& 1 egg-& additional milk 1 tablespoon-& 1 egg-& salt.
-  * mix-RES loaf-DIM-PL resulting_in divide-3pO-IMP.
-  * loaf-DIM-PL egg interior-toward submerge-DIM-3pO-IMP-&then flour interior-toward roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
+  * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP.
+  * milk 1 tablespoon-& 1 egg-& salt add-3pO-IMP.
+  * mix-RES loaf-DIM-PL resulting_in divide-3O-IMP.
+  * loaf-DIM-PL egg interior-ADV submerge-DIM-3pO-IMP-&then flour interior-ADV roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
 
 ### Perflontus
+
+*Topexwe axuhoryox-ka ranwe piatwv-ka wepu zove.*
+
+  * Axuhoryox-ka ranwe (jufzove 'wndak) 2 janw 'qotuk.
+  * Paliso 1 tama-li 1 wibale-li zalma 'kodar.
+  * Realoda samaglamwe eg 'viqotel.
+  * Samaglamwe wibale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws jasqwe sotwmwe ???????-li kirakwe zad-ka 'zajotuf.
 
 # Twipibnwe
 
