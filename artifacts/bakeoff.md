@@ -197,7 +197,7 @@ Pasta-& Cheese
   * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-IMP.
   * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-method whisk use-DEP-ADV add-3O-IMP.
   * milk 6 cup-PL-& cheese 2 pound-DU, this-method whisk use-DEP-ADV add-3pO-IMP.
-  * mix-RES-R bake-INS pan top-ADV pour-3O-IMP-& that-time-toward-ADV cheese-R mix-RES-R bubbly-& golden be-3S-DEP-ADV bake-3O-IMP.
+  * mix-RES-R bake-INS pan top-ADV pour-3O-IMP-& that-time-toward-ADV cheese-R mix-RES-R bubbly-& gold_color be-3S-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
@@ -206,7 +206,7 @@ Pasta-& Cheese
   * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
   * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
   * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
-  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li ?????? zat-kas 'notom.
+  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jintiye zat-kas 'notom.
 
 ## Pitale
 
@@ -334,14 +334,14 @@ Fried Potatoes (potatoes that are fried)
 *this-reason equal-GER-ADV FUT cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
 
   * potato 2 pound-DU peel-3dO-IMP-&then strip-PL result_in cut-3dO-IMP.
-  * that-time-toward golden-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
+  * that-time-toward gold_color-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
 
 ### Perflontus
 
 *Tizov onamas et joduf-kas, atimorwe jalwe eg erizok-ka 'calpem.*
 
   * Ranu 2 amwlw 'vourmobez-li jalwe eg 'erobok.
-  * Albwr-fws ???????-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
+  * Albwr-fws jintiywe-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
 
 ## Ranu Samaglamwe
 
@@ -363,7 +363,7 @@ Potato Croquettes
   * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP.
   * milk 1 tablespoon-& 1 egg-& salt add-3pO-IMP.
   * mix-RES loaf-DIM-PL resulting_in divide-3O-IMP.
-  * loaf-DIM-PL egg-R interior-ADV submerge-DIM-3pO-IMP-&then flour interior-ADV roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
+  * loaf-DIM-PL egg-R interior-ADV submerge-DIM-3pO-IMP-&then flour interior-ADV roll-3pO-IMP. that-time-toward exterior-PL layer-PL gold_color-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
 
 ### Perflontus
 
@@ -372,7 +372,7 @@ Potato Croquettes
   * Axuhoryox-ka ranwe (jufzove 'wndak) 2 janw 'qotuk.
   * Paliso 1 tama-li 1 wibale-li zalma 'kodar.
   * Realoda samaglamwe eg 'viqotel.
-  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws jasqwe sotwmwe ???????-li kirakwe zad-ka 'zajotuf.
+  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws jasqwe sotwmwe jintiywe-li kirakwe zad-ka 'zajotuf.
 
 # Twipibnwe
 
@@ -463,7 +463,7 @@ Oatmeal Peanut Butter Chocolate Cookies
   * sugar 2 cup-DU-& peanut butter 3/4 cup-PL-& butter 1 cup-& salt 4 gram-PL-& yeast 8 gram-PL combine-3pO-IMP.
   * 2 egg-DU add-3pO-IMP.
   * flour 2 cup-DU-& oats 1.5 cup-PL-& chocolate chunk-DIM 340 gram-PL add-3pO-IMP.
-  * mix-RES small-PL loaf-DIM-PL resulting_in divide-3sO-IMP. that-time-toward light-ADV golden-PL be-3pS-DEP bake-3pO-IMP.
+  * mix-RES small-PL loaf-DIM-PL resulting_in divide-3sO-IMP. that-time-toward light-ADV gold_color-PL be-3pS-DEP bake-3pO-IMP.
 
 ### Perflontus
 
@@ -472,7 +472,7 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Twipe 2 janw-li toka hompaliso 3/4 janwe-li hompaliso 1 jano-li zalma 4 guramwe-li laksalfa 12 guramwe 'rulfodob.
   * 2 wibalw 'kobar.
   * Oku 2 janw-li mafke 3/2 janwe-li rotwipe satalne 1324 guramwe 'kodar.
-  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises ????????? zad-ka 'nodom.
+  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises jintiywe zad-ka 'nodom.
 
 # Notes
 
