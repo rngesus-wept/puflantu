@@ -130,7 +130,7 @@ Oatmeal (oats stew)
 *that-method 2-GEN day start-GER great healthy method*
 
   * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
-  * occasional-ADV mix-GER-ADV, mix-RES-R boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
+  * occasional-ADV mix-GER-ADV, mix-RES-R boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP, oatmeal thick FUT become-3S.
 
 ### Perflontus
 
@@ -236,7 +236,7 @@ Pizza
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk-nis tizov mohuraqo gwnde piotwv-kas 'mohotur.
   * Tizov zamgomu sotwma piotwv-kas 'urmotez.
   * Tizov utarai zampaliso sotwma piotwv-kas 'urmotez.
-  * Albwr-kas balorvu sotok-ka 'notom.
+  * Albwr-fws balorvu sotok-ka 'notom.
 
 ## Toka Hompaliso-li Orbili
 
@@ -398,9 +398,9 @@ Cinnamon Rolls
 *that cinnamon all differ-GER make-3S.*
   * some-quantity dough (recipe see-IMP) make-3O-IMP.
   * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-RO-DEP butter use-3O-DEP-ADV cover-3O-IMP.
-  * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. dough this-method mix-RES use-3O-DEP-ADV cover-3O-IMP.
-  * mix-RES log resulting\_in roll-3sO-IMP. log round-PL resulting\_in slice-3O-IMP. round-PL bake-INS dish interior-toward-ADV put-3pO-IMP.
-  * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. dish this-method mix-RES use-3O-DEP-ADV cover-3O-IMP.
+  * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. this-method mix-RES use-3O-DEP-ADV, dough cover-3O-IMP.
+  * mix-RES log resulting\_in roll-3O-IMP. log round-PL resulting\_in cut-3O-IMP. round-PL bake-INS pan interior-toward-ADV put-3pO-IMP.
+  * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. mix-RES-R pan top-ADV pour-3O-IMP.
   * that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
@@ -409,6 +409,10 @@ Cinnamon Rolls
 
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk.
   * Ogje pahi eg 'mohotur-nis tizov karolur-ka hompaliso piotwv-kas 'urmotez.
+  * Atsaro 14 guramwe-li twipe 1/3 janwe 'rulfodob. Tizov realoda 'piotwv-kas, balorvu 'urmotez.
+  * Realoda ogje gwnde eg 'ixotop. Ogje gwnde rwtxwe eg 'erotok. Rwtxwe nomaqo tahlo henqo-fws 'ajoden.
+  * Twipe 1 janu-li hompaliso 23 guramwe-li paliso 12 guramwe 'rulfodob. Reraloda tahlo bedfis 'irotal.
+  * Albwr-fws sodok-kas 'nodom.
 
 ## Jarpagomu Kureni
 
