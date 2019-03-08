@@ -128,14 +128,14 @@ Oatmeal (oats stew)
 *that-method 2-GEN day start-GER great healthy method*
 
   * oats 1/2 cup-& milk 1 cup-& sugar 15 gram-PL-& salt-& cinnamon small pot interior-ADV combine-3pO-IMP.
-  * occasional-ADV mix-GER-ADV, mix-RES boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
+  * occasional-ADV mix-GER-ADV, mix-RES-R boil-3O-DEP cause-IMP-&then, pot heat from-ADV move-IMP. this-reason IMP cool-3O-DEP oatmeal thick FUT become-3S.
 
 ### Perflontus
 
 *Rizo roqa goza wepu kirwge zove.*
 
   * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
-  * Zoxuras realas, realoda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozuro ogje et etataz.
+  * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozuro ogje et etataz.
 
 ## Kolarvu Jide Wibalwe
 
@@ -190,14 +190,21 @@ Pasta-& Cheese
 
 ### Gloss
 
-*good-SUP comfort-??? food*
+*good-SUP comfort-INS food*
 
-  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-DEP.
+  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-IMP.
   * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-method whisk use-DEP-ADV add-3O-IMP.
   * milk 6 cup-PL-& cheese 2 pound-DU, this-method whisk use-DEP-ADV add-3pO-IMP.
-  * mix-RES-R bake-INS pan interior-toward-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-RS-DEP-ADV bake-3O-IMP.
+  * mix-RES-R bake-INS pan top-ADV pour-3O-IMP-& that-time-toward-ADV cheese mix-RES bubbly-& golden be-3S-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
+
+*Oma' xolunaqo locho.*
+
+  * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
+  * Hompaliso 12 tamwe dahzelo henqos 'kurodar-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
+  * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
+  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampaliso reraloda ??????-li ?????? zat-kas 'notom.
 
 ## Pitale
 
@@ -214,13 +221,20 @@ Pizza
 
 ### Gloss
 
-*shape-PL-& top-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
+*shape-PL-& cover-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
   * some-quantity dough (recipe see-IMP) make-IMP-&then, this-method flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
   * this-method tomato layer use-3O-DEP-ADV cover-3O-IMP
   * this-method another cheese layer use-3O-DEP-ADV cover-3O-IMP
   * that-time-toward dough finish-3O-DEP-ADV bake-3O-IMP
 
 ### Perflontus
+
+*Malavwe-li urmezaqwe huqodyova 'baceyev.*
+
+  * Orlerwe balorvu (jufzove 'wndak) 'qotuk-nis tizov mohuraqo gwnde piotwv-kas 'mohotur.
+  * Tizov zamgomu sotwma piotwv-kas 'urmotez.
+  * Tizov utarai zampaliso sotwma piotwv-kas 'urmotez.
+  * Albwr-kas balorvu sotok-ka 'notom.
 
 ## Toka Hompaliso-li Orbili
 
@@ -235,11 +249,14 @@ Peanut Butter-& Jelly
 
 ### Gloss
 
-*selective-SUP-PL palate-PL possess-RpS-DEP adult-PL [solely for]*
+*selective-SUP-PL tongue-PL possess-RpS-DEP adult-PL sole_ADV for_recipient*
+
   * some-quantity bread (recipe see-IMP) make-IMP-&then slice-PL resulting_in cut-3O-IMP.
   * jelly (recipe see-IMP) one slice at-ADV apply-3O-IMP. peanut butter other slice toward-ADV add-3O-IMP. slice-DU combine-3dO-IMP.
 
 ### Perflontus
+
+*Tolorca'we eyosfwe qaryun-ka pexwe ityas ziyu.*
 
 # Fevi Wlocafwe
 
