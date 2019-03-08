@@ -422,19 +422,26 @@ Pumpkin Pie
 
 *Feel free to make this any time of year.*
   * Obtain some sugar dough (see recipe). Roll out with a rolling pin into a circle, and put in a baking dish.
-  * Combine 5g salt, 10g cinnamon, 5g nutmeg, and 1g cloves (to form pumpkin pie spice).
+  * Combine 5g salt, 10g cinnamon, 5g nutmeg, and 1g cloves (to form pumpkin pie spice). Combine that with 1 cup sugar and 8g flour.
   * Add 3 eggs, 500g pumpkin, and 250g cream, and mix together.
   * Pour the mixture into the dish. Bake until the filling is cooked.
 
 ### Gloss
 
-*year any-time-ADV make-3O-GER hesitate-NEG-IMP.*
-  * some-quantity sugar dough (recipe see-IMP) make-IMP. this-method flatten-INS rod use-3O-DEP-ADV, circle resulting_in flatten-3O-IMP-& bake-INS dish interior-toward-ADV put-3O-IMP.
+*this year any-time make-3O-GER hesitate-NEG-IMP.*
+  * some-quantity sugar dough (recipe see-IMP) make-IMP. this-method flatten-INS rod use-3O-DEP-ADV, circle resulting_in flatten-3O-IMP-& bake-INS pan interior-toward-ADV put-3O-IMP.
   * salt 5 gram-PL-& cinnamon 10 gram-PL-& nutmeg 5 gram-PL-& cloves 1 gram combine-3pO-IMP. (pumpkin spice this-method make-3O.)
-  * 3 egg-PL-& pumpkin 500 gram-PL-& cream 250 gram-PL add-3pO-IMP-& together mix-3pO-IMP.
-  * mix-RES dish interior-toward-ADV pour-3O-IMP. that-time-toward fill-INS finish-3O-DEP-ADV bake-3O-IMP.
+  * 3 egg-PL-& pumpkin 500 gram-PL-& cream 250 gram-PL add-3pO-IMP-& together mix-3O-IMP.
+  * mix-RES-R dish interior-toward-ADV pour-3O-IMP. that-time-toward fill-INS finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
+
+*eta aneyo velbwr qotuka 'baceyev.*
+
+  * Orlerwe twipe balorvu (jufzove 'wndak) 'qotuk. Tizov mohuraqo gwnde piotwv-kas, rwtxo eg 'mohotur-lis nomaqo tahlo henqo-fws 'ajoten.
+  * Zalma 5 guramwe-li atsaro 14 guramwe-li ewsaro 1 guramu 'rulfodob. (Ita realoda "jarpagomu kureni saro" zat.) Realoda-li twipe 1 jano-li oku 12 guramwe 'rulfodob.
+  * 3 wibalwe-li jarpagom 2512 guramwe-li pampaliso 1054 guramwe 'kodar-lis jiay 'reotal.
+  * Reraloda tahlo henqo-fws 'enxotaq. Albwr-fws ombuqaqo sotok-kas 'notom.
 
 ## Mafke Ozuro-li Toka Hompaliso-li Rotwipe Torelwe
 
