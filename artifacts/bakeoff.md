@@ -1,3 +1,5 @@
+**A booklet with slightly greasy pages. The cover says: "Wepu Puflantu Noma-Ji'saga (Feru Qoqra)".**
+
 # Rulfobafwe
 
 Components (combine-PAT-PL)
@@ -259,7 +261,7 @@ Peanut Butter-& Jelly
 *Tolorca'we eyosfwe qaryun-ka pexwe ityas ziyu.*
 
   * Orlerwe kolarve (jufzove 'wndak) 'qotuk-nis pahwe eg 'erotok.
-  * Orbili (jufzove 'wndak) uta pahi tis
+  * Orbili (jufzove 'wndak) uta pahi tis 'dotab. Toka hompaliso rai pahi-fws 'kotar. Pahw 'rulfobob.
 
 # Fevi Wlocafwe
 
@@ -278,11 +280,16 @@ Bread
 
 ### Gloss
 
-*Perfect-ADV soft-& fluffy, this loaf ????????? FUT exist-3S-NEG.*
+*Perfect-ADV soft-& cloud, this loaf that-time interior-ADV know-2S-3O-DEP-ADV FUT exist-3S-NEG.*
   * dough recipe do-IMP-but butter 1/4 cup-PL-& sugar 1/8 cup-PL also-ADV incorporate-3pO-IMP.
-  * loaf resulting_in shape-3O-IMP-& bake-INS pan interior-toward put-3O-IMP. that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
+  * loaf resulting_in shape-3O-IMP-& bake-INS pan interior-toward put-3O-IMP. that-time-toward-ADV finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
+
+*Omezes exuri-li furwne, ita maglame alhan henqos gizotir-kas et jateyif.*
+
+  * Balorvu jufzove 'yotad-dis hompaliso 1/4 janwe-li twipe 1/12 janwe-li karkas 'rulfodob.
+  * Maglame eg 'radotok-lis nomaqo tahlo henqo-fws 'ajoten. Albwr-fws sotok-kas 'notom.
 
 ## Axuhoryox-ka Ranwe
 
@@ -299,11 +306,17 @@ Mashed Potatoes (potatoes that are kneaded)
 ### Gloss
 
 *leftover-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
-  * potato 2 pound-DU peel-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
-  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then knead-3pO-IMP.
+  * potato 2 pound-DU cover-REV-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
+  * this-method water use-3O-DEP-ADV boil-3pO-IMP-&then, drain-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
+
+*Topexa locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*
+
+  * Ranu 2 amwlw 'vourmobez-li talnwe eg 'erobok.
+  * Tizov enxura piotwv-kas 'lirodwb-nis, 'voenxodaq-nis, velqegsos 'axuhodox.
+  * Hompaliso 2 tamw-li paliso 1 jano-li zalma henqos 'reodal.
 
 ## Zajoryuf-ka Ranwe
 
@@ -318,12 +331,17 @@ Fried Potatoes (potatoes that are fried)
 
 ### Gloss
 
-*this-reason equal-GER-ADV cook-3pO-DEP-ADV, match-GER-PL strip-PL resulting_in cut-2S-DEP ensure-IMP.*
+*this-reason equal-GER-ADV FUT cook-3pO-DEP-ADV, match-GER-PL thin-PL resulting_in cut-2S-DEP ensure-IMP.*
 
   * potato 2 pound-DU peel-3dO-IMP-&then strip-PL result_in cut-3dO-IMP.
   * that-time-toward golden-PL-& crispy-PL be-3pS-DEP-ADV fry-3pO-IMP. salt add-IMP.
 
 ### Perflontus
+
+*Tizov onamas et joduf-kas, atimorwe yajwe eg erizok-ka 'calpem.*
+
+  * Ranu 2 amwlw 'vourmobez-li yajwe eg 'erobok.
+  * Albwr-fws ???????-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
 
 ## Ranu Samaglamwe
 
@@ -345,7 +363,7 @@ Potato Croquettes
   * knead-RpO-DEP potato-PL (recipe see-IMP) 2 cup-PL make-IMP-ior obtain-IMP.
   * milk 1 tablespoon-& 1 egg-& additional milk 1 tablespoon-& 1 egg-& salt.
   * mix-RES loaf-DIM-PL resulting_in divide-3pO-IMP.
-  * loaf-DIM-PL egg interior-toward dip-3pO-IMP-&then flour interior-toward roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
+  * loaf-DIM-PL egg interior-toward submerge-DIM-3pO-IMP-&then flour interior-toward roll-3pO-IMP. that-time-toward exterior-PL layer-PL golden-PL-& crispy-PL be-3pS-DEP fry-3pO-IMP.
 
 ### Perflontus
 
@@ -353,7 +371,7 @@ Potato Croquettes
 
 Desserts
 
-## Atsarwe ???
+## Atsarwe Ixopkwe
 
 Cinnamon Rolls
 
@@ -370,7 +388,7 @@ Cinnamon Rolls
 
 ### Gloss
 
-*that cinnamon differ-GER all make-3S.*
+*that cinnamon all differ-GER make-3S.*
   * some-quantity dough (recipe see-IMP) make-3O-IMP.
   * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-3O-DEP butter use-3O-DEP-ADV cover-3O-IMP.
   * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. dough this-method mix-RES use-3O-DEP-ADV cover-3O-IMP.
@@ -379,6 +397,10 @@ Cinnamon Rolls
   * that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
+
+*Iqa atsaro axwe odelesa qatuk.*
+
+  * Orlerwe balorvu (jufzove 'wndak) 'qotuk.
 
 ## Jarpagomu Kureni
 
