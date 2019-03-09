@@ -26,7 +26,7 @@ breakfast cocaine,
 
 Tibwr 'sumen, albwr jwmeyif-ka, ~~ris~~ **fe** 'sumen  
 Ris 'sumen, ris 'sumen,  
-Meyapa, meyapa, meyapa, meyapa  
+Meyapa, meyapa, meyapa, meyapa
 
 Rotwe obwu vomfe  
 Dunse henqos arkahwmut  
@@ -72,7 +72,7 @@ Mwbes et qobwnur
 So much to do, so much to see ("see" turns into "five")  
 So what's wrong with taking the back streets?  
 You'll never know if you don't go  
-You'll never shine if you don't glow  
+You'll never shine if you don't glow
 
 ### Gloss
 
@@ -83,7 +83,7 @@ this-reason light-T HYP emit-2S-NEG-DEP light-T no-time FUT reflect-2S-NEG
 
 ### Perflontus
 
-Et yolad-ka ogi, et molid-ka ogi,
+Et yolad-ka ogi, et molid-ka ogi,  
 ?????????????? piwva ????? aldul zat na?  
 Yebwr et gizeyir tidul fel tizeyex-kas  
 Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
@@ -94,7 +94,7 @@ Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 Don't leave the keys in the door ("door" becomes "seven")  
 I never put wet towels on the floor anymore 'cause  
 Dreams last for so long  
-Even after you're gone"  
+Even after you're gone"
 
 ### Gloss
 
@@ -102,7 +102,7 @@ spot-PL mirror from-ADV wipe-1S
 key-PL door in-ADV leave-1S-NEG-IMP  
 no-time wet towel-PL floor on-ADV put-1S  
 this-reason dream-PL some-time last-3pS-DEP  
-that-time exterior-ADV this-place be_located-2S-NEG-DEP  
+that-time exterior-ADV this-place be_located-2S-NEG-DEP
 
 ### Perflontus
 
@@ -111,14 +111,14 @@ that-time exterior-ADV this-place be_located-2S-NEG-DEP
 "Would you choose water over wine  
 Hold the wheel and drive? ("drive" becomes "two")  
 Whatever tomorrow brings  
-I'll be there with open arms and open eyes"  
+I'll be there with open arms and open eyes"
 
 ### Gloss
 
 water-R choose-2S-3O-FUT-HYP-than much-R-CMP wine-R choose-2S-FUT-HYP ?  
 wheel hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?  
 any-thing tomorrow-3S bring-3S-FUT-HYP  
-open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT  
+open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT
 
 ### Perflontus
 
@@ -127,38 +127,38 @@ open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT
 "All the other kids with the pumped up kicks ("kicks" becomes "eight")  
 You'd better run, better run, out run my gun  
 All the other kids with the pumped up kicks  
-You'd better run, better run, faster than my bullet"  
+You'd better run, better run, faster than my bullet"
 
 ### Gloss
 
 augmented shoe_colloquial-PL -DEP ??? Kids,  
 run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP  
 augmented shoe_colloquial-PL -DEP ??? Kids,  
-run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP  
+run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP
 
 ### Perflontus
 
 ## Entry 7
 
-"Baby, you're all that I want
-When you're lyin' here in my arms
-I'm findin' it hard to believe
-We're in heaven" ("heaven" becomes "five")  
+"Baby, you're all that I want  
+When you're lyin' here in my arms  
+I'm findin' it hard to believe  
+We're in heaven" ("heaven" becomes "five")
 
 ### Gloss
 Baby, want-1S-RO-DEP-ADV all be-2S  
-that-time this-place 1S-GEN arms between-ADV lie-2S-DEP
-believe-3O-GER struggle-1S
+that-time this-place 1S-GEN arms between-ADV lie-2S-DEP  
+believe-3O-GER struggle-1S  
 heaven interior-ADV be-2S
 
 ### Perflontus
 
 ## Entry 8
 
-"You and I
+You and I  
 I know that we can't wait ("wait" becomes "nine")  
-And I swear, I swear it's not a lie girl
-Tomorrow may be too late"
+And I swear, I swear it's not a lie girl  
+Tomorrow may be too late
 
 ### Gloss
 
@@ -172,31 +172,31 @@ tomorrow too late HYP be-GER
 ## Entry 9
 
 Call me on the line ("line" becomes "two")  
-Call me, call me any, anytime
-Call me my love
+Call me, call me any, anytime  
+Call me my love  
 You can call me any day or night
 
 ### Gloss
 
 line on call-1O-IMP  
-call-1O-IMP, any anytime call-1O-imp
+call-1O-IMP, any anytime call-1O-imp  
 1S-GEN love-PAT, call-1O-IMP  
-any day-or any night call-GER-1O may-2S  
+any day-or any night call-GER-1O may-2S
 
 ### Perflontus
 
 ## Entry 10
 
-It's in the stars
-It's still written in the scars on our hearts
-That we're not broken just bent
-And we can learn to love again" ("again" becomes "one")  
+It's in the stars  
+It's still written in the scars on our hearts  
+That we're not broken just bent  
+And we can learn to love again" ("again" becomes "one")
 
 ### Gloss
 
-stars among locate-3S
-1dS-GEN heart-DU on scar-PL among PRF write-3O
-break-DEP-NEG-1pO, just bend-DEP-NEG-1pO
+stars among locate-3S  
+1dS-GEN heart-DU on scar-PL among PRF write-3O  
+break-DEP-NEG-1pO, just bend-DEP-NEG-1pO  
 and again love-GER learn-GER can-1pS
 
 
