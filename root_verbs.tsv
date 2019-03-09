@@ -66,18 +66,16 @@ lirwb	boil
 fumub	combust
 # volir	cool
 erok	cut
-zajuf	fry
+sevug	fix, repair
 lir	heat
 vunod	ignite
 rulfob	incorporate, combine
 umav	inflate
-axuhox	knead
 real	mix
 mohur	press, flatten
 dobis	rest, sit
 ixop	roll, move by rotating
 radok	shape, mold, form
-kohan	toast
 
 # Physical
 hinal	dance
@@ -89,9 +87,14 @@ falok	walk
 
 # Domestic
 capil	arrive
+kworem	wear, don
+
+# Culinary
 nom	bake
 juf	cook
-kworem	wear, don
+zajuf	fry
+kohan	toast
+axuhox	knead
 
 # Social
 iktojit	forgive
