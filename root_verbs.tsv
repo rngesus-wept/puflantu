@@ -15,12 +15,9 @@ yad	do, perform
 sok	end, finish
 onam	equal
 pog	give
-tex	go
 mwen	hold, contain
 quk	make, produce
 atimor	match, correspond
-nib	move (intrans.)
-neb	move (trans.)
 qun	possess, own
 ajen	put
 yit	receive
@@ -28,6 +25,14 @@ rwgex	save, conserve
 siveg	show, demonstrate
 goz	start, begin
 piwv	use
+
+# Movement
+paj	arrive
+tex	go
+lay	leave
+nib	move (intrans.)
+neb	move (trans.)
+# volay	return
 
 # Intellectual
 tol	choose, select

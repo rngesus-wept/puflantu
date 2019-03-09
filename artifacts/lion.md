@@ -57,17 +57,17 @@ inhale-GER-toward-ADV help-1O-IMP-&
 this-method use-2O-DEP-ADV mend-3O-IMP  
 random-ADV FUT float-1dS  
 -& cloud-PL top-ADV hang_out-1dS  
--then down FUT come-1dS
+-then downward-ADV FUT return-1dS
 
 ### Perflontus
 
 Juyolun rwmo tixuo zat  
 -Dis orvo ~~antuho~~ **ne** qwmun  
-????????????????????????????  
-????????????????????????????  
+Henhiena-fws 'esuwmil  
+-Lis tizov piezov-kas 'sevotug  
 Mwbes et qobwnur  
 -Lis furwnwe bedfis zamwnoc  
--Dis ?????? et ???????
+-Dis vaxfws et volwnay
 
 ## Entry 3
 
@@ -238,4 +238,5 @@ and again love-GER learn-GER can-1pS
 
 # Notes
 
-  * Entry 2 features an incorrect participle for "My heart is broke"; Perflontus uses `juyolun` instead of `juyolun-ka`.
+  * Entry 2 features an incorrect participle for "My heart is broke"; Perflontus
+    uses `juyolun` instead of `juyolun-ka`.
