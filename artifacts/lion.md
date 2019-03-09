@@ -1,5 +1,7 @@
 ## Entry 1
 
+Novacane (Frank Ocean)
+
 ### English
 
 Love me now, when I'm gone, love me none ("none" turns into "two")  
@@ -35,6 +37,8 @@ Utaru kolarvu kokeini
 
 ## Entry 2
 
+Dumb (Nirvana)
+
 ### English
 
 My heart is broke  
@@ -67,6 +71,8 @@ Mwbes et qobwnur
 
 ## Entry 3
 
+All Star (Smash Mouth)
+
 ### English
 
 So much to do, so much to see ("see" turns into "five")  
@@ -90,11 +96,15 @@ Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
 ## Entry 4
 
-"I wipe the spots off the mirror  
+You Were Meant For Me (Jewel)
+
+### English
+
+I wipe the spots off the mirror  
 Don't leave the keys in the door ("door" becomes "seven")  
 I never put wet towels on the floor anymore 'cause  
 Dreams last for so long  
-Even after you're gone"
+Even after you're gone
 
 ### Gloss
 
@@ -108,10 +118,14 @@ that-time exterior-ADV this-place be_located-2S-NEG-DEP
 
 ## Entry 5
 
-"Would you choose water over wine  
+Drive (Incubus)
+
+### English
+
+Would you choose water over wine  
 Hold the wheel and drive? ("drive" becomes "two")  
 Whatever tomorrow brings  
-I'll be there with open arms and open eyes"
+I'll be there with open arms and open eyes
 
 ### Gloss
 
@@ -123,6 +137,10 @@ open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT
 ### Perflontus
 
 ## Entry 6
+
+Pumped Up Kicks (Foster the People)
+
+### English
 
 "All the other kids with the pumped up kicks ("kicks" becomes "eight")  
 You'd better run, better run, out run my gun  
@@ -140,10 +158,14 @@ run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP
 
 ## Entry 7
 
-"Baby, you're all that I want  
+Heaven (DJ Sammy)
+
+### English
+
+Baby, you're all that I want  
 When you're lyin' here in my arms  
 I'm findin' it hard to believe  
-We're in heaven" ("heaven" becomes "five")
+We're in heaven ("heaven" becomes "five")
 
 ### Gloss
 Baby, want-1S-RO-DEP-ADV all be-2S  
@@ -154,6 +176,10 @@ heaven interior-ADV be-2S
 ### Perflontus
 
 ## Entry 8
+
+Amanda (Boston)
+
+### English
 
 You and I  
 I know that we can't wait ("wait" becomes "nine")  
@@ -171,6 +197,10 @@ tomorrow too late HYP be-GER
 
 ## Entry 9
 
+Call Me (Blondie)
+
+### English
+
 Call me on the line ("line" becomes "two")  
 Call me, call me any, anytime  
 Call me my love  
@@ -186,6 +216,10 @@ any day-or any night call-GER-1O may-2S
 ### Perflontus
 
 ## Entry 10
+
+The Truth about Love (P!nk)
+
+### English
 
 It's in the stars  
 It's still written in the scars on our hearts  
