@@ -10,6 +10,13 @@ This artifact should be presented after Falcon meta is solved.
 
 ## Text
 
+* Stabilizer arms
+* Parabolic mirror
+* Emits light
+* Mirror reflects light
+* Light rays
+* Light leaves in parallel rays
+
 Plan for RLB52 Satellite Transmitter
 
 This satellite emits light in wavelengths from X to Y [unit of length]. The light is reflected by a parabolic mirror. It leaves the satellite as a focused signal in parallel rays. 
