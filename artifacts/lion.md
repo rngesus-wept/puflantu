@@ -61,7 +61,7 @@ random-ADV FUT float-1dS
 
 ### Perflontus
 
-Juyolun rwmo tixuo zat  
+Juyolun rwmo tixro zat  
 -Dis orvo ~~antuho~~ **ne** qwmun  
 Henhiena-fws 'esuwmil  
 -Lis tizov piezov-kas 'sevotug  
