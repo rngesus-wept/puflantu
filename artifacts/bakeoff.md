@@ -139,7 +139,7 @@ Oatmeal (oats stew)
   * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
   * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozro ogje et etataz.
 
-## Kolarvu Jide Wibalwe
+## Kolarvu Bedfi Wibalwe
 
 Eggs on Bread (bread top egg)
 
@@ -171,7 +171,7 @@ Eggs on Bread (bread top egg)
   * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
   * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
   * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
-  * Albwr wibale reraloda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
+  * Albwr wibale reraloda dag sotok-kas, 'viqotel-lis kolarvwe pahwe bedfis 'ajoten.
 
 # Utavi Wlocafwe
 
