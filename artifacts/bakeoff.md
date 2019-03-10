@@ -173,7 +173,7 @@ Eggs on Bread (bread top egg)
   * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
   * Albwr wibale reraloda dag sotok-kas, 'viqotel-lis kolarvwe pahwe bedfis 'ajoten.
 
-# Utavi Wlocafwe
+# Utavi Locho
 
 Entrees
 
@@ -263,7 +263,7 @@ Peanut Butter-& Jelly
   * Orlerwe kolarve (jufzove 'wndak) 'qotuk-nis pahwe eg 'erotok.
   * Orburili (jufzove 'wndak) uta pahi tis 'dotab. Toka hompaliso rai pahi-fws 'kotar. Pahw 'rulfobob.
 
-# Fevi Wlocafwe
+# Fevi Locho
 
 Side Dishes
 
@@ -305,14 +305,14 @@ Mashed Potatoes (potatoes that are kneaded)
 
 ### Gloss
 
-*remain-GER-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+*remain-RO-DEP food worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
   * potato 2 pound-DU cover-REV-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
   * this-method water-R use-3O-DEP-ADV boil-3pO-IMP-&then, submerge-REV-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
 
-*Topexa locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*
+*Topolex-ka locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*
 
   * Ranu 2 amwlw 'vourmobez-li talnwe eg 'erobok.
   * Tizov enxura piotwv-kas 'lirodwb-nis, 'voenxodaq-nis, velqegsos 'axuhodox.
