@@ -83,14 +83,14 @@ You'll never shine if you don't glow
 ### Gloss
 
 FUT do-RO-DEP much, FUT see-RO-DEP much  
-secondary-PL street-PL use-GER what-reason be_correct-3S-NEG ?  
+secondary-PL street-PL use-GER wrong what-reason be-3S ?  
 this-reason HYP go-2S-NEG-DEP no-time FUT know-2S-NEG  
 this-reason light-T HYP emit-2S-NEG-DEP light-T no-time FUT reflect-2S-NEG
 
 ### Perflontus
 
 Et yolad-ka ogi, et ~~molid-ka~~ **nole-ka** ogi,  
-Fevwe zovalwe piwva wdul alatwc na  
+Fevwe zovalwe piwva paxu wdul zat na  
 Yebwr et gizeyir tidul fel tizeyex-kas  
 Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
@@ -109,15 +109,18 @@ Even after you're gone
 ### Gloss
 
 spot-PL mirror from-ADV wipe-1S  
-key-PL door in-ADV leave-1S-NEG-IMP  
-wet towel-PL floor on-ADV no-time put-1S-NEG  
-this-reason dream-PL some-time last-3pS-DEP  
-that-time exterior-ADV this-place be_located-2S-NEG-DEP
+key-PL door in-ADV leave-NEG-IMP  
+wet-PL towel-PL floor on-ADV no-time put-1S-NEG (*anymore??*)  
+this-reason dream-PL some-time leave-3pO-DEP  
+that-time exterior-ADV exist-2S-NEG-DEP-ADV continue-3pS
 
 ### Perflontus
 
 Lobwe evave-cws xirwmef  
-dizpwe ~~taklo~~ **saqta** henqos 
+dizpwe ~~taklo~~ **saqta** henqos 'topeyex  
+enxombwe ofrwdwe yojre bedqos yebwr ajwmeyen  
+tidul tixorcwe agwris topodex-ka  
+albwr jasqos jizeyif-kas binpadan
 
 ## Entry 5
 
@@ -132,12 +135,17 @@ I'll be there with open arms and open eyes
 
 ### Gloss
 
-water-R choose-2S-3O-FUT-HYP-than much-R-CMP wine-R choose-2S-FUT-HYP ?  
+wine-R water-R FUT-HYP choose-2S-than much-ADV-CMP FUT-HYP choose-2S ?  
 wheel hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?  
-any-thing tomorrow-3S bring-3S-FUT-HYP  
-open arm-PL-and open eye-PL-DEP that-place-ADV be_located-1S-FUT
+any-thing tomorrow bring-3S-FUT-HYP  
+open arm-PL-and open eye-PL with FUT meet-1S-3O
 
 ### Perflontus
+
+Tinri enxura etfel tizol-sos ogis' etfel tizol na?  
+Ixopfe etfel mwizen-lis etfel otizij na?  
+Podropa veli et mwatolen-kas  
+Nicwe xopswe-li nicwe midswe wli et qekwmatad
 
 ## Entry 6
 
