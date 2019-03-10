@@ -139,7 +139,7 @@ Oatmeal (oats stew)
   * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
   * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozro ogje et etataz.
 
-## Kolarvu Jide Wibalwe
+## Kolarvu Bedfi Wibalwe
 
 Eggs on Bread (bread top egg)
 
@@ -171,9 +171,9 @@ Eggs on Bread (bread top egg)
   * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
   * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
   * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
-  * Albwr wibale reraloda dag sotok-kas, 'viqotel-lis kolarvwe pahwe jide-fws 'ajoten.
+  * Albwr wibale reraloda dag sotok-kas, 'viqotel-lis kolarvwe pahwe bedfis 'ajoten.
 
-# Utavi Wlocafwe
+# Utavi Locho
 
 Entrees
 
@@ -263,7 +263,7 @@ Peanut Butter-& Jelly
   * Orlerwe kolarve (jufzove 'wndak) 'qotuk-nis pahwe eg 'erotok.
   * Orburili (jufzove 'wndak) uta pahi tis 'dotab. Toka hompaliso rai pahi-fws 'kotar. Pahw 'rulfobob.
 
-# Fevi Wlocafwe
+# Fevi Locho
 
 Side Dishes
 
@@ -305,14 +305,14 @@ Mashed Potatoes (potatoes that are kneaded)
 
 ### Gloss
 
-*remain-GER-PL worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
+*remain-RO-DEP food worry-2O-NEG; this-method any-amount HYP possess-2S-DEP-ADV, potato loaf-DIM-PL make-GER can-2S.*
   * potato 2 pound-DU cover-REV-3dO-IMP-& chunk-PL resulting_in cut-3dO-IMP.
   * this-method water-R use-3O-DEP-ADV boil-3pO-IMP-&then, submerge-REV-3pO-IMP-&then thorough-ADV knead-3pO-IMP.
   * butter 2 tablespoon-DU-& milk 1 cup-& salt add-3pO-IMP.
 
 ### Perflontus
 
-*Topexa locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*
+*Topolex-ka locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*
 
   * Ranu 2 amwlw 'vourmobez-li talnwe eg 'erobok.
   * Tizov enxura piotwv-kas 'lirodwb-nis, 'voenxodaq-nis, velqegsos 'axuhodox.
@@ -399,8 +399,8 @@ Cinnamon Rolls
   * some-quantity dough (recipe see-IMP) make-3O-IMP.
   * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-RO-DEP butter use-3O-DEP-ADV cover-3O-IMP.
   * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. this-method mix-RES use-3O-DEP-ADV, dough cover-3O-IMP.
-  * mix-RES log resulting\_in roll-3O-IMP. log round-PL resulting\_in cut-3O-IMP. round-PL bake-INS pan interior-toward-ADV put-3pO-IMP.
-  * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. mix-RES-R pan top-ADV pour-3O-IMP.
+  * mix-RES log resulting\_in roll-3O-IMP. log round-PL resulting\_in cut-3O-IMP. round-PL bake-INS dish interior-toward-ADV put-3pO-IMP.
+  * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. mix-RES-R dish top-ADV pour-3O-IMP.
   * that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
@@ -410,8 +410,8 @@ Cinnamon Rolls
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk.
   * Ogje pahi eg 'mohotur-nis tizov karolur-ka hompaliso piotwv-kas 'urmotez.
   * Atsaro 14 guramwe-li twipe 1/3 janwe 'rulfodob. Tizov realoda 'piotwv-kas, balorvu 'urmotez.
-  * Realoda ogje gwnde eg 'ixotop. Ogje gwnde rwtxwe eg 'erotok. Rwtxwe nomaqo tahlo henqo-fws 'ajoden.
-  * Twipe 1 janu-li hompaliso 23 guramwe-li paliso 12 guramwe 'rulfodob. Reraloda tahlo bedfis 'irotal.
+  * Realoda ogje gwnde eg 'ixotop. Ogje gwnde rwtxwe eg 'erotok. Rwtxwe nomaqo rote henqo-fws 'ajoden.
+  * Twipe 1 janu-li hompaliso 23 guramwe-li paliso 12 guramwe 'rulfodob. Reraloda rote bedfis 'irotal.
   * Albwr-fws sodok-kas 'nodom.
 
 ## Jarpagomu Kureni
@@ -429,7 +429,7 @@ Pumpkin Pie
 ### Gloss
 
 *this year any-time make-3O-GER hesitate-NEG-IMP.*
-  * some-quantity sugar dough (recipe see-IMP) make-IMP. this-method flatten-INS rod use-3O-DEP-ADV, circle resulting_in flatten-3O-IMP-& bake-INS pan interior-toward-ADV put-3O-IMP.
+  * some-quantity sugar dough (recipe see-IMP) make-IMP. this-method flatten-INS rod use-3O-DEP-ADV, circle resulting_in flatten-3O-IMP-& bake-INS dish interior-toward-ADV put-3O-IMP.
   * salt 5 gram-PL-& cinnamon 10 gram-PL-& nutmeg 5 gram-PL-& cloves 1 gram combine-3pO-IMP. (pumpkin spice this-method make-3O.)
   * 3 egg-PL-& pumpkin 500 gram-PL-& cream 250 gram-PL add-3pO-IMP-& together mix-3O-IMP.
   * mix-RES-R dish interior-toward-ADV pour-3O-IMP. that-time-toward fill-INS finish-3O-DEP-ADV bake-3O-IMP.
@@ -438,10 +438,10 @@ Pumpkin Pie
 
 *eta aneyo velbwr qotuka 'baceyev.*
 
-  * Orlerwe twipe balorvu (jufzove 'wndak) 'qotuk. Tizov mohuraqo gwnde piotwv-kas, rwtxo eg 'mohotur-lis nomaqo tahlo henqo-fws 'ajoten.
+  * Orlerwe twipe balorvu (jufzove 'wndak) 'qotuk. Tizov mohuraqo gwnde piotwv-kas, rwtxo eg 'mohotur-lis nomaqo rote henqo-fws 'ajoten.
   * Zalma 5 guramwe-li atsaro 14 guramwe-li ewsaro 1 guramu 'rulfodob. (Ita realoda "jarpagomu kureni saro" zat.) Realoda-li twipe 1 jano-li oku 12 guramwe 'rulfodob.
   * 3 wibalwe-li jarpagom 2512 guramwe-li pampaliso 1054 guramwe 'kodar-lis jiay 'reotal.
-  * Reraloda tahlo henqo-fws 'enxotaq. Albwr-fws ombuqaqo sotok-kas 'notom.
+  * Reraloda rote henqo-fws 'enxotaq. Albwr-fws ombuqaqo sotok-kas 'notom.
 
 ## Mafke Ozuro-li Toka Hompaliso-li Rotwipe Torelwe
 
