@@ -188,13 +188,14 @@ We're in heaven ("heaven" becomes "five")
 sugar-DIM, want-1S-RO-DEP-ADV all be-2S  
 that-time this-place 1S-GEN arm-PL between-ADV rest-2S-DEP  
 believe-3O-GER struggle-1S  
-heaven interior-ADV be-2S
+heaven interior-ADV be_located-2S
 
 ### Perflontus
 
 satwipe, orcwmolal-kas axwe ziz  
 albwr this-place rwmo mwnswe dokfes dobizis-ka  
-tixmotapa 
+tixmotapa kavwmex  
+~~janari~~ **ne** henqos zwyif
 
 ## Entry 8
 
@@ -215,6 +216,10 @@ and swear-1S, false be-NEG-3S-DEP, swear-1S, girl
 tomorrow too late HYP be-GER 
 
 ### Perflontus
+
+Iz-li wm  
+~~baceva~~ **saqpai** merwneyin-ka gwmir  
+Fedwman, ywmi
 
 ## Entry 9
 
