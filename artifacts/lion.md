@@ -137,7 +137,7 @@ I'll be there with open arms and open eyes
 
 wine-R water-R FUT-HYP choose-2S-than much-ADV-CMP FUT-HYP choose-2S ?  
 wheel hold-2S-FUT-HYP-and drive-2S-FUT-HYP ?  
-any-thing tomorrow bring-3S-FUT-HYP  
+any-thing tomorrow FUT bring-3S  
 open arm-PL-and open eye-PL with FUT meet-1S-3O
 
 ### Perflontus
@@ -160,12 +160,17 @@ You'd better run, better run, faster than my bullet"
 
 ### Gloss
 
-augmented shoe_colloquial-PL -DEP ??? Kids,  
-run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP  
-augmented shoe_colloquial-PL -DEP ??? Kids,  
-run-3pS-IMP, run-3pS-IMP, fast-CMP my gun run-3pS-IMP
+luxury-PL shoe-PL possess-RpO-DEP all other kid-PL  
+run-GER should-3pS, run-GER should-3pS, 1-GEN gun run-3pS-AUG  
+luxury-PL shoe-PL possess-RpO-DEP all other kid-PL  
+run-GER should-3pS, run-GER should-3pS, 1-GEN bullet be-3S-than fast-ADV-CMP
 
 ### Perflontus
+
+pagepwe gicwe qaryun-kas axwe rai heyipwe
+zunata exexin, zunata exexin, rwmo ex'opsi agzunexat
+pagepwe gicwe qaryun-kas axwe rai heyipwe
+zunata exexin, zunata exexin, rwmo es'atipu zat-sos eridas'
 
 ## Entry 7
 
@@ -185,6 +190,8 @@ believe-3O-GER struggle-1S
 heaven interior-ADV be-2S
 
 ### Perflontus
+
+
 
 ## Entry 8
 
