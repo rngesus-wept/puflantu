@@ -143,9 +143,9 @@ open arm-PL-and open eye-PL with FUT meet-1S-3O
 ### Perflontus
 
 Tinri enxura etfel tizol-sos ogis' etfel tizol na?  
-Ixopfe etfel mwizen-lis etfel otizij na?  
+Ixopfe etfel mwizen-lis etfel ~~otizij~~ **fize** na?  
 Podropa veli et mwatolen-kas  
-Nicwe xopswe-li nicwe midswe wli et qekwmatad
+Nicwe mwnswe-li nicwe midswe wli et qekwmatad
 
 ## Entry 6
 
@@ -153,10 +153,10 @@ Pumped Up Kicks (Foster the People)
 
 ### English
 
-"All the other kids with the pumped up kicks ("kicks" becomes "eight")  
-You'd better run, better run, out run my gun  
+All the other kids with the pumped up kicks ("kicks" becomes "eight")  
+You'd better run, better run, outrun my gun  
 All the other kids with the pumped up kicks  
-You'd better run, better run, faster than my bullet"
+You'd better run, better run, faster than my bullet
 
 ### Gloss
 
@@ -167,14 +167,14 @@ run-GER should-3pS, run-GER should-3pS, 1-GEN bullet be-3S-than fast-ADV-CMP
 
 ### Perflontus
 
-pagepwe gicwe qaryun-kas axwe rai heyipwe
+pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai heyipwe
 zunata exexin, zunata exexin, rwmo ex'opsi agzunexat
 pagepwe gicwe qaryun-kas axwe rai heyipwe
 zunata exexin, zunata exexin, rwmo es'atipu zat-sos eridas'
 
 ## Entry 7
 
-Heaven (DJ Sammy)
+Heaven (Bryan Adams)
 
 ### English
 
@@ -184,14 +184,17 @@ I'm findin' it hard to believe
 We're in heaven ("heaven" becomes "five")
 
 ### Gloss
-Baby, want-1S-RO-DEP-ADV all be-2S  
-that-time this-place 1S-GEN arms between-ADV lie-2S-DEP  
+
+sugar-DIM, want-1S-RO-DEP-ADV all be-2S  
+that-time this-place 1S-GEN arm-PL between-ADV rest-2S-DEP  
 believe-3O-GER struggle-1S  
 heaven interior-ADV be-2S
 
 ### Perflontus
 
-
+satwipe, orcwmolal-kas axwe ziz  
+albwr this-place rwmo mwnswe dokfes dobizis-ka  
+tixmotapa 
 
 ## Entry 8
 
