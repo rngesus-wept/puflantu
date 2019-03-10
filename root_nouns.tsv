@@ -183,6 +183,11 @@ paile	triple
 
 # Other math
 gabxo	parabola
+saqvura	cube
+abvura	tetrahedron
+saqfevura	octahedron
+fesaqvura	dodecahedron
+paisaqfevura	icosahedron
 
 # Positional
 qahe	close, near
@@ -209,7 +214,8 @@ henroqa	morning
 jasroqa	night
 podroqa	tomorrow
 lavroqa	yesterday
-
+jasbwri	late
+henbwri	early
 
 # Months
 qoyeutaru	january
@@ -303,11 +309,6 @@ xotilu	car
 maglame	mass, loaf, blob
 #????	gone  --  Try to use exist-NEG
 karka	also, additional, too
-saqvura	cube
-abvura	tetrahedron
-saqfevura	octahedron
-fesaqvura	dodecahedron
-paisaqfevura	icosahedron
 talne	chunk
 velqegso	thorough, meticulous
 kirwge	health

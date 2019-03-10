@@ -219,7 +219,8 @@ tomorrow too late HYP be-GER
 
 Iz-li wm  
 ~~baceva~~ **saqpai** merwneyin-ka gwmir  
-Fedwman, ywmi
+Fedwman, ywri zatey-ka fedwman, heyipe
+Podroqa agjasbwri fel zat
 
 ## Entry 9
 
@@ -240,6 +241,8 @@ call-1O-IMP, any anytime call-1O-imp
 any day-or any night call-GER-1O may-2S
 
 ### Perflontus
+
+
 
 ## Entry 10
 
