@@ -116,8 +116,8 @@ that-time exterior-ADV this-place be_located-2S-NEG-DEP
 
 ### Perflontus
 
-Lobwe kakafe-cws xirwmef  
-**saqta**
+Lobwe evave-cws xirwmef  
+dizpwe **saqta** henqos 
 
 ## Entry 5
 
