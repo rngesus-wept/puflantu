@@ -61,13 +61,13 @@ random-ADV FUT float-1dS
 
 ### Perflontus
 
-Juyolun rwmo tixro zat  
--Dis orvo ~~antuho~~ **ne** qwmun  
-Henhiena-fws 'esuwmil  
--Lis tizov piezov-kas 'sevotug  
-Mwbes et qobwnur  
--Lis furwnwe bedfis zamwnoc  
--Dis vaxfws et volwnay
+Juyolun rwmo tixro zat-dis  
+Orvo ~~antuho~~ **ne** qwmun  
+Henhiena-fws 'esuwmil-lis  
+Tizov piezov-kas 'sevotug  
+Mwbes et qobwnur-lis  
+Furwnwe bedfis zamwnoc-dis  
+Vaxfws et volwnay
 
 ## Entry 3
 
@@ -83,14 +83,14 @@ You'll never shine if you don't glow
 ### Gloss
 
 FUT do-RO-DEP much, FUT see-RO-DEP much  
-[back streets] use-GER wrong that-reason is-3S ?  
+secondary-PL street-PL use-GER what-reason be_correct-3S-NEG ?  
 this-reason HYP go-2S-NEG-DEP no-time FUT know-2S-NEG  
 this-reason light-T HYP emit-2S-NEG-DEP light-T no-time FUT reflect-2S-NEG
 
 ### Perflontus
 
-Et yolad-ka ogi, et molid-ka ogi,  
-?????????????? piwva ????? aldul zat na?  
+Et yolad-ka ogi, et ~~molid-ka~~ **nole-ka** ogi,  
+Fevwe zovalwe piwva wdul alatwc na  
 Yebwr et gizeyir tidul fel tizeyex-kas  
 Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
@@ -110,11 +110,14 @@ Even after you're gone
 
 spot-PL mirror from-ADV wipe-1S  
 key-PL door in-ADV leave-1S-NEG-IMP  
-no-time wet towel-PL floor on-ADV put-1S  
+wet towel-PL floor on-ADV no-time put-1S-NEG  
 this-reason dream-PL some-time last-3pS-DEP  
 that-time exterior-ADV this-place be_located-2S-NEG-DEP
 
 ### Perflontus
+
+Lobwe kakafe-cws xirwmef  
+**saqta**
 
 ## Entry 5
 
@@ -240,3 +243,6 @@ and again love-GER learn-GER can-1pS
 
   * Entry 2 features an incorrect participle for "My heart is broke"; Perflontus
     uses `juyolun` instead of `juyolun-ka`.
+  * Entry 3 features an instance of "to see" replaced by "five". This is done by
+    trying to conjugate "five-RO-DEP" `nole-ka` instead of a direct translation
+    of "five".
