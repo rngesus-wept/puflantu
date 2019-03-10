@@ -10,4 +10,4 @@ LEX_FILE=/tmp/perflontus_lexicon;
 ERR_FILE=/tmp/perflontus_stderr;
 
 python test_lexicon.py 2>$ERR_FILE > $LEX_FILE;
-sort $LEX_FILE | uniq -w 32;
+sort $LEX_FILE | uniq -w 32 -D;
