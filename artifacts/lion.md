@@ -211,15 +211,15 @@ Tomorrow may be too late
 ### Gloss
 
 2S-AND 1S  
-wait-GER can-NEG-1dS-DEP know-1S  
-and swear-1S, false be-NEG-3S-DEP, swear-1S, girl  
-tomorrow too late HYP be-GER 
+wait-GER can-1dS-NEG-DEP know-1S  
+and swear-1S, false be-3S-NEG-DEP, swear-1S, girl  
+tomorrow too late HYP be-GER
 
 ### Perflontus
 
 Iz-li wm  
 ~~baceva~~ **saqpai** merwneyin-ka gwmir  
-Fedwman, ywri zatey-ka fedwman, heyipe
+Fedwman, ywri zatey-ka fedwman, sahige  
 Podroqa agjasbwri fel zat
 
 ## Entry 9

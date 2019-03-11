@@ -231,7 +231,7 @@ Pizza
 
 ### Perflontus
 
-*Malavwe-li urmezaqwe huqodyova 'baceyev.*
+*Axibenwe-li urmezaqwe huqodyova 'baceyev.*
 
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk-nis tizov mohuraqo gwnde piotwv-kas 'mohotur.
   * Tizov zamgomu sotwma piotwv-kas 'urmotez.
