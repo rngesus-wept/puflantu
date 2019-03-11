@@ -30,8 +30,8 @@ Plan for RLB52 Satellite Transmitter
 This satellite emits light signals. The light is reflected by a parabolic mirror. It leaves the satellite as a focused signal in parallel rays. 
 
 # Translation
-RLB52 zoanxoagafe qacepo-ro orti
+RLB52 zoanxagafe qacepo-ro orti
 
-ita qacepo veohaqo ittiha datog. Gabxo evave ittiha katak. hojoge tiha veoh qacepo latoy. 
+ita qacepo veonaqo ittiha datog. Gabxo evave ittiha katak. hojoge tiha veon qacepo latoy. 
 
 

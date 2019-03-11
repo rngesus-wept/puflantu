@@ -43,10 +43,11 @@ lay	leave
 nib	move (intrans.)
 neb	move (trans.)
 # volay	return
-xoag	send
-zanxoag	transmit
+xag    send
+zoanxag    transmit
 defis	spin_CW
 nafis	spin_CCW
+goconum	visit
 
 # Intellectual
 zelev	be correct
@@ -87,6 +88,7 @@ jashien	exhale
 henhien	inhale
 zumuz	sleep
 eyos	taste
+wris	live
 
 # Mechanical
 juyun	break
