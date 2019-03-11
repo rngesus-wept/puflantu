@@ -23,10 +23,27 @@ def GenerateSyllable():
     syllable.append(random.choice(CONSONANTS))
   return ''.join(syllable)
 
+def IsValidWord(word_string):
+    # Words can't end with 'w'
+    if word_string.endswith("w"):
+        return False
+    # ' should be reserved for emphatic words
+    if "'" in word_string:
+        return False
+    #  Words shouldn't have double letters
+    for i in range(len(word_string) - 1):
+        if word_string[i] == word_string[i+1]:
+            return False
+    return True
 
 def GenerateWord():
   length_rng = random.choices([1, 2, 3, 4], weights=[.1, .5, .3, .1])[0]
-  return ''.join(GenerateSyllable() for _ in range(length_rng))
+  valid_word = False
+  while not valid_word:
+    word = ''.join(GenerateSyllable() for _ in range(length_rng))
+    if IsValidWord(word):
+      valid_word = True
+  return word
 
 
 def SyllableSplit(word):
@@ -47,5 +64,7 @@ def SyllableSplit(word):
 if __name__ == '__main__':
   ## Execute this Python code on its own to just generate a bunch of
   ## phonetically valid words for brainstorming
+  print "Verbs/adverbs should end in a consonant"
+  print "Nouns/adjectives should end in a vowel"
   for _ in range(10):
     print('-'.join(SyllableSplit(GenerateWord())))

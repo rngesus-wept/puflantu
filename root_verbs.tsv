@@ -36,11 +36,14 @@ piwv	use
 
 # Movement
 capil	arrive
+ofoven	collide
 tex	go
 lay	leave
 nib	move (intrans.)
 neb	move (trans.)
 # volay	return
+defis	spin_CW
+nafis	spin_CCW
 
 # Intellectual
 zelev	be correct
