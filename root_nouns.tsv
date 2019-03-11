@@ -41,7 +41,8 @@ dule	reason
 lera	amount, quantity
 
 # Fauna
-hie	human
+hie	    human # not used...
+yu      person (human or alien)
 
 # People what do things
 ogbai	traveller, vagabond
@@ -200,6 +201,8 @@ podhe	next
 lave	previous
 # need to find a way to make cardinal directions work
 kano	southwest
+wsfi    forward
+bomfi   backward
 
 # Time
 roqa	day (24 hour period)
@@ -300,6 +303,7 @@ rali	house
 balri	mouse
 qerwkse	fox
 xotilu	car
+vocnu   window
 maglame	mass, loaf, blob
 #????	gone  --  Try to use exist-NEG
 karka	also, additional, too
