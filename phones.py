@@ -64,7 +64,7 @@ def SyllableSplit(word):
 if __name__ == '__main__':
   ## Execute this Python code on its own to just generate a bunch of
   ## phonetically valid words for brainstorming
-  print "Verbs/adverbs should end in a consonant"
-  print "Nouns/adjectives should end in a vowel"
+  print("Verbs/adverbs should end in a consonant")
+  print("Nouns/adjectives should end in a vowel")
   for _ in range(10):
     print('-'.join(SyllableSplit(GenerateWord())))
