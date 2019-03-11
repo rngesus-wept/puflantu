@@ -4,6 +4,8 @@ The main takeaway intended for the solvers is the structure of the grid, so that
 clearer that the meaning of `tihan` can be inferred from the meaning of `alhan` and `ita` (which
 are both more commonly used in our artifacts).*
 
+# Wat ita zat na?
+
 |        | ita/eta | iqa/eqa | orvo    | yemo    | axwe   | veli    | wat/.../wod |
 |---|---|---|---|---|---|---|---|
 | **hanu**   | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
