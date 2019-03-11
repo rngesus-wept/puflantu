@@ -145,7 +145,7 @@ open arm-PL-and open eye-PL with FUT meet-1S-3O
 Tinri enxura etfel tizol-sos ogis' etfel tizol na?  
 Ixopfe etfel mwizen-lis etfel ~~otizij~~ **fize** na?  
 Podropa veli et mwatolen-kas  
-Nicwe mwnswe-li nicwe midswe wli et qekwmatad
+Nicwe mwnswe-li nicwe tamwe wli et qekwmatad
 
 ## Entry 6
 
@@ -219,7 +219,8 @@ tomorrow too late HYP be-GER
 
 Iz-li wm  
 ~~baceva~~ **saqpai** merwneyin-ka gwmir  
-Fedwman, ywmi
+Fedwman, ywri zatey-ka fedwman, heyipe
+Podroqa agjasbwri fel zat
 
 ## Entry 9
 
@@ -241,6 +242,11 @@ any day-or any night call-GER-1O may-2S
 
 ### Perflontus
 
+'koduman! ~~Okame~~ **Fe** zoves
+'koduman; veli velibur 'koduman.
+'koduman, rwmo senice
+Veli henroqas-vos jasroqas kodumana balizem.
+
 ## Entry 10
 
 The Truth about Love (P!nk)
@@ -255,12 +261,15 @@ And we can learn to love again" ("again" becomes "one")
 ### Gloss
 
 stars among locate-3S  
-1dS-GEN heart-DU on scar-PL among PRF write-3O  
+1dS-GEN-DU heart-DU on scar-PL among PRF write-3O  
 break-DEP-NEG-1pO, just bend-DEP-NEG-1pO  
 and again love-GER learn-GER can-1pS
 
-
 ### Perflontus
+
+atadbolwe dokfes zatif  
+rwywe tixrwe bedqo-ti ahrodwe zoves ihex nagotut  
+juyuyeyun-ka-li, 
 
 # Notes
 

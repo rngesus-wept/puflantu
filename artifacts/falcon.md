@@ -86,8 +86,6 @@
 
     A: yellow planet-and blue planet-and spaceship outer located planet
 
-
-
 ### Actual 7
 
     A: red planet-and blue planet-and blue asteroid outer located planet that-collides-with spaceship
@@ -96,7 +94,3 @@
 ### Actual 8
 
     A: flashing spaceship orbited-by spinning-CCW planet-and asteroid outer located blue spaceship
-
-blue-NEG infix -ay- before the final vowel honwze -> honwzaye
-bake-NEG infix -ey- before the final vowel nwmom -> nwmeyom
-heat-NEG prefix vo- before the word lwmir "I heat" -> volwmir "I cool"
