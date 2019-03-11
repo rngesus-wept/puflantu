@@ -268,7 +268,8 @@ and again love-GER learn-GER can-1pS
 ### Perflontus
 
 atadbolwe dokfes zatif  
-rwywe tixrwe
+rwywe tixrwe bedqo-ti ahrodwe zoves ihex nagotut  
+juyuyeyun-ka-li, 
 
 # Notes
 
