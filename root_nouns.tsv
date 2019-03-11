@@ -42,6 +42,7 @@ lera	amount, quantity
 
 # Fauna
 hie	human
+bikve	djinni/genie
 
 # People what do things
 ogbai	traveller, vagabond
@@ -78,6 +79,7 @@ twipenxa	syrup
 toka	peanut
 zampaliso	cheese
 rotwipe	chocolate
+uji	salmon
 
 # Structures
 veonxi	building
@@ -86,19 +88,23 @@ dunse	kitchen
 
 # Machinery
 tusvo	bus
+eramovo	ski lift
 
 # Things
 kworu	clothing
 kude	book
+gifzi	page
 jozrwpo	shirt
 lekwazu	hat
 oca	container, box
 ifaro	jar, vessel
 jalu	strip
+moka	coat
 
 # Places
 veta	nation, state, delineated region
 usonba	land, ground, earth
+ucvablo	kindergarten
 
 # Colors
 itiye	color
@@ -111,8 +117,14 @@ colbao	green
 honwze	blue
 emewle	indigo
 siovqi	violet
+<<<<<<< HEAD
+alveri	silver
+swtabxi	clear, transparent
+putqe	chartreuse
+=======
 jintiye	gold_color
 alvetiye	silver_color
+>>>>>>> master
 
 # Counting, measurement, and appraisal
 wepu	distinguished, magnificent
@@ -143,6 +155,9 @@ yaje	thin
 yuqina	wild
 utavi	main, primary, principal
 fevi	side, secondary
+vole	strong
+ine	weak
+ehyo	real, true, genuine, actual
 
 # Adjectival root of solely, only, just
 itya	sole, lone
@@ -188,11 +203,15 @@ paile	triple
 
 # Other math
 gabxo	parabola
+<<<<<<< HEAD
+xwrdi	matrix
+=======
 saqvura	cube
 abvura	tetrahedron
 saqfevura	octahedron
 fesaqvura	dodecahedron
 paisaqfevura	icosahedron
+>>>>>>> master
 
 # Positional
 qahe	close, near
@@ -290,6 +309,7 @@ eqme	leg
 # Sentiment
 xoso	happy
 anjo	sad
+remo	funny
 
 # Element
 cenaku	helium
@@ -310,8 +330,8 @@ gwnde	rod
 e'a	fire
 xoale	smoke
 rojde	version, edition
-jwntu	pair
-egaska	dazzling
+jwntu	pair, dual
+egaska	dazzling, flashing, sparkling
 tixro	heart
 antuho	glue
 mwbe	random
@@ -366,7 +386,7 @@ eyosfe	tongue
 pexa	adult
 bilbi	whisk
 amwlo	pound (unit)
-malave	shape
+axibena	shape
 sotwma	layer
 zamgomu	tomato
 rai	other
@@ -401,6 +421,10 @@ satipu	pebble
 es'atipu	bullet
 vaxsi	butt
 janari	heaven
+talke	peace
+coce	war
+timeya	leather
+budje	president
 okame	wire
 ahrodi	scar
 ulime	gas
