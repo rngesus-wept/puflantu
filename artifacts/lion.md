@@ -242,7 +242,10 @@ any day-or any night call-GER-1O may-2S
 
 ### Perflontus
 
-
+'koduman! Okame zoves
+'koduman; veli velibur 'koduman.
+'koduman, rwmo senice
+Veli henroqas-vos jasroqas kodumana balizem.
 
 ## Entry 10
 
@@ -262,8 +265,9 @@ stars among locate-3S
 break-DEP-NEG-1pO, just bend-DEP-NEG-1pO  
 and again love-GER learn-GER can-1pS
 
-
 ### Perflontus
+
+
 
 # Notes
 
