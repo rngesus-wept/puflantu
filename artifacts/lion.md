@@ -220,7 +220,7 @@ tomorrow too late HYP be-GER
 Iz-li wm  
 ~~baceva~~ **saqpai** merwneyin-ka gwmir  
 Fedwman, ywri zatey-ka fedwman, sahige  
-Podroqa agjasbwri fel zat
+Podroqa agambwri fel zat
 
 ## Entry 9
 
@@ -245,7 +245,7 @@ any day-or any night call-GER-1O may-2S
 'koduman! ~~Okame~~ **Fe** zoves
 'koduman; veli velibur 'koduman.
 'koduman, rwmo senice
-Veli henroqas-vos jasroqas kodumana balizem.
+Veli henroqas-vos amroqas kodumana balizem.
 
 ## Entry 10
 

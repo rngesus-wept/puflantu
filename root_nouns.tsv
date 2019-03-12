@@ -219,7 +219,7 @@ xuso	distant, far
 nafi	counter-clockwise, right-side
 defi	clockwise, left-side
 henqo	interior
-jasqo	exterior
+amqo	exterior
 bedqo	surface
 bedfi	top-side, over
 vaxfi	bottom-side, under
@@ -235,10 +235,10 @@ roqa	day (24 hour period)
 tiroqa	today
 qoyelu	month
 henroqa	morning
-jasroqa	night
+amroqa	night
 podroqa	tomorrow
 lavroqa	yesterday
-jasbwri	late
+ambwri	late
 henbwri	early
 
 # Months
