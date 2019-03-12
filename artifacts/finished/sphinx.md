@@ -18,7 +18,7 @@
 
     two legs in the afternoon, and three legs at night?
     two  leg-DU  afternoon-ADV  possess-3S-&,  three  leg-PL  night-ADV  possess-3S  ?
-    fe   eqmw    uraroqas       qatun-lis      pai    eqmwe   jasroqas   qatun       na?
+    fe   eqmw    uraroqas       qatun-lis      pai    eqmwe   amroqas   qatun       na?
 
 ### Notes
 
@@ -37,4 +37,4 @@ written as "... puzzles please you", not "... you like puzzles".
 
     **Pazul** somadexun-ka onwmir. Eta xwes os onixir na?:
 
-    Wat avu eqmwe henroqas qatun-lis, fe eqmw uraroqas qatun-lis, pai eqmwe jasroqas qatun na?
+    Wat avu eqmwe henroqas qatun-lis, fe eqmw uraroqas qatun-lis, pai eqmwe amroqas qatun na?
