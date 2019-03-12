@@ -80,15 +80,19 @@ toka	peanut
 zampaliso	cheese
 rotwipe	chocolate
 uji	salmon
+honwse	bacon
 
 # Structures
 veonxi	building
 jiso	room
 dunse	kitchen
 
-# Machinery
+# Machinery/weaponry
 tusvo	bus
 eramovo	ski lift
+ex'opsi	gun
+es'atipu	bullet
+pikfe	bow
 
 # Things
 kworu	clothing
@@ -100,6 +104,7 @@ oca	container, box
 ifaro	jar, vessel
 jalu	strip
 moka	coat
+uxfaplo	bottle
 
 # Places
 veta	nation, state, delineated region
@@ -198,17 +203,18 @@ utale	single
 fele	double
 paile	triple
 
+# Money
+egite	dollar
+uqi	cent, lowest denomination of money
+
 # Other math
 gabxo	parabola
-<<<<<<< HEAD
 xwrdi	matrix
-=======
 saqvura	cube
 abvura	tetrahedron
 saqfevura	octahedron
 fesaqvura	dodecahedron
 paisaqfevura	icosahedron
->>>>>>> master
 
 # Positional
 qahe	close, near
@@ -318,6 +324,12 @@ olope	krypton
 ruyeko	argon
 setrwka	radon
 
+# Fluids
+xwdi	paint
+xoale	smoke
+antuho	glue
+tini	wine
+
 # Misc
 cuafi	fresh, newly-made, unused
 jano	cup
@@ -325,12 +337,10 @@ guramu	gram
 mitru	meter
 gwnde	rod
 e'a	fire
-xoale	smoke
 rojde	version, edition
 jwntu	pair, dual
 egaska	dazzling, flashing, sparkling
 tixro	heart
-antuho	glue
 mwbe	random
 tiha	light, luminescence
 pekle	crayon
@@ -354,7 +364,6 @@ iporo	pot
 zoxura	occaional, sometimes
 ogje	thick (linear dimension)
 ombu	full
-tini	wine
 durema	straight
 ungikpe	flush
 wabu	card
@@ -412,9 +421,7 @@ mwnsi	arm
 heyipe	child
 pagepu	luxury
 gica	shoe
-ex'opsi	gun
 satipu	pebble
-es'atipu	bullet
 vaxsi	butt
 janari	heaven
 talke	peace
