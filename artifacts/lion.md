@@ -30,9 +30,9 @@ Tibwr 'sumen, albwr jwmeyif-ka, ~~ris~~ **fe** 'sumen
 Ris 'sumen, ris 'sumen,  
 Meyapa, meyapa, meyapa, meyapa
 
-Rotwe obwu vomfe  
-Dunse henqos arkahwmut  
-Utaru kolarvu kokeini  
+(Rotwe obwu) vomfe  
+(Dunse henqos) arkahwmut  
+(Utaru kolarvu) kokeini  
 ...w'ne
 
 ## Entry 2
@@ -94,6 +94,14 @@ Fevwe zovalwe piwva paxu wdul zat na
 Yebwr et gizeyir tidul fel tizeyex-kas  
 Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
+### Pronounication
+
+Et nyolad-ka ongi, et ~~molid-ka~~ **nole-ka** ongi,  
+Fevwe zovalwe piwva paxʌ wdʌl zat na  
+Nyebwr et ngizenyir tidʌl fel tizenyex-kas  
+Ittiha nyebwr et kizenyak tidʌl ittiha fel dizenyong-kas
+
+
 ## Entry 4
 
 You Were Meant For Me (Jewel)
@@ -120,7 +128,15 @@ Lobwe evave-cws xirwmef
 dizpwe ~~taklo~~ **saqta** henqos 'topeyex  
 enxombwe ofrwdwe yojre bedqos yebwr ajwmeyen  
 tidul tixorcwe agwris topodex-ka  
-albwr jasqos jizeyif-kas binpadan
+albwr amqos jizeyif-kas binpadan
+
+### Pronunciation
+
+(Lobwe evave-cws) xirwmef.  
+Dizpwe ~~taklo~~ (**saqta** henqos) 'topenyex  
+(Enxombwe ofrwdwe) (nyojre bedqos) nyebwr ajwmenyen.  
+(tidʌl tixorcwe (angwris topodex-ka))  
+((Albwr amqos) jizenyif-kas) binpadan
 
 ## Entry 5
 
@@ -172,6 +188,14 @@ zunata exexin, zunata exexin, rwmo ex'opsi agzunexat
 pagepwe gicwe qaryun-kas axwe rai heyipwe
 zunata exexin, zunata exexin, rwmo es'atipu zat-sos eridas'
 
+### Pronunciation
+
+pangepwe ~~ngicwe~~ **sachfe** charnyun-kas ashwe rai henyipwe
+zunata esheshin, zunata esheshin, rwmo esh'opsi angzuneshat
+pangepwe ngicwe charnyun-kas ashwe rai henyipwe
+zunata esheshin, zunata esheshin, rwmo es'atipu zat-sos eridas'
+
+
 ## Entry 7
 
 Heaven (Bryan Adams)
@@ -188,14 +212,14 @@ We're in heaven ("heaven" becomes "five")
 sugar-DIM, want-1S-RO-DEP-ADV all be-2S  
 that-time this-place 1S-GEN arm-PL between-ADV rest-2S-DEP  
 believe-3O-GER struggle-1S  
-heaven interior-ADV be_located-2S
+heaven interior-ADV be_located-2dS
 
 ### Perflontus
 
 satwipe, orcwmolal-kas axwe ziz  
-albwr this-place rwmo mwnswe dokfes dobizis-ka  
+albwr tihan rwmo mwnswe dokfes dobizis-ka  
 tixmotapa kavwmex  
-~~janari~~ **ne** henqos zwyif
+~~janari~~ **ne** henqos zwnif
 
 ## Entry 8
 
@@ -262,14 +286,15 @@ And we can learn to love again" ("again" becomes "one")
 
 stars among locate-3S  
 1dS-GEN-DU heart-DU on scar-PL among PRF write-3O  
-break-DEP-NEG-1pO, just bend-DEP-NEG-1pO  
+break-DEP-NEG-1pO, just bend-DEP-1pO  
 and again love-GER learn-GER can-1pS
 
 ### Perflontus
 
 atadbolwe dokfes zatif  
-rwywe tixrwe bedqo-ti ahrodwe zoves ihex nagotut  
-juyuyeyun-ka-li, 
+rwnwe tixrwe bedqo-ti ahrodwe zoves ihex nagotut  
+juyuneyun-ka-li, aqes elunaj-ka-li
+dwtdwt sena yela merwnin
 
 # Notes
 
