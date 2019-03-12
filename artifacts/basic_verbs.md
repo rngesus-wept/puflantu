@@ -17,7 +17,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
 
 ## Come
 * We have come to visit you in peace (The Day the Earth Stood Still)
-* -- Wy serwbnes tidul goconexum-kas os capwyil
+* -- Wy talkes tidul goconexum-kas os capwyil
 * Santa Claus is comin to town (Movie)
 * -- Santu Kulos fw elmi capatil
 * Coming to America
