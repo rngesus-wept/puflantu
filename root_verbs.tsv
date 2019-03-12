@@ -43,10 +43,13 @@ lay	leave
 nib	move (intrans.)
 neb	move (trans.)
 # volay	return
-orar	slow down
-ozaz	speed up
+xag    send
+zoanxag    transmit
 defis	spin_CW
 nafis	spin_CCW
+goconum	visit
+orar	slow down
+ozaz	speed up
 
 # Intellectual
 zelev	be correct
@@ -66,7 +69,7 @@ dax	teach, instruct
 nagut	write
 
 # Emotional
-tixmap	believe
+tixmap	believe, think
 xolun	comfort, soothe
 rwbak	discourage
 tixrocal	dream
@@ -86,6 +89,7 @@ amhien	exhale
 henhien	inhale
 zumuz	sleep
 eyos	taste
+wris	live
 
 # Mechanical
 elaj	bend
@@ -128,6 +132,7 @@ ewzig	uppercut
 # Everyday life
 zamoc	hang out, loiter
 kworem	wear, don
+liqex	party, celebrate
 
 # Culinary
 nom	bake
@@ -158,6 +163,9 @@ iral	pour
 urmez	cover
 huqodyov	experiment with
 xiref	clean
+hwvahsul	stabilize
+veon	signal, indicate
+uyiv	focus, concentrate
 zulam	orbit
 terav	suffice
 

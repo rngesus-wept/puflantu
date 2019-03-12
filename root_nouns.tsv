@@ -42,6 +42,11 @@ lera	amount, quantity
 
 # Fauna
 hie	human
+hibe    man
+hige    woman
+sahibe  boy
+sahige  girl
+fuku    family
 bikve	djinni/genie
 
 # People what do things
@@ -79,6 +84,7 @@ twipenxa	syrup
 toka	peanut
 zampaliso	cheese
 rotwipe	chocolate
+wmpi    apple
 uji	salmon
 honwse	bacon
 
@@ -331,7 +337,13 @@ xoale	smoke
 antuho	glue
 tini	wine
 
-# Misc
+# Directions
+se	North
+ka	South
+bi	East
+no	West
+
+# Misc (including adjectives)
 cuafi	fresh, newly-made, unused
 jano	cup
 guramu	gram
@@ -425,6 +437,18 @@ gica	shoe
 satipu	pebble
 vaxsi	butt
 janari	heaven
+hojoge	parallel
+pevko	ray
+hwvahsu	stable
+orti	plan
+avroxe	surprise, twist, shock
+casute	chaste
+wirdo	freak
+okame	wire
+ahrodi	scar
+ulime	gas
+umeriku	America
+elmi	town
 talke	peace
 coce	war
 timeya	leather

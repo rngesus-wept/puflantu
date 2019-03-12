@@ -13,42 +13,69 @@ Here are some examples. The more person/number examples we have for subject and 
 * Love
 * Like
 
+Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9JMOqVfc4DDS73ZK-8
+
 ## Come
-* Y'all come back now ya hear? (Green Acres)
 * We have come to visit you in peace (The Day the Earth Stood Still)
+* -- Wy serwbnes tidul goconexum-kas os capwyil
 * Santa Claus is comin to town (Movie)
+* -- Santu Kulos fw elmi capatil
 * Coming to America
+* -- fw Umeriku capila
 * You come into my house on the day my daughter is to be married
+* -- Iz [on the day that my daughter is to be married] henqo-fws rwmo rali capizil
+* I come from a land down under
+* -- Wm cw agka usonba capwmil
 
 ## Want
 * You guys want some cookies?
+* -- ix orvwe torelwe orcixal na? 
 * Oh y'all wanted a twist eh? (Laganja Estranja)
+* -- ix avroxe orcixal na?
 * I'm wanted dead or alive (Bon Jovi)
-* I want you back (Jackson 5)
+* -- wrisaya-vo wrisa orcumal
 * The wanted
+* -- orcoryal-ka
+* I want to believe
+* -- Wm tixmwmap-ka orcwmal
 
 ## Be
 * She's a super freak (Rick James)
+* -- At ''wirdo zat
 * It's not unusual (Carlton Dance)
+* -- Ogwrayi zatey.
 * I'm not a girl, not yet a woman (Britney Spears)
+* -- Wm sahige zwmey. Wm hige xwes zwmey. 
 * We are a family (Dreamgirls)
+* -- Wy fuku zwy.
 * Earth girls are easy
+* -- Lahrogbwe sahigwe casutaywe zad.
 
 ## Love
 * Kel loves orange soda (Kenan and Kel)
+* -- Kelu emkurixa egraska enxura satolen
 * Because you loved me (Celine Dion)
+* -- aldul iz sizumen-ka
 * If I loved you (Carousel)
+* -- wm ez fel swmezen
 * And I will always love you (Whitney Houston)
+* -- -li um ez axwbwr et swmezen
 * Love one another as I have loved you (Jesus)
+* -- Tivuz wm ex swmexen-ka urarai 'sexen
 
 ## Like
 
 *Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
 * He likes me. I think he likes me. But does he "like me" like me, like I like him? (Avenue Q)
+* -- Wm ot somwmotun. Somwmotun-ka tixmwmap-dis wm ot "somuna" jok at um somatumon-kas somwmotun. 
 * How do you like them apples? (Good Will Hunting)
+* -- Wzov iqwe wmpwe ez somadezun na?
 * I know what boys like (The Waitresses)
+* -- Wm al sahibwe somalodun-ka gwmotir
 * We like to party (Vengaboys)
+* -- liqexa uy somatuyun
 * You like me. Right now. You like me. 
+* -- Wm ex somwmexun! 'Tibwr. Wm ex somwmexun!
 
 # Extras
 
