@@ -43,18 +43,13 @@ lay	leave
 nib	move (intrans.)
 neb	move (trans.)
 # volay	return
-<<<<<<< HEAD
 xag    send
 zoanxag    transmit
 defis	spin_CW
 nafis	spin_CCW
 goconum	visit
-=======
 orar	slow down
 ozaz	speed up
-defis	spin_CW
-nafis	spin_CCW
->>>>>>> master
 
 # Intellectual
 zelev	be correct
@@ -72,10 +67,6 @@ mid	see
 lifan	study
 dax	teach, instruct
 nagut	write
-<<<<<<< HEAD
-
-=======
->>>>>>> master
 
 # Emotional
 tixmap	believe, think
