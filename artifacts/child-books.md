@@ -3,7 +3,7 @@ Will be placed on images of the covers
 
 Good night moon  
 moon, good night  
-eterqoye, oma jasroqa
+eterqoye, oma amroqa
 
 the cat in the hat  
 hat in cat  

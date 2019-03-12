@@ -83,7 +83,7 @@ Rat: true-ADV! good-SUP satellite dish choose-GER can-GER important-SUP be-3S
 ## Turn 5 (Pidgey plays TIWKW)
 
 *3 tiles*
-[Pidgey plays TIWKW which means 'question' and gets 10 points]
+[Pidgey plays TIWKW which means 'question (dual)' and gets 10 points]
 Lion: Wait, why is that not worth 13?
 Pidgey: Good question, eh?. The blue square is already used up from [Falcon Name]’s word.
 
