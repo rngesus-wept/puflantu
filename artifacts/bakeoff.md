@@ -55,7 +55,7 @@ Dough
 
   * Zalma 4 guramwe-li laksalfa 1 guramu, oku 1 jano-fws 'kodar.
   * Enxa 3/4 janwe realoda-fws 'kodar-lis jiay 'axuhodox.
-  * Alzov umotav-kas, jasroqa zoan dobisa 'totag.
+  * Alzov umotav-kas, amroqa zoan dobisa 'totag.
 
 ## Twipe Balorvu
 
@@ -231,7 +231,7 @@ Pizza
 
 ### Perflontus
 
-*Malavwe-li urmezaqwe huqodyova 'baceyev.*
+*Axibenwe-li urmezaqwe huqodyova 'baceyev.*
 
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk-nis tizov mohuraqo gwnde piotwv-kas 'mohotur.
   * Tizov zamgomu sotwma piotwv-kas 'urmotez.
@@ -372,7 +372,7 @@ Potato Croquettes
   * Axuhoryox-ka ranwe (jufzove 'wndak) 2 janw 'qotuk.
   * Paliso 1 tama-li 1 wibale-li zalma 'kodar.
   * Realoda samaglamwe eg 'viqotel.
-  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws jasqwe sotwmwe jintiywe-li kirakwe zad-ka 'zajotuf.
+  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws amqwe sotwmwe jintiywe-li kirakwe zad-ka 'zajotuf.
 
 # Twipibnwe
 
