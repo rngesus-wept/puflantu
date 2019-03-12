@@ -206,7 +206,7 @@ Pasta-& Cheese
   * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
   * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
   * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
-  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jintiye zat-kas 'notom.
+  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jineri zat-kas 'notom.
 
 ## Pitale
 
@@ -341,7 +341,7 @@ Fried Potatoes (potatoes that are fried)
 *Tizov onamas et joduf-kas, atimorwe jalwe eg erizok-ka 'calpem.*
 
   * Ranu 2 amwlw 'vourmobez-li jalwe eg 'erobok.
-  * Albwr-fws jintiywe-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
+  * Albwr-fws jinerwe-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
 
 ## Ranu Samaglamwe
 
@@ -372,7 +372,7 @@ Potato Croquettes
   * Axuhoryox-ka ranwe (jufzove 'wndak) 2 janw 'qotuk.
   * Paliso 1 tama-li 1 wibale-li zalma 'kodar.
   * Realoda samaglamwe eg 'viqotel.
-  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws amqwe sotwmwe jintiywe-li kirakwe zad-ka 'zajotuf.
+  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws amqwe sotwmwe jinerwe-li kirakwe zad-ka 'zajotuf.
 
 # Twipibnwe
 
@@ -472,7 +472,7 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Twipe 2 janw-li toka hompaliso 3/4 janwe-li hompaliso 1 jano-li zalma 4 guramwe-li laksalfa 12 guramwe 'rulfodob.
   * 2 wibalw 'kobar.
   * Oku 2 janw-li mafke 3/2 janwe-li rotwipe satalne 1324 guramwe 'kodar.
-  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises jintiywe zad-ka 'nodom.
+  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises jinerwe zad-ka 'nodom.
 
 # Notes
 

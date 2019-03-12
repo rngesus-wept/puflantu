@@ -123,11 +123,10 @@ colbao	green
 honwze	blue
 emewle	indigo
 siovqi	violet
-alveri	silver
 swtabxi	clear, transparent
 putqe	chartreuse
-jintiye	gold_color
-alvetiye	silver_color
+jineri	gold_color
+alveri	silver_color
 
 # Counting, measurement, and appraisal
 wepu	distinguished, magnificent
@@ -312,24 +311,14 @@ anjo	sad
 remo	funny
 
 # Element
-cenaku	helium
-oneka	neon
-liqwke	argon
-jineri	gold
-alveri	silver
-olope	krypton
-ruyeko	argon
-setrwka	radon
-
-# Element
-cenaku	helium
-oneka	neon
-liqwke	argon
-jineri	gold
-alveri	silver
-olope	krypton
-ruyeko	argon
-setrwka	radon
+cenuli	helium
+onekuli	neon
+liquli	argon
+jinite	gold
+alvite	silver
+olopuli	krypton
+ruyuli	argon
+setruli	radon
 
 # Directions
 se	North
