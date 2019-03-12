@@ -337,6 +337,15 @@ ka	South
 bi	East
 no	West
 
+# Elements
+itedi	metal
+ulime	gas
+
+enxuli	hydrogen
+cenuli	helium
+twncite	beryllium
+
+
 # Misc (including adjectives)
 cuafi	fresh, newly-made, unused
 jano	cup
