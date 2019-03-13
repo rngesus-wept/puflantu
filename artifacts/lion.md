@@ -30,7 +30,7 @@ Eyaxa, eyaxa, eyaxa, eyaxa
 
 ?????we ???? ???  
 Dunse henqos arkahwmut  
-Keru kolarvu kokeini  
+Utaru kolarvu kokeini  
 ...w'ne
 
 ## Entry 2
@@ -152,7 +152,7 @@ We're in heaven"
 
 ### Gloss
 Baby, want-1S-RO-DEP-ADV all be-2S  
-that-time here 1S-GEN arms between-ADV lie-2S-DEP
+that-time this-place 1S-GEN arms between-ADV lie-2S-DEP
 believe-3O-GER struggle-1S
 heaven interior-ADV be-2S
 

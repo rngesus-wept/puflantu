@@ -1,0 +1,5 @@
+# -*- eval: (local-set-key (kbd "TAB") '(lambda () (interactive) (insert "\t"))) -*-
+
+xwes	already
+ihex	still
+jiay	together

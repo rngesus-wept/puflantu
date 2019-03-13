@@ -1,7 +1,5 @@
 # -*- eval: (local-set-key (kbd "TAB") '(lambda () (interactive) (insert "\t"))) -*-
 
-## TODO: Convert spaces to tabs
-
 # Pronouns
 
 # These technically violate the rule that nouns should have two syllables and end in a vowel.
@@ -44,6 +42,8 @@ li	additive particle (noun-"and")
 lis	additive particle (verb-"and")
 ro	genitive particle ("'s")
 na	interrogative particle ("?")
+eg	resulting in
+
 fel	hypothetical
 gaq	counterfactual
 av	imperfective
@@ -122,58 +122,60 @@ wlerwe	how much?
 
 # Numbers
 ri	0
-ke	1
-ha	2
+uta	1
+fe	2
 pai	3
-uqi	4
-lo	5
-aqke	7
-aqha	8
-aqpai	9
-aquqi	10
-aqlo	11
-haqke	13
-haqha	14
-haqpai	15
-haquqi	16
-haqlo	17
-paqke	19
-paqha	20
-paqpai	21
-paquqi	22
-paqlo	23
-uqaqke	25
-uqaqha	26
-uqaqpai	27
-uqaquqi	28
-uqaqlo	29
-laqke	31
-laqha	32
-laqpai	33
-laquqi	34
-laqlo	35
-keyo	36
-hayo	72
-uqiyo	144
-loyo	180
-kesa	216
-hasa	432
+avu	4
+ne	5
+saqta	7
+saqfe	8
+saqpai	9
+saqavu	10
+saqne	11
+hsaqta	13
+hsaqfe	14
+hsaqpai	15
+hsaqavu	16
+hsaqne	17
+paisaqta	19
+paisaqfe	20
+paisaqpai	21
+paisaqavu	22
+paisaqne	23
+avsaqta	25
+avsaqfe	26
+avsaqpai	27
+avsaqavu	28
+avsaqne	29
+nesaqta	31
+nesaqfe	32
+nesaqpai	33
+nesaqavu	34
+nesaqne	35
+utayo	36
+feyo	72
+avuyo	144
+neyo	180
+utasa	216
+fesa	432
 paisa	648
-uqisa	864
-losa	1080
-ketoe	1296
-hatoe	2592
+avusa	864
+nesa	1080
+utatoe	1296
+fetoe	2592
 paitoe	3888
-uqitoe	5184
-lotoe	6480
-kewdo	7776
-hawdo	15552
+avutoe	5184
+netoe	6480
+utawdo	7776
+fewdo	15552
 paiwdo	23328
-uqiwdo	31104
-lowdo	38880
+avuwdo	31104
+newdo	38880
 
-# Interjections
+# Interjections et al
+'bovipa	hello
 w'ne	yikes
+o're 	oh/wow
 
 # These numbers should be normal nouns but are monosyllablic
 yo	thirty-six

@@ -114,6 +114,7 @@ The 1 bus will arrive soon.
 | way ~zove~      | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
 | reason ~dule~   | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
 | quantity ~lera~ | tilerwe | alerwe  | orlerwe | yelerwe |        | velerwe | wlerwe      |
+| degree ~vuzi~   | tivuz   | alvuz   | orvuz   | yevuz   |        | velvuz  | wvuz        |
 
 ***** Notes
 
