@@ -142,11 +142,10 @@ Do not keep your sadness inside, Capricorn. Show it to the world.
 
 ## Gloss
 :frown: :arrow: :world: Capricorn (December 22 - January 19)
-capricorn, 2S-GEN sad conserve-IMP-NEG. world to show-IMP-3sO
+capricorn, 2-GEN sad show-REV-NEG-3O-IMP. all-toward-ADV show-3O-IMP.
 ## Puflantu
-:frowning: :arrow: :world: himlo (qoyefesaqeru 34 - qoyeutaru 31)
-himlo, rizo anjo rwgeyex. axwe fw 'sivoteg
-
+:frowning: :arrow: :world: Himlo (Qoyefesaqeru 34 - Qoyeutaru 31)
+Himlo, rizo anjo 'vosiveyoteg. Axwe-fws 'sivoteg.
 
 # Aquarius
 ## English
@@ -158,8 +157,8 @@ Today it will rain but you will not get wet.
 :rain: Aquarius (January 20 - February 18)
 today FUT rain but-ADV wet FUT be-2S-NEG
 ## Puflantu
-:rain: idivo (qoyeutaru 32 - qoyeferu 30)
-tiroqas et suplatat-dis enxa et zeyiz
+:rain: Idivo (Qoyeutaru 32 - Qoyeferu 30)
+Tiroqas et suplatat-dis, enxa et zizey.
 
 # Pisces
 ## English
@@ -169,6 +168,6 @@ Your dreams will come true.
 :zzz: pisces (february 19 - march 20)  
 2S-GEN dream-PL true FUT become
 ## Puflantu
-:zzz: ipmeto (qoyeferu 31 - qoyepairu 32)
-rizo puywe calwe etadaz
+:zzz: Ipmeto (Qoyeferu 31 - Qoyepairu 32)
+Rizo tixrocalwe calwe etadaz.
 
