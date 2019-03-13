@@ -24,13 +24,13 @@ home run - ralwli zunatwta
 
 sun - utqunxe  
 new moon - utcuafi eterqoye  
-full moon - otombw eterqoye  
+full moon - otombu eterqoye  
 earth - lahrogbi  
 
 royal flush - espuyi ungikpe  
 straight flush - durema ungikpe  
 four-of-a-kind - avu atimora  
-full house - ombw rali  
+full house - ombu rali  
 flush - ungikpe  
 straight - durema  
 three-of-a-kind - pai atimora  
