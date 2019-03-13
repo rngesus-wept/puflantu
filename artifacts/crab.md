@@ -4,35 +4,35 @@ Falcon: Hello everyone. After millennia of cold war, we finally meet to end it. 
 Falcon: hello, all. cold war 6^4-DU year-PL exterior-ADV, (this-reason end-3O-DEP-ADV) finally meet-1pS. glad be-1S.  
 Falcon: `'bovipa, axwe. Dusiko coce tow ayegwe amqos, tidul sotok-kas sokam qekwynad. Zoso zwm.`
 
-Pidgey: Yes and with only a few days left to go too!
-Pidgey: yes-& mere-ADV few-PL day-PL remain-3pO!
+Pidgey: Yes and with only a few days left to go too!  
+Pidgey: yes-& mere-ADV few-PL day-PL remain-3pO!  
 Pidgey: `Zo-li aqes uywe roqwe topodex!`
 
-Lion: I’m excited!
-Lion: excited be-1S!
+Lion: I’m excited!  
+Lion: excited be-1S!  
 Lion: `Oxpele zwm!`
 
-Rat: Everyone draw a letter...
-Rat: All, one letter take-3O-IMP...
+Rat: Everyone draw a letter...  
+Rat: All, one letter take-3O-IMP...  
 Rat: `Axwe, uta sanato 'fotaz...`
 
 ## Pre-game draw
 
-*Rummaging sounds... tiles clicking against one another*
-Rat: I got X!
-Rat: X receive-1S!
+*Rummaging sounds... tiles clicking against one another*  
+Rat: I got X!  
+Rat: X receive-1S!  
 Rat: `"X" ywmit!`
 
-Lion: I got P!
-Lion: P possess-1S.
+Lion: I got P!  
+Lion: P possess-1S.  
 Lion: `"P" qwmyn.`
 
-Pidgey: Ah, an A - looks like I'll be going first.
-Pidgey: Ah, "A" PST take-1S; that-reason first-ADV act-1S.
+Pidgey: Ah, an A - looks like I'll be going first.  
+Pidgey: Ah, "A" PST take-1S; that-reason first-ADV act-1S.  
 Pidgey: `A, "A" im fwmaz; aldul utarus ???????.`
 
-Falcon: W for me... oh well.
-Falcon: 1-GEN W... (???).
+Falcon: W for me... oh well.  
+Falcon: 1-GEN W... (???).  
 Falcon: `Wm-ro "W"... ????`
 
 ## Turn 1 (Pidgey plays ALVI)
