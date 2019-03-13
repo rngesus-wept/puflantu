@@ -116,7 +116,7 @@ You will think of many ideas today.
 
 ## Gloss
 :lightbulb: Scorpio (October 23 - November 21)
-many ideas today FUT think-2S
+many invent-PAT ideas today FUT invent-2S
 
 ## Puflantu
 :lightbulb: reqwco (qoyesaqavuru 35 - qoyesaqneru 33)

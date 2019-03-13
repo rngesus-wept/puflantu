@@ -1,6 +1,6 @@
 **A booklet with slightly greasy pages. The cover says: "Wepu Puflantu Noma-Ji'saga (Feru Qoqra)".**
 
-# Rulfobafwe
+# Rulfobwhwe
 
 Components (combine-PAT-PL)
 

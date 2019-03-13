@@ -268,7 +268,7 @@ any day-or any night call-GER-1O may-2S
 
 'koduman! ~~Okame~~ **Fe** zoves
 'koduman; veli velibur 'koduman.
-'koduman, rwmo senice
+'koduman, rwmo senwho
 Veli henroqas-vos amroqas kodumana balizem.
 
 ## Entry 10
