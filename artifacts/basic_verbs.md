@@ -17,65 +17,97 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
 
 ## Come
 * We have come to visit you in peace (The Day the Earth Stood Still)
-* -- Wy talkes tidul goconexum-kas os capwyil
+  * 1pS peace-ADV this-reason visit-2pO-DEP-ADV PRF arrive-1pS
+  * Wy talkes tidul goconexum-kas os capwyil
 * Santa Claus is comin to town (Movie)
-* -- Santu Kulos fw elmi capatil
+  * Santa Claus town-toward-ADV FUT arrive-3S
+  * Santu Kulos Elmi-fws et Capatil
+  * *`charlest: I have chosen to gloss this as future tense since the well-known
+    song/movie phrase refers to an event that will happen in the near future.`*
 * Coming to America
-* -- fw Umeriku capila
+  * America-toward-ADV arrive-GER
+  * Umeriku-fws capila
 * You come into my house on the day my daughter is to be married
-* -- Iz [on the day that my daughter is to be married] henqo-fws rwmo rali capizil
+  * that-time my daughter FUT marry-3O-DEP that day-ADV, 1-GEN house in-toward-ADV arrive-2S
+  * Alhan rwmo amhige et qwholix-ka eqa roqas, rwmo rali henqo-fws capizil-li...
 * I come from a land down under
-* -- Wm cw agka usonba capwmil
+  * Under land-from-ADV arrive-1S
+  * Vaxfi usonba-cws capwmil
 
 ## Want
 * You guys want some cookies?
-* -- ix orvwe torelwe orcixal na? 
+  * some-PL cookie-PL want-2pS ?
+  * Orvwe torelwe orcixal na? 
 * Oh y'all wanted a twist eh? (Laganja Estranja)
-* -- O're ix avroxe orcixal na?
+  * oh, twist want-2pS
+  * O're, avroxe orcixal na?
 * I'm wanted dead or alive (Bon Jovi)
-* -- wrisaya-vo wrisa orcumal
+  * live-GER-NEG-or live-GER, want-1O
+  * Wrisaya-vo wrisa, orcumal
 * The wanted
-* -- orcoryal-ka
+  * want-3pO-DEP
+  * Orcoryal-ka
 * I want to believe
-* -- Wm tixmwmap-ka orcwmal
+  * believe-1S-DEP want-1S
+  * Tixmwmap-ka orcwmal
 
 ## Be
-* She's a super freak (Rick James)
-* -- At ''wirdo zat
-* It's not unusual (Carlton Dance)
-* -- Ogwrayi zatey.
+* She's a super freak, super freak, she's super freaky (Rick James)
+  * great freak be-3S, great freak, freak-SUP be-3S
+  * Wepu wirdo zat, wepu wirdo, wirdo' zat
+* It's not unusual to be loved by one(Carlton Dance)
+  * one love-2O-DEP, common-NEG be-1S-NEG.
+  * Uta sezen-ka, ogwrayi zatey.
 * I'm not a girl, not yet a woman (Britney Spears)
-* -- Wm sahige zwmey. Wm hige xwes zwmey. 
+  * 1S girl be-1S-NEG, woman still be-1S-NEG
+  * Wm sahige zwmey, hige ihex zwmey.
 * We are a family (Dreamgirls)
-* -- Wy fuku zwy.
+  * One family be-1pS.
+  * Uta qawhi zwy.
 * Earth girls are easy
-* -- Lahrogbwe sahigwe casutaywe zad.
+  * Earth-PL girl-PL chaste-NEG-PL be-3pS.
+  * Lahrogbwe sahigwe casutaywe zad.
 
 ## Love
 * Kel loves orange soda (Kenan and Kel)
-* -- Kelu emkurixa egraska enxura satolen
+  * Kel orange-R sparkling-R water-R love-3S.
+  * Kelu emkurixa egraska enxura saten
 * Because you loved me (Celine Dion)
-* -- aldul iz sizumen-ka
+  * this-reason PST-IMP love-2S-1O-ADV
+  * tidul imav sizumen-kas
 * If I loved you (Carousel)
-* -- wm ez fel swmezen
+  * this-reason HYP love-1S-2O-ADV
+  * Tidul fel swmezen-kas
 * And I will always love you (Whitney Houston)
-* -- -li um ez axwbwr et swmezen
+  * -& Iiiiiiiiii all-time FUT love-1S-2O
+  * -li wwwWWWWwwwwm axwbwr et swmezen
+  * *`charlest: Postprodder(s) please superscript the capitalized part. I know
+    it won't work right with the dictionary but honestly teams capable of
+    working on these puzzles should be able to handle the one-off for the
+    joke.`*
 * Love one another as I have loved you (Jesus)
-* -- Tivuz wm ex swmexen-ka urarai 'sexen
+  * this-degree IMP love-1S-2pO-DEP-ADV, each_other love-3pO-IMP.
+  * Tivuz av swmexen-kas, urarai 'sexen.
 
 ## Like
 
 *Note that Perflontus uses "to please" as in "Board games please me", rather than "I like board games".*
+
 * He likes me. I think he likes me. But does he "like me" like me, like I like him? (Avenue Q)
-* -- Wm ot somwmotun. Somwmotun-ka tixmwmap-dis wm ot "somuna" jok at um somatumon-kas somwmotun. 
+  * please-1S-3O. like-1S-3O think-1S-but; 1S *please-3O-GER-ADV* please-1S-3O, this-degree please-3S-1O-ADV ?
+  * Somwmotun. Somwmotun-ka tixmwmap-dis; wm "somotunas" somwmotun, tivuz somatumun-kas na?
 * How do you like them apples? (Good Will Hunting)
-* -- Wzov iqwe wmpwe ez somadezun na?
+  * that-PL apple-PL what-degree please-3pS-2O ?
+  * Iqwe wmpigomwe wvuz somadezun na?
 * I know what boys like (The Waitresses)
-* -- Wm al sahibwe somalodun-ka gwmotir
+  * boy-PL please-RS-3pO-DEP know-1S.
+  * Sahibwe somalodun-ka gwmotir.
 * We like to party (Vengaboys)
-* -- liqexa uy somatuyun
+  * party-GER please-3S-1pO.
+  * Liqexa somatuynun.
 * You like me. Right now. You like me. 
-* -- Wm ex somwmexun! 'Tibwr. Wm ex somwmexun!
+  * please-1S-2O. (!) this-time. please-1S-2O.
+  * Wm ex somwmexun! 'Tibwr. Wm ex somwmexun!
 
 # Extras
 
