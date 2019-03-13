@@ -17,7 +17,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
 
 ## Come
 * We have come to visit you in peace (The Day the Earth Stood Still)
-* -- Wy serwbnes tidul goconexum-kas os capwyil
+* -- Wy talkes tidul goconexum-kas os capwyil
 * Santa Claus is comin to town (Movie)
 * -- Santu Kulos fw elmi capatil
 * Coming to America
@@ -31,7 +31,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
 * You guys want some cookies?
 * -- ix orvwe torelwe orcixal na? 
 * Oh y'all wanted a twist eh? (Laganja Estranja)
-* -- ix avroxe orcixal na?
+* -- O're ix avroxe orcixal na?
 * I'm wanted dead or alive (Bon Jovi)
 * -- wrisaya-vo wrisa orcumal
 * The wanted

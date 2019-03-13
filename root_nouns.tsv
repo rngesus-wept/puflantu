@@ -36,7 +36,7 @@ yemo	none
 veli	any
 hanu	place, location
 bwri	time, moment
-zove	way, method
+zove	way, method, plan
 dule	reason
 lera	amount, quantity
 
@@ -343,6 +343,15 @@ ka	South
 bi	East
 no	West
 
+# Elements
+itedi	metal
+ulime	gas
+
+enxuli	hydrogen
+cenuli	helium
+twncite	beryllium
+
+
 # Misc (including adjectives)
 cuafi	fresh, newly-made, unused
 jano	cup
@@ -439,7 +448,6 @@ janari	heaven
 hojoge	parallel
 pevko	ray
 hwvahsu	stable
-orti	plan
 avroxe	surprise, twist, shock
 casute	chaste
 wirdo	freak
