@@ -74,7 +74,7 @@ Sugar dough
 *that-method perfect pie make-3O-DEP, this use-3O-IMP.*
 
   * salt 3 gram-PL-& sugar 3 gram-PL, flour 1 cup-toward-ADV add-3pO-IMP.
-  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV thorough-NEG-ADV knead-3O-IMP.
+  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL remain-3pO-GER-ADV thorough-NEG-ADV knead-3O-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
@@ -82,7 +82,7 @@ Sugar dough
 *Alzov omeze kureni qotuk-kas, eta 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
-  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe todagas velqegsayos 'axuhotox.
+  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe topodexas velqegsayos 'axuhotox.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
 ## Orburili
