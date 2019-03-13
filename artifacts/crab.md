@@ -5,8 +5,8 @@ Falcon: hello, all. cold war 6^4-DU year-PL exterior-ADV, (this-reason end-3O-DE
 Falcon: `'bovipa, axwe. Dusiko coce tow ayegwe amqos, tidul sotok-kas sokam qekwynad. Zoso zwm.`
 
 Pidgey: Yes and with only a few days left to go too!  
-Pidgey: yes-& mere-ADV few-PL day-PL remain-3pO!  
-Pidgey: `Zo-li aqes uywe roqwe topodex!`
+Pidgey: yes, mere-ADV few-PL day-PL remain-3pO!  
+Pidgey: `Zo, aqes uywe roqwe topodex!`
 
 Lion: I’m excited!  
 Lion: excited be-1S!  
@@ -28,8 +28,8 @@ Lion: P possess-1S.
 Lion: `"P" qwmyn.`
 
 Pidgey: Ah, an A - looks like I'll be going first.  
-Pidgey: Ah, "A" PST take-1S; that-reason first-ADV act-1S.  
-Pidgey: `A, "A" im fwmaz; aldul utarus ???????.`
+Pidgey: Ah, "A" PST take-1S; first-ADV FUT play-1S-DEP be_likely-3S.  
+Pidgey: `A, "A" im fwmaz; utarus elwmwx-ka ogfatel.`
 
 Falcon: W for me... oh well.  
 Falcon: 1-GEN W... (???).  
@@ -39,17 +39,21 @@ Falcon: `Wm-ro "W"... ????`
 
 *Sounds of a bunch of tiles clinking against each other and against wooden holders*
 
+Pidgey: Then I start. How’s…. This?  
+Pidgey: that-reason start-1S. this... what-degree be-3S ?  
+Pidgey: Aldul gwmoz. Ita... wvuz zat na?
 
-Pidgey: I guess this means I start. How’s…. This?
-Sounds of 4 tiles clinking onto the surface
+Sounds of 4 tiles clinking onto the surface  
 [Pidgey plays ALVI which means '' and gets 28 points]
-Falcon: That’s not a bad first turn.
-Rat: Yeah, 28 points is pretty good.
 
-Pidgey: that-reason start-1S-DEP suppose-1S. how ... be-3S ?
-*Sounds of 4 tiles clinking onto the surface*
-Falcon: bad first play-PAT be-NEG-3S
-Rat: Yes, 28 point-PL be-3S good-DIM.
+Falcon: That’s not a bad first turn.  
+Falcon: bad-NEG first play-GER be-3S  
+Falcon: `Oyayu utaru elwxa zat.`
+
+Rat: Yeah, 28 points is pretty good.  
+Rat: Yes, 44_6 point-PL great-DIM be-3S.  
+Rat: `Zo, avsaqavu taftafwe sawepu zat.`
+
 
 ## Turn 2 (Falcon plays TIVOMA)
 
