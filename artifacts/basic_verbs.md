@@ -48,8 +48,8 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
   * want-3pO-DEP
   * Orcoryal-ka
 * I want to believe
-  * believe-1S-DEP want-1S
-  * Tixmwmap-ka orcwmal
+  * believe-1S-GER want-1S
+  * Tixmwmapa orcwmal
 
 ## Be
 * She's a super freak, super freak, she's super freaky (Rick James)
