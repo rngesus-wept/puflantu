@@ -42,10 +42,16 @@ lera	amount, quantity
 
 # Fauna
 hie	human
+henhie	parent
+amhie	descendant, child
 hibe    man
 hige    woman
 sahibe  boy
 sahige  girl
+henhibe	father
+henhige	mother
+amhibe	son
+amhige	daughter
 fuku    family
 bikve	djinni/genie
 
@@ -439,7 +445,6 @@ tixroca	dream
 ixopfe	wheel
 nico	open
 mwnsi	arm
-heyipe	child
 pagepu	luxury
 gica	shoe
 satipu	pebble
