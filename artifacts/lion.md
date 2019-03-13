@@ -127,7 +127,7 @@ that-time exterior-ADV exist-2S-NEG-DEP-ADV continue-3pS
 Lobwe evave-cws xirwmef  
 dizpwe ~~taklo~~ **saqta** henqos 'topeyex  
 enxombwe ofrwdwe yojre bedqos yebwr ajwmeyen  
-tidul tixorcwe agwris topodex-ka  
+tidul tixrocwe agwris topodex-ka  
 albwr amqos jizeyif-kas binpadan
 
 ### Pronunciation
@@ -135,7 +135,7 @@ albwr amqos jizeyif-kas binpadan
 (Lobwe evave-cws) xirwmef.  
 Dizpwe ~~taklo~~ (**saqta** henqos) 'topenyex  
 (Enxombwe ofrwdwe) (nyojre bedqos) nyebwr ajwmenyen.  
-(tidʌl tixorcwe (angwris topodex-ka))  
+(tidʌl tixrocwe (angwris topodex-ka))  
 ((Albwr amqos) jizenyif-kas) binpadan
 
 ## Entry 5

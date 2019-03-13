@@ -169,5 +169,5 @@ Your dreams will come true.
 2S-GEN dream-PL true FUT become
 ## Puflantu
 :zzz: Ipmeto (Qoyeferu 31 - Qoyepairu 32)
-Rizo tixrocalwe calwe etadaz.
+Rizo tixrocwe calwe etadaz.
 
