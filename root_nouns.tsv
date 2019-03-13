@@ -44,15 +44,15 @@ lera	amount, quantity
 hie	human
 henhie	parent
 amhie	descendant, child
-hibe    man
-hige    woman
-sahibe  boy
-sahige  girl
+hibe	man
+hige	woman
+sahibe	boy
+sahige	girl
 henhibe	father
 henhige	mother
 amhibe	son
 amhige	daughter
-fuku    family
+qawhi	family
 bikve	djinni/genie
 
 # People what do things
@@ -90,7 +90,7 @@ twipenxa	syrup
 toka	peanut
 zampaliso	cheese
 rotwipe	chocolate
-wmpi    apple
+wmpi	apple
 uji	salmon
 honwse	bacon
 
