@@ -73,10 +73,10 @@ Eterqoye-ro hanu mwla et yizit-ka veaton.
 You will meet someone new.
 ## Gloss
 :person: Leo (July 23 - August 22)
-new someone-OBJ FUT meet-2S
+new person FUT meet-2S
 ## Puflantu
-:person: semzo (qoyesaqteru 35 - qoyesaqferu 34)
-cuafi orvo et qekizad
+:person: Semzo (Qoyesaqteru 35 - Qoyesaqferu 34)
+Cuafi hie et qekizad.
 
 
 # Virgo
@@ -85,12 +85,12 @@ cuafi orvo et qekizad
 :fire: Virgo (Aug 23-Sep 22)
 One of your belongings will catch fire. You will be sad.
 ## Gloss
-:house: :fire: Virgo (August 23 - September 22)
-2S-GEN house fire be-3S. sad FUT be-2S
+:fire: Virgo (August 23 - September 22)
+some 2S-GEN combust-3S. sad FUT be-2S
 
 ## Puflantu
-:house: :fire: eyuvo (qoyesaqferu 35 - qoyesaqpairu 34)
-rizo rali e'a etataz. anjo et ziz
+:fire: eyuvo (Qoyesaqferu 35 - Qoyesaqpairu 34)
+Orvo rizo et fumatub. Anjo et ziz.
 
 # Libra
 ## English
