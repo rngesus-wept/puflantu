@@ -160,7 +160,7 @@ open arm-PL-and open eye-PL with FUT meet-1S-3O
 
 Tinri enxura etfel tizol-sos ogis' etfel tizol na?  
 Ixopfe etfel mwizen-lis etfel ~~otizij~~ **fize** na?  
-Podropa veli et mwatolen-kas  
+Podroqa veli et mwatolen-kas  
 Nicwe mwnswe-li nicwe tamwe wli et qekwmatad
 
 ## Entry 6
