@@ -36,17 +36,23 @@ yemo	none
 veli	any
 hanu	place, location
 bwri	time, moment
-zove	way, method
+zove	way, method, plan
 dule	reason
 lera	amount, quantity
 
 # Fauna
 hie	human
-hibe    man
-hige    woman
-sahibe  boy
-sahige  girl
-fuku    family
+henhie	parent
+amhie	descendant, child
+hibe	man
+hige	woman
+sahibe	boy
+sahige	girl
+henhibe	father
+henhige	mother
+amhibe	son
+amhige	daughter
+qawhi	family
 bikve	djinni/genie
 
 # People what do things
@@ -84,11 +90,10 @@ twipenxa	syrup
 toka	peanut
 zampaliso	cheese
 rotwipe	chocolate
-wmpi    apple
+wmpigomu	apple
+emkigomu	orange (fruit)
 uji	salmon
 honwse	bacon
-# TODO: Remove after horoscope conversion
-lama    ham
 
 # Structures
 veonxi	building
@@ -124,7 +129,7 @@ itiye	color
 wre	black
 apo	white
 pamono	red
-emkixa	orange
+emkixa	orange (color)
 amelte	yellow
 colbao	green
 honwze	blue
@@ -245,6 +250,7 @@ kano	southwest
 roqa	day (24 hour period)
 tiroqa	today
 qoyelu	month
+ayego	year
 henroqa	morning
 amroqa	night
 podroqa	tomorrow
@@ -291,7 +297,7 @@ ixnogbi	Uranus (tilt-wanderer)
 cwrzogbi	Neptune (ice-wanderer)
 
 # misc exceptional stuff
-zupote	tar
+azupote	tar
 ejo	lake
 ixi	river
 pahamope	mountain
@@ -344,6 +350,15 @@ se	North
 ka	South
 bi	East
 no	West
+
+# Elements
+itedi	metal
+ulime	gas
+
+enxuli	hydrogen
+cenuli	helium
+twncite	beryllium
+
 
 # Misc (including adjectives)
 cuafi	fresh, newly-made, unused
@@ -418,7 +433,6 @@ exuri	soft
 kirake	crisp (texture)
 rwtxo	circle, round
 rote	dish, plate
-ayego	year
 zezi	bubble
 vomfe	sink (furniture)
 zovalu	street
@@ -433,7 +447,6 @@ tixroca	dream
 ixopfe	wheel
 nico	open
 mwnsi	arm
-heyipe	child
 pagepu	luxury
 gica	shoe
 satipu	pebble
@@ -442,7 +455,6 @@ janari	heaven
 hojoge	parallel
 pevko	ray
 hwvahsu	stable
-orti	plan
 avroxe	surprise, twist, shock
 casute	chaste
 wirdo	freak

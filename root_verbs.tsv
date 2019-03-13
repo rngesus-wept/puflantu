@@ -60,6 +60,7 @@ wndak	consult, refer to
 sinqer	describe
 calpem	ensure
 onir	hear
+yir	invent, conceive
 gir	know
 yel	learn
 gen	read
@@ -68,8 +69,6 @@ mid	see
 lifan	study
 dax	teach, instruct
 nagut	write
-# TODO: Remove after horoscope conversion
-yir	think
 
 # Emotional
 tixmap	believe, think
@@ -110,7 +109,7 @@ sevug	fix, repair
 qobur	float, levitate
 lir	heat
 vunod	ignite
-rulfob	incorporate, combine
+rulfob	incorporate, combine, join
 umav	inflate
 tivom	insert
 karur	melt
@@ -149,6 +148,12 @@ kodan	call
 iktojit	forgive
 sag	give
 esuil	help
+# This is join in the sense of one thing joining another (I joined him for
+#   dinner). For the sense of an entity causing multiple things to be together
+#   (i.e. to link or connect other things), use `rulfob` combine instead.
+twlix	join, to go with
+qwhix	marry (as a groom and bride do)
+qwfob	marry (as a minister does)
 qekad	meet, encounter
 fedan	promise, swear
 tacwl	say
