@@ -46,12 +46,11 @@ Because of the position of Venus, you will be happy today.
 ## Gloss
 
 :smiley: Gemini (May 21 - June 20)
-this-reason venus-GEN place, today happy FUT be-2S.
+venus-GEN place reason-ADV, happy today FUT be-2S.
 
 ## Puflantu
-:smiley: regdo (qoyeneru 33 - qoyesaqeru 32)
-tidul olcogbi-ro hanu, tiroqas xoso et ziz.
-
+:smiley: Regdo (Qoyeneru 33 - Qoyesaqeru 32)
+Olcogbi-ro hanu dules, xoso tiroqas et ziz.
 
 # Cancer
 ## English
@@ -61,11 +60,11 @@ The position of the moon shows that you will propser.
 
 ## Gloss
 :moon: :dollar: Cancer (June 21 - July 22)
-moon-GEN place that-reason FUT prosper-2S show-3S
+moon-GEN place money FUT recieve-2S-DEP indicate-3S
 
 ## Puflantu
-:moon: :dollar: dikiso (qoyesaqeru 33 - qoyesaqteru 34)
-eterqoye-ro hanu aldul et mwla yizit sivateg
+:moon: :dollar: Dikiso (Qoyesaqeru 33 - Qoyesaqteru 34)
+Eterqoye-ro hanu mwla et yizit-ka veaton.
 
 # Leo
 ## English
