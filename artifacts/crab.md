@@ -15,14 +15,14 @@ Rat: All letter take-2pS-3O-IMP...
 *Rummaging sounds... tiles clicking against one another*
 Rat: I got X!
 Lion: I got P!
-Pidgey: A for the Alrogs!  TODO: change to the actual name of this civilization
-Falcon: W for me! TODO: change letter to the wepp word for “me” 
+Pidgey: Ah, an A - looks like I'll be going first
+Falcon: W for me... oh well.
 
 *Rummaging sounds... tiles clicking against one another*
 Rat: possess-1S X!
 Lion: possess-1S P!
-Pidgey: A Alrogs-GEN!  TODO: change to the actual name of this civilization
-Falcon: W 1S-GEN ! 
+Pidgey: 
+Falcon: 
 
 
 ## Turn 1 (Pidgey plays ALVI)
@@ -106,7 +106,7 @@ Falcon: quiet be-2S-IMP. IMPF lead-1S.
 
 *5 tiles*
 [Lion plays PIKFE which means '' and gets 28 points]
-Lion: TODO Something about AQE.
+Lion: TODO Something suggesting he also made the word AQE.
 Pidgey: TODO Some response
 
 *5 tiles*
