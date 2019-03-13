@@ -103,8 +103,8 @@ You will have a good day.
 good day FUT see-2S
 
 ## Puflantu
-:happy_sun: amlo (qoyesaqpairu 35 - qoyesaqavuru 34)
-oma roqa et mizid
+:happy_sun: Amlo (Qoyesaqpairu 35 - Qoyesaqavuru 34)
+Oma roqa et mizid.
 
 # Scorpio
 ## English
@@ -114,15 +114,15 @@ You will think of many ideas today.
 
 ## Gloss
 :lightbulb: Scorpio (October 23 - November 21)
-many invent-PAT ideas today FUT invent-2S
+Many invent-PAT today FUT invent-2S
 
 ## Puflantu
 :lightbulb: reqwco (qoyesaqavuru 35 - qoyesaqneru 33)
-ogi yirwhwe tiroqas et yizir
+Ogi yirwhwe tiroqas et yizir.
 
 # Sagittarius
-## English
 
+## English
 :heart: :arrow: :broken_heart: Sagittarius (Nov 22-Dec 21)
 Today someone you love will break your heart.
 
@@ -131,8 +131,8 @@ Today someone you love will break your heart.
 love-2S-RO 2S-GEN heart today FUT break-3S.
 
 ## Puflantu
-:heart: :arrow: :broken_heart: cugaco (qoyesaqneru 34 - qoyefesaqeru 33)
-sizolen-ka rizo tixuo tiroqas et juyatun.
+:heart: :arrow: :broken_heart: Cugaco (Qoyesaqneru 34 - Qoyefesaqeru 33)
+Sizolen-ka rizo tixro tiroqas et juyatun.
 
 # Capricorn
 ## English
