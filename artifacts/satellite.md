@@ -34,10 +34,20 @@ Plan for RLB52 Satellite Transmitter
 This satellite emits light signals. The light is reflected by a parabolic
 mirror. It leaves the satellite as a focused signal in parallel rays.
 
+# Gloss
+
+RLB-52_10 transmit-AGT satellite method
+
+this satellite signal-AGT-T light-T emit-3S.  
+the parabola mirror light-T reflect-3S.  
+this-way focus-RO-DEP-& parallel-PL ray-PL be-3S-DEP-ADV, signal-AGT satellite-from leave-3S.
+
 # Translation
+
 RLB-124 zoanxagafe qacepo zove 
 
-ita qacepo veonaqo ittiha datog. Gabxo evave ittiha katak. uyoliv-ka-li tihwe
-pevkwe zat-ka veon qacepo-cws latay.
+Ita qacepo etveonafe ittiha datog.  
+Iqa gabxo evave ittiha katak.  
+Tizov uyoliv-ka-li hojogwe pevkwe zat-kas, veonafe qacepo-cws latay.
 
 
