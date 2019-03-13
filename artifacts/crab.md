@@ -1,13 +1,16 @@
 ## Pre-game
 
-Falcon: Well everyone, I’m glad after millennia of this cold war, we are finally here to end it for good.
-Pidgey: Yes, and with only a few days left to go too!
-Lion: I’m excited!
-Rat: Everyone draw a letter...
+Falcon: Hello everyone. After millennia of cold war, we finally meet to end it. I am glad.  
+Falcon: All. , ([after] cold war-GEN millenium-DU) (this-way come-1pS-DEP FUT PRF end-3O-DEP ) glad be-1S  
+Falcon: `'bovipa, axwe. dusiko coce towe ayegwe amqos, 
 
-Falcon: All, ([after] cold war-GEN millenium-DU) (this-way come-1pS-DEP FUT PRF end-3O-DEP ) glad be-1S
+Pidgey: Yes, and with only a few days left to go too!
 Pidgey: yes! and also much-NEG time remain-3S.
+
+Lion: I’m excited!
 Lion: excited be-1S!
+
+Rat: Everyone draw a letter...
 Rat: All letter take-2pS-3O-IMP...
 
 ## Pre-game draw
