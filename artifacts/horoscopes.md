@@ -13,12 +13,12 @@ Today you will see the truth.
 ## Gloss
 
 :eye: Aries (march 21 - april 19)
-today FUT see-2S true.
+true today-ADV FUT see-2S.
 
 ## Perflontus
 
-:eye: wegso (qoyepairu 33 - qoyeavuru 31)
-tiroqas et mizid calu.
+:eye: Wegso (Qoyepairu 33 - Qoyeavuru 31)
+Calu tiroqas et mizid.
 
 # Taurus
 
@@ -30,12 +30,11 @@ You should not interact with Pisces people today.
 ## Gloss
 
 :fish: :X: Taurus (april 20-May 20)
-you Pisces people with today interact-GER should-2S-NEG.
+Pisces meet-3pO-GER today-ADV should-2S-NEG.
 
 ## Puflantu
-:fish: :X: olijo (qoyeavuru 32 - qoyeneru 32)
-iz ipmetwe wlis tiroqas qekad-ka ekizeyep.
-
+:fish: :X: Olijo (Qoyeavuru 32 - Qoyeneru 32)
+Ipmetwe qekodada tiroqas exizeyin.
 
 # Gemini
 
@@ -102,7 +101,7 @@ You will have a good day.
 
 ## Gloss
 :happy_sun: Libra (September 23 - October 22)
-good day FUT have-2S
+good day FUT see-2S
 
 ## Puflantu
 :happy_sun: amlo (qoyesaqpairu 35 - qoyesaqavuru 34)
