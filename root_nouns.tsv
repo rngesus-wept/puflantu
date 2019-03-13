@@ -173,6 +173,9 @@ puflantu	galaxy
 forovo	planet
 qacepo	spaceship
 zagtivo	asteroid
+ulia	air
+bedhanu	sky
+vaxuso	underground, underworld
 
 # Numbers
 saqe	6, half-dozen
@@ -212,6 +215,8 @@ abvura	tetrahedron
 saqfevura	octahedron
 fesaqvura	dodecahedron
 paisaqfevura	icosahedron
+pugma	math
+pugamafe	computer
 
 # Positional
 qahe	close, near
@@ -289,6 +294,7 @@ xwoxe	springs
 ansa	solution/answer
 podfu	web
 wnwli	wrinkle
+ag'ejo	ocean
 
 # Animals
 ogku	cat
