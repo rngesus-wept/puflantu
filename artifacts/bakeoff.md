@@ -165,7 +165,7 @@ Eggs on Bread (bread top egg)
 
 ### Perflontus
 
-*Wibalwe 'agjeyuf; liswe-li furwnwe zad-ka orcizal.*
+*Wibalwe 'agjeyuf; hiswe-li furwnwe zad-ka orcizal.*
 
   * Orlerwe kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
   * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
