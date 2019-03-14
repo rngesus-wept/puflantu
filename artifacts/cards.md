@@ -46,8 +46,7 @@ that-time dusk worker blocked become-3S-DEP, it regenerate-2S-IMP.
 
 : dusk worker +1/+0 obtain-3S until end of turn
 
-that-time each sun set-3S, carrion emerges-3S clean-3s Mirrodin's floor of day's 
-
+that-time each sun set-3S, clean-GER Mirrodin's floor of day's carrion reason-ADV emerge-3S 
 
 # Puflantu
 
@@ -120,6 +119,8 @@ Artifact
 
 # Gloss
 
+"no-time PST capture-RO-DEP release-2S-IMP"
+
 # Puflantu
 
 # English
@@ -132,6 +133,8 @@ Artifact
 —Spellbomb inscription
 
 # Gloss
+
+"no-time PST sleep-RO-DEP awaken-2S-IMP"
 
 # Puflantu
 
@@ -146,6 +149,9 @@ Artifact
 
 # Gloss
 
+
+"no-time PST know-RO-DEP forget-2S-IMP"
+
 # Puflantu
 
 # English
@@ -159,6 +165,7 @@ Artifact
 
 # Gloss
 
+"no-time PST freeze-RO-DEP melt-2S-IMP"
 # Puflantu
 
 # English
@@ -171,4 +178,5 @@ Artifact
 
 # Gloss
 
+"no-time PST sicken-RO-DEP cure-2S-IMP"
 # Puflantu
