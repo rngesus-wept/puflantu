@@ -18,6 +18,7 @@ onam	equal
 pog	give
 # vosiveg	hide, conceal
 mwen	hold, contain
+timov	insert
 quk	make, produce
 atimor	match, correspond
 balem	may
@@ -47,8 +48,8 @@ lay	leave
 nib	move (intrans.)
 neb	move (trans.)
 # volay	return
-xag    send
-zoanxag    transmit
+xag	send
+zoanxag	transmit
 defis	spin_CW
 nafis	spin_CCW
 goconum	visit

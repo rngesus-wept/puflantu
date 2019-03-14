@@ -43,11 +43,11 @@ Pidgey: Then I start. How’s…. This?
 Pidgey: that-reason start-1S. this... what-degree be-3S ?  
 Pidgey: `Aldul gwmoz. Ita... wvuz zat na?`
 
-Sounds of 4 tiles clinking onto the surface  
+*sound of 4 tiles*  
 [Pidgey plays ALVI which means 'weapon' and gets 28 points]
 
-Lion: You do know this is a peace meeting, right?
-Lion: this *peace* meet-GER be-3S-DEP know-2S, yes ?
+Lion: You do know this is a peace meeting, right?  
+Lion: this *peace* meet-GER be-3S-DEP know-2S, yes ?  
 Lion: `Ita `*`talke`*` qekada zat-ka gizir, zo na?`
 
 Falcon: That’s otherwise not a bad first turn.  
@@ -61,23 +61,30 @@ Rat: `Zo, avsaqavu taftafwe sawepu zat.`
 
 ## Turn 2 (Falcon plays TIVOMA)
 
-Falcon: Here’s my word.
-[Falcon plays TIMOVA which means 'insertion' and gets 34 points]
-*Sounds of a bunch of tiles clinking onto the surface*
-Lion: Whoa, you can make more than one word at once?
-Falcon: Yeah, and I get to count my double T twice for it.
-Rat: You opened up the triple word though, scary.
+Falcon: Here’s my word.  
+Falcon: this 1-GEN word be-3S.  
+Falcon: `Ita rwmo natho zat.`
 
-Falcon: Word 1S-GEN here be-3S.
-*sounds of 6 tiles*
-Lion: Wow-BELL, together-ADV word-DU make-GER can-2S ?
-Falcon: Yes, and that-reason double T two-ADV count-GER may-1S-DEP
-Rat: [but?] triple word square[?] PST open-up-2S, scary be-3S
+*sounds of 6 tiles*  
+[Falcon plays TIMOVA which means 'insertion' and gets 34 points]
+
+Lion: Whoa, you can make more than one word at once?  
+Lion: wow, one play-GER through, multiple-PL word-PL make-GER can-2S  
+Lion: `O're, uta elwxa zoan, ogitwe nathwe quka merizin na?`
+
+Falcon: Yeah, and I get to count my double T twice for it.  
+Falcon: Yes, double T that-reason two-ADV count-1S.
+Falcon: `Zo, fele "T" alhan fes wtwmaf.`
+
+Rat: You opened up the triple word though, scary.
+Rat: however, triple word square available become-3S PRF cause-2S. scary be-3S
+Rat: `Kardis, paile natho avubena mezo etataz-ka os pizem.`
 
 ## Turn 3 (Lion plays UQI)
 
-Sounds of 3 tiles clinking onto the board
+*sounds of 3 tiles*
 [Lion plays UQI which means '?????' and gets 16 points]
+
 Lion: Wait, so if you’re allowed to make two words at the same time, can I play UQI and make 3?
 Pidgey: Yes, of course you can!
 Lion: Wow, this opens up so many new possibilities!
