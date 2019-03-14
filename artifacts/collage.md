@@ -6,6 +6,7 @@ English - Puflantu
 triple jump - pailwle tanuvwva  
 high jump - anuvwva tanuvwva  
 long jump - yoxukwka tanuvwva  
+water jump - enxwnxa tanuvwva
 
 red wine - pamrono tinri  
 sparkling wine - egraska tinri  
