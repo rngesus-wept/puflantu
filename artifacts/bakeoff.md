@@ -1,6 +1,6 @@
 **A booklet with slightly greasy pages. The cover says: "Wepu Puflantu Noma-Ji'saga (Feru Qoqra)".**
 
-# Rulfobafwe
+# Rulfobwhwe
 
 Components (combine-PAT-PL)
 
@@ -74,7 +74,7 @@ Sugar dough
 *that-method perfect pie make-3O-DEP, this use-3O-IMP.*
 
   * salt 3 gram-PL-& sugar 3 gram-PL, flour 1 cup-toward-ADV add-3pO-IMP.
-  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL leave-3pO-GER-ADV thorough-NEG-ADV knead-3O-IMP.
+  * small-PL cube-PL resulting_in cut-RO-DEP cold butter 1/2 cup-PL add-3O-&, small-PL chunk-PL remain-3pO-GER-ADV thorough-NEG-ADV knead-3O-IMP.
   * cold water 30 gram-PL add-3pO-IMP-& mix-3O-IMP.
 
 ### Perflontus
@@ -82,7 +82,7 @@ Sugar dough
 *Alzov omeze kureni qotuk-kas, eta 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
-  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe todagas velqegsayos 'axuhotox.
+  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe topodexas velqegsayos 'axuhotox.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
 ## Orburili
@@ -206,7 +206,7 @@ Pasta-& Cheese
   * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
   * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
   * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
-  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jintiye zat-kas 'notom.
+  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jineri zat-kas 'notom.
 
 ## Pitale
 
@@ -341,7 +341,7 @@ Fried Potatoes (potatoes that are fried)
 *Tizov onamas et joduf-kas, atimorwe jalwe eg erizok-ka 'calpem.*
 
   * Ranu 2 amwlw 'vourmobez-li jalwe eg 'erobok.
-  * Albwr-fws jintiywe-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
+  * Albwr-fws jinerwe-li kirakwe zad-kas 'zajoduf. Zalma 'kar.
 
 ## Ranu Samaglamwe
 
@@ -372,7 +372,7 @@ Potato Croquettes
   * Axuhoryox-ka ranwe (jufzove 'wndak) 2 janw 'qotuk.
   * Paliso 1 tama-li 1 wibale-li zalma 'kodar.
   * Realoda samaglamwe eg 'viqotel.
-  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws amqwe sotwmwe jintiywe-li kirakwe zad-ka 'zajotuf.
+  * Samaglamwe wibrale henqos 'saenxodaq-nis oku henqos 'ixodop. Albwr-fws amqwe sotwmwe jinerwe-li kirakwe zad-ka 'zajotuf.
 
 # Twipibnwe
 
@@ -472,7 +472,7 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Twipe 2 janw-li toka hompaliso 3/4 janwe-li hompaliso 1 jano-li zalma 4 guramwe-li laksalfa 12 guramwe 'rulfodob.
   * 2 wibalw 'kobar.
   * Oku 2 janw-li mafke 3/2 janwe-li rotwipe satalne 1324 guramwe 'kodar.
-  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises jintiywe zad-ka 'nodom.
+  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises jinerwe zad-ka 'nodom.
 
 # Notes
 

@@ -127,7 +127,7 @@ that-time exterior-ADV exist-2S-NEG-DEP-ADV continue-3pS
 Lobwe evave-cws xirwmef  
 dizpwe ~~taklo~~ **saqta** henqos 'topeyex  
 enxombwe ofrwdwe yojre bedqos yebwr ajwmeyen  
-tidul tixorcwe agwris topodex-ka  
+tidul tixrocwe agwris topodex-ka  
 albwr amqos jizeyif-kas binpadan
 
 ### Pronunciation
@@ -135,7 +135,7 @@ albwr amqos jizeyif-kas binpadan
 (Lobwe evave-cws) xirwmef.  
 Dizpwe ~~taklo~~ (**saqta** henqos) 'topenyex  
 (Enxombwe ofrwdwe) (nyojre bedqos) nyebwr ajwmenyen.  
-(tidʌl tixorcwe (angwris topodex-ka))  
+(tidʌl tixrocwe (angwris topodex-ka))  
 ((Albwr amqos) jizenyif-kas) binpadan
 
 ## Entry 5
@@ -160,7 +160,7 @@ open arm-PL-and open eye-PL with FUT meet-1S-3O
 
 Tinri enxura etfel tizol-sos ogis' etfel tizol na?  
 Ixopfe etfel mwizen-lis etfel ~~otizij~~ **fize** na?  
-Podropa veli et mwatolen-kas  
+Podroqa veli et mwatolen-kas  
 Nicwe mwnswe-li nicwe tamwe wli et qekwmatad
 
 ## Entry 6
@@ -176,17 +176,17 @@ You'd better run, better run, faster than my bullet
 
 ### Gloss
 
-luxury-PL shoe-PL possess-RpO-DEP all other kid-PL  
+luxury-PL shoe-PL possess-RpO-DEP all other young-PL  
 run-GER should-3pS, run-GER should-3pS, 1-GEN gun run-3pS-AUG  
-luxury-PL shoe-PL possess-RpO-DEP all other kid-PL  
+luxury-PL shoe-PL possess-RpO-DEP all other young-PL  
 run-GER should-3pS, run-GER should-3pS, 1-GEN bullet be-3S-than fast-ADV-CMP
 
 ### Perflontus
 
-pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai heyipwe
-zunata exexin, zunata exexin, rwmo ex'opsi agzunexat
-pagepwe gicwe qaryun-kas axwe rai heyipwe
-zunata exexin, zunata exexin, rwmo es'atipu zat-sos eridas'
+pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai zohcwe  
+zunata exexin, zunata exexin, rwmo ex'opsi agzunexat  
+pagepwe gicwe qaryun-kas axwe rai zohcwe  
+zunata exexin, zunata exexin, rwmo es'atipu zat-sos eridas'  
 
 ### Pronunciation
 
@@ -268,7 +268,7 @@ any day-or any night call-GER-1O may-2S
 
 'koduman! ~~Okame~~ **Fe** zoves
 'koduman; veli velibur 'koduman.
-'koduman, rwmo senice
+'koduman, rwmo senwho
 Veli henroqas-vos amroqas kodumana balizem.
 
 ## Entry 10
