@@ -46,8 +46,8 @@ henhie	parent
 amhie	descendant, child
 hibe	man
 hige	woman
-sahibe	boy
-sahige	girl
+# sahibe	boy
+# sahige	girl
 henhibe	father
 henhige	mother
 amhibe	son
@@ -478,12 +478,16 @@ ywri	false, lie
 natho	word
 natmwne	lexicon
 sanato	letter
+balotno	game
 taftafe	game point
 xekri	trivial, obvious
 erge	loud
 xaxu	quiet
 zikpe	danger
 namehe	fun
+mwla	money
+denaqva	row
+bevaxva	column
 
 # astrological signs
 wegso	aries

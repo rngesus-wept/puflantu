@@ -77,7 +77,7 @@ Falcon: Yes, double T that-reason two-ADV count-1S.
 Falcon: `Zo, fele "T" alhan fes wtwmaf.`
 
 Rat: You opened up the triple word though, scary.
-Rat: however, triple word square available become-3S PRF cause-2S. danger be-3S
+Rat: however, triple word square available become-3S-DEP PRF cause-2S. danger be-3S
 Rat: `Kardis, paile natho avubena mezo etataz-ka os pizem. Zikpe zat.`
 
 ## Turn 3 (Lion plays UQI)
@@ -195,7 +195,7 @@ Falcon: `Wepu zat.`
 [Falcon plays COCE which means 'war' and gets 38 points]
 
 Rat: Am I the only person here actually interested in peace?  
-Rat: peace real-ADV interest-3S-RO-DEP sole person here be-1S ?  
+Rat: peace real-ADV want-3S-RO-DEP sole person here be-1S ?  
 Rat: `Talke ehyos orcatolal-ka itya hie tihan zwm na?!`
 
 Falcon: I couldn't let the guys up at the top have all the fun. Fight me! 38 points.  
@@ -261,28 +261,33 @@ Pidgey: `Fe "W"w im qwmeyun-ka anjo zat. Tidul osgaq qwmobun-kas, felu "G" eg de
 
 [Falcon plays KANO'FI which means 'southwester' and gets 22 points]
 *6 tiles*
-Lion: That can’t be a real word. 
-Sounds of paging through a dictionary
-Rat: Wow[this should contain a bell], it is! Sometimes I feel like someone made these up just for this game.
-Falcon: And that brings me to a little over 120.
 
-*6 tiles*
-Lion: That-SUB real word be-GER can-3S-NEG
+Lion: That can’t be a real word.  
+Lion: that real word be-GER can-3S-NEG.  
+Lion: `Iqa ehyo natho aza merateyin.`
+
 *Sounds of paging through a dictionary*
-Rat: Wow, be-3S! some-person-SUB that-reason this-OBJ game play-3O-DEP PAS make-DEP some-time think-1S.
-Falcon: And this-way 120 exceed-DIM-GER point-PL have-1S
+
+Rat: Wow, it is! Sometimes I feel like someone made these up just for this game.  
+Rat: wow, real be-3S! someone this-PL this game for_recipient-ADV PST conceive-3S-DEP sometimes feel-1S  
+Rat: `O're, ehyo zat! Orvo etwe nathwe eta balotno ziy im yatir-ka orbwr mwmap.`
+
+Falcon: And that brings me to a little over 120.  
+Falcon: 1-GEN point-PL 320 this-time exceed-3S-DIM.  
+Falcon: `Rwmo taftafwe paiyo fesaqe tihan saogatam.`
 
 ## Turn 15 (Lion plays EWSIG)
 
 *4 tiles*
-[Lion plays EWSIG which means '' and gets 10 points]
-Falcon: [whispered] Did he really just open up the the top row like that? And only for 10 points?
-Lion: I can hear you.
+[Lion plays EWSIG which means 'uppercut' and gets 10 points]
 
-*4 tiles*
-[Lion plays EWSIG which means '' and gets 10 points]
-Falcon: [whispered] that-way North-SUP row true-ADV PRF open-3S ? And this-reason 10 point-PL get-DEP ?
-Lion: hear-2dO-GER can-1S.
+Falcon: (Quietly) Did he really just open up the the top row like that? And only for 10 points?  
+Falcon: (quiet-ADV) top row available become-3S-DEP real-ADV simple-ADV PST cause-3S ? 14 point-PL mere-ADV PST receive-3S ?  
+Falcon: `(xaxus) Bedfi denaqva mezo etataz-ka ehyos ovekqus im patem na? Saqavu taftafwe aqes im yatit na?`
+
+Lion: I can hear you.  
+Lion: hear-2O-GER can-1S.  
+Lion: `Onizira merwmin.`
 
 ## Turn 16 (Rat plays JWNTU')
 
