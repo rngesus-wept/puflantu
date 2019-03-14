@@ -101,12 +101,14 @@ Lion: `O're, agogwe cuafwe merinwhwe todag.`
 
 *5 tiles*
 [Rat plays GABXO' which means 'most parabolic' and gets 22 points]
-Falcon: Is that even a word?
-Rat: Yep! Gotta be able to choose the best satellite dish!
 
-*5 tiles*
-Falcon: real word be-3S ?
-Rat: true-ADV! good-SUP satellite dish choose-GER can-GER important-SUP be-3S
+Falcon: Is that even a word?  
+Falcon: real word be-3S na ?  
+Falcon: `...Ehyo natho zat na?`
+
+Rat: Yep! It's how I choose the best satellite dish.  
+Rat: yes! best satellite dish choose-INS method be-3S.  
+Rat: `Zo! Oma' qacepo rote tolaqo zove zat.`
 
 ## Turn 5 (Pidgey plays TIWKW)
 
