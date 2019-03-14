@@ -293,23 +293,20 @@ Lion: `Onizira merwmin.`
 
 [Rat plays JWNTU' which means 'most dual' and gets 32 points]
 *5 tiles*
-Rat: Hmm, if I put it here I can triple the T... no, I should put it here, and double the whole word.
 
-*5 tiles*
-Rat: Hmm, this-reason here FUT CNT put-3O-1S-DEP T triple-GER CNT put-1S... here put-3O-GER and whole word double-GER should-1S
+
+Rat: I could play this over there to triple the T, but by playing it here, I double the whole word.  
+Rat: this there triple "T" resulting_in play-GER CNT can-1S-but, this-method here play-1S-3O-DEP-ADV, full word double-1S.  
+Rat: `Ita alhan pailu "T" eg elwxa gaq merwmin-dis, tizov tihan elwmotwx-kas, ombu natho fesrwmol.`
 
 ## Turn 17 (Pidgey plays AV)
 
 [Pidgey plays AV which means 'imperfective marker' and gets 29 points]
 *1 tile*
-Pidgey: Welp, this is all I got. AV.
-Rat: Technically, you’re supposed to write down the longest word you made if you only play one letter.
-Pidgey: AV.
 
-*1 tile*
-Pidgey: Welp, this have-1S-RO be-3S. AV.
-Rat: Technically, this-reason just 1 letter play-2S-DEP,  long-SUP word make-2S-RO write-GER should-2S.
-Pidgey: "AV" IMPF play-1S.
+Pidgey: This is all I have. "AV".  
+Pidgey: this possess-1S-DEP all be-3S. "AV".  
+Pidgey: `Ita qwmun-ka axwe zat. "AV".`
 
 ## Turn 18 (Falcon plays INE'FI)
 
