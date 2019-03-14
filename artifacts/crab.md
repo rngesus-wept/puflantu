@@ -82,17 +82,20 @@ Rat: `Kardis, paile natho avubena mezo etataz-ka os pizem.`
 
 ## Turn 3 (Lion plays UQI)
 
-*sounds of 3 tiles*
-[Lion plays UQI which means '?????' and gets 16 points]
 
-Lion: Wait, so if you’re allowed to make two words at the same time, can I play UQI and make 3?
-Pidgey: Yes, of course you can!
-Lion: Wow, this opens up so many new possibilities!
+Lion: Wait, so if you’re allowed to make two words at the same time, can I play UQI and make 3?  
+Lion: Wait-IMP, this-reason multiple-PL word-PL simultaneous-ADV make-GER can-3S-DEP-ADV, "UQI" play-GER three resulting_in can-1S ?  
+Lion: `'bacev, tidul ogitwe nathwe atimbwris quka meratin-kas, "UQI" elwxa pai eg merwmin na?`
 
-*Sounds of 3 tiles clinking onto the board*
-Lion: Wait-IMP, time-ADV word-DU make-GER may-2S. do-GER and 3 word-PL make-GER may-1S ?
-Pidgey: Yes, of-course-BELL may-2S!
-Lion: Wow, many-ADV many new can-PAT-PL open-3S
+Pidgey: Yes, of course you can!  
+Pidgey: yes, obvious-ADV can-2S.  
+Pidgey: `Zo, xekris merizin.`
+
+*sounds of 3 tiles*  
+[Lion plays UQI which means 'cent' and gets 16 points]  
+Lion: Wow, this opens up so many new possibilities!  
+Lion: Wow, many-ADV many new can-PAT-PL open-3S  
+Lion: `O're, agogwe cuafwe merinwhwe todag.`
 
 ## Turn 4 (Rat plays GABXO')
 
