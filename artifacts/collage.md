@@ -6,6 +6,7 @@ English - Puflantu
 triple jump - pailwle tanuvwva  
 high jump - anuvwva tanuvwva  
 long jump - yoxukwka tanuvwva  
+water jump - enxwnxa tanuvwva
 
 red wine - pamrono tinri  
 sparkling wine - egraska tinri  
@@ -13,7 +14,7 @@ white wine - apro tinri
 wine bottle - tini uxfaplo  
 water bottle - enxa uxfaplo  
 
-intentional walk - durwra falokwka  
+intentional walk - dubqwbqa falokwka  
 walk - falokwka  
 pinch hit - gamwma donelwla  
 pinch run - gamwma zunatwta  
