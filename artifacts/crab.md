@@ -77,8 +77,8 @@ Falcon: Yes, double T that-reason two-ADV count-1S.
 Falcon: `Zo, fele "T" alhan fes wtwmaf.`
 
 Rat: You opened up the triple word though, scary.
-Rat: however, triple word square available become-3S PRF cause-2S. scary be-3S
-Rat: `Kardis, paile natho avubena mezo etataz-ka os pizem.`
+Rat: however, triple word square available become-3S PRF cause-2S. danger be-3S
+Rat: `Kardis, paile natho avubena mezo etataz-ka os pizem. Zikpe zat.`
 
 ## Turn 3 (Lion plays UQI)
 
@@ -151,16 +151,20 @@ Lion: `Oze zat, eyri *aqes* zat.`
 
 ## Turn 8 (Rat plays SWTABXI')
 
-!!7 tiles!!!
+*7 tiles*
 [Rat plays SWTABXI' which means 'clearest' and gets 92 points]
-Falcon: There goes my lead..
-Rat: That’s what you get for leaving triple word scores open. That’s... 92 points?
-Pidgey: So it is.
 
-!!7 tiles!!!
-Falcon: this-way 1S-GEN lead-PAT leave-3S
-Rat: this-reason triple word square PRF use-NEG-2S-DEP deserve-2S-3O. 92 points be-3S ?
-Pidgey: be-3S.
+Falcon: There goes my lead..  
+Falcon: Yikes, still-NEG win-1S-NEG.  
+Falcon: `W'ne, ihayex tafwmit.`
+
+Rat: Thanks for leaving the triple word squares available. That’s... 92 points?  
+Rat: this-reason triple word square available continue-3O-DEP allow-2S-DEP-ADV thank-1S-2O. that... 92_10 point-PL be-3S ?  
+Rat: `Tidul paile natho avubena mezo binpatan-ka tizag-kas ewswmizig. Iqa... feyo paisaqfe taftafwe zat na?`
+
+Pidgey: So it is.  
+Pidgey: that-degree be-3S  
+Pidgey: `Alvuz zat.`
 
 ## Score check after 2 rounds
 
