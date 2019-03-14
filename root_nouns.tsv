@@ -42,13 +42,13 @@ lera	amount, quantity
 vuzi	degree, extent
 
 # Fauna
-hie	human
+hie	person, sentient being
 henhie	parent
 amhie	descendant, child
 hibe	man
 hige	woman
-sahibe	boy
-sahige	girl
+# sahibe	boy
+# sahige	girl
 henhibe	father
 henhige	mother
 amhibe	son
@@ -96,6 +96,10 @@ emkigomu	orange (fruit)
 zobwgomu	peach
 uji	salmon
 honwse	bacon
+atsaro	cinnamon
+hemsaro	nutmeg
+ewsaro	clove
+vesaro	spice
 
 # Structures
 veonxi	building
@@ -146,6 +150,7 @@ alveri	silver_color
 # Counting, measurement, and appraisal
 wepu	distinguished, magnificent
 oma	good, satisfactory
+oze	adequate
 oyu	bad, inadequate
 agi	big, large, giant
 eyi	small (size)
@@ -174,7 +179,7 @@ utavi	main, primary, principal
 fevi	side, secondary
 vole	strong, strength
 ine	weak
-ehyo	real, true, genuine, actual
+ehyo	real, genuine, actual
 
 # Adjectival root of solely, only, just
 itya	sole, lone
@@ -226,11 +231,15 @@ sagite	coin
 # Other math
 gabxo	parabola
 xwrdi	matrix
+velbena	shape
+velvura	polyhedron
+avubena	square
 saqvura	cube
 abvura	tetrahedron
 saqfevura	octahedron
 fesaqvura	dodecahedron
 paisaqfevura	icosahedron
+ogita	multiple, plural
 
 # Positional
 qahe	close, near
@@ -314,6 +323,9 @@ wnwli	wrinkle
 ogku	cat
 ukge	dog
 zwmsi	fish
+balri	mouse
+qerwkse	fox
+lahro	penguin
 
 # The Outdoors
 qunxe	sun
@@ -325,14 +337,22 @@ furwne	cloud, fluff
 
 # Body parts
 eqme	leg
+mwnsi	arm
+tama	eye, tablespoon
+vaxsi	butt
 
 # Sentiment
 xoso	happy
 anjo	sad
 remo	funny
+oxpele	excited
 
 # Element
+itedi	metal
+ulime	gas
+enxuli	hydrogen
 cenuli	helium
+twncite	beryllium
 onekuli	neon
 liquli	argon
 jinite	gold
@@ -353,15 +373,6 @@ ka	South
 bi	East
 no	West
 
-# Elements
-itedi	metal
-ulime	gas
-
-enxuli	hydrogen
-cenuli	helium
-twncite	beryllium
-
-
 # Misc (including adjectives)
 cuafi	fresh, newly-made, unused
 jano	cup
@@ -379,8 +390,7 @@ pekle	crayon
 noigle	circus
 veskepi	ham
 rali	house
-balri	mouse
-qerwkse	fox
+atimbwri	simultaneous
 xotilu	car
 maglame	mass, loaf, blob
 #????	gone  --  Try to use exist-NEG
@@ -388,12 +398,8 @@ karka	also, additional, too
 talne	chunk
 velqegso	thorough, meticulous
 kirwge	health
-atsaro	cinnamon
-hemsaro	nutmeg
-ewsaro	clove
-vesaro	spice
 iporo	pot
-zoxura	occaional, sometimes
+zoxura	occasional, sometimes
 ogje	thick (linear dimension)
 ombu	full
 durema	straight
@@ -402,7 +408,6 @@ wabu	card
 espuyi	royal, noble
 anuva	high
 yoxuka	long
-lahro	penguin
 olcusa	pearl
 saqwne	storm
 ihro	Earth-blood
@@ -416,7 +421,6 @@ hise	light, weightless
 jaonga	dense
 juqzove	recipe
 pahi	flat
-tama	eye, tablespoon
 tahlo	pan
 jerada	vigor
 tolorca	selective
@@ -424,7 +428,6 @@ eyosfe	tongue
 pexa	adult
 bilbi	whisk
 amwlo	pound (unit)
-axibena	shape
 sotwma	layer
 zamgomu	tomato
 rai	other
@@ -448,11 +451,10 @@ yojre	floor
 tixroca	dream
 ixopfe	wheel
 nico	open
-mwnsi	arm
+mezo	available
 pagepu	luxury
 gica	shoe
 satipu	pebble
-vaxsi	butt
 janari	heaven
 hojoge	parallel
 pevko	ray
@@ -474,6 +476,19 @@ ahrodi	scar
 ulime	gas
 calu	true, truth
 ywri	false, lie
+natho	word
+natmwne	lexicon
+sanato	letter
+balotno	game
+taftafe	game point
+xekri	trivial, obvious
+erge	loud
+xaxu	quiet
+zikpe	danger
+namehe	fun
+mwla	money
+denaqva	row
+bevaxva	column
 
 # astrological signs
 wegso	aries
