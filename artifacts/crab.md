@@ -223,22 +223,26 @@ Falcon: By the way, what’s the blank?
 Falcon: additional-ADV, what full-NEG letter be-3S ?  
 Falcon: `Karkas, wat ombayu sanato zat na?`
 
-Lion: That should be an F.
-Lion: F be-3S.
+Lion: That should be an F.  
+Lion: F be-3S.  
 Lion: `"F" zat.`
 
 ## Turn 12 (Rat plays EGASKA')
 
 !!!7 tiles!!!
 [Rat plays EGASKA' which means 'most dazzling' and gets 106 points]
-Lion: No way, how many points is that?! Look at that hook on the A too!
-Falcon: It looks like 106. This is already becoming a total shutout.
-Rat: Well, you all keep letting me have the triple word squares...
 
-!!!7 tiles!!!
-Lion: be-GER can-3S-NEG, what-quantity point-PL be-3S ?
-Falcon: 106 seem-3S. This is already becoming a total shutout.
-Rat: Well, you all keep letting me have the triple word squares...
+Lion: Wow, how many points is that?! Look at that word on the A too!  
+Lion: wow, what-quantity point-PL be-3S ?! that "A"-from word also-ADV see-3O-IMP  
+Lion: `W'ne, wlerwe taftafwe zat na? eqa "A"-cw natho karkas 'motid!`
+
+Falcon: It looks like 106. This is already becoming a total shutout.  
+Falcon: 254 be-1S. this [Rat]-GEN full win-GER IMPF become-3S.  
+Falcon: `Feyo nesaqavu taftafwe zat. Ita [Rat]-ro ombu tafita av etataz.`
+
+Rat: Well, you all keep letting me have the triple word squares...  
+Rat: hey, triple-PL word-PL square-PL gain-1S-DEP allow-GER continue-2pS...  
+Rat: `A'mi, pailwe nathwe avubenwe ywmit-ka taga binpixan...`
 
 ## Turn 13 (Pidgey plays WGIFZW)
 
