@@ -165,7 +165,7 @@ Eggs on Bread (bread top egg)
 
 ### Perflontus
 
-*Wibalwe 'agjeyuf; liswe-li furwnwe zad-ka orcizal.*
+*Wibalwe 'agjeyuf; hiswe-li furwnwe zad-ka orcizal.*
 
   * Orlerwe kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
   * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
@@ -472,7 +472,7 @@ Oatmeal Peanut Butter Chocolate Cookies
   * Twipe 2 janw-li toka hompaliso 3/4 janwe-li hompaliso 1 jano-li zalma 4 guramwe-li laksalfa 12 guramwe 'rulfodob.
   * 2 wibalw 'kobar.
   * Oku 2 janw-li mafke 3/2 janwe-li rotwipe satalne 1324 guramwe 'kodar.
-  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws lises jinerwe zad-ka 'nodom.
+  * Realoda eywe samaglamwe eg 'viqotel. Albwr-fws hises jinerwe zad-ka 'nodom.
 
 # Notes
 

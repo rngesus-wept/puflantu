@@ -50,6 +50,7 @@ fo	exclusive or
 fos	exclusive or
 vo	inclusive or
 vos	inclusive or
+vak	by (agent of passive verb)
 ro	genitive particle ("'s")
 na	interrogative particle ("?")
 eg	resulting in
@@ -86,11 +87,11 @@ etosgaq	future perfective counterfactual
 
 
 # Useful words
-
 zo	yes
 xa	no
 zoxa	maybe
 yoxa	and so forth, etc.
+kardis	even so, however
 
 # Time
 tibwr	now
@@ -114,13 +115,18 @@ alzov	that way, if
 orzov	somehow, indefinite way
 yezov	never, in no manner
 velzov	however, arbitrary way
-wzov	how?
+wzov	how, by what means
 tidul	this reason, therefore
 aldul	that reason, because
 ordul	indefinite reason
 yedul	never, for no reason
 veldul	whatever reason
-wdul	why?
+wdul	why, for what reason
+tivuz	to this degree
+alvuz	to that degree
+orvuz	to some degree
+velvuz	to any degree
+wvuz	to what degree
 
 # These are technically noun/adjectives but they always take the plural form
 axwe	every, all
@@ -187,6 +193,7 @@ newdo	38880
 'bovipa	hello
 w'ne	yikes
 o're	oh/wow
+a'mi	hey
 
 # These numbers should be normal nouns but are monosyllablic
 yo	thirty-six
