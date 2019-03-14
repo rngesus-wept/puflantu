@@ -7,33 +7,33 @@
 
 ## English
 
-:eye: Aries (Mar 21-Apr 19)  
+:eye: ☑️ Aries (Mar 21-Apr 19)  
 Today you will see the truth.
 
 ## Gloss
 
-:eye: Aries (march 21 - april 19)
+:eye: ☑️ Aries (march 21 - april 19)
 true today-ADV FUT see-2S.
 
 ## Perflontus
 
-:eye: Wegso (Qoyepairu 33 - Qoyeavuru 31)
+:eye: ☑️ Wegso (Qoyepairu 33 - Qoyeavuru 31)
 Calu tiroqas et mizid.
 
 # Taurus
 
 ## English
 
-:fish: :X: Taurus (Apr 20-May 20)
+:X: 🧑🧑🐟  Taurus (Apr 20-May 20)
 You should not interact with Pisces people today.
 
 ## Gloss
 
-:fish: :X: Taurus (april 20-May 20)
+:X: 🧑🧑🐟 Taurus (april 20-May 20)
 Pisces meet-3pO-GER today-ADV should-2S-NEG.
 
 ## Puflantu
-:fish: :X: Olijo (Qoyeavuru 32 - Qoyeneru 32)
+:X: 🧑🧑🐟  Olijo (Qoyeavuru 32 - Qoyeneru 32)
 Ipmetwe qekodada tiroqas exizeyin.
 
 # Gemini
@@ -55,41 +55,41 @@ Olcogbi-ro hanu dules, xoso tiroqas et ziz.
 # Cancer
 ## English
 
-:moon: :dollar: Cancer (Jun 21-Jul 22)
+:moon: :dollar: 💰 Cancer (Jun 21-Jul 22)
 The position of the moon shows that you will propser.
 
 ## Gloss
-:moon: :dollar: Cancer (June 21 - July 22)
+:moon: :dollar: 💰 Cancer (June 21 - July 22)
 moon-GEN place money FUT recieve-2S-DEP indicate-3S
 
 ## Puflantu
-:moon: :dollar: Dikiso (Qoyesaqeru 33 - Qoyesaqteru 34)
+:moon: :dollar: 💰 Dikiso (Qoyesaqeru 33 - Qoyesaqteru 34)
 Eterqoye-ro hanu mwla et yizit-ka veaton.
 
 # Leo
 ## English
 
-:person: Leo (Jul 23-Aug 22)
+:person: 🤝  Leo (Jul 23-Aug 22)
 You will meet someone new.
 ## Gloss
-:person: Leo (July 23 - August 22)
+:person: 🤝  Leo (July 23 - August 22)
 new person FUT meet-2S
 ## Puflantu
-:person: Semzo (Qoyesaqteru 35 - Qoyesaqferu 34)
+:person: 🤝  Semzo (Qoyesaqteru 35 - Qoyesaqferu 34)
 Cuafi hie et qekizad.
 
 
 # Virgo
 ## English
 
-:fire: Virgo (Aug 23-Sep 22)
+:fire: :arrow: 😢 Virgo (Aug 23-Sep 22)
 One of your belongings will catch fire. You will be sad.
 ## Gloss
-:fire: Virgo (August 23 - September 22)
+:fire: :arrow: 😢 Virgo (August 23 - September 22)
 some 2S-GEN combust-3S. sad FUT be-2S
 
 ## Puflantu
-:fire: eyuvo (Qoyesaqferu 35 - Qoyesaqpairu 34)
+:fire: :arrow: 😢 eyuvo (Qoyesaqferu 35 - Qoyesaqpairu 34)
 Orvo rizo et fumatub. Anjo et ziz.
 
 # Libra
@@ -109,15 +109,15 @@ Oma roqa et mizid.
 # Scorpio
 ## English
 
-:lightbulb: Scorpio (Oct 23-Nov 21)
+:thinking: :lightbulb: :lightbulb: Scorpio (Oct 23-Nov 21)
 You will think of many ideas today.
 
 ## Gloss
-:lightbulb: Scorpio (October 23 - November 21)
+:thinking: :lightbulb: :lightbulb: Scorpio (October 23 - November 21)
 Many invent-PAT today FUT invent-2S
 
 ## Puflantu
-:lightbulb: reqwco (qoyesaqavuru 35 - qoyesaqneru 33)
+:thinking: :lightbulb: :lightbulb: reqwco (qoyesaqavuru 35 - qoyesaqneru 33)
 Ogi yirwhwe tiroqas et yizir.
 
 # Sagittarius
@@ -150,24 +150,24 @@ Himlo, rizo anjo 'vosiveyoteg. Axwe-fws 'sivoteg.
 # Aquarius
 ## English
 
-:rain: Aquarius (Jan 20-Feb 18)
+:rain: 🚫💧 Aquarius (Jan 20-Feb 18)
 Today it will rain but you will not get wet.
 
 ## Gloss
-:rain: Aquarius (January 20 - February 18)
+:rain: 🚫💧  Aquarius (January 20 - February 18)
 today FUT rain but-ADV wet FUT be-2S-NEG
 ## Puflantu
-:rain: Idivo (Qoyeutaru 32 - Qoyeferu 30)
+:rain: 🚫💧  Idivo (Qoyeutaru 32 - Qoyeferu 30)
 Tiroqas et suplatat-dis, enxa et zizey.
 
 # Pisces
 ## English
-:zzz: Pisces (Feb 19-Mar 20)  
+:zzz: :arrow: ☑️ Pisces (Feb 19-Mar 20)  
 Your dreams will come true.
 ## Gloss
-:zzz: pisces (february 19 - march 20)  
+:zzz: :arrow: ☑️ pisces (february 19 - march 20)  
 2S-GEN dream-PL true FUT become
 ## Puflantu
-:zzz: Ipmeto (Qoyeferu 31 - Qoyepairu 32)
+:zzz: :arrow: ☑️ Ipmeto (Qoyeferu 31 - Qoyepairu 32)
 Rizo tixrocwe calwe etadaz.
 
