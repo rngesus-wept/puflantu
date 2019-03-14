@@ -13,7 +13,9 @@ Dimir mages put the lanterns to good use, creating shapeshifters and sleeper age
 
 color-T lantern-T
 
-"any color one mana add-2S-IMP" your lands have. "any color one mana add-2S-IMP"
+ your lands "any color one mana add-2S-IMP" have. 
+
+any color one mana add-2S-IMP
 
 good use laterns Dimir mages put. shapeshifter and sleeper agents creating from foreign mana use-3P.
 
@@ -38,7 +40,13 @@ At the setting of each sun, it emerges to clean Mirrodin's floor of the day's ca
 
 dusk worker
 
+artifact creature - construct
 
+that-time dusk worker blocked become-3S-DEP, it regenerate-2S-IMP.
+
+: dusk worker +1/+0 obtain-3S until end of turn
+
+that-time each sun set-3S, carrion emerges-3S clean-3s Mirrodin's floor of day's 
 
 
 # Puflantu
