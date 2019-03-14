@@ -248,12 +248,14 @@ Rat: `A'mi, pailwe nathwe avubenwe ywmit-ka taga binpixan...`
 
 *5 tiles*
 [Pidgey plays WGIFZW which means 'animation-DU' and gets 29 points]
-Falcon: Wow, looks we have the same score now. 
-Pidgey: But it’s too bad I didn’t have another W; if I did, I could have played on the left to get the double letter on the G.
 
-*5 tiles*
-Falcon: Wow, same score now have-1dS-DEP seem-3S. 
-Pidgey: second W PRF have-1S-NEG-DEP sad be-3S-DIM. this-reason CNT have-1S-3O-DEP, West interior-ADV play-GER and double letter G interior-ADV get-GER CNT PRF can-1S
+Falcon: Hey, looks we have the same score now.  
+Falcon: hey, equal-GER point-PL possess-1dS-DEP appear-3S.  
+Falcon: `A'mi, onama taftafwe qwnun-ka jatif.`
+
+Pidgey: But it’s too bad I didn’t have another W; if I did, I could have played on the left to get the double letter on the G.
+Pidgey: two W-DU PST possess-1S-NEG-DEP sad be-3S. this-reason PRF-CNT possess-1S-3dO-DEP-ADV, double "G" resulting_in left-at-ADV play-GER PRF-CNT can-1S.
+Pidgey: `Fe "W"w im qwmeyun-ka anjo zat. Tidul osgaq qwmobun-kas, felu "G" eg defi-fws elwxa osgaq merwmin.`
 
 ## Turn 14 (Falcon plays KANO'FI)
 
