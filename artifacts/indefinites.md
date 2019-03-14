@@ -6,11 +6,11 @@ are both more commonly used in our artifacts).*
 
 # Wat ita zat na?
 
-|        | ita/eta | iqa/eqa | orvo    | yemo    | axwe   | veli    | wat/.../wod |
-|---|---|---|---|---|---|---|---|
-| **hanu**   | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
-| **bwri**    | tibwr   | albwr   | orbwr   | yebwr   | axwbwr | velbwr  | wbwr        |
-| **zove**      | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
-| **dule**   | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
+|          | ita/eta | iqa/eqa | orvo    | yemo    | axwe   | veli    | wat/.../wod |
+|----------+---------+---------+---------+---------+--------+---------+-------------|
+| **hanu** | tihan   | alhan   | orhan   | yehan   | axwhan | velhan  | whan        |
+| **bwri** | tibwr   | albwr   | orbwr   | yebwr   | axwbwr | velbwr  | wbwr        |
+| **zove** | tizov   | alzov   | orzov   | yezov   |        | velzov  | wzov        |
+| **dule** | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
 | **lera** | tilerwe | alerwe  | orlerwe | yelerwe |        | velerwe | wlerwe      |
-| **vuzi**   | tivuz   | alvuz   | orvuz   | yevuz   |        | velvuz  | wvuz        |
+| **vuzi** | tivuz   | alvuz   | orvuz   | yevuz   |        | velvuz  | wvuz        |
