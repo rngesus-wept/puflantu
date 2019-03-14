@@ -41,7 +41,7 @@ dule	reason
 lera	amount, quantity
 
 # Fauna
-hie	human
+hie	person, sentient being
 henhie	parent
 amhie	descendant, child
 hibe	man
@@ -147,6 +147,7 @@ alveri	silver_color
 # Counting, measurement, and appraisal
 wepu	distinguished, magnificent
 oma	good, satisfactory
+oze	adequate
 oyu	bad, inadequate
 agi	big, large
 eyi	small (size)
@@ -477,6 +478,8 @@ natmwne	lexicon
 sanato	letter
 taftafe	game point
 xekri	trivial, obvious
+erge	loud
+xaxu	quiet
 
 # astrological signs
 wegso	aries

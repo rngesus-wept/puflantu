@@ -114,34 +114,40 @@ Rat: `Zo! Oma' qacepo rote tolaqo zove zat.`
 
 *3 tiles*
 [Pidgey plays TIWKW which means 'question (dual)' and gets 10 points]
-Lion: Wait, why is that not worth 13?
-Pidgey: Good question, eh?. The blue square is already used up from [Falcon Name]’s word.
 
-*3 tiles*
-Lion: Wait-IMP, reason-interr  13 worth-NEG-3S ? 
-Pidgey: Good question, eh?. The blue square is already used up from [Falcon Name]’s word.
+Lion: Wait, why is that not worth 13?  
+Lion: wait-IMP. 13_10 point-PL resulting_in what-reason count-3S ?  
+Lion: `'bacev. Fesaqta taftafwe eg wdul wtataf na?`
+
+Pidgey: The blue square is already used up from [Falcon Name]'s word.  
+Pidgey: Falcon-GEN word blue square already PRF use-3S.  
+Pidgey: `Falcon-ro natho honwze avubena xwes os piotwv.`
 
 ## Turn 6 (Falcon plays AMWPEX)
 
 *6 tiles*
 [Falcon plays AMWPEX which means 'outdoors' and gets 29 points]
-Rat: You’re using triple squares on an A and E?
-Falcon: Shush, I’m winning.
 
-*6 tiles*
-Rat: 
-Falcon: quiet be-2S-IMP. IMPF lead-1S.
+Rat: You’re using triple squares on an A and E?  
+Rat: A-& E triple letter squares at-ADV play-2S-3pO ?  
+Rat: `"A"-li "E" pailwe sanatwe avubenwe-tis elizodwx na?`
+
+Falcon: Shush. I'm winning.  
+Falcon: quiet be-IMP. IMPF win-1S.  
+Falcon: `Xaxu 'az. Av tafwmit.`
 
 ## Turn 7 (Lion plays PIKFE)
 
 *5 tiles*
-[Lion plays PIKFE which means '' and gets 28 points]
-Lion: TODO Something suggesting he also made the word AQE.
-Pidgey: TODO Some response
+[Lion plays PIKFE which means 'bow (weapon)' and gets 28 points]
 
-*5 tiles*
-Lion:
-Pidgey: 
+Pidgey: Oh, who's the belligerent one now?  
+Pidgey: oh, what war person now be-3S ?  
+Pidgey: `O're, wat coce hie tibwr zat na?`
+
+Lion: It's okay, it's merely a small one.  
+Lion: okay be-3S, small mere-ADV be-3S.  
+Lion: `Oze zat, eyri *aqes* zat.`
 
 ## Turn 8 (Rat plays SWTABXI')
 
