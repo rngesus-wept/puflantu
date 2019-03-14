@@ -4,6 +4,8 @@ Needs improved glossing, translation, more postprodding, and photoshop.
 
 Chromatic Lantern
 
+Artifact
+
 Lands you control have ": Add one mana of any color." : Add one mana of any color.
 
 Dimir mages put the lanterns to good use, creating shapeshifters and sleeper agents from mana foreign to them.
@@ -13,14 +15,23 @@ Dimir mages put the lanterns to good use, creating shapeshifters and sleeper age
 
 color-T lantern-T
 
- your lands "any color one mana add-2S-IMP" have. 
+artifact
+
+your lands "any color one mana add-2S-IMP" have. 
 
 any color one mana add-2S-IMP
 
-good use laterns Dimir mages put. shapeshifter and sleeper agents creating from foreign mana use-3P.
+Dimir mages lanterns good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shapeshifters-and sleeper agents create-GER.
 
 
 # Puflantu
+
+ititiye tihana
+
+rizwe usonbwe "{T}: veli itiye uta 'uz 'kar" qadon.
+
+{T}: veli itiye uta 'uz 'kar.
+
 
 
 
@@ -32,7 +43,7 @@ Artifact Creature - Construct
 
 Whenever Duskworker becomes blocked, regenerate it.
 
-: Duskworker gets +1/+0 until end of turn.
+{T}: Duskworker gets +1/+0 until end of turn.
 
 At the setting of each sun, it emerges to clean Mirrodin's floor of the day's carrion.
 
@@ -44,25 +55,30 @@ artifact creature - construct
 
 that-time dusk worker blocked become-3S-DEP, it regenerate-2S-IMP.
 
-: dusk worker +1/+0 obtain-3S until end of turn
+{T}: dusk worker that-time-toward turn end +1/+0 have-3S
 
-that-time each sun set-3S, clean-GER Mirrodin's floor of day's carrion reason-ADV emerge-3S 
+that-time each sun set-3S-DEP-ADV, Mirrodin's floor that-method day's carrion exist-3S-NEG-DEP-ADV clean-GER reason-ADV emerge-3S
 
 # Puflantu
 
 
+albur [each] etqunxe [satet], Mirodin-ro [floor] tizov alroqa-ro [carrion] jateyif-kas [clean]a dules [ematerg]
 
 # English
 
-Cellar Door
+Cellar Door {2}
 
-Target player puts the bottom card of their library into their graveyard. If it's a creature card, you create a 2/2 black Zombie creature token.
+Artifact
+
+{3}, {T}: Target player puts the bottom card of their library into their graveyard. If it's a creature card, you create a 2/2 black Zombie creature token.
 
 As if anyone needed another reason to avoid dark, dank cellars.
 
 # Gloss
 
 cellar door
+
+artifact
 
 target/chosen(adj) player bottom card of their library into their graveyard puts. If creature card is-it, 2/2 black Zombie creature token create-2S.
 
@@ -86,6 +102,7 @@ Golden(?) Lotus
 Any one color-of three many add-2S-IMP
 
 over this(?) beauty, wars fought are. With this(?) power, wars won are.
+this-reason
 
 # Puflantu
 
@@ -98,6 +115,8 @@ As Belbe's Portal enters the battlefield, choose a creature type.
 
 You may put a creature card of the chosen type from your hand onto the battlefield.
 
+The fight will continue on a new battlefield.
+
 # Gloss
 
 Belbe's door(?)
@@ -105,6 +124,8 @@ Belbe's door(?)
 as Belbe's door(?) the battlefield enters, a creature type choose-IMP-2S
 
 chosen type-of creature card from your hand onto the battlefield you put may //lol idr prepositions gg
+
+fight one new fight+place-at-ADV FUT continue-3S
 
 # Puflantu
 
