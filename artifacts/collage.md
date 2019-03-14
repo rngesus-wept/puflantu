@@ -14,7 +14,7 @@ white wine - apro tinri
 wine bottle - tini uxfaplo  
 water bottle - enxa uxfaplo  
 
-intentional walk - durwra falokwka  
+intentional walk - dubqwbqa falokwka  
 walk - falokwka  
 pinch hit - gamwma donelwla  
 pinch run - gamwma zunatwta  
