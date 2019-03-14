@@ -24,19 +24,21 @@ good use laterns Dimir mages put. shapeshifter and sleeper agents creating from 
 
 # English
 
-Duskwalker
+Duskworker
 
-Kicker 3Black (You may pay an additional 3Black as you cast this spell.)
+Artifact Creature - Construct
 
-If Duskwalker was kicked, it enters the battlefield with two +1/+1 counters on it and with fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Duskworker becomes blocked, regenerate it.
+
+: Duskworker gets +1/+0 until end of turn.
+
+At the setting of each sun, it emerges to clean Mirrodin's floor of the day's carrion.
 
 # Gloss
 
 dusk worker
 
-Kick-AGT (3B) (additional 3B you pay may while this spell you cast)
 
-if Duskwalker kicked-PST, with two +1/+1 counters and fear the battlefield enters-3S. (only artifact creatures or-inclusive black creatures block can.)
 
 
 # Puflantu
@@ -101,19 +103,63 @@ chosen type-of creature card from your hand onto the battlefield you put may //l
 
 
 # English
-
-add more cards here? Ideas;
-
-Voltaic Key {1} Artifact {1}, {T}: Untap target artifact. The missing piece to every puzzle.
-
-Sol Ring {1} Artifact {T}: Add {C}{C}. Lost to time is the artificer's art of trapping light from a distant star in a ring of purest gold.
-
-Thought Vessel {2}
+Aether Spellbomb {1}
 Artifact
-You have no maximum hand size.
-{T}: Add {C}.
-Infinite possibilities contained in a finite space.
+{U}, Sacrifice Aether Spellbomb: Return target creature to its owner's hand.
+{1}, Sacrifice Aether Spellbomb: Draw a card.
+"Release that which was never caged."
+—Spellbomb inscription
 
+# Gloss
+
+# Puflantu
+
+# English
+
+Lifespark Spellbomb {1}
+Artifact
+{G}, Sacrifice Lifespark Spellbomb: Until end of turn, target land becomes a 3/3 creature that's still a land.
+{1}, Sacrifice Lifespark Spellbomb: Draw a card.
+"Awaken that which was never asleep."
+—Spellbomb inscription
+
+# Gloss
+
+# Puflantu
+
+# English
+
+Necrogen Spellbomb {1}
+Artifact
+{B}, Sacrifice Necrogen Spellbomb: Target player discards a card.
+{1}, Sacrifice Necrogen Spellbomb: Draw a card.
+"Forget that which was never known."
+—Spellbomb inscription
+
+# Gloss
+
+# Puflantu
+
+# English
+
+Pyrite Spellbomb {1}
+Artifact
+{R}, Sacrifice Pyrite Spellbomb: It deals 2 damage to any target.
+{1}, Sacrifice Pyrite Spellbomb: Draw a card.
+"Melt that which was never frozen."
+—Spellbomb inscription
+
+# Gloss
+
+# Puflantu
+
+# English
+Sunbeam Spellbomb {1}
+Artifact
+{W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.
+{1}, Sacrifice Sunbeam Spellbomb: Draw a card.
+"Cure that which was never ill."
+—Spellbomb inscription
 
 # Gloss
 
