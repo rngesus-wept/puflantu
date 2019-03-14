@@ -41,14 +41,18 @@ Falcon: `Wm-ro "W"... ????`
 
 Pidgey: Then I start. How’s…. This?  
 Pidgey: that-reason start-1S. this... what-degree be-3S ?  
-Pidgey: Aldul gwmoz. Ita... wvuz zat na?
+Pidgey: `Aldul gwmoz. Ita... wvuz zat na?`
 
 Sounds of 4 tiles clinking onto the surface  
-[Pidgey plays ALVI which means '' and gets 28 points]
+[Pidgey plays ALVI which means 'weapon' and gets 28 points]
 
-Falcon: That’s not a bad first turn.  
-Falcon: bad-NEG first play-GER be-3S  
-Falcon: `Oyayu utaru elwxa zat.`
+Lion: You do know this is a peace meeting, right?
+Lion: this *peace* meet-GER be-3S-DEP know-2S, yes ?
+Lion: `Ita `*`talke`*` qekada zat-ka gizir, zo na?`
+
+Falcon: That’s otherwise not a bad first turn.  
+Falcon: bad-NEG first play-GER otherwise be-3S  
+Falcon: `Oyayu utaru elwxa xajur zat.`
 
 Rat: Yeah, 28 points is pretty good.  
 Rat: Yes, 44_6 point-PL great-DIM be-3S.  
