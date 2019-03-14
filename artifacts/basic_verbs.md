@@ -29,7 +29,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
   * Umeriku-fws capila
 * You come into my house on the day my daughter is to be married
   * that-time my daughter FUT marry-3O-DEP that day-ADV, 1-GEN house in-toward-ADV arrive-2S
-  * Alhan rwmo amhige et qwholix-ka eqa roqas, rwmo rali henqo-fws capizil-li...
+  * Albwr rwmo amhige et qwholix-ka eqa roqas, rwmo rali henqo-fws capizil-li...
 * I come from a land down under
   * Under land-from-ADV arrive-1S
   * Vaxfi usonba-cws capwmil

@@ -168,47 +168,64 @@ Pidgey: `Alvuz zat.`
 
 ## Score check after 2 rounds
 
-Lion: By the way, what are the scores right now?
-Falcon: [Rat name] is far in the lead with 114 points, I am second place with 63, you have 44, and [Pidgey name] has 38. 
+Lion: By the way, what are the scores right now?  
+Lion: wait-1pS. everyone how-many point-PL possess-3pS ?  
+Lion: `Bacwyev. Axwe wlerwe taftafwe qadun na?`
+
+Falcon: [Rat name] is far in the lead with 114 points, I am second place with 63, you have 44, and [Pidgey name] has 38.  
+Falcon: 310_6 point_PL with [RAT] far-ADV IMPF win-3S. 143_6 with second be-1S. 112_6 possess-2S-& Pidgey 102 possess-3S.  
+Falcon: Paiyo saqe taftafwe wli [RAT] xusos av tafatit. Utayo avsaqpai wli, feru zwm. Iz utayo saqfe qizun-lis, Pidgey utayo fe qatun.
 
 ## Turn 9 (Pidgey plays XWDI)
 
 *3 tiles*
-[Pidgey plays XWDI which means '' and gets 34 points]
-Pidgey: This one square gets me 30 points!
-Falcon: Well done.
+[Pidgey plays XWDI which means 'paint' and gets 34 points]
 
-*3 tiles*
-Pidgey: this-SUB one-SUP square 30 point-PL give-3S-3pO !
-Falcon: Well done.
+Pidgey: This one square gets me 30 points!  
+Pidgey: this lone square 30 point-PL give-3S-1O !  
+Pidgey: `Ita itya avubena nesaqe taftafwe patumog!`
+
+Falcon: Well done.  
+Falcon: That's great.  
+Falcon: `Wepu zat.`
 
 ## Turn 10 (Falcon plays COCE)
 
-*4 tiles*
+*4 tiles*  
 [Falcon plays COCE which means 'war' and gets 38 points]
-Falcon: You guys have your words up there, I’ll fight [Rat name] down here at the bottom. 38 ain’t bad.
-Rat: Hey, isn’t this whole thing a peace conference?
 
-*4 tiles*
-Falcon: 2dS-GEN word-PL North interior-ADV possess-2S-3O. South interior-ADV here [rat name] FUT fight-1S. 38 bad be-3S-NEG.
-Rat: Hey, this-SUB event peace-GEN conference be-3S. peace be-IMP
+Rat: Am I the only person here actually interested in peace?  
+Rat: peace real-ADV interest-3S-RO-DEP sole person here be-1S ?  
+Rat: `Talke ehyos orcatolal-ka itya hie tihan zwm na?!`
+
+Falcon: I couldn't let the guys up at the top have all the fun. Fight me! 38 points.  
+Falcon: top-side-at person-PL all fun possess-3dO-DEP allow-GER can-1S-NEG. fight-1O-IMP! 102 point-PL.  
+Falcon: `Bedfi-ti hiwe axwe namehe qobun-ka taga merwmeyin. 'ji'sumag! Utayo fe taftafwe zat.`
 
 ## Turn 11 (Lion plays UXFAPLO)
 
 *5 tiles*
-[Lion plays UXFAPLO which means '' and gets 13 points]
-Lion: Hey look, I made a really long word. Do I get that seven letter bonus?
-Pidgey: No. You only played 5.
-Lion: Well, that sucks.
-Falcon: By the way, what’s the blank?
-Lion: Oh, that should be an F.
+[Lion plays UXFAPLO which means 'bottle' and gets 13 points]
 
-*5 tiles*
-Lion: look-IMP-2pS, true-ADV long word PRF make-1S. that-OBJ 7 letter bonus receive-1S ?
-Pidgey: No. five PRF play-3pO-2S.
-Lion: sad be-3S.
-Falcon: Also, what-thing blank be-3S ?
-Lion: Oh, F be-GER should-3S
+Lion: Hey look, I made a really long word. Do I get that seven letter bonus?  
+Lion: hey, long-AUG word PRF make-1S-3O. that seven letter add-PAT receive-1S ?  
+Lion: `A'mi, agyoxuka natho os qwmoduk. Eqa saqta sanato karwho ywmit na?`
+
+Pidgey: No. You only played 5.  
+Pidgey: no. five letter-PL mere-ADV PST play-2S.  
+Pidgey: `Xa. Ne sanatwe aqes im elizwx.`
+
+Lion: Well, that sucks. 
+Lion: sad be-3S.  
+Lion: `Anjo zat.`
+
+Falcon: By the way, what’s the blank?  
+Falcon: additional-ADV, what full-NEG letter be-3S ?  
+Falcon: `Karkas, wat ombayu sanato zat na?`
+
+Lion: That should be an F.
+Lion: F be-3S.
+Lion: `"F" zat.`
 
 ## Turn 12 (Rat plays EGASKA')
 
