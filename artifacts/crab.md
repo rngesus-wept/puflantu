@@ -313,12 +313,12 @@ Pidgey: "AV" IMPF play-1S.
 
 ## Turn 18 (Falcon plays INE'FI)
 
-[Falcon plays INE'FI which means 'weaker' and gets 21 points]
+[Falcon plays INE'FI which means 'weaker' and gets 21 points]  
 *5 tiles*
-Falcon: Here’s what I have. TODO Something about the word ‘FW’.
 
-*5 tiles*
-Falcon: This-SUB have-1S-RO be-3S. 'FW' toward victory!
+Falcon: Here’s what I have. TODO Something about the word ‘FW’.  
+Falcon: This-SUB have-1S-RO-DEP be-3S. 'FW' toward victory!  
+Falcon: `Ita qwmolun-ka zat. Tafita-fw "FW"!`
 
 ## Turn 19 (Lion plays PUTQE)
 
