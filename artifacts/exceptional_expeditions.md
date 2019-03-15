@@ -57,7 +57,7 @@ Translated Version:
 | G   | avu    | `oritipu`  | 2204 | `kamubrian pairu` | `bo uGirotipu `     | QOYESAQERU   |
 | P   | saqta  | `wtipu`    | 2222 | `kamubrian feru`  | `siriusu Pahamope`  | QOYESAQFERU  |
 | O   | saqavu | `dotipu`   | 2341 | `ediakaranu`      | `paux pahamOpe`     | QOYEFESAQERU |
-| T   | pai    | `rupatipu` | 3534 | `henkamubrian`    | `beThurw xwroxwe`   | QOYEAVURU    |
+| T   | pai    | `rupatipu` | 3534 | `henkamubrian`    | `beThurwe xwroxwe`  | QOYEAVURU    |
 
 
 SOLUTION: TOP GRADE  

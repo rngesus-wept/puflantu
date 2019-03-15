@@ -18,7 +18,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
 ## Come
 * We have come to visit you in peace (The Day the Earth Stood Still)
   * 1pS peace-ADV this-reason visit-2pO-DEP-ADV PRF arrive-1pS
-  * Wy talkes tidul goconexum-kas os capwyil
+  * Talkes tidul goconexum-kas, wy os capwyil
 * Santa Claus is comin to town (Movie)
   * Santa Claus town-toward-ADV FUT arrive-3S
   * Santu Kulos Elmi-fws et Capatil
@@ -29,7 +29,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
   * Umeriku-fws capila
 * You come into my house on the day my daughter is to be married
   * that-time my daughter FUT marry-3O-DEP that day-ADV, 1-GEN house in-toward-ADV arrive-2S
-  * Albwr rwmo amhige et qwholix-ka eqa roqas, rwmo rali henqo-fws capizil-li...
+  * Albwr rwmo amhige et qwhotix-ka eqa roqas, rwmo rali henqo-fws capizil-li...
 * I come from a land down under
   * Under land-from-ADV arrive-1S
   * Vaxfi usonba-cws capwmil
@@ -39,8 +39,8 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
   * some-PL cookie-PL want-2pS ?
   * Orvwe torelwe orcixal na? 
 * Oh y'all wanted a twist eh? (Laganja Estranja)
-  * oh, twist want-2pS
-  * O're, avroxe orcixal na?
+  * oh, y'all twist want-2pS
+  * O're, ix avroxe orcixal na?
 * I'm wanted dead or alive (Bon Jovi)
   * live-GER-NEG-or live-GER, want-1O
   * Wrisaya-vo wrisa, orcumal
@@ -49,7 +49,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
   * Orcoryal-ka
 * I want to believe
   * believe-1S-GER want-1S
-  * Tixmwmapa orcwmal
+  * Tixmapa orcwmal
 
 ## Be
 * She's a super freak, super freak, she's super freaky (Rick James)
@@ -104,7 +104,7 @@ Image and audio assets are in https://drive.google.com/open?id=1Cb1SrlRO8wtmii9J
   * Sahibwe somalodun-ka gwmotir.
 * We like to party (Vengaboys)
   * party-GER please-3S-1pO.
-  * Liqexa somatuynun.
+  * Liqexa (uy) somatuynun.
 * You like me. Right now. You like me. 
   * please-1S-2O. (!) this-time. please-1S-2O.
   * Wm ex somwmexun! 'Tibwr. Wm ex somwmexun!
