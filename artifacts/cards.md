@@ -84,18 +84,19 @@ As if anyone needed another reason to avoid dark, dank cellars.
 
 # Gloss
 
-cellar door
+Cellar Door
 
-artifact
+{3}, {T}: Player choose-IMP. their heaven-into read-LOC their bottom card put-3S. this-reason animal card HYP be-3S-DEP-ADV, 2/2 black REV-(live-NEG)-GER animal coin create-IMP
 
-target/chosen(adj) player bottom card of their library into their graveyard puts. If creature card is-it, 2/2 black Zombie creature token create-2S.
-
-?? ?? anyone (avoid dark, dank cellars)-to another reason needed??
+REV-visit-GER black and wetter cellars reason again need-2S na?
 
 # Puflantu
 
-vaxrali taklo
+Vaxrali Taklo
 
+{3}, {T}: Elwxafe 'tol. Rato janari-fw rato genice-ro vaxfi wabu ajaten. Tidul rolwla wabu fel zatat-kas, 2/2 wre vowreyisa rolwla sagite 'quk.
+
+Vogoconum wre-li enxuombu'fi dule dwtdwt solizov na?
 
 
 _note: vaxrali = cellar_ 
