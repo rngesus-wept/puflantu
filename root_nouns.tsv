@@ -256,8 +256,16 @@ dokfe	between, among
 ura	middle
 podhe	next
 lave	previous
-# need to find a way to make cardinal directions work
-kano	southwest
+
+# Directions
+se	North
+ku	South
+pi	East
+no	West
+kuno	southwest
+sepi  northeast
+kupi  southeast
+seno  northwest
 
 # Time
 roqa	day (24 hour period)
@@ -367,12 +375,6 @@ xwdi	paint
 xoale	smoke
 antuho	glue
 tini	wine
-
-# Directions
-se	North
-ka	South
-pi	East
-no	West
 
 # Misc (including adjectives)
 cuafi	fresh, newly-made, unused
