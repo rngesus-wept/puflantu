@@ -128,11 +128,11 @@ Today someone you love will break your heart.
 
 ## Gloss
 :heart: :arrow: :broken_heart: Sagittarius (November 22 - December 21)
-love-2S-RO 2S-GEN heart today FUT break-3S.
+love-2S-RO-DEP person 2S-GEN heart today FUT break-3S.
 
 ## Puflantu
 :heart: :arrow: :broken_heart: Cugaco (Qoyesaqneru 34 - Qoyefesaqeru 33)
-Sizolen-ka rizo tixro tiroqas et juyatun.
+Sizolen-ka hie rizo tixro tiroqas et juyatun.
 
 # Capricorn
 ## English

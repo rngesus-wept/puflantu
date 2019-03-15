@@ -210,14 +210,14 @@ We're in heaven ("heaven" becomes "five")
 ### Gloss
 
 sugar-DIM, want-1S-RO-DEP-ADV all be-2S  
-that-time this-place 1S-GEN arm-PL between-ADV rest-2S-DEP  
+that-time this-place 1S-GEN arm-PL between-ADV rest-2S-DEP-ADV  
 believe-3O-GER struggle-1S  
 heaven interior-ADV be_located-2dS
 
 ### Perflontus
 
 satwipe, orcwmolal-kas axwe ziz  
-albwr tihan rwmo mwnswe dokfes dobizis-ka  
+albwr tihan rwmo mwnswe dokfes dobizis-kas  
 tixmotapa kavwmex  
 ~~janari~~ **ne** henqos zwnif
 
@@ -237,7 +237,7 @@ Tomorrow may be too late
 2S-AND 1S  
 wait-GER can-1dS-NEG-DEP know-1S  
 and swear-1S, false be-3S-NEG-DEP, swear-1S, girl  
-tomorrow too late HYP be-GER
+tomorrow too late HYP be-3S
 
 ### Perflontus
 
