@@ -176,24 +176,17 @@ You'd better run, better run, faster than my bullet
 
 ### Gloss
 
-luxury-PL shoe-PL possess-RpO-DEP all other young-PL  
+luxury-PL shoe-PL possess-RpO-DEP all other child-PL  
 run-GER should-3pS, run-GER should-3pS, 1-GEN gun run-3pS-AUG  
-luxury-PL shoe-PL possess-RpO-DEP all other young-PL  
+luxury-PL shoe-PL possess-RpO-DEP all other child-PL  
 run-GER should-3pS, run-GER should-3pS, 1-GEN bullet be-3S-than fast-ADV-CMP
 
 ### Perflontus
 
-pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai zohcwe  
+pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai amhiwe  
 zunata exixin, zunata exixin, rwmo ex'opsi agzunexat  
-pagepwe gicwe qaryun-kas axwe rai zohcwe  
-zunata exixin, zunata exixin, rwmo es'atipu zat-sos eridas'  
-
-### Pronunciation
-
-pangepwe ~~ngicwe~~ **sachfe** charnyun-kas ashwe rai henyipwe
-zunata esheshin, zunata esheshin, rwmo esh'opsi angzuneshat
-pangepwe ngicwe charnyun-kas ashwe rai henyipwe
-zunata esheshin, zunata esheshin, rwmo es'atipu zat-sos eridas'
+pagepwe gicwe qaryun-kas axwe rai amhiwe  
+zunata exixin, zunata exixin, rwmo es'atipu zat-sos eridas'fi  
 
 
 ## Entry 7
