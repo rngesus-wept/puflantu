@@ -14,3 +14,12 @@ are both more commonly used in our artifacts).*
 | **dule** | tidul   | aldul   | ordul   | yedul   |        | veldul  | wdul        |
 | **lera** | tilerwe | alerwe  | orlerwe | yelerwe |        | velerwe | wlerwe      |
 | **vuzi** | tivuz   | alvuz   | orvuz   | yevuz   |        | velvuz  | wvuz        |
+
+# Saqe Uywe Nathwe
+
+| im  | Utaru kolarvu henroqas **im** wlwmoc(-lis tibwri uraroqa zat). |
+| et  | Ofrwdu **et** piwmwv(-dis enxombu tibwr zwm).                  |
+| av  |                                                                |
+| os  |                                                                |
+| fel |                                                                |
+| gaq | Pagepwe **gaq** kanwmwj(-dis mwla qwmeyun).                    |
