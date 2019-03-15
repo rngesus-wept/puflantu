@@ -206,7 +206,7 @@ Perfect. thank-2O
 
 Pai honwswe kanotwja orcmal. Feqiuta egite-li qwmun.  
 Avsaqta-sagite-li saqavu-sagite volabay. Ewsezig.  
-'becav! Fe mwnsw-li uta es'atipu karkas kanwmwj.  
+'bacev! Fe mwnsw-li uta es'atipu karkas kanwmwj.  
 Omeze. Ewsezig.
 
 ## Conversation 10 (silver, yellow)
