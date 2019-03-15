@@ -2,7 +2,7 @@
 
 Falcon: Hello everyone. After millennia of cold war, we finally meet to end it. I am glad.  
 Falcon: hello, all. cold war 6^4-DU year-PL exterior-ADV, (this-reason end-3O-DEP-ADV) finally meet-1pS. glad be-1S.  
-Falcon: `'bovipa, axwe. Dusiko coce tow ayegwe amqos, tidul sotok-kas sokam qekwynad. Zoso zwm.`
+Falcon: `'bovipa, axwe. Dusiko coce tow ayegwe amqos, tidul sotok-kas sokam qekwynad. Zoso zwm.` //what is `tow`?
 
 Pidgey: Yes and with only a few days left to go too!  
 Pidgey: yes, mere-ADV few-PL day-PL remain-3pO!  
@@ -18,14 +18,14 @@ Rat: `Axwe, uta sanato 'fotaz...`
 
 ## Pre-game draw
 
-*Rummaging sounds... tiles clicking against one another*  
+*Rummaging sounds... tiles clicking against one another*  // Is this going to be part of the script that we give them?
 Rat: I got X!  
 Rat: X receive-1S!  
 Rat: `"X" ywmit!`
 
 Lion: I got P!  
 Lion: P possess-1S.  
-Lion: `"P" qwmyn.`
+Lion: `"P" qwmyn.`  // qwmyn -> qymun
 
 Pidgey: Ah, an A - looks like I'll be going first.  
 Pidgey: Ah, "A" PST take-1S; first-ADV FUT play-1S-DEP be_likely-3S.  
@@ -33,7 +33,7 @@ Pidgey: `A, "A" im fwmaz; utarus elwmwx-ka ogfatel.`
 
 Falcon: W for me... oh well.  
 Falcon: 1-GEN W... (???).  
-Falcon: `Wm-ro "W"... ????`
+Falcon: `Wm-ro "W"... ????` // Don't need `????`.
 
 ## Turn 1 (Pidgey plays ALVI)
 
@@ -70,7 +70,7 @@ Falcon: `Ita rwmo natho zat.`
 
 Lion: Whoa, you can make more than one word at once?  
 Lion: wow, one play-GER through, multiple-PL word-PL make-GER can-2S  
-Lion: `O're, uta elwxa zoan, ogitwe nathwe quka merizin na?`
+Lion: `O're, uta elwxa zoan, ogitwe nathwe quka merizin na?
 
 Falcon: Yeah, and I get to count my double T twice for it.  
 Falcon: Yes, double T that-reason two-ADV count-1S.
@@ -85,7 +85,7 @@ Rat: `Kardis, paile natho avubena mezo etataz-ka os pizem. Zikpe zat.`
 
 Lion: Wait, so if you’re allowed to make two words at the same time, can I play UQI and make 3?  
 Lion: Wait-IMP, this-reason multiple-PL word-PL simultaneous-ADV make-GER can-3S-DEP-ADV, "UQI" play-GER three resulting_in can-1S ?  
-Lion: `'bacev, tidul ogitwe nathwe atimbwris quka meratin-kas, "UQI" elwxa pai eg merwmin na?`
+Lion: `'bacev, tidul ogitwe nathwe atimbwris quka meratin-kas, "UQI" elwxa pai eg merwmin na?` //ogitw nathw instead of ogitwe nathwe?
 
 Pidgey: Yes, of course you can!  
 Pidgey: yes, obvious-ADV can-2S.  
@@ -94,7 +94,7 @@ Pidgey: `Zo, xekris merizin.`
 *sounds of 3 tiles*  
 [Lion plays UQI which means 'cent' and gets 16 points]  
 Lion: Wow, this opens up so many new possibilities!  
-Lion: Wow, many-ADV many new can-PAT-PL open-3S  
+Lion: Wow, many-ADV many new can-PAT-PL open-3S //change open-3S to allow-3S. 
 Lion: `O're, agogwe cuafwe merinwhwe todag.`
 
 ## Turn 4 (Rat plays GABXO')
@@ -121,7 +121,7 @@ Lion: `'bacev. Fesaqta taftafwe eg wdul wtataf na?`
 
 Pidgey: The blue square is already used up from [Falcon Name]'s word.  
 Pidgey: Falcon-GEN word blue square already PRF use-3S.  
-Pidgey: `Falcon-ro natho honwze avubena xwes os piotwv.`
+Pidgey: `Falcon-ro natho honwze avubena xwes os piotwv.` //2 things: This is not 3S.? Also (for Colin), if we rename, we have to rename "Falcon" here.
 
 ## Turn 6 (Falcon plays AMWPEX)
 
@@ -147,7 +147,7 @@ Pidgey: `O're, wat coce hie tibwr zat na?`
 
 Lion: It's okay, it's merely a small one.  
 Lion: okay be-3S, small mere-ADV be-3S.  
-Lion: `Oze zat, eyri *aqes* zat.`
+Lion: `Oze zat, eyri *aqes* zat.`  // Does this need italics?
 
 ## Turn 8 (Rat plays SWTABXI')
 
@@ -155,12 +155,12 @@ Lion: `Oze zat, eyri *aqes* zat.`
 [Rat plays SWTABXI' which means 'clearest' and gets 92 points]
 
 Falcon: There goes my lead..  
-Falcon: Yikes, still-NEG win-1S-NEG.  
+Falcon: Yikes, still-NEG win-1S-NEG. //No NEG on win-1S-NEG?
 Falcon: `W'ne, ihayex tafwmit.`
 
 Rat: Thanks for leaving the triple word squares available. That’s... 92 points?  
 Rat: this-reason triple word square available continue-3O-DEP allow-2S-DEP-ADV thank-1S-2O. that... 92_10 point-PL be-3S ?  
-Rat: `Tidul paile natho avubena mezo binpatan-ka tizag-kas ewswmizig. Iqa... feyo paisaqfe taftafwe zat na?`
+Rat: `Tidul paile natho avubena mezo binpatan-ka tizag-kas ewswmizig. Iqa... feyo paisaqfe taftafwe zat na?`// continue-3O-DEP is 3S here, thank should be ewswmezig?
 
 Pidgey: So it is.  
 Pidgey: that-degree be-3S  
