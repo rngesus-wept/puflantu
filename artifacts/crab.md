@@ -253,9 +253,9 @@ Falcon: Hey, looks we have the same score now.
 Falcon: hey, equal-GER point-PL possess-1dS-DEP appear-3S.  
 Falcon: `A'mi, onama taftafwe qwnun-ka jatif.`
 
-Pidgey: But it’s too bad I didn’t have another W; if I did, I could have played on the left to get the double letter on the G.
+Pidgey: It’s too bad I didn’t have another W; if I did, I could have played on the left to get the double letter on the G.
 Pidgey: two W-DU PST possess-1S-NEG-DEP sad be-3S. this-reason PRF-CNT possess-1S-3dO-DEP-ADV, double "G" resulting_in left-at-ADV play-GER PRF-CNT can-1S.
-Pidgey: `Fe "W"w im qwmeyun-ka anjo zat. Tidul osgaq qwmobun-kas, felu "G" eg defi-fws elwxa osgaq merwmin.`
+Pidgey: `Fe "W"w im qwmeyun-ka anjo zat. Tidul osgaq qwmobun-kas, fele "G" eg defi-fws elwxa osgaq merwmin.`
 
 ## Turn 14 (Falcon plays KANO'FI)
 
@@ -297,7 +297,7 @@ Lion: `Onizira merwmin.`
 
 Rat: I could play this over there to triple the T, but by playing it here, I double the whole word.  
 Rat: this there triple "T" resulting_in play-GER CNT can-1S-but, this-method here play-1S-3O-DEP-ADV, full word double-1S.  
-Rat: `Ita alhan pailu "T" eg elwxa gaq merwmin-dis, tizov tihan elwmotwx-kas, ombu natho fesrwmol.`
+Rat: `Ita alhan paile "T" eg elwxa gaq merwmin-dis, tizov tihan elwmotwx-kas, ombu natho fesrwmol.`
 
 ## Turn 17 (Pidgey plays AV)
 
@@ -313,22 +313,26 @@ Pidgey: `Ita qwmun-ka axwe zat. "AV".`
 [Falcon plays INE'FI which means 'weaker' and gets 21 points]  
 *5 tiles*
 
-Falcon: Here’s what I have. TODO Something about the word ‘FW’.  
-Falcon: This-SUB have-1S-RO-DEP be-3S. 'FW' toward victory!  
+Falcon: Here’s what I have. 'FW' toward victory!
+Falcon: This-SUB have-1S-RO-DEP be-3S. 'FW'-toward victory!  
 Falcon: `Ita qwmolun-ka zat. Tafita-fw "FW"!`
 
 ## Turn 19 (Lion plays PUTQE)
 
 [Lion plays PUTQE which means 'chartreuse' and gets 22 points]
 *3 tiles*
-Rat: Risky move, someone could bell that and access the right triples.
-Lion: Wait, you can’t bell a color, right?
-Rat: Oh, I stand corrected.
 
-*3 tiles*
-Rat: Dangerous play-PAT be-3S. some-person-SUB bell(?)-GER and East-PL triple-PL access-GER FUT CNT can-3S
-Lion: Wait-IMP, color bell-GER can-3S. can-3S?
-Rat: Oh, truth IMPF PAS say-1S-NEG
+Rat: Risky move, someone could bell that and access the right triples.  
+Rat: danger play-GER be-3S. someone bell that-toward-ADV add-GER HYP can-3S-&then east-PL triple-PL use-3S.  
+Rat: `Zikpe elwxa zat. Orvo uta 'w' fel katar-nis nafwe pailwe piatotwv.`
+
+Lion: Wait, you can’t bell a color, right?  
+Lion: wait-IMP, bell color-toward-ADV add-GER can-2S-NEG, yes ?  
+Lion: `'bacev, 'w' ityeri-fws kara merizeyin, zo na?`
+
+Rat: Oh, I stand corrected.  
+Rat: oh, correct-1O.  
+Rat: `O're, zepumem.`
 
 ## Turn 20 (Rat plays ERQOYE')
 
