@@ -314,7 +314,7 @@ Pidgey: `Ita qwmun-ka axwe zat. "AV".`
 *5 tiles*
 
 Falcon: Here’s what I have. 'FW' toward victory!
-Falcon: This-SUB have-1S-RO-DEP be-3S. 'FW'-toward victory!  
+Falcon: This-SUB have-1S-RO-DEP be-3S. 'FW' toward victory!  
 Falcon: `Ita qwmolun-ka zat. Tafita-fw "FW"!`
 
 ## Turn 19 (Lion plays PUTQE)

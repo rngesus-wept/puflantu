@@ -261,14 +261,14 @@ You can call me any day or night
 
 line on call-1O-IMP  
 call-1O-IMP, any anytime call-1O-imp  
-1S-GEN love-PAT, call-1O-IMP  
+1S-GEN love-RO-DEP, call-1O-IMP  
 any day-or any night call-GER-1O may-2S
 
 ### Perflontus
 
 'koduman! ~~Okame~~ **Fe** zoves
 'koduman; veli velibur 'koduman.
-'koduman, rwmo senwho
+'koduman, rwmo solen-ka
 Veli henroqas-vos amroqas kodumana balizem.
 
 ## Entry 10
