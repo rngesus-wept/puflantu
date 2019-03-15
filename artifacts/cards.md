@@ -17,26 +17,26 @@ color-T lantern-T
 
 artifact
 
-your lands "any color one mana add-2S-IMP" have. 
+control-2S-RO-DEP land-PL "any color one mana gain-2S-3O-IMP" have. 
 
-any color one mana add-2S-IMP
+any color one mana gain-2S-3O-IMP
 
-Dimir cast-AGT lanterns good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shapeshifters-and sleeper agents create-GER.
+Dimir cast-AGT lantern-T-PL good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shape-INS-PL-and sleeper act-AGT-PL create-GER.
 
 
 # Puflantu
 
-Ititiye Tihana
+Ititiye Tihmwne
 
 fakuti
 
-Rizwe usonbwe "{T}: Veli itiye uta 'ola 'kar" qadon.
+Yizolwt-ka usonbwe "{T}: Veli ityeri uta 'ola 'yotit" qadun.
 
-{T}: Veli itiye uta 'ola 'kar.
+{T}: Veli ityeri uta 'ola 'yotit.
 
-Dimiru xuexzamafe tihana omas piwv, ita zove geyira 'ola av piovwv-kas radokaqwe-li zumuzwe hiwe quka.
+Dimiru xuexzamafe tihmwnwe omas piwv, tizov geyolir-ka 'ola av piotwv-kas radokaqwe-li zumuzwe lwqafwe quka.
 
-_Note: xuexzam = cast, 'ola  = energy_
+_Note: xuexzam = cast, 'ola  = energy, ywt = control, lwq = act_
 
 # English
 
@@ -52,29 +52,29 @@ At the setting of each sun, it emerges to clean Mirrodin's floor of the day's ca
 
 # Gloss
 
-early night worker
+early night work-AGT
 
 artifact creature - construct
 
-that-time dusk worker go-REV-3S become-3S-IMP-PRS-ADV, again live-3S-IMP.
+that-time early night work-AGT block-3O-DEP-ADV, again live-3S.
 
-{T}: dusk worker that-time-toward turn end +1/+0 have-3S
+{T}: early night work-AGT turn end-toward-ADV +1/+0 have-3S
 
-that-time each day end-3S-IMP-PRS-ADV, Mirrodin's floor that-method day's carrion exist-3S-NEG-DEP-ADV clean-GER reason-ADV arrive-3S
+that-time each day end-3S-IMP-DEP-ADV, Mirrodin's floor that-method day's meat exist-3S-NEG-DEP-ADV clean-GER reason-ADV arrive-3S
 
 # Puflantu
 
-Henbwri Amroqa Quhafe
+Henbwri Amroqa Qudafe
 
 fakuti rolwla - lati
 
-Albwr Henbwri Amroqa Quhafe vototex av zat-kas, dwtdwt av wratis.
+Albwr Henbwri Amroqa Qudafe sotat-kas, dwtdwt wratis.
 
-{T}: Henbwri Amroqa Quhafe albwr-fw rataye-ro soka-ka +1/+0 qatun.
-
+{T}: Henbwri Amroqa Qudafe rataye soka-fws +1/+0 qatun.
+                           
 Albur axwa roqa av satok-kas, Mirodin-ro yojre tizov alroqa-ro jigli jateyif-kas xirefa dules capatil.
 
-_Notes: quh = work, veveli = heal/regenerate, jigli = meat, rataye = turn, lati=construct_
+_Notes: qud = work, veveli = heal/regenerate, jigli = meat, rataye = turn, lati=construct, sat = block_
 
 # English
 
@@ -92,7 +92,7 @@ Cellar Door
 
 {3}, {T}: Player choose-IMP. their heaven-into read-LOC their bottom card put-3S. this-reason animal card HYP be-3S-DEP-ADV, 2/2 black REV-(live-NEG)-GER animal coin create-IMP
 
-REV-visit-GER black and wetter cellars reason again need-2S na?
+REV-visit-GER black and wetter cellar-PL reason again need-2S na?
 
 # Puflantu
 
@@ -100,7 +100,7 @@ Vaxrali Taklo
 
 {3}, {T}: Elwxafe 'tol. Rato janari-fw rato genice-ro vaxfi wabu ajaten. Tidul rolwla wabu fel zatat-kas, 2/2 wre vowreyisa rolwla sagite 'quk.
 
-Vogoconum wre-li enxuombu'fi dule dwtdwt solizov na?
+Vogoconuma wre-li enxuombu'fi dule dwtdwt solizov na?
 
 
 _note: vaxrali = cellar_ 
@@ -122,19 +122,19 @@ Golden(?) Lotus
 
 artifact
 
-any color three mana add-2S-IMP
+any color three mana gain-2S-3O-IMP
 
 beauty reason-ADV, wars fight-3OP. power have-GER-DEP, wars PST win-3OP.
 
 # Puflantu
 
-Jineri 
+Jineri Kalipopi
 
 fakuti
 
-Veli itiye pai 'ola 'kar.
+Veli ityeri pai 'ola 'yotit.
 
-Kali dules, cocwe ji'soryag. Vole qun-kas, cocwe im taforyit.
+Kali dules, cocwe ji'soryag. Vole quna-kas, cocwe im taforyit.
 
 _note: kalipopi = lotus, kali=beauty_
 
@@ -171,9 +171,9 @@ fakuti
 
 Albwr Belbe-ro Taklo ji'saghanu capatil-kas, uta rolwla haxibna 'tol.
 
-Im tizolol-kas haxibna qalun-kas mwnu-cw rolwla wabu, ji'saghanu-fws ajen 'balem.
+Im tizolol-kas haxibna qalun-kas mwnu-cw rolwla wabu, ji'saghanu-fws ajena 'balem.
 
-ji'sag uta evi ji'saghanu-tis et binpatan.
+Ji'sag uta evi ji'saghanu-tis et binpatan.
 
 _Note: ji'saghanu=battlefield, rolwla=animal, haxibna=category, mwnu=hand, evi=new_
 
