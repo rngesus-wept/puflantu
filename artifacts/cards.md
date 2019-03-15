@@ -28,13 +28,13 @@ Dimir cast-AGT lanterns good-ADV use-3P, this-method familiar-NEG mana PST use-3
 
 Ititiye Tihana
 
-Rizwe usonbwe "{T}: Veli itiye uta 'uz 'kar" qadon.
+Rizwe usonbwe "{T}: Veli itiye uta 'ola 'kar" qadon.
 
-{T}: Veli itiye uta 'uz 'kar.
+{T}: Veli itiye uta 'ola 'kar.
 
-Dimiru xuexzamafe tihana omas piwv, ita zove geyira vola av piovwv-kas radokaqwe-li zumuzwe hiwe quka.
+Dimiru xuexzamafe tihana omas piwv, ita zove geyira 'ola av piovwv-kas radokaqwe-li zumuzwe hiwe quka.
 
-_Note: xuexzam = cast_
+_Note: xuexzam = cast, 'ola  = energy_
 
 # English
 
@@ -142,9 +142,9 @@ The fight will continue on a new battlefield.
 
 Belbe's door(?)
 
-as Belbe's door(?) the battlefield enters, a creature type choose-IMP-2S
+that-time Belbe's door(?) battlefield enter-3S-DEP, one creature type choose-IMP-2S
 
-chosen type-of creature card from your hand onto the battlefield you put may //lol idr prepositions gg
+PST choose-2S-RO-DEP type possess-RS-DEP hand-from creature card, battlefield-toward-ADV put-GER may-2S
 
 fight one new fight+place-at-ADV FUT continue-3S
 
@@ -152,7 +152,13 @@ fight one new fight+place-at-ADV FUT continue-3S
 
 Belbe-ro Taklo
 
+Albwr Belbe-ro Taklo ji'saghanu capatil-kas, uta rolwla haxibna 'tol.
 
+Im tizolol-kas haxibna qalun-kas mwnu-cw rolwla wabu, ji'saghanu-fws ajen 'balem.
+
+ji'sag uta evi ji'saghanu-tis et binpatan.
+
+_Note: ji'saghanu=battlefield, rolwla=animal, haxibna=category, mwnu=hand, evi=new_
 
 # English
 Aether Spellbomb {1}
