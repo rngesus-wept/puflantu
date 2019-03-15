@@ -46,7 +46,7 @@ Translated Version:
 
 |     |        |            |      |                   |                     |              |
 |-----+--------+------------+------+-------------------+---------------------+--------------|
-| T   | saqta  | `wtipu`    | 0.01 | `pulestosinu`     | `azuproTe'fw ejro`  | QOYESAQAVURU |
+| T   | saqta  | `wtipu`    | 0.01 | `pulestosinu`     | `azuproTe'fwe ejrwe`  | QOYESAQAVURU |
 | A   | saqta  | `wtipu`    |  122 | `iosinu`          | `colburAo ixri`     | QOYESAQPAIRU |
 | Z   | uta    | `amipu`    |  300 | `albiunu`         | `Zantana`           | QOYEUTARU    |
 | (') | fe     | `catipu`   |  325 | `barumiunu`       | `i'xenu`            | QOYEPAIRU    |
