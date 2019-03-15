@@ -17,9 +17,23 @@ are both more commonly used in our artifacts).*
 
 # Saqe Uywe Nathwe
 
-| im  | Utaru kolarvu henroqas **im** wlwmoc(-lis tibwri uraroqa zat). |
-| et  | Ofrwdu **et** piwmwv(-dis enxombu tibwr zwm).                  |
-| av  |                                                                |
+Eliza sleeps.  
+Eliza slept (and now she's making breakfast).
+Eliza will sleep (but before that she wants to solve this puzzle).
+
+Eliza is sleeping (so you should be quiet).
+Eliza was sleeping (at the time when I got home).
+Eliza will be sleeping (so leave quietly after dinner).
+
+```
+| --  | Elaiza zumatuz.                                                      |
+| im  | Elaiza **im** zumatuz(-lis utaru kolarvu tibwr jatuf).               |
+| et  | Elaiza **et** zumatuz(-dis albwr henqos, eta pazulu solava orcatal). |
+|-----|----------------------------------------------------------------------|
+| av  | Elaiza **av** zumatuz(-jas xaxu aza exizin).                         |
+|     | Elaiza **imav** zumatuz(, albwr rali-ti im capwmil-kas).             |
+|     | Elaiza **etav** zumatuz(-jas amroqa kolarvu ambwris xaxus 'lay).     |
 | os  |                                                                |
 | fel |                                                                |
 | gaq | Pagepwe **gaq** kanwmwj(-dis mwla qwmeyun).                    |
+```
