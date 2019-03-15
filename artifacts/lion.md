@@ -15,23 +15,23 @@ cocaine for breakfast
 
 ### Gloss
 
-now love-1O-IMP, that-time exist-1S-NEG-DEP, zero-ADV love-1O-IMP  
+now love-1O-IMP, that-time exist-1S-NEG-DEP-ADV, zero-ADV love-1O-IMP  
 zero-ADV love-1O-IMP, zero-ADV love-1O-IMP,  
 feel-NEG-GER, feel-NEG-GER, feel-NEG-GER
 
 dish-PL full sink,  
-kitchen interior-ADV pace-1S,  
+kitchen interior-ADV pace-GER,  
 breakfast cocaine,  
 ...yikes
 
 ### Perflontus
 
-Tibwr 'sumen, albwr jwmeyif-ka, ~~ris~~ **fe** 'sumen  
+Tibwr 'sumen, albwr jwmeyif-kas, ~~ris~~ **fe** 'sumen  
 Ris 'sumen, ris 'sumen,  
 Meyapa, meyapa, meyapa, meyapa
 
 (Rotwe obwu) vomfe  
-(Dunse henqos) arkahwmut  
+(Dunse henqos) arkahuta  
 (Utaru kolarvu) kokeini  
 ...w'ne
 
