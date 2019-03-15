@@ -21,19 +21,20 @@ your lands "any color one mana add-2S-IMP" have.
 
 any color one mana add-2S-IMP
 
-Dimir mages lanterns good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shapeshifters-and sleeper agents create-GER.
+Dimir cast-AGT lanterns good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shapeshifters-and sleeper agents create-GER.
 
 
 # Puflantu
 
-ititiye tihana
+Ititiye Tihana
 
-rizwe usonbwe "{T}: veli itiye uta 'uz 'kar" qadon.
+Rizwe usonbwe "{T}: Veli itiye uta 'uz 'kar" qadon.
 
-{T}: veli itiye uta 'uz 'kar.
+{T}: Veli itiye uta 'uz 'kar.
 
+Dimiru xuexzamafe tihana omas piwv, ita zove geyira vola av piovwv-kas radokaqwe-li zumuzwe hiwe quka.
 
-
+_Note: xuexzam = cast_
 
 # English
 
@@ -49,20 +50,25 @@ At the setting of each sun, it emerges to clean Mirrodin's floor of the day's ca
 
 # Gloss
 
-dusk worker
+early night worker
 
 artifact creature - construct
 
-that-time dusk worker blocked become-3S-DEP, it regenerate-2S-IMP.
+that-time dusk worker go-REV-3S become-3S-IMP-PRS-ADV, again live-3S-IMP.
 
 {T}: dusk worker that-time-toward turn end +1/+0 have-3S
 
-that-time each sun set-3S-DEP-ADV, Mirrodin's floor that-method day's carrion exist-3S-NEG-DEP-ADV clean-GER reason-ADV emerge-3S
+that-time each day end-3S-IMP-PRS-ADV, Mirrodin's floor that-method day's carrion exist-3S-NEG-DEP-ADV clean-GER reason-ADV arrive-3S
 
 # Puflantu
 
+Henbwri Amroqa Quhafe
 
-albur [each] etqunxe [satet], Mirodin-ro [floor] tizov alroqa-ro [carrion] jateyif-kas [clean]a dules [ematerg]
+Albwr Henbwri Amroqa Quhafe vototex av zat-kas, dwtdwt av wratis.
+
+Albur axwa roqa av satok-kas, Mirodin-ro yojre tizov alroqa-ro jigli jateyif-kas xirefa dules capatil.
+
+_Notes: quh = work, veveli = heal/regenerate, jigli = meat_
 
 # English
 
@@ -86,6 +92,12 @@ target/chosen(adj) player bottom card of their library into their graveyard puts
 
 # Puflantu
 
+vaxrali taklo
+
+
+
+_note: vaxrali = cellar_ 
+
 # English
 
 Gilded Lotus
@@ -105,6 +117,12 @@ over this(?) beauty, wars fought are. With this(?) power, wars won are.
 this-reason
 
 # Puflantu
+
+Jineri Kalipopi
+
+
+
+_note: kalipopi = lotus_
 
 
 # English
@@ -129,6 +147,9 @@ fight one new fight+place-at-ADV FUT continue-3S
 
 # Puflantu
 
+Belbe-ro Taklo
+
+
 
 # English
 Aether Spellbomb {1}
@@ -140,9 +161,15 @@ Artifact
 
 # Gloss
 
+Aether-T cast-PAT-T-bomb-T
+
 "no-time PST capture-RO-DEP release-2S-IMP"
 
+
 # Puflantu
+
+
+_note: need word for bomb_
 
 # English
 
