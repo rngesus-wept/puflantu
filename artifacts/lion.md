@@ -89,14 +89,14 @@ this-reason light-T HYP emit-2S-NEG-DEP light-T no-time FUT reflect-2S-NEG
 
 ### Perflontus
 
-Et yolad-ka ogi, et ~~molid-ka~~ **nole-ka** ogi,  
+Et yolad-ka ogi, et ~~molid-ka~~ **ol ne-ka** ogi,  
 Fevwe zovalwe piwva paxu wdul zat na  
 Yebwr et gizeyir tidul fel tizeyex-kas  
 Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
 ### Pronounication
 
-Et nyolad-ka ongi, et ~~molid-ka~~ **nole-ka** ongi,  
+Et nyolad-ka ongi, et ~~molid-ka~~ **ol ne-ka** ongi,  
 Fevwe zovalwe piwva paxʌ wdʌl zat na  
 Nyebwr et ngizenyir tidʌl fel tizenyex-kas  
 Ittiha nyebwr et kizenyak tidʌl ittiha fel dizenyong-kas
@@ -159,7 +159,7 @@ open arm-PL-and open eye-PL with FUT meet-1S-3O
 ### Perflontus
 
 Tinri enxura etfel tizol-sos ogis' etfel tizol na?  
-Ixopfe etfel mwizen-lis etfel ~~otizij~~ **fize** na?  
+Ixopfe etfel mwizen-lis etfel ~~otizij~~ **iz fe** na?  
 Podroqa veli et mwatolen-kas  
 Nicwe mwnswe-li nicwe tamwe wli et qekwmatad
 
