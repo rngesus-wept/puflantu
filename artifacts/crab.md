@@ -385,24 +385,23 @@ Pidgey: `Ka'pa, avu zoves ihex tafwmit. Rat, balotno soka exizin.`
 
 ## Turn 23 (Lion plays HONWSE)
 
-[Lion plays HONWSE which means '' and gets 36 points]
+[Lion plays HONWSE which means 'bacon' and gets 36 points]
 *5 tiles*
-Lion: Hey, I finally got to make a high scoring play! I’ve been eying that corner square for a while. What happens when we run out of tiles?
 
-*5 tiles*
-Lion: Hey, many points have-RS play-PAT make-GER final-ADV PRF manage-1S! I that-OBJ corner long time during PAS PRF look-1S. this-time any letters have-NEG-1pS-DEP what-thing occur-3S ?
+Lion: Hey, I finally got to make a high scoring play! I’ve been eying that corner square for a while. What happens when we run out of tiles?
+Lion: hey, big-ADV score-GER play-GER make-GER finally can-1S. that corner square some-quantity time-ADV IMPF consider-1S. that-time letter-PL exist-3pS-NEG-DEP-ADV, what-OBL do-1pS ?
+Lion: `A'mi, agis wtafa elwxa quka sokam merwmin. Eqa vere avubena orlerwe bwris av novwmid. Albwr sanato jatadeyif-kas, wot ywyad na?`
 
 ## Turn 24 (Rat plays OBWNERE')
 
 [Rat plays OBWNERE' which means 'muddiest' and gets 44 points]
+
 Rat: If the last player finishes their tiles,
+Rat: that-time last play-AGT zero letter-PL possess-3S-DEP-ADV...
+Rat: `Albwr vaxru elwxafe ri sanatwe qatun-kas,...
+
 *6 tiles clatter on the board*
-Rat: The game ends. Good game everyone!
 
-Rat: this-reason last play-AGT any letters have-NEG-1pS-DEP,
-*6 tiles clatter on the board*
-Rat: play-INS end-3S. Good play-INS, every-person-SUB(?)!
-
-## Post game
-
-TODO insert more plot here. Something something treaty signing?
+Rat: The game ends. Well fought, everyone.
+Rat: game end-3S! great fight-GER, all.
+Rat: `...balotno satok! Wepu ji'saga, axwe.`
