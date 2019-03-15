@@ -220,8 +220,8 @@ Lion: sad be-3S.
 Lion: `Anjo zat.`
 
 Falcon: By the way, what’s the blank?  
-Falcon: additional-ADV, what full-NEG letter be-3S ?  
-Falcon: `Karkas, wat ombayu sanato zat na?`
+Falcon: additional-ADV, what empty letter be-3S ?  
+Falcon: `Karkas, wat imve sanato zat na?`
 
 Lion: That should be an F.  
 Lion: F be-3S.  
@@ -319,7 +319,7 @@ Falcon: `Ita qwmolun-ka zat. Tafita-fw "FW"!`
 
 ## Turn 19 (Lion plays PUTQE)
 
-[Lion plays PUTQE which means 'chartreuse' and gets 22 points]
+[Lion plays PUTQE which means 'chartreuse' and gets 22 points]  
 *3 tiles*
 
 Rat: Risky move, someone could bell that and access the right triples.  
@@ -336,18 +336,26 @@ Rat: `O're, zepumem.`
 
 ## Turn 20 (Rat plays ERQOYE')
 
-[Rat plays ERQOYE' which means 'most lunar' and gets 81 points]
+[Rat plays ERQOYE' which means 'most lunar' and gets 81 points]  
 *6 tiles*
-Rat: 60 + 21 is 81. Ooh, the bag is empty now! I only have 6 tiles left.
 
-*6 tiles*
-Rat: 60 + 21 be-3S 81. Ooh, now bag letter-PL have-NEG-3S
+Rat: 60 + 21 is 81. Ooh, the bag is empty now! I only have 6 tiles left.
+Rat: 140_6 add-GER 33_6 213_6 be-3S. oh, bag empty this-time be-3S. mere-ADV 10_6 letter-PL possess-1S.
+Rat: `Utayo avsaqe kara paisaqpai, feyo saqpai zat. O're, oca inve tihan zat. Aqes saqe sanatwe qwmun.`
 
 ## Score check after 5 rounds
 
 Falcon: Can someone remind me of the scores?
-Rat: I have 333 points, and it looks like you are in second with 144.
-Lion: Looks like I’m last with 89 points, but I only need 41 more to catch up to [Pidgey name]!
+Falcon: someone total-PL me-for remind-3pO-IMP ?
+Falcon: `Orvo karodwe um-ziy 'bolodot na?`
+
+Rat: I have 333 points, and you are in second with 144.
+Rat: 1313_6 point-PL possess-1S-& second 400_6 with be-2S.
+Rat: `Utasa paiyo saqpai taftafwe qwmun-lis, feru avuyo wli ziz.`
+
+Lion: I have 89 points and am in last, but I only need 41 more to catch up to Pidgey.
+Lion: 225_6 point-PL possess-1S-& last be-1S-but, Pidgey match-GER method-ADV, mere-ADV 105_6 many-CMP-PL need-1S.
+Lion: `Feyo fesaqne taftafwe qwmun-li vaxru zwm-dis, Pidgey atimora zoves, aqes utayo ne ogi'fwe solwmov.`
 
 ## Turn 21 (Pidgey plays HAXIBNA)
 

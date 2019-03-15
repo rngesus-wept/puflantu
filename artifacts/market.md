@@ -204,7 +204,7 @@ Perfect. thank-2O
 
 ### Translation
 
-Pai honwswe kanotwja orcmal. Feqiuta egite-li qwmun.  
+Pai honwswe kanotwja orcwmal. Feqiuta egite-li qwmun.  
 Avsaqta-sagite-li saqavu-sagite volabay. Ewsezig.  
 'bacev! Fe mwnsw-li uta es'atipu karkas kanwmwj.  
 Omeze. Ewsezig.

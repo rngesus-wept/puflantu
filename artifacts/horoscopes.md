@@ -166,8 +166,8 @@ Tiroqas et suplatat-dis, enxa et zizey.
 Your dreams will come true.
 ## Gloss
 :zzz: pisces (february 19 - march 20)  
-2S-GEN dream-PL true FUT become
+2S-GEN-PL dream-PL true FUT become
 ## Puflantu
 :zzz: Ipmeto (Qoyeferu 31 - Qoyepairu 32)
-Rizo tixrocwe calwe etadaz.
+Rizwe tixrocwe calwe et etadaz.
 
