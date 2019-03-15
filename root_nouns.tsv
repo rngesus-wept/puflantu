@@ -371,7 +371,7 @@ tini	wine
 # Directions
 se	North
 ka	South
-bi	East
+pi	East
 no	West
 
 # Misc (including adjectives)
