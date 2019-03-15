@@ -66,9 +66,11 @@ Henbwri Amroqa Quhafe
 
 Albwr Henbwri Amroqa Quhafe vototex av zat-kas, dwtdwt av wratis.
 
+{T}: Henbwri Amroqa Quhafe albwr-fw rataye-ro soka-ka +1/+0 qatun.
+
 Albur axwa roqa av satok-kas, Mirodin-ro yojre tizov alroqa-ro jigli jateyif-kas xirefa dules capatil.
 
-_Notes: quh = work, veveli = heal/regenerate, jigli = meat_
+_Notes: quh = work, veveli = heal/regenerate, jigli = meat, rataye = turn_
 
 # English
 
