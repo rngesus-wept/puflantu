@@ -18,12 +18,22 @@ are both more commonly used in our artifacts).*
 # Saqe Uywe Nathwe
 
 Eliza sleeps.  
-Eliza slept (and now she's making breakfast).
+Eliza slept (and now she's making breakfast).  
 Eliza will sleep (but before that she wants to solve this puzzle).
 
-Eliza is sleeping (so you should be quiet).
-Eliza was sleeping (at the time when I got home).
-Eliza will be sleeping (so leave quietly after dinner).
+Eliza is sleeping (so you should be quiet).  
+Eliza was sleeping (at the time when I got home).  
+Eliza will be sleeping (so leave quietly after dinner).  
+Eliza has slept (so she can solve more puzzles).  
+Eliza had slept (for four hours when the sun arrived).  
+Eliza will have slept (for four hours when we return from the library).
+
+Eliza might sleep (if there is nothing else to do).
+Eliza might be sleeping (so you shouldn't call her now).
+Eliza might have slept (but I don't know that she did).
+Eliza would sleep (but she ate too much dessert).
+Eliza would be sleeping (but there are too many puzzles).
+Eliza would have slept (but I kept speaking at her).
 
 ```
 | --  | Elaiza zumatuz.                                                      |
@@ -33,7 +43,14 @@ Eliza will be sleeping (so leave quietly after dinner).
 | av  | Elaiza **av** zumatuz(-jas xaxu aza exizin).                         |
 |     | Elaiza **imav** zumatuz(, albwr rali-ti im capwmil-kas).             |
 |     | Elaiza **etav** zumatuz(-jas amroqa kolarvu ambwris xaxus 'lay).     |
-| os  |                                                                |
-| fel |                                                                |
-| gaq | Pagepwe **gaq** kanwmwj(-dis mwla qwmeyun).                    |
+| os  | Elaiza **os** zumatuz(-jas ogi'fi pazulu solava meratin).            |
+|     | Elaiza (avu saroqwe zoan) **imos** zumatuz(, albwr utqunxe im capatil-kas). |
+|     | Elaiza (avu saroqwe zoan) **etos** zumatuz(, albwr lifanice-cws volwyay). |
+|-----|----------------------------------------------------------------------|
+| fel | Elaiza **fel** zumatuz(, tidul ri rai yada jatif).                   |
+|     | Elaiza **avfel** zumatuz(-jas tibwr kodotana exizeyin).              |
+|     | Elaiza **imfel** zumatuz(-dis im zumatuz-ka gwmeyir).                |
+| gaq | Elaiza **gaq** zumatuz(-dis agogwe twipibnwe im wlatoc).             |
+|     | Elaiza **avgaq** zumatuz(-dis agogwe pazulwe jadif).                 |
+|     | Elaiza **imgaq** zumatuz(-dis ot-fws cuba im binpwman).              |
 ```
