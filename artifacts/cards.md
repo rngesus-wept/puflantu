@@ -114,18 +114,20 @@ Over such beauty, wars are fought. With such power, wars are won.
 
 Golden(?) Lotus
 
-Any one color-of three many add-2S-IMP
+any color three mana add-2S-IMP
 
-over this(?) beauty, wars fought are. With this(?) power, wars won are.
-this-reason
+beauty reason-ADV, wars fight-3OP. power have-GER-DEP, wars PST win-3OP.
 
 # Puflantu
 
 Jineri Kalipopi
 
+Veli itiye pai 'ola 'kar.
+
+Kali dules, cocwe ji'soryag. Vole qun-kas, cocwe im taforyit.
 
 
-_note: kalipopi = lotus_
+_note: kalipopi = lotus, kali=beauty_
 
 
 # English
@@ -160,80 +162,3 @@ ji'sag uta evi ji'saghanu-tis et binpatan.
 
 _Note: ji'saghanu=battlefield, rolwla=animal, haxibna=category, mwnu=hand, evi=new_
 
-# English
-Aether Spellbomb {1}
-Artifact
-{U}, Sacrifice Aether Spellbomb: Return target creature to its owner's hand.
-{1}, Sacrifice Aether Spellbomb: Draw a card.
-"Release that which was never caged."
-—Spellbomb inscription
-
-# Gloss
-
-Aether-T cast-PAT-T-bomb-T
-
-"no-time PST capture-RO-DEP release-2S-IMP"
-
-
-# Puflantu
-
-
-_note: need word for bomb_
-
-# English
-
-Lifespark Spellbomb {1}
-Artifact
-{G}, Sacrifice Lifespark Spellbomb: Until end of turn, target land becomes a 3/3 creature that's still a land.
-{1}, Sacrifice Lifespark Spellbomb: Draw a card.
-"Awaken that which was never asleep."
-—Spellbomb inscription
-
-# Gloss
-
-"no-time PST sleep-RO-DEP awaken-2S-IMP"
-
-# Puflantu
-
-# English
-
-Necrogen Spellbomb {1}
-Artifact
-{B}, Sacrifice Necrogen Spellbomb: Target player discards a card.
-{1}, Sacrifice Necrogen Spellbomb: Draw a card.
-"Forget that which was never known."
-—Spellbomb inscription
-
-# Gloss
-
-
-"no-time PST know-RO-DEP forget-2S-IMP"
-
-# Puflantu
-
-# English
-
-Pyrite Spellbomb {1}
-Artifact
-{R}, Sacrifice Pyrite Spellbomb: It deals 2 damage to any target.
-{1}, Sacrifice Pyrite Spellbomb: Draw a card.
-"Melt that which was never frozen."
-—Spellbomb inscription
-
-# Gloss
-
-"no-time PST freeze-RO-DEP melt-2S-IMP"
-# Puflantu
-
-# English
-Sunbeam Spellbomb {1}
-Artifact
-{W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.
-{1}, Sacrifice Sunbeam Spellbomb: Draw a card.
-"Cure that which was never ill."
-—Spellbomb inscription
-
-# Gloss
-
-"no-time PST sicken-RO-DEP cure-2S-IMP"
-# Puflantu
