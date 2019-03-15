@@ -339,45 +339,49 @@ Rat: `O're, zepumem.`
 [Rat plays ERQOYE' which means 'most lunar' and gets 81 points]  
 *6 tiles*
 
-Rat: 60 + 21 is 81. Ooh, the bag is empty now! I only have 6 tiles left.
-Rat: 140_6 add-GER 33_6 213_6 be-3S. oh, bag empty this-time be-3S. mere-ADV 10_6 letter-PL possess-1S.
+Rat: 60 + 21 is 81. Ooh, the bag is empty now! I only have 6 tiles left.  
+Rat: 140_6 add-GER 33_6 213_6 be-3S. oh, bag empty this-time be-3S. mere-ADV 10_6 letter-PL possess-1S.  
 Rat: `Utayo avsaqe kara paisaqpai, feyo saqpai zat. O're, oca inve tihan zat. Aqes saqe sanatwe qwmun.`
 
 ## Score check after 5 rounds
 
-Falcon: Can someone remind me of the scores?
-Falcon: someone total-PL me-for remind-3pO-IMP ?
+Falcon: Can someone remind me of the scores?  
+Falcon: someone total-PL me-for remind-3pO-IMP ?  
 Falcon: `Orvo karodwe um-ziy 'bolodot na?`
 
-Rat: I have 333 points, and you are in second with 144.
-Rat: 1313_6 point-PL possess-1S-& second 400_6 with be-2S.
+Rat: I have 333 points, and you are in second with 144.  
+Rat: 1313_6 point-PL possess-1S-& second 400_6 with be-2S.  
 Rat: `Utasa paiyo saqpai taftafwe qwmun-lis, feru avuyo wli ziz.`
 
-Lion: I have 89 points and am in last, but I only need 41 more to catch up to Pidgey.
-Lion: 225_6 point-PL possess-1S-& last be-1S-but, Pidgey match-GER method-ADV, mere-ADV 105_6 many-CMP-PL need-1S.
+Lion: I have 89 points and am in last, but I only need 41 more to catch up to Pidgey.  
+Lion: 225_6 point-PL possess-1S-& last be-1S-but, Pidgey match-GER method-ADV, mere-ADV 105_6 many-CMP-PL need-1S.  
 Lion: `Feyo fesaqne taftafwe qwmun-li vaxru zwm-dis, Pidgey atimora zoves, aqes utayo ne ogi'fwe solwmov.`
 
 ## Turn 21 (Pidgey plays HAXIBNA)
 
-[Pidgey plays HAXIBNA which means '' and gets 38 points]
+[Pidgey plays HAXIBNA which means '' and gets 38 points]  
 *5 tiles*
-Pidgey: Hope this 24-point lead is big enough to stick.
 
-*5 tiles*
-Pidgey:
+Pidgey: I'm fighting for second then. I hope it's enough that I'm winning by 24 points.  
+Pidgey: second be-GER reason-ADV IMPF fight-1S. 40_6 point-PL method-ADV IMPF win-1S-DEP suffice-3O-DEP hope-1S.  
+Pidgey: `Feru aza dules av ji'swmag. Avsaqe taftafwe zoves av tafwmit-ka teratav-ka tixrocwmal.`
 
 ## Turn 22 (Falcon plays 'OZAZ)
 
 [Falcon plays 'OZAZ which means 'speed up' and gets 20 points]
 *5 tiles*
-Falcon: That blank should be a Z.
-Lion: Nice hook on the A!
-Pidgey: Yes, I’m still up by 4! Let’s hope that [Rat name] finishes this turn.
 
-*5 tiles*
-Falcon: That-SUB blank Z be-GER should-3S.
-Lion: That-SUB attach-PAT A with good be-3S!
-Pidgey:
+Falcon: That blank is a Z.  
+Falcon: that empty "Z" be-3S.  
+Falcon: `Iqa inve "Z" zat.`
+
+Lion: Nice word on the A!  
+Lion: "A"-from word nice be-3S.  
+Lion: `"A"-cw natho oma zat.`
+
+Pidgey: Yes, I’m still up by 4! Rat, you should end the game this round.
+Pidgey: yeah, 4 method-ADV still win-1S. Rat, game end-GER should-2S.
+Pidgey: `Ka'pa, avu zoves ihex tafwmit. Rat, balotno soka exizin.`
 
 ## Turn 23 (Lion plays HONWSE)
 

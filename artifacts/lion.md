@@ -184,9 +184,9 @@ run-GER should-3pS, run-GER should-3pS, 1-GEN bullet be-3S-than fast-ADV-CMP
 ### Perflontus
 
 pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai zohcwe  
-zunata exexin, zunata exexin, rwmo ex'opsi agzunexat  
+zunata exixin, zunata exixin, rwmo ex'opsi agzunexat  
 pagepwe gicwe qaryun-kas axwe rai zohcwe  
-zunata exexin, zunata exexin, rwmo es'atipu zat-sos eridas'  
+zunata exixin, zunata exixin, rwmo es'atipu zat-sos eridas'  
 
 ### Pronunciation
 
