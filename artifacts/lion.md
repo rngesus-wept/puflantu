@@ -294,7 +294,7 @@ and again love-GER learn-GER can-1pS
 atadbolwe dokfes zatif  
 rwnwe tixrwe bedqo-ti ahrodwe zoves ihex nagotut  
 juyuneyun-ka-li, aqes elunaj-ka-li  
-dwtdwt sena yela merwnin
+~~dwtdwt~~ **Uta** sena yela merwnin
 
 # Notes
 
