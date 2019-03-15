@@ -51,12 +51,12 @@ Translated Version:
 | Z   | uta    | `amipu`    |  300 | `albiunu`         | `Zantana`           | QOYEUTARU    |
 | (') | fe     | `catipu`   |  325 | `barumiunu`       | `i'xenu`            | QOYEPAIRU    |
 | E   | saqfe  | `oyitipu`  |  401 | `jurasiku`        | `solnofuEn`         | QOYESAQNERU  |
-| D   | pai    | `rupatipu` |  535 | `qraesiku`        | `maDiju`            | QOYENERU     |
+| D   | pai    | `rupatipu` | 1022 | `quraesiku`       | `maDiju`            | QOYENERU     |
 | A   | fe     | `catipu`   | 1234 | `karbunifurusu`   | `mAzronu ixri`      | QOYEFERU     |
 | R   | ne     | `sokotipu` | 1450 | `devoniunu`       | `unsuRuku`          | QOYESAQTERU  |
 | G   | avu    | `oritipu`  | 2204 | `kamubrian pairu` | `bo uGirotipu `     | QOYESAQERU   |
 | P   | saqta  | `wtipu`    | 2222 | `kamubrian feru`  | `siriusu Pahamope`  | QOYESAQFERU  |
-| O   | saqavu | `dotipu`   | 2341 | `ediakaranu`      | `paux pahamOpe`     | QOYEFESAQERU |
+| O   | saqavu | `dotipu`   | 2341 | `ediakaranu`      | `paxu pahamOpe`     | QOYEFESAQERU |
 | T   | pai    | `rupatipu` | 3534 | `henkamubrian`    | `beThurwe xwroxwe`  | QOYEAVURU    |
 
 
