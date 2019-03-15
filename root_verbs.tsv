@@ -16,7 +16,7 @@ yad	do, perform
 sok	end, finish
 onam	equal
 pog	give
-# vosiveg	hide, conceal
+vosiveg	hide, conceal
 mwen	hold, contain
 timov	insert
 quk	make, produce
@@ -81,6 +81,7 @@ solav	solve, figure out
 lifan	study
 dax	teach, instruct
 nagut	write
+polec	explain
 
 # Emotional
 tixmap	believe, think
@@ -93,6 +94,7 @@ solov	need (intrinsic motive)
 zalov	need (extrinsic motive)
 somun	please
 orcal	want, desire
+ocral 	hope
 bacev	wait, hesitate, pause
 pelig	worry, concern
 
@@ -106,7 +108,7 @@ eyos	taste
 wris	live
 
 # Mechanical
-elaj	bend
+elaj	bend, stretch
 juyun	break
 lirwb	boil
 fumub	combust
@@ -155,6 +157,8 @@ juf	cook
 zajuf	fry
 kohan	toast
 axuhox	knead
+wnic	steam
+ywpol	grill
 
 # Social
 swgor	agree
@@ -171,8 +175,11 @@ qwfob	marry (as a minister does)
 qekad	meet, encounter
 fedan	promise, swear
 tacwl	say
+agtacwl	exaggerate
+vecwl	instruct, direct
 cub	speak
 ewsig	thank
+canwn	destroy, ruin
 
 # Commercial
 kanwj	buy

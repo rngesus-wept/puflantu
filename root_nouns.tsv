@@ -61,10 +61,12 @@ ogbai	traveller, vagabond
 
 # Food and drink
 locho	food
+docno 	lunch
 riqho	beverage
 ozo	stew, soup
 balorvu	dough
 enxa	water
+wnica	steam
 gomu	fruit
 hompaliso	butter
 kofi	coffee
@@ -100,6 +102,8 @@ atsaro	cinnamon
 hemsaro	nutmeg
 ewsaro	clove
 vesaro	spice
+veskepi	ham
+kepuvi	hamburger
 
 # Structures
 veonxi	building
@@ -158,6 +162,7 @@ ogi	many, much
 uyi	few, little, small (quantity)
 levi	correct
 paxu	wrong
+qili	evil
 
 # Descriptors
 izwfu	old
@@ -274,6 +279,7 @@ qoyelu	month
 ayego	year
 henroqa	morning
 amroqa	night
+timroqa	tonight
 podroqa	tomorrow
 lavroqa	yesterday
 ambwri	late
@@ -349,6 +355,7 @@ eqme	leg
 mwnsi	arm
 tama	eye, tablespoon
 vaxsi	butt
+abla	mouth
 
 # Sentiment
 xoso	happy
@@ -391,7 +398,7 @@ mwbe	random
 tiha	light, luminescence
 pekle	crayon
 noigle	circus
-veskepi	ham
+meskepi	clam
 rali	house
 atimbwri	simultaneous
 xotilu	car
@@ -496,6 +503,14 @@ denaqva	row
 bevaxva	column
 vaxru	last
 vere	corner
+unexu	superintendent
+gafi	ready
+mwla	money
+uglube	medicine
+bahu	trouble
+eyipodko	windowsill
+gaga	same, similar
+wlkuba	obvious
 
 # astrological signs
 wegso	aries
