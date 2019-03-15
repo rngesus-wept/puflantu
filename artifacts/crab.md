@@ -169,12 +169,12 @@ Pidgey: `Alvuz zat.`
 ## Score check after 2 rounds
 
 Lion: By the way, what are the scores right now?  
-Lion: wait-1pS. everyone how-many point-PL possess-3pS ?  
+Lion: wait-1pS. everyone how-many point-PL possess-3pS ?   //wait-1pS-IMP?
 Lion: `Bacwyev. Axwe wlerwe taftafwe qadun na?`
 
 Falcon: [Rat name] is far in the lead with 114 points, I am second place with 63, you have 44, and [Pidgey name] has 38.  
 Falcon: 310_6 point_PL with [RAT] far-ADV IMPF win-3S. 143_6 with second be-1S. 112_6 possess-2S-& Pidgey 102 possess-3S.  
-Falcon: Paiyo saqe taftafwe wli [RAT] xusos av tafatit. Utayo avsaqpai wli, feru zwm. Iz utayo saqfe qizun-lis, Pidgey utayo fe qatun.
+Falcon: Paiyo saqe taftafwe wli [RAT] xusos av tafatit. Utayo avsaqpai wli, feru zwm. Iz utayo saqfe qizun-lis, [Pidgey] utayo fe qatun.
 
 ## Turn 9 (Pidgey plays XWDI)
 
@@ -195,11 +195,11 @@ Falcon: `Wepu zat.`
 [Falcon plays COCE which means 'war' and gets 38 points]
 
 Rat: Am I the only person here actually interested in peace?  
-Rat: peace real-ADV want-3S-RO-DEP sole person here be-1S ?  
+Rat: peace real-ADV want-3S-RO-DEP sole person here be-1S ? //I don't follow this RO gloss.  
 Rat: `Talke ehyos orcatolal-ka itya hie tihan zwm na?!`
 
-Falcon: I couldn't let the guys up at the top have all the fun. Fight me! 38 points.  
-Falcon: top-side-at person-PL all fun possess-3dO-DEP allow-GER can-1S-NEG. fight-1O-IMP! 102 point-PL.  
+Falcon: I couldn't let the guys up at the top have all the fun. Fight me! 38 points.  //What does this even mean? Why are there two people?
+Falcon: top-side-at person-PL all fun possess-3dO-DEP allow-GER can-1S-NEG. fight-1O-IMP! 102 point-PL. 
 Falcon: `Bedfi-ti hiwe axwe namehe qobun-ka taga merwmeyin. 'ji'sumag! Utayo fe taftafwe zat.`
 
 ## Turn 11 (Lion plays UXFAPLO)
@@ -209,7 +209,7 @@ Falcon: `Bedfi-ti hiwe axwe namehe qobun-ka taga merwmeyin. 'ji'sumag! Utayo fe 
 
 Lion: Hey look, I made a really long word. Do I get that seven letter bonus?  
 Lion: hey, long-AUG word PRF make-1S-3O. that seven letter add-PAT receive-1S ?  
-Lion: `A'mi, agyoxuka natho os qwmoduk. Eqa saqta sanato karwho ywmit na?`
+Lion: `A'mi, agyoxuka natho os qwmoduk. Eqa saqta sanato karwho ywmit na?` //qwmaduk? 3sO not 3pO.
 
 Pidgey: No. You only played 5.  
 Pidgey: no. five letter-PL mere-ADV PST play-2S.  
@@ -221,7 +221,7 @@ Lion: `Anjo zat.`
 
 Falcon: By the way, what’s the blank?  
 Falcon: additional-ADV, what empty letter be-3S ?  
-Falcon: `Karkas, wat imve sanato zat na?`
+Falcon: `Karkas, wat imve sanato zat na?` //inve not imve.
 
 Lion: That should be an F.  
 Lion: F be-3S.  
@@ -234,7 +234,7 @@ Lion: `"F" zat.`
 
 Lion: Wow, how many points is that?! Look at that word on the A too!  
 Lion: wow, what-quantity point-PL be-3S ?! that "A"-from word also-ADV see-3O-IMP  
-Lion: `W'ne, wlerwe taftafwe zat na? eqa "A"-cw natho karkas 'motid!`
+Lion: `W'ne, wlerwe taftafwe zat na? eqa "A"-cw natho karkas 'motid!` //Capitalize eqa?
 
 Falcon: It looks like 106. This is already becoming a total shutout.  
 Falcon: 254 be-1S. this [Rat]-GEN full win-GER IMPF become-3S.  
@@ -255,7 +255,7 @@ Falcon: `A'mi, onama taftafwe qwnun-ka jatif.`
 
 Pidgey: It’s too bad I didn’t have another W; if I did, I could have played on the left to get the double letter on the G.
 Pidgey: two W-DU PST possess-1S-NEG-DEP sad be-3S. this-reason PRF-CNT possess-1S-3dO-DEP-ADV, double "G" resulting_in left-at-ADV play-GER PRF-CNT can-1S.
-Pidgey: `Fe "W"w im qwmeyun-ka anjo zat. Tidul osgaq qwmobun-kas, fele "G" eg defi-fws elwxa osgaq merwmin.`
+Pidgey: `Fe "W"w im qwmeyun-ka anjo zat. Tidul osgaq qwmobun-kas, fele "G" eg defi-fws elwxa osgaq merwmin.`  //osgaq one word or two?
 
 ## Turn 14 (Falcon plays KANO'FI)
 
@@ -269,12 +269,12 @@ Lion: `Iqa ehyo natho aza merateyin.`
 *Sounds of paging through a dictionary*
 
 Rat: Wow, it is! Sometimes I feel like someone made these up just for this game.  
-Rat: wow, real be-3S! someone this-PL this game for_recipient-ADV PST conceive-3S-DEP sometimes feel-1S  
-Rat: `O're, ehyo zat! Orvo etwe nathwe eta balotno ziy im yatir-ka orbwr mwmap.`
+Rat: wow, real be-3S! someone this-PL this game for_recipient-ADV PST conceive-3S-DEP sometimes feel-1S  //something is off with this gloss, "this word game?"  
+Rat: `O're, ehyo zat! Orvo etwe nathwe eta balotno ziy im yatir-ka orbwr mwmap.` //"etwe nathwe eta baltono"
 
 Falcon: And that brings me to a little over 120.  
 Falcon: 1-GEN point-PL 320 this-time exceed-3S-DIM.  
-Falcon: `Rwmo taftafwe paiyo fesaqe tihan saogatam.`
+Falcon: `Rwmo taftafwe paiyo fesaqe tihan saogatam.`// tihan -> tibwr
 
 ## Turn 15 (Lion plays EWSIG)
 
@@ -321,12 +321,12 @@ Falcon: `Ita qwmolun-ka zat. Tafita-fw "FW"!`
 
 [Lion plays PUTQE which means 'chartreuse' and gets 22 points]  
 *3 tiles*
-
+//are we okay with 'w' being bell instead of like '''?
 Rat: Risky move, someone could bell that and access the right triples.  
-Rat: danger play-GER be-3S. someone bell that-toward-ADV add-GER HYP can-3S-&then east-PL triple-PL use-3S.  
-Rat: `Zikpe elwxa zat. Orvo uta 'w' fel katar-nis nafwe pailwe piatotwv.`
+Rat: danger play-GER be-3S. someone bell that-toward-ADV add-GER HYP can-3S-&then east-PL triple-PL use-3S.  //this gloss does not match translation? missing "that-toward-ADV"?
+Rat: `Zikpe elwxa zat. Orvo uta 'w' fel katar-nis nafwe pailwe piatotwv.`//piatotwe not piatotwv.
 
-Lion: Wait, you can’t bell a color, right?  
+Lion: Wait, you can’t bell a color, right?  //I'd slightly prefer plural color but no big deal.
 Lion: wait-IMP, bell color-toward-ADV add-GER can-2S-NEG, yes ?  
 Lion: `'bacev, 'w' ityeri-fws kara merizeyin, zo na?`
 
@@ -341,12 +341,12 @@ Rat: `O're, zepumem.`
 
 Rat: 60 + 21 is 81. Ooh, the bag is empty now! I only have 6 tiles left.  
 Rat: 140_6 add-GER 33_6 213_6 be-3S. oh, bag empty this-time be-3S. mere-ADV 10_6 letter-PL possess-1S.  
-Rat: `Utayo avsaqe kara paisaqpai, feyo saqpai zat. O're, oca inve tihan zat. Aqes saqe sanatwe qwmun.`
+Rat: `Utayo avsaqe kara paisaqpai, feyo saqpai zat. O're, oca inve tihan zat. Aqes saqe sanatwe qwmun.`//not tihan but tibwr?
 
 ## Score check after 5 rounds
 
 Falcon: Can someone remind me of the scores?  
-Falcon: someone total-PL me-for remind-3pO-IMP ?  
+Falcon: someone total-PL me-for remind-3pO-IMP ? 
 Falcon: `Orvo karodwe um-ziy 'bolodot na?`
 
 Rat: I have 333 points, and you are in second with 144.  
@@ -355,7 +355,7 @@ Rat: `Utasa paiyo saqpai taftafwe qwmun-lis, feru avuyo wli ziz.`
 
 Lion: I have 89 points and am in last, but I only need 41 more to catch up to Pidgey.  
 Lion: 225_6 point-PL possess-1S-& last be-1S-but, Pidgey match-GER method-ADV, mere-ADV 105_6 many-CMP-PL need-1S.  
-Lion: `Feyo fesaqne taftafwe qwmun-li vaxru zwm-dis, Pidgey atimora zoves, aqes utayo ne ogi'fwe solwmov.`
+Lion: `Feyo fesaqne taftafwe qwmun-li vaxru zwm-dis, Pidgey atimora zoves, aqes utayo ne ogi'fwe solwmov.`\\PIDGEY! 
 
 ## Turn 21 (Pidgey plays HAXIBNA)
 
@@ -381,7 +381,7 @@ Lion: `"A"-cw natho oma zat.`
 
 Pidgey: Yes, I’m still up by 4! Rat, you should end the game this round.
 Pidgey: yeah, 4 method-ADV still win-1S. Rat, game end-GER should-2S.
-Pidgey: `Ka'pa, avu zoves ihex tafwmit. Rat, balotno soka exizin.`
+Pidgey: `Ka'pa, avu zoves ihex tafwmit. Rat, balotno soka exizin.` //RAT !!
 
 ## Turn 23 (Lion plays HONWSE)
 
@@ -390,7 +390,7 @@ Pidgey: `Ka'pa, avu zoves ihex tafwmit. Rat, balotno soka exizin.`
 
 Lion: Hey, I finally got to make a high scoring play! I’ve been eying that corner square for a while. What happens when we run out of tiles?
 Lion: hey, big-ADV score-GER play-GER make-GER finally can-1S. that corner square some-quantity time-ADV IMPF consider-1S. that-time letter-PL exist-3pS-NEG-DEP-ADV, what-OBL do-1pS ?
-Lion: `A'mi, agis wtafa elwxa quka sokam merwmin. Eqa vere avubena orlerwe bwris av novwmid. Albwr sanato jatadeyif-kas, wot ywyad na?`
+Lion: `A'mi, agis wtafa elwxa quka sokam merwmin. Eqa vere avubena orlerwe bwris av novwmid. Albwr sanato jatadeyif-kas, wot ywyad na?`//what is orlerwe? not in dictionary. are you sure this is some-quantity? jatadeyif-kas does not match gloss. ywyad should be ywmad.
 
 ## Turn 24 (Rat plays OBWNERE')
 
