@@ -301,7 +301,7 @@ Rat: `Ita alhan paile "T" eg elwxa gaq merwmin-dis, tizov tihan elwmotwx-kas, om
 
 ## Turn 17 (Pidgey plays AV)
 
-[Pidgey plays AV which means 'imperfective marker' and gets 29 points]  
+[Pidgey plays AV which means 'imperfective marker' and ATIMOVA gets 29 points]  
 *1 tile*
 
 Pidgey: This is all I have. "AV".  
