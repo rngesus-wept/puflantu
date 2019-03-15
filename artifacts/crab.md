@@ -308,6 +308,14 @@ Pidgey: This is all I have. "AV".
 Pidgey: this possess-1S-DEP all be-3S. "AV".  
 Pidgey: `Ita qwmun-ka axwe zat. "AV".`
 
+Rat: You know, you're supposed to write down the longest word you made when you only play one letter.  
+Rat: know-3O, that-time mere one letter play-2S-DEP-ADV, make-2S-RO-DEP long-SUP word write-GER should-2S.  
+Rat: `Gotir, albwr aqe uta sanato elizwx-kas, qizoluk-ka yoxuka' natho naguta exizin.`
+
+Pidgey: I *am* writing it.  
+Pidgey: IMPF write-1S-3O.  
+Pidgey: `*AV* nagwmotut.`
+
 ## Turn 18 (Falcon plays INE'FI)
 
 [Falcon plays INE'FI which means 'weaker' and gets 21 points]  
