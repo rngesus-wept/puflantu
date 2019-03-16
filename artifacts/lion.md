@@ -15,23 +15,23 @@ cocaine for breakfast
 
 ### Gloss
 
-now love-1O-IMP, that-time exist-1S-NEG-DEP, zero-ADV love-1O-IMP  
+now love-1O-IMP, that-time exist-1S-NEG-DEP-ADV, zero-ADV love-1O-IMP  
 zero-ADV love-1O-IMP, zero-ADV love-1O-IMP,  
 feel-NEG-GER, feel-NEG-GER, feel-NEG-GER
 
 dish-PL full sink,  
-kitchen interior-ADV pace-1S,  
+kitchen interior-ADV pace-GER,  
 breakfast cocaine,  
 ...yikes
 
 ### Perflontus
 
-Tibwr 'sumen, albwr jwmeyif-ka, ~~ris~~ **fe** 'sumen  
+Tibwr 'sumen, albwr jwmeyif-kas, ~~ris~~ **fe** 'sumen  
 Ris 'sumen, ris 'sumen,  
 Meyapa, meyapa, meyapa, meyapa
 
 (Rotwe obwu) vomfe  
-(Dunse henqos) arkahwmut  
+(Dunse henqos) arkahuta  
 (Utaru kolarvu) kokeini  
 ...w'ne
 
@@ -89,14 +89,14 @@ this-reason light-T HYP emit-2S-NEG-DEP light-T no-time FUT reflect-2S-NEG
 
 ### Perflontus
 
-Et yolad-ka ogi, et ~~molid-ka~~ **nole-ka** ogi,  
+Et yolad-ka ogi, et ~~molid-ka~~ **ol ne-ka** ogi,  
 Fevwe zovalwe piwva paxu wdul zat na  
 Yebwr et gizeyir tidul fel tizeyex-kas  
 Ittiha yebwr et kizeyak tidul ittiha fel dizeyog-kas
 
 ### Pronounication
 
-Et nyolad-ka ongi, et ~~molid-ka~~ **nole-ka** ongi,  
+Et nyolad-ka ongi, et ~~molid-ka~~ **ol ne-ka** ongi,  
 Fevwe zovalwe piwva paxʌ wdʌl zat na  
 Nyebwr et ngizenyir tidʌl fel tizenyex-kas  
 Ittiha nyebwr et kizenyak tidʌl ittiha fel dizenyong-kas
@@ -159,7 +159,7 @@ open arm-PL-and open eye-PL with FUT meet-1S-3O
 ### Perflontus
 
 Tinri enxura etfel tizol-sos ogis' etfel tizol na?  
-Ixopfe etfel mwizen-lis etfel ~~otizij~~ **fize** na?  
+Ixopfe etfel mwizen-lis etfel ~~otizij~~ **iz fe** na?  
 Podroqa veli et mwatolen-kas  
 Nicwe mwnswe-li nicwe tamwe wli et qekwmatad
 
@@ -176,24 +176,17 @@ You'd better run, better run, faster than my bullet
 
 ### Gloss
 
-luxury-PL shoe-PL possess-RpO-DEP all other young-PL  
+luxury-PL shoe-PL possess-RpO-DEP all other child-PL  
 run-GER should-3pS, run-GER should-3pS, 1-GEN gun run-3pS-AUG  
-luxury-PL shoe-PL possess-RpO-DEP all other young-PL  
+luxury-PL shoe-PL possess-RpO-DEP all other child-PL  
 run-GER should-3pS, run-GER should-3pS, 1-GEN bullet be-3S-than fast-ADV-CMP
 
 ### Perflontus
 
-pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai zohcwe  
-zunata exexin, zunata exexin, rwmo ex'opsi agzunexat  
-pagepwe gicwe qaryun-kas axwe rai zohcwe  
-zunata exexin, zunata exexin, rwmo es'atipu zat-sos eridas'  
-
-### Pronunciation
-
-pangepwe ~~ngicwe~~ **sachfe** charnyun-kas ashwe rai henyipwe
-zunata esheshin, zunata esheshin, rwmo esh'opsi angzuneshat
-pangepwe ngicwe charnyun-kas ashwe rai henyipwe
-zunata esheshin, zunata esheshin, rwmo es'atipu zat-sos eridas'
+pagepwe ~~gicwe~~ **saqfe** qaryun-kas axwe rai amhiwe  
+zunata exixin, zunata exixin, rwmo ex'opsi agzunexat  
+pagepwe gicwe qaryun-kas axwe rai amhiwe  
+zunata exixin, zunata exixin, rwmo es'atipu zat-sos eridas'fi  
 
 
 ## Entry 7
@@ -210,14 +203,14 @@ We're in heaven ("heaven" becomes "five")
 ### Gloss
 
 sugar-DIM, want-1S-RO-DEP-ADV all be-2S  
-that-time this-place 1S-GEN arm-PL between-ADV rest-2S-DEP  
+that-time this-place 1S-GEN arm-PL between-ADV rest-2S-DEP-ADV  
 believe-3O-GER struggle-1S  
 heaven interior-ADV be_located-2dS
 
 ### Perflontus
 
 satwipe, orcwmolal-kas axwe ziz  
-albwr tihan rwmo mwnswe dokfes dobizis-ka  
+albwr tihan rwmo mwnswe dokfes dobizis-kas  
 tixmotapa kavwmex  
 ~~janari~~ **ne** henqos zwnif
 
@@ -237,7 +230,7 @@ Tomorrow may be too late
 2S-AND 1S  
 wait-GER can-1dS-NEG-DEP know-1S  
 and swear-1S, false be-3S-NEG-DEP, swear-1S, girl  
-tomorrow too late HYP be-GER
+tomorrow too late HYP be-3S
 
 ### Perflontus
 
@@ -294,7 +287,7 @@ and again love-GER learn-GER can-1pS
 atadbolwe dokfes zatif  
 rwnwe tixrwe bedqo-ti ahrodwe zoves ihex nagotut  
 juyuneyun-ka-li, aqes elunaj-ka-li  
-dwtdwt sena yela merwnin
+~~dwtdwt~~ **Uta** sena yela merwnin
 
 # Notes
 

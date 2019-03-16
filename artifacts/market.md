@@ -147,21 +147,21 @@ Utayo paisaqavu uqwe voladay. Ewsezig.
 I will buy the 3 gold-paints and 3 silver-paints  
 That will be 2210_6 in total  
 Here are FIVE dollars and a 14_6-piece  
-No change. Thank you.
+0_6 in change. Thank you.
 
 ### Gloss
 
 3 gold-paints and 3 silver-paints BUY-1S-FUT  
 that 2210 cost-FUT  
 five dollars and 14pieces have-1S  
-Perfect. thank-2O
+0_6 cent-PL return-3S. thank-2O
 
 ### Translation
 
 Pai jinrerwe xwdrwe-li pai alvurerwe xwdrwe kanwmwj.  
 Eqwe fesa feyo saqe qopadik.  
 Itwe ne egitwe-li uta saqavu-sagite zad.  
-Omeze. Ewsezig.
+Ri uqi voladay. Ewsezig.
 
 ## Conversation 8 (yellow, red)
 
@@ -204,7 +204,7 @@ Perfect. thank-2O
 
 ### Translation
 
-Pai honwswe kanotwja orcmal. Feqiuta egite-li qwmun.  
+Pai honwswe kanotwja orcwmal. Feqiuta egite-li qwmun.  
 Avsaqta-sagite-li saqavu-sagite volabay. Ewsezig.  
 'bacev! Fe mwnsw-li uta es'atipu karkas kanwmwj.  
 Omeze. Ewsezig.
@@ -213,21 +213,21 @@ Omeze. Ewsezig.
 
 ### English
 
-I will buy a yellow-paint and a silver-paint. Here is a HALFDOLLAR and a DOLLAR.  
+I will buy a yellow-paint and a silver-paint and an arrow. Here is a HALFDOLLAR and a DOLLAR and three cents.  
 Here is your change.  
 I'll also buy a ham and bacon.  
 Your change is 1_6-piece. Thank you.
 
 ### Gloss
 
-yellow-paint and silver-paint buy-1S-FUT. half-dollar have-1S  
+yellow-paint, silver-paint, and arrow buy-1S-FUT. dollar and half-dollar and three cents have-1S  
 your remain-GER return-3S.  
 also ham and bacon buy-1S-FUT  
 1-piece remain-1S-2O. thank-2O
 
 ### Translation
 
-Amrelte xwdri-li alvurerwe xwdri et kanwmwj. Feqi-egite qwmun.  
+Amrelte xwdri-li alvurerwe xwdri-li apikfe et kanwmwj. Egite-li feqi-egite-li pai uqwe qwmun.  
 Rizo topexa volatay.  
 Veskepi-li honwse karkas kanwmwj.  
 Uta-sagite volatay. Ewsezig.

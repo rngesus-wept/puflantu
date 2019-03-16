@@ -35,6 +35,6 @@ written as "... puzzles please you", not "... you like puzzles".
 
     'bovipa!
 
-    **Pazul** somadexun-ka onwmir. Eta xwes os onixir na?:
+    **Pazulwe** somadexun-ka onwmir. Eta xwes os onixir na?:
 
     Wat avu eqmwe henroqas qatun-lis, fe eqmw uraroqas qatun-lis, pai eqmwe amroqas qatun na?

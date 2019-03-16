@@ -132,7 +132,7 @@ usonba	land, ground, earth
 ucvablo	kindergarten
 
 # Colors
-itiye	color
+ityeri	color
 wre	black
 apo	white
 pamono	red
@@ -256,8 +256,16 @@ dokfe	between, among
 ura	middle
 podhe	next
 lave	previous
-# need to find a way to make cardinal directions work
-kano	southwest
+
+# Directions
+se	North
+ku	South
+pi	East
+no	West
+kuno	southwest
+sepi  northeast
+kupi  southeast
+seno  northwest
 
 # Time
 roqa	day (24 hour period)
@@ -368,12 +376,6 @@ xoale	smoke
 antuho	glue
 tini	wine
 
-# Directions
-se	North
-ka	South
-bi	East
-no	West
-
 # Misc (including adjectives)
 cuafi	fresh, newly-made, unused
 jano	cup
@@ -403,12 +405,13 @@ iporo	pot
 zoxura	occasional, sometimes
 ogje	thick (linear dimension)
 ombu	full
+inve	empty
 durema	straight
 ungikpe	flush
 wabu	card
 espuyi	royal, noble
 anuva	high
-yoxuka	long
+yoxuka	long (length)
 olcusa	pearl
 saqwne	storm
 ihro	Earth-blood
@@ -422,6 +425,7 @@ hise	light, weightless
 jaonga	dense
 juqzove	recipe
 pahi	flat
+karoda	sum, total
 tahlo	pan
 jerada	vigor
 tolorca	selective
@@ -490,6 +494,8 @@ namehe	fun
 mwla	money
 denaqva	row
 bevaxva	column
+vaxru	last
+vere	corner
 
 # astrological signs
 wegso	aries
