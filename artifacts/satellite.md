@@ -24,8 +24,8 @@ This artifact should be presented after Falcon meta is solved.
 # Translations
 * hwvahsulafwe mwnswe
 * gabxo evave 
-* at ittiha datog
-* evave ittiha katak
+* Ita ittiha datog
+* Iqa evave ittiha katak
 * tihwe pevkwe
 * hojogwe tihwe pevkwe laday
 
