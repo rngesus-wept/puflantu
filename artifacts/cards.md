@@ -21,12 +21,12 @@ control-2S-RO-DEP land-PL "any color one mana gain-2S-3O-IMP" have.
 
 any color one mana gain-2S-3O-IMP
 
-Dimir cast-AGT lantern-T-PL good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shape-INS-PL-and sleeper act-AGT-PL create-GER.
+Dimir cast-AGT lantern-T-PL good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shape change-AGT-PL-and sleeper act-AGT-PL create-GER.
 
 
 # Puflantu
 
-Ititiye Tihmwne
+Ititiye Ittihmwne
 
 fakuti
 
@@ -34,7 +34,7 @@ Yizolwt-ka usonbwe "{T}: Veli ityeri uta 'ola 'yotit" qadun.
 
 {T}: Veli ityeri uta 'ola 'yotit.
 
-Dimiru xuexzamafe tihmwnwe omas piwv, tizov geyolir-ka 'ola av piotwv-kas radokaqwe-li zumuzwe lwqafwe quka.
+Dimiru xuexzamafe Ittihmwne  omas piwv, tizov geyolir-ka 'ola av piotwv-kas radokaqwe-li zumuzwe lwqafwe quka.
 
 _Note: xuexzam = cast, 'ola  = energy, ywt = control, lwq = act_
 
@@ -90,7 +90,7 @@ As if anyone needed another reason to avoid dark, dank cellars.
 
 Cellar Door
 
-{3}, {T}: Player choose-IMP. their heaven-into read-LOC their bottom card put-3S. this-reason animal card HYP be-3S-DEP-ADV, 2/2 black REV-(live-NEG)-GER animal coin create-IMP
+{3}, {T}: choose-RO-DEP play-AGT their heaven-into their read-LOC interior bottom-most card put-3S. this-reason animal card HYP be-3S-DEP-ADV, 2/2 black REV-(live-NEG)-GER animal coin create-IMP
 
 REV-visit-GER black and wetter cellar-PL reason again need-2S na?
 
@@ -98,7 +98,7 @@ REV-visit-GER black and wetter cellar-PL reason again need-2S na?
 
 Vaxrali Taklo
 
-{3}, {T}: Elwxafe 'tol. Rato janari-fw rato genice-ro vaxfi wabu ajaten. Tidul rolwla wabu fel zatat-kas, 2/2 wre vowreyisa rolwla sagite 'quk.
+{3}, {T}: Tolol-ka elwxafe rato janari-fw rato genice-ro vaxfi wabu ajaten. Tidul rolwla wabu fel zatat-kas, 2/2 wre vowreyisa rolwla sagite 'quk.
 
 Vogoconuma wre-li enxuombu'fi dule dwtdwt solizov na?
 
@@ -111,7 +111,7 @@ Gilded Lotus
 
 Artifact
 
-Add three mana of any one color.
+{T}: Add three mana of any one color.
 
 Over such beauty, wars are fought. With such power, wars are won.
 
@@ -122,9 +122,9 @@ Golden(?) Lotus
 
 artifact
 
-any color three mana gain-2S-3O-IMP
+{T}: any color three mana gain-2S-3O-IMP
 
-beauty reason-ADV, wars fight-3OP. power have-GER-DEP, wars PST win-3OP.
+this-degree beauty reason-ADV, wars fight-3OP. power-with, wars PST win-3OP.
 
 # Puflantu
 
@@ -132,9 +132,9 @@ Jineri Kalipopi
 
 fakuti
 
-Veli ityeri pai 'ola 'yotit.
+{T}: Veli ityeri pai 'ola 'yotit.
 
-Kali dules, cocwe ji'soryag. Vole quna-kas, cocwe im taforyit.
+Tivuz kali dules, cocwe ji'soryag. Vole-ziy, cocwe im tafodit.
 
 _note: kalipopi = lotus, kali=beauty_
 
@@ -147,7 +147,7 @@ Artifact
 
 As Belbe's Portal enters the battlefield, choose a creature type.
 
-You may put a creature card of the chosen type from your hand onto the battlefield.
+{3}, {T}: You may put a creature card of the chosen type from your hand onto the battlefield.
 
 The fight will continue on a new battlefield.
 
@@ -159,7 +159,7 @@ artifact
 
 that-time Belbe's door(?) battlefield enter-3S-DEP, one creature type choose-IMP-2S
 
-PST choose-2S-RO-DEP type possess-RS-DEP hand-from creature card, battlefield-toward-ADV put-GER may-2S
+{3}, {T}: PST choose-2S-RO-DEP type possess-RS-DEP creature card, hand-from-ADV battlefield-toward-ADV put-GER may-2S
 
 fight one new fight+place-at-ADV FUT continue-3S
 
@@ -169,9 +169,9 @@ Belbe-ro Taklo
 
 fakuti
 
-Albwr Belbe-ro Taklo ji'saghanu capatil-kas, uta rolwla haxibna 'tol.
+Albwr Belbe-ro Taklo ji'saghanu-tis capatil-kas, uta rolwla haxibna 'tol.
 
-Im tizolol-kas haxibna qalun-kas mwnu-cw rolwla wabu, ji'saghanu-fws ajena 'balem.
+{3}, {T}: Im tizolol-kas haxibna qalun-kas rolwla wabu, mwnu-cws ji'saghanu-fws ajena 'balem.
 
 Ji'sag uta evi ji'saghanu-tis et binpatan.
 
