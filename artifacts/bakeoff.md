@@ -37,8 +37,7 @@ Dough
 
 *A basic, versatile dough.*
 
-  * Add 4g salt and 1g leavening agent to 1 cup flour.
-  * Add 3/4 cup water to the mixture and knead together.
+  * Add 4g salt and 1g leavening agent to 1 cup flour. Add 3/4 cup water to the mixture and knead together.
   * Let rest overnight to rise.
 
 ### Gloss
@@ -386,7 +385,7 @@ Cinnamon Rolls
 
 *The cinnamon makes all the difference.*
 
-  * Obtain some dough.
+  * Obtain some dough (see recipe).
   * Roll out a thick sheet and top with melted butter.
   * Combine 10 g cinnamon with 1/3 cup sugar. Top dough with mixture.
   * Roll mixture into log, slice into rounds, and put in baking dish.
