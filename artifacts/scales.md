@@ -30,7 +30,7 @@ Puflantu
 
 kolarvu'w lochw  
 kolarvu'fi locho  
-kolarvwe torelwe vo torelwe kolarvwe  
+kolarvwe torelwe-vo torelwe kolarvwe  
 toreli'fwe lochwe  
 toreli' locho  
 
