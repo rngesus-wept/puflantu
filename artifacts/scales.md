@@ -12,7 +12,7 @@ Puflantu
 
 pikfe' alvi  
 pikfe'fi alvi  
-pikfe ex'opsi vo ex'opsi pikfe  
+pikfe ex'opsi-vo ex'opsi pikfe  
 ex'opsi'fi alvi  
 ex'opsi' alvi  
 
