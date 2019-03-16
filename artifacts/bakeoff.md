@@ -113,7 +113,7 @@ Jelly (jelly-R)
 
 Breakfast (1-ORD bread)
 
-## Mafke Ozro
+## Mafkure Ozro
 
 Oatmeal (oats stew)
 
@@ -136,7 +136,7 @@ Oatmeal (oats stew)
 *Rizo roqa goza wepu kirwge zove.*
 
   * Mafke 1/2 janwe-li paliso 1 jano-li twipe 23 guramwe-li zalma-li atsaro, eyi iporo henqos 'rulfodob.
-  * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafke ozro ogje et etataz.
+  * Zoxuras realas, reraloda lirotwb-ka 'pem-nis, iporo lirwpa-cws 'noteb. Tidul av volotir-ka, mafkure ozro ogje et etataz.
 
 ## Kolarvu Bedfi Wibalwe
 
@@ -156,7 +156,7 @@ Eggs on Bread (bread top egg)
 
 *egg-PL cook-AUG-NEG-IMP; light-PL-& cloud-PL be-3pO-DEP want-2S.*
 
-  * some-quantity bread (recipe consult-IMP) make-IMP-&then, 2 flat-DU toast-DIM.
+  * bread (recipe consult-IMP) make-IMP-&then, 2 flat-DU toast-DIM.
   * small jump-GER pan interior-ADV, butter 1 eye melt-IMP.
   * 3 egg-PL-& milk 2 eye-DU-& salt vigor-ADV together mix-3pO-IMP-& mixture pan toward-ADV add-3O-IMP.
   * frequent-ADV stir-GER-ADV, this-method low heat use-DEP-ADV cook-IMP.
@@ -166,7 +166,7 @@ Eggs on Bread (bread top egg)
 
 *Wibalwe 'agjeyuf; hiswe-li furwnwe zad-ka orcizal.*
 
-  * Orlerwe kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
+  * Kolarvu (jufzove 'wndak) 'qotuk-nis 2 pahw sakohoban.
   * Eyi tanuva tahlo henqos, hompaliso 1 tama 'karotur.
   * 3 wibalwe-li paliso 2 tamw-li zalma jeradas jiay 'reodal-li realoda tahlo-fws 'kodar.
   * Ogwris realas, tizov salirwpa piwv-kas 'jotuf.
