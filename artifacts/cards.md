@@ -21,11 +21,12 @@ control-2S-RO-DEP land-PL "any color one mana gain-2S-3O-IMP" have.
 
 any color one mana gain-2S-3O-IMP
 
-Dimir cast-AGT lantern-T-PL good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shape change-AGT-PL-and sleeper act-AGT-PL create-GER.
+Dimir cast-AGT-PL lantern-T-PL good-ADV use-3P, this-method familiar-NEG mana PST use-3O-DEP-ADV shape change-AGT-PL-and sleeper act-AGT-PL create-GER.
 
 
 # Puflantu
 
+```
 Ititiye Ittihmwne
 
 fakuti
@@ -34,7 +35,8 @@ Yizolwt-ka usonbwe "{T}: Veli ityeri uta 'ola 'yotit" qadun.
 
 {T}: Veli ityeri uta 'ola 'yotit.
 
-Dimiru xuexzamafe Ittihmwne  omas piwv, tizov geyolir-ka 'ola av piotwv-kas radokaqwe-li zumuzwe lwqafwe quka.
+Dimiru xuexzamafwe ittihmwnwe omas piadwv, tizov geyolir-ka 'ola av piotwv-kas radokaqwe-li zumuzwe lwqafwe quka.
+```
 
 _Note: xuexzam = cast, 'ola  = energy, ywt = control, lwq = act_
 
@@ -60,10 +62,10 @@ that-time early night work-AGT block-3O-DEP-ADV, again live-3S.
 
 {T}: early night work-AGT turn end-toward-ADV +1/+0 have-3S
 
-that-time each day end-3S-IMP-DEP-ADV, Mirrodin's floor that-method day's meat exist-3S-NEG-DEP-ADV clean-GER reason-ADV arrive-3S
+that-time each sun-T leave-3S-DEP-ADV, Mirrodin's floor that-method day's meat exist-3S-NEG-DEP-ADV clean-GER reason-ADV arrive-3S
 
 # Puflantu
-
+```
 Henbwri Amroqa Qudafe
 
 fakuti rolwla - lati
@@ -72,8 +74,8 @@ Albwr Henbwri Amroqa Qudafe sotat-kas, dwtdwt wratis.
 
 {T}: Henbwri Amroqa Qudafe rataye soka-fws +1/+0 qatun.
                            
-Albur axwa roqa av satok-kas, Mirodin-ro yojre tizov alroqa-ro jigli jateyif-kas xirefa dules capatil.
-
+Albwr axwe utqunxe latay-kas, Mirodin-ro yojre tizov alroqa-ro jigli jateyif-kas xirefa dules capatil.
+```
 _Notes: qud = work, veveli = heal/regenerate, jigli = meat, rataye = turn, lati=construct, sat = block_
 
 # English
@@ -90,18 +92,19 @@ As if anyone needed another reason to avoid dark, dank cellars.
 
 Cellar Door
 
-{3}, {T}: choose-RO-DEP play-AGT their heaven-into their read-LOC interior bottom-most card put-3S. this-reason animal card HYP be-3S-DEP-ADV, 2/2 black REV-(live-NEG)-GER animal coin create-IMP
+{3}, {T}: choose-RO-DEP play-AGT their read-LOC interior bottom-most card their heaven-into put-3S. this-reason animal card HYP be-3S-DEP-ADV, 2/2 black REV-(live-NEG)-GER animal coin create-IMP
 
 REV-visit-GER black and wetter cellar-PL reason again need-2S na?
 
 # Puflantu
 
+```
 Vaxrali Taklo
 
-{3}, {T}: Tolol-ka elwxafe rato janari-fw rato genice-ro vaxfi wabu ajaten. Tidul rolwla wabu fel zatat-kas, 2/2 wre vowreyisa rolwla sagite 'quk.
+{3}, {T}: Tolol-ka elwxafe, rato genice-ro vaxfi' wabu rato janari-fw ajaten. Tidul rolwla wabu fel zatat-kas, 2/2 wre vowreyisa rolwla sagite 'quk.
 
 Vogoconuma wre-li enxuombu'fi dule dwtdwt solizov na?
-
+```
 
 _note: vaxrali = cellar_ 
 
@@ -128,14 +131,15 @@ this-degree beauty reason-ADV, wars fight-3OP. power-with, wars PST win-3OP.
 
 # Puflantu
 
+```
 Jineri Kalipopi
 
 fakuti
 
 {T}: Veli ityeri pai 'ola 'yotit.
 
-Tivuz kali dules, cocwe ji'soryag. Vole-ziy, cocwe im tafodit.
-
+Tivuz kali dules, cocwe ji'soryag. Tivuz vole ziy, cocwe tafodit.
+```
 _note: kalipopi = lotus, kali=beauty_
 
 
