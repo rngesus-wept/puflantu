@@ -191,9 +191,9 @@ Pasta-& Cheese
 
 ### Gloss
 
-*good-SUP comfort-INS food*
+*good-SUP comfort-INS food*  \\ Does this need to be comfort-INS? shouldn't it be comfort-GER?
 
-  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-IMP.
+  * pasta (recipe see-IMP) 1 pound make-IMP-&then, cook-3O-IMP-&then, bake-INS pan interior-ADV put-3O-IMP. \\ Not sure if I like -INS on bake too.
   * butter 8 tablespoon-PL saucepan interior-ADV melt-3pO-IMP-&, flour 1/2 cup this-method whisk use-DEP-ADV add-3O-IMP.
   * milk 6 cup-PL-& cheese 2 pound-DU, this-method whisk use-DEP-ADV add-3pO-IMP.
   * mix-RES-R bake-INS pan top-ADV pour-3O-IMP-& that-time-toward-ADV cheese-R mix-RES-R bubbly-& gold_color be-3S-DEP-ADV bake-3O-IMP.
@@ -202,10 +202,10 @@ Pasta-& Cheese
 
 *Oma' xolunaqo locho.*
 
-  * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.
-  * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar.
+  * Turakolu (jufzove 'wndak) 1 amwlo 'qotuk-nis, 'jotuf-nis, nomaqo tahlo henqos 'ajoten.  \\ typoe: Also, `ot` not reflected in gloss - should it be make-3pO-IMP? 
+  * Hompaliso 12 tamwe dahzelo henqos 'karodur-lis, oku 1/2 janwe tizov bilbi piwv-kas 'kotar. 
   * Paliso 10 janwe-li zampaliso 2 amwlw, tizov bilbi piwv-kas 'kotar.
-  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jineri zat-kas 'notom.
+  * Reraloda eqa nomaqo tahlo bedfis 'irotal-li albwr-fws zampuraliso reraloda zezi-li jineri zat-kas 'notom. \\ why `eqa`? doesn't match gloss.
 
 ## Pitale
 
@@ -225,17 +225,17 @@ Pizza
 *shape-PL-& cover-INS-PL experiment_with-3pO-GER hesitate-NEG-IMP.*
   * some-quantity dough (recipe see-IMP) make-IMP-&then, this-method flatten-INS rod use-3O-DEP-ADV, flatten-3O-IMP.
   * this-method tomato layer use-3O-DEP-ADV cover-3O-IMP
-  * this-method another cheese layer use-3O-DEP-ADV cover-3O-IMP
+  * this-method another cheese layer use-3O-DEP-ADV cover-3O-IMP //not a huge fan of the 3O on use.
   * that-time-toward dough finish-3O-DEP-ADV bake-3O-IMP
 
 ### Perflontus
 
-*Axibenwe-li urmezaqwe huqodyova 'baceyev.*
+*Axibenwe-li urmezaqwe huqodyova 'baceyev.* //axibenwe is definitely not shape.
 
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk-nis tizov mohuraqo gwnde piotwv-kas 'mohotur.
   * Tizov zamgomu sotwma piotwv-kas 'urmotez.
   * Tizov utarai zampaliso sotwma piotwv-kas 'urmotez.
-  * Albwr-fws balorvu sotok-ka 'notom.
+  * Albwr-fws balorvu sotok-ka 'notom. //missing s after kas.
 
 ## Toka Hompaliso-li Orbili
 
@@ -257,7 +257,7 @@ Peanut Butter-& Jelly
 
 ### Perflontus
 
-*Tolorca'we eyosfwe qaryun-ka pexwe ityas ziyu.*
+*Tolorca'we eyosfwe qaryun-ka pexwe ityas ziyu.* 
 
   * Orlerwe kolarve (jufzove 'wndak) 'qotuk-nis pahwe eg 'erotok.
   * Orburili (jufzove 'wndak) uta pahi tis 'dotab. Toka hompaliso rai pahi-fws 'kotar. Pahw 'rulfobob.
@@ -398,18 +398,18 @@ Cinnamon Rolls
   * some-quantity dough (recipe see-IMP) make-3O-IMP.
   * thick sheet resulting_in flatten-3O-IMP-&then this-method melt-RO-DEP butter use-3O-DEP-ADV cover-3O-IMP.
   * cinnamon 10 gram-PL-& sugar 1/3 cup-PL combine-3pO-IMP. this-method mix-RES use-3O-DEP-ADV, dough cover-3O-IMP.
-  * mix-RES log resulting\_in roll-3O-IMP. log round-PL resulting\_in cut-3O-IMP. round-PL bake-INS dish interior-toward-ADV put-3pO-IMP.
+  * mix-RES log resulting\_in roll-3O-IMP. log round-PL resulting\_in cut-3O-IMP. round-PL bake-INS dish interior-toward-ADV put-3pO-IMP. // this gloss doesn't match translation 
   * sugar 1 cup-& butter 15 gram-PL-&, milk 8 gram-PL combine-3pO-IMP. mix-RES-R dish top-ADV pour-3O-IMP.
   * that-time-toward finish-3O-DEP-ADV bake-3O-IMP.
 
 ### Perflontus
 
-*Iqa atsaro axwe odeleswe qatuk.*
+*Iqa atsaro axwe odeleswe qatuk.*  // there are two cinnamons defined in the dictionary.
 
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk.
   * Ogje pahi eg 'mohotur-nis tizov karolur-ka hompaliso piotwv-kas 'urmotez.
-  * Atsaro 14 guramwe-li twipe 1/3 janwe 'rulfodob. Tizov realoda 'piotwv-kas, balorvu 'urmotez.
-  * Realoda ogje gwnde eg 'ixotop. Ogje gwnde rwtxwe eg 'erotok. Rwtxwe nomaqo rote henqo-fws 'ajoden.
+  * Atsaro 14 guramwe-li twipe 1/3 janwe 'rulfodob. Tizov realoda 'piotwv-kas, balorvu 'urmotez. 
+  * Realoda ogje gwnde eg 'ixotop. Ogje gwnde rwtxwe eg 'erotok. Rwtxwe nomaqo rote henqo-fws 'ajoden. 
   * Twipe 1 janu-li hompaliso 23 guramwe-li paliso 12 guramwe 'rulfodob. Reraloda rote bedfis 'irotal.
   * Albwr-fws sodok-kas 'nodom.
 
@@ -438,8 +438,8 @@ Pumpkin Pie
 *eta aneyo velbwr qotuka 'baceyev.*
 
   * Orlerwe twipe balorvu (jufzove 'wndak) 'qotuk. Tizov mohuraqo gwnde piotwv-kas, rwtxo eg 'mohotur-lis nomaqo rote henqo-fws 'ajoten.
-  * Zalma 5 guramwe-li atsaro 14 guramwe-li ewsaro 1 guramu 'rulfodob. (Ita realoda "jarpagomu kureni saro" zat.) Realoda-li twipe 1 jano-li oku 12 guramwe 'rulfodob.
-  * 3 wibalwe-li jarpagom 2512 guramwe-li pampaliso 1054 guramwe 'kodar-lis jiay 'reotal.
+  * Zalma 5 guramwe-li atsaro 14 guramwe-li ewsaro 1 guramu 'rulfodob. (Ita realoda "jarpagomu kureni saro" zat.) Realoda-li twipe 1 jano-li oku 12 guramwe 'rulfodob. //missing nutmeg 5g : `hemsaro 5 guramwe-li`; `zat` doesn't match anything in gloss.
+  * 3 wibalwe-li jarpagom 2512 guramwe-li pampaliso 1054 guramwe 'kodar-lis jiay 'reotal. //should be 2152, not 2512. Do you want 3pO 'reoDal instead?
   * Reraloda rote henqo-fws 'enxotaq. Albwr-fws ombuqaqo sotok-kas 'notom.
 
 ## Mafke Ozuro-li Toka Hompaliso-li Rotwipe Torelwe
@@ -460,7 +460,7 @@ Oatmeal Peanut Butter Chocolate Cookies
 *galaxy interior no-where, delicious-CMP cookie FUT meet-2S-NEG.*
 
   * sugar 2 cup-DU-& peanut butter 3/4 cup-PL-& butter 1 cup-& salt 4 gram-PL-& yeast 8 gram-PL combine-3pO-IMP.
-  * 2 egg-DU add-3pO-IMP.
+  * 2 egg-DU add-3pO-IMP. //gloss should be 3dO
   * flour 2 cup-DU-& oats 1.5 cup-PL-& chocolate chunk-DIM 340 gram-PL add-3pO-IMP.
   * mix-RES small-PL loaf-DIM-PL resulting_in divide-3sO-IMP. that-time-toward light-ADV gold_color-PL be-3pS-DEP bake-3pO-IMP.
 
