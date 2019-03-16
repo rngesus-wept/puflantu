@@ -149,9 +149,9 @@ Belbe's Portal
 
 Artifact
 
-As Belbe's Portal enters the battlefield, choose a creature type.
+As Belbe's Portal comes into play, choose a creature type.
 
-{3}, {T}: You may put a creature card of the chosen type from your hand onto the battlefield.
+{3}, {T}: You may put a creature card of the chosen type from your hand into play.
 
 The fight will continue on a new battlefield.
 
@@ -161,9 +161,9 @@ Belbe's door(?)
 
 artifact
 
-that-time Belbe's door(?) battlefield enter-3S-DEP, one creature type choose-IMP-2S
+that-time Belbe's door(?) game-toward arrive-3S-DEP, one creature type choose-IMP-2S
 
-{3}, {T}: PST choose-2S-RO-DEP type possess-RS-DEP creature card, hand-from-ADV battlefield-toward-ADV put-GER may-2S
+{3}, {T}: PST choose-2S-RO-DEP type possess-RS-DEP creature card, hand-from-ADV game-toward-ADV put-GER may-2S
 
 fight one new fight+place-at-ADV FUT continue-3S
 
@@ -173,9 +173,9 @@ Belbe-ro Taklo
 
 fakuti
 
-Albwr Belbe-ro Taklo ji'saghanu-tis capatil-kas, uta rolwla haxibna 'tol.
+Albwr Belbe-ro Taklo balotno-fws capatil-kas, uta rolwla haxibna 'tol.
 
-{3}, {T}: Im tizolol-kas haxibna qalun-kas rolwla wabu, mwnu-cws ji'saghanu-fws ajena 'balem.
+{3}, {T}: Im tizolol-kas haxibna qalun-kas rolwla wabu, mwnu-cws balotno-fws ajena 'balem.
 
 Ji'sag uta evi ji'saghanu-tis et binpatan.
 
