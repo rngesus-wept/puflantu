@@ -81,7 +81,7 @@ Sugar dough
 *Alzov omeze kureni qotuk-kas, eta 'piotwv.*
 
   * Zalma 3 guramwe-li twipe 3 guramwe, oku 1 jano-fws 'kodar.
-  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 jano 'kotar-lis, eywe talnwe topodexas velqegsayos 'axuhotox.
+  * Eywe saqevurwe eg erolok-ka dusiko hompaliso 1/2 janwe 'kotar-lis, eywe talnwe topodexas velqegsayos 'axuhotox.
   * Dusiko enxa 50 guramwe 'kodar-lis 'reotal.
 
 ## Orburili
