@@ -161,9 +161,9 @@ Belbe's door(?)
 
 artifact
 
-that-time Belbe's door(?) play enter-3S-DEP, one creature type choose-IMP-2S
+that-time Belbe's door(?) game-toward arrive-3S-DEP, one creature type choose-IMP-2S
 
-{3}, {T}: PST choose-2S-RO-DEP type possess-RS-DEP creature card, hand-from-ADV play-toward-ADV put-GER may-2S
+{3}, {T}: PST choose-2S-RO-DEP type possess-RS-DEP creature card, hand-from-ADV game-toward-ADV put-GER may-2S
 
 fight one new fight+place-at-ADV FUT continue-3S
 
