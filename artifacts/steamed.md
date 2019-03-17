@@ -4,8 +4,8 @@ QALMUZ: simor, omas, ro capwmil... aldayul rizo vecwlwhwe
 
 
 SKINNER: Ah, Superintendent Chalmers! Welcome! I hope you're prepared for an unforgettable luncheon!
-USKENU: Oh, Superintendent Chalmers! ?????! remember-REV-PAT-NEG(!) luncheon for ready be-2S-DEP hope-1S
-USKENU: o're, unexu qalmuz! ?????! vohorodwhayo docno ???? gafi ziz-ka ocrwmal
+USKENU: Oh, Superintendent Chalmers! hello! remember-REV-PAT-NEG(!) luncheon for ready be-2S-DEP hope-1S
+USKENU: o're, unexu qalmuz! 'bovipa! vohorodwhayo docnos gafi ziz-ka ocrwmal
 
 CHALMERS: Uhh...
 QALMUZ: Uh...
@@ -13,7 +13,7 @@ QALMUZ: u'u
 
 SKINNER: [gasp] Oh egads, my roast is ruined! But what if... I were to purchase fast food and disguise it as my own cooking? [to himself] Oh ho ho ho ho... delightfully devilish, Seymour!
 USKENU: [gasp] oh yikes, 1S-GEN bake-AUG-PAT ruin-3O! But [what if???]... fast food HYP buy-1S-and 1S-GEN cook-PAT as HYP hide-1S ?  [to himself] oh oh oh(maybe shorten this the later times) oh oh.... happy-ADV evil, simor!
-USKENU: [gasp] o're w'ne, rwmo agnomwho canezwn! dis [what if???]... erida locho fel kanwmwj-lis rwmo jufwho jok fel vosivwmeg ?  [to himself] o're're're're.... xosos qili, simor!
+USKENU: [gasp] o're w'ne, rwmo agnomwho canezwn! dis fel wzov... erida locho fel kanwmwj-lis rwmo jufwho jok fel vosivwmeg ?  [to himself] o're're're're.... xosos qili, simor!
 
 CHALMERS: Uh-
 QALMUZ: u'u
@@ -41,7 +41,7 @@ QALMUZ: simor!
 
 SKINNER: Superintendent, I was just, uh... just stretching my calves on the windowsill. Isometric exercise! Care to join me?
 USKENU: superintendent, I mere-ADV PAS IMP, uh... 1S-GEN leg-PL eyipodko top mere-ADV PAS IMP bend-1S. Isometric exercise! Join-1O-GER want-2S ?
-USKENU: unexu, wm aqes imav, u'u... rwmo eqmwe windowsill bedfis aqes imav elwmaj. ????? ??????! twlixa orcizal na?
+USKENU: unexu, wm aqes imav, u'u... rwmo eqmwe windowsill bedfis aqes imav elwmaj. isometri niba! twlixa orcizal na?
 
 CHALMERS: Why is there smoke coming out of your oven, Seymour?
 QALMUZ: Simor, interr-reason smoke-R 2S-GEN bake-LOC from-ADV IMPF move(intrans)-3S ?
@@ -55,7 +55,7 @@ USKENU: u'u... xa! iqra xorale zatey. wnrica zat. etav wlwnoryol wnicwe meskepwe
 
 SKINNER: Superintendent, I hope you're ready for mouthwatering hamburgers!
 USKENU: Superintendent, mouth water-R make-DEP-3S cause-RS hamburger-PL for ready be-2S-DEP hope-1S!
-USKENU: unexu, abla enxura qatuk-ka polem kepuvwe ??? gafi ziz-ka ocrwmal!
+USKENU: unexu, abla enxura qatuk-ka polem kepuvwes gafi ziz-ka ocrwmal!
 
 CHALMERS: I thought we were having steamed clams.
 QALMUZ: steam-PL clam-PL FUT IMPF CNT eat-1dS-DEP PST think-1S.
@@ -83,7 +83,7 @@ USKENU: u'u... se nwioruku
 
 CHALMERS: Really? Well, I'm from Utica, and I've never heard anyone use the phrase "steamed hams."
 QALMUZ: true-ADV ?  ????, Utica from be-1S, and any person ?????? "steam-PL ham-PL" say-3S-DEP never PRF hear-1S
-QALMUZ: calus na?  ????, iwteku ????? zum, lis orvo ?????? "wnicwe veskepwe" tacatwl-ka yebwr os onwmir.
+QALMUZ: calus na?  iwteku zum, lis orvo "wnicwe veskepwe" tacatwl-ka yebwr os onwmir.
 
 SKINNER: Oh, not in Utica, no. It's an Albany expression.
 USKENU: Oh, Utica interior-ADV-NEG, no. Albany speak-PAT be-3S.
@@ -96,7 +96,7 @@ QALMUZ: mwmid. [beat] gizir, itwe veskepwe Krusty Burger tis qadoryuk calus gagw
 
 SKINNER: Oh ho ho ho... no, patented Skinner burgers. Old family recipe.
 USKENU: oh oh oh *shorten as above?*... no, patented-PL Skinner-PL burger-PL be-3pS. Old family recipe.
-USKENU: o're're're... xa, ????-PL uskenwe kepuvwe zad. izwfu qawhi juqzove.
+USKENU: o're're're... xa, rwgexwe uskenwe kepuvwe zad. izwfu qawhi juqzove.
 
 CHALMERS: For steamed hams?
 QALMUZ: steam-PL ham-PL resulting_in ?
@@ -111,33 +111,43 @@ QALMUZ: this-reason-NEG obvious-ADV grill-3pO-DEP, "steam-PL ham-PL" as call-2S-
 QALMUZ: this-reason-NEG obvious-ADV grill-3pO-DEP, "steam-PL ham-PL" as call-2S-3pO.
 
 SKINNER: Ye- hey- you know, the- one thing I should- excuse me for one second.
-USKENU: ye- hey- know-2S, I- do-GER-RO should-1S- one second for(duration?)-ADV let-2S-1O
+USKENU: ye- hey- know-2S, I- do-GER-RO should-1S- one second-ADV let-2S-1O
+USKENU: zo- a'mi- gizir, wm- yolad-ka exumi- uta ferus tizumag
 
 CHALMERS: Of course.
 QALMUZ: Of-course.
+QALMUZ: calus
 
 SKINNER: [YAWN] Well, that was wonderful. A good time was had by all, I'm pooped.
 USKENU: [yawn] true-ADV, wonderful IMPF be-3S. time/occasion PRF please-3S-3pO
+USKENU: [yawn] calus, unaki AV zat. bwri os somatodun
 
 CHALMERS: Yes, I should be- Good Lord, what is happening in there!?
 QALMUZ: Yes, leave-GER go- Good lord, that-place what happen-3S ???
+QALMUZ: zo, lay-ka go- o're w'ne, alhan wad gatoz na??
 
 SKINNER: Aurora australis?
 USKENU: aurora australis
+USKENU: uroru ousturele
 
 CHALMERS: Uh- aurora australis!? At this time of year, at this time of day, in this part of the country, localized entirely within your kitchen!?
 QALMUZ: Uh - aurora australis!? year-gen this-time, day-GEN this-time, country-GEN this-place, 2S-GEN kitchen whole-ADV interior-ADV ?
+QALMUZ: u'u - uroru ousturele n'a? ayego-ro tibwr, roqa-ro tibwr, veta-ro tihan, rizo dunse ombus hengos n'a?
 
 SKINNER: Yes!
 USKENU: Yes!
+USKENU: zo!
 
 CHALMERS: May I see it?
 QALMUZ: See-3O-GER may-1S?
+QALMUZ: motid balwmem na?
 
 SKINNER: Yes.
 USKENU: Yes.
+USKENU: zo.
 
 ** cue galactic background with constellations
 
 CHALMERS: Well, Seymour, you are an odd fellow, but I must say... you steam a good ham.
 QALMUZ: true-ADV, simor, odd be-2S, but good ham steam-2S-DEP say-GER must-1S
+QALMUZ: ehyos, simor, saqtaru ziz, tacwla exwmin: dis wepu veskepi unizic-ka
