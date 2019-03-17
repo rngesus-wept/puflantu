@@ -35,7 +35,7 @@ Yizolwt-ka usonbwe "{T}: Veli ityeri uta 'ola 'yotit" qadun.
 
 {T}: Veli ityeri uta 'ola 'yotit.
 
-Dimiru xuexzamafwe ittihmwnwe omas piadwv, tizov geyolir-ka 'ola av piotwv-kas radokaqwe-li zumuzwe lwqafwe quka.
+Dimiru xuexzamafwe ittihmwnwe omas piadwv, tizov geyolir-ka 'ola av piotwv-kas benaradokafwe-li zumuzwe lwqafwe quka.
 ```
 
 _Note: xuexzam = cast, 'ola  = energy, ywt = control, lwq = act_
