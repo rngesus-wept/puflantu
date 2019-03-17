@@ -122,11 +122,11 @@ USKENU: [yawn] true-ADV, wonderful IMPF be-3S. time/occasion PRF please-3S-3pO
 CHALMERS: Yes, I should be- Good Lord, what is happening in there!?
 QALMUZ: Yes, leave-GER go- Good lord, that-place what happen-3S ???
 
-SKINNER: Aurora borealis?
-USKENU: aurora borealis
+SKINNER: Aurora australis?
+USKENU: aurora australis
 
-CHALMERS: Uh- aurora borealis!? At this time of year, at this time of day, in this part of the country, localized entirely within your kitchen!?
-QALMUZ: Uh - aurora borealis!? year-gen this-time, day-GEN this-time, country-GEN this-place, 2S-GEN kitchen whole-ADV interior-ADV ?
+CHALMERS: Uh- aurora australis!? At this time of year, at this time of day, in this part of the country, localized entirely within your kitchen!?
+QALMUZ: Uh - aurora australis!? year-gen this-time, day-GEN this-time, country-GEN this-place, 2S-GEN kitchen whole-ADV interior-ADV ?
 
 SKINNER: Yes!
 USKENU: Yes!
@@ -134,18 +134,10 @@ USKENU: Yes!
 CHALMERS: May I see it?
 QALMUZ: See-3O-GER may-1S?
 
-SKINNER: No.
-USKENU: No.
+SKINNER: Yes.
+USKENU: Yes.
 
-SKINNER'S MOTHER: Seymour, the house is on fire!
-USKENU-GEN MOTHER: simor, house IMPF combust-3S! *change to use the word fire for Rat?*
-
-SKINNER: No, mother—it's just the northern lights!
-USKENU: No, mother - north-T-PL light-T-PL mere-ADV be-3S!
+** cue galactic background with constellations
 
 CHALMERS: Well, Seymour, you are an odd fellow, but I must say... you steam a good ham.
 QALMUZ: true-ADV, simor, odd be-2S, but good ham steam-2S-DEP say-GER must-1S
-
-SKINNER'S MOTHER: Help! Help!
-USKENU-GEN MOTHER: help-2dS-1O-IMP! help-2dS-1O-IMP! 
-
