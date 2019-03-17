@@ -285,9 +285,9 @@ Bread
 
 ### Perflontus
 
-*Omezes exuri-li furwne, ita maglame alhan henqos gizotir-kas et jateyif.*
+*Omezes exuri-li furwne, ita maglame alhan henqos gizotir-kas et jateyif.* //alhan -> albwr
 
-  * Balorvu jufzove 'yotad-dis hompaliso 1/4 janwe-li twipe 1/12 janwe-li karkas 'rulfodob.
+  * Balorvu jufzove 'yotad-dis hompaliso 1/4 janwe-li twipe 1/12 janwe-li karkas 'rulfodob. //no second -li
   * Maglame eg 'radotok-lis nomaqo tahlo henqo-fws 'ajoten. Albwr-fws sotok-kas 'notom.
 
 ## Axuhoryox-ka Ranwe
@@ -311,7 +311,7 @@ Mashed Potatoes (potatoes that are kneaded)
 
 ### Perflontus
 
-*Topolex-ka locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*
+*Topolex-ka locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*  // should be pelatezeyig
 
   * Ranu 2 amwlw 'vourmobez-li talnwe eg 'erobok.
   * Tizov enxura piotwv-kas 'lirodwb-nis, 'voenxodaq-nis, velqegsos 'axuhodox.
