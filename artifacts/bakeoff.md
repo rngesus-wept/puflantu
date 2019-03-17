@@ -235,7 +235,7 @@ Pizza
   * Orlerwe balorvu (jufzove 'wndak) 'qotuk-nis tizov mohuraqo gwnde piotwv-kas 'mohotur.
   * Tizov zamgomu sotwma piotwv-kas 'urmotez.
   * Tizov utarai zampaliso sotwma piotwv-kas 'urmotez.
-  * Albwr-fws balorvu sotok-ka 'notom. //missing s after kas.
+  * Albwr-fws balorvu sotok-kas 'notom. //changed this on prod
 
 ## Toka Hompaliso-li Orbili
 
@@ -285,9 +285,9 @@ Bread
 
 ### Perflontus
 
-*Omezes exuri-li furwne, ita maglame alhan henqos gizotir-kas et jateyif.* //alhan -> albwr
+*Omezes exuri-li furwne, ita maglame albwr henqos gizotir-kas et jateyif.* // changed on prod
 
-  * Balorvu jufzove 'yotad-dis hompaliso 1/4 janwe-li twipe 1/12 janwe-li karkas 'rulfodob. //no second -li
+  * Balorvu jufzove 'yotad-dis hompaliso 1/4 janwe-li twipe 1/12 janwe karkas 'rulfodob. //changed on prod
   * Maglame eg 'radotok-lis nomaqo tahlo henqo-fws 'ajoten. Albwr-fws sotok-kas 'notom.
 
 ## Axuhoryox-ka Ranwe
@@ -311,7 +311,7 @@ Mashed Potatoes (potatoes that are kneaded)
 
 ### Perflontus
 
-*Topolex-ka locho pelateyezig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*  // should be pelatezeyig
+*Topolex-ka locho `peleyotig; tizov velerwe fel qizun-kas, ranu samaglamwe quka merizin.*  // changed on prod
 
   * Ranu 2 amwlw 'vourmobez-li talnwe eg 'erobok.
   * Tizov enxura piotwv-kas 'lirodwb-nis, 'voenxodaq-nis, velqegsos 'axuhodox.
@@ -439,7 +439,7 @@ Pumpkin Pie
 
   * Orlerwe twipe balorvu (jufzove 'wndak) 'qotuk. Tizov mohuraqo gwnde piotwv-kas, rwtxo eg 'mohotur-lis nomaqo rote henqo-fws 'ajoten.
   * Zalma 5 guramwe-li atsaro 14 guramwe-li ewsaro 1 guramu 'rulfodob. (Ita realoda "jarpagomu kureni saro" zat.) Realoda-li twipe 1 jano-li oku 12 guramwe 'rulfodob. //missing nutmeg 5g : `hemsaro 5 guramwe-li`; `zat` doesn't match anything in gloss.
-  * 3 wibalwe-li jarpagom 2512 guramwe-li pampaliso 1054 guramwe 'kodar-lis jiay 'reotal. //should be 2152, not 2512. Do you want 3pO 'reoDal instead?
+  * 3 wibalwe-li jarpagom 2152 guramwe-li pampaliso 1054 guramwe 'kodar-lis jiay 'reotal. // Do you want 3pO 'reoDal instead? 2152 changed on prod
   * Reraloda rote henqo-fws 'enxotaq. Albwr-fws ombuqaqo sotok-kas 'notom.
 
 ## Mafke Ozuro-li Toka Hompaliso-li Rotwipe Torelwe
