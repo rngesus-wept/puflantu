@@ -1,6 +1,7 @@
 CHALMERS: Well, Seymour, I made it... despite your directions.
 QALMUZ: simor, Good-ADV, PRF arrive-1S... that-reason-NEG 2S-GEN direction-PL
 QALMUZ: simor, omas, ro capwmil... aldayul rizo vecwlwhwe
+        Omas, Simor, ro zhapumil... aldanyuhl rizo vezhuluhwe
 
 
 SKINNER: Ah, Superintendent Chalmers! Welcome! I hope you're prepared for an unforgettable luncheon!
@@ -46,6 +47,7 @@ USKENU: unexu, wm aqes imav, u'u... rwmo eqmwe windowsill bedfis aqes imav elwma
 CHALMERS: Why is there smoke coming out of your oven, Seymour?
 QALMUZ: Simor, interr-reason smoke-R 2S-GEN bake-LOC from-ADV IMPF move(intrans)-3S ?
 QALMUZ: Simor, wdul xorale rizo nomice cws av natib na?
+        Oodull shorale rizo nomizhe-zhoos av natib na, simor
 
 SKINNER: Uhh... no! That isn't smoke. It's steam. Steam from the steamed clams we're having! Mmm... steamed clams! [beat] Ooh...
 USKENU: Uhh... no! that-R smoke-R be-3S-NEG. steam-R be-3S. FUT IMP eat-1dS-RO-PL steam-PL clam-PL from steam-R! yum... steam-PL clam-PL! [beat] wow...
@@ -59,7 +61,7 @@ USKENU: unexu, abla enxura qatuk-ka polem kepuvwes gafi ziz-ka ocrwmal!
 
 CHALMERS: I thought we were having steamed clams.
 QALMUZ: steam-PL clam-PL FUT IMPF CNT eat-1dS-DEP PST think-1S.
-QALMUZ: wnicwe meskepwe etavgaq wlwnoc-ka im tixmwmap.
+QALMUZ: *wnicwe meskepwe* etavgaq wlwnoc-ka im tixmwmap.
 
 SKINNER: D'oh, no. I said steamed hams! That's what I call hamburgers!
 USKENU: d'oh, no. steam-PL ham-PL PST say-1S! this-way hamburger-PL call-1S-DEP be-3S.
@@ -83,15 +85,16 @@ USKENU: u'u... se nwioruku
 
 CHALMERS: Really? Well, I'm from Utica, and I've never heard anyone use the phrase "steamed hams."
 QALMUZ: true-ADV ?  ????, Utica from be-1S, and any person ?????? "steam-PL ham-PL" say-3S-DEP never PRF hear-1S
-QALMUZ: calus na?  iwteku zum, lis orvo "wnicwe veskepwe" tacatwl-ka yebwr os onwmir.
+QALMUZ: calus na? 'e, iwtika-cw zwm, lis orvo "wnicwe veskepwe" tacatwl-ka yebwr os onwmir.
 
 SKINNER: Oh, not in Utica, no. It's an Albany expression.
 USKENU: Oh, Utica interior-ADV-NEG, no. Albany speak-PAT be-3S.
 USKENU: o're, iwteku henqosay, xa. ealbuni cubwho zat.
 
 CHALMERS: I see. [beat] You know, these hamburgers are quite similar to the ones they have at Krusty Burger.
-QALMUZ: see-1S. [beat] know-2S, this-SUBJ-PL hamburger-PL Krusty Burger at-ADV make-3pS-RpO true-ADV similar-PL be-3pS
-QALMUZ: mwmid. [beat] gizir, itwe veskepwe Krusty Burger tis qadoryuk calus gagwe zad
+QALMUZ: see-1S. [beat] know-3O, this-SUBJ-PL hamburger-PL Krusty Burger at-ADV make-3pS-RpO true-ADV similar-PL be-3pS
+QALMUZ: mwmid. [beat] gotir, itwe kepuvwe Krusty Burger tis qadoryuk calus gagwe zad
+                                 
 *change the PL to DU above if there are only 2 hamburgers*
 
 SKINNER: Oh ho ho ho... no, patented Skinner burgers. Old family recipe.
@@ -106,9 +109,10 @@ SKINNER: Yes.
 USKENU: yes.
 USKENU: zo.
 
-CHALMERS: Yeah, so you call them "steamed hams" despite the fact they are obviously grilled.
+CHALMERS: Yes, and you call them "steamed hams" despite the fact they are obviously grilled.
 QALMUZ: this-reason-NEG obvious-ADV grill-3pO-DEP, "steam-PL ham-PL" as call-2S-3pO.
-QALMUZ: this-reason-NEG obvious-ADV grill-3pO-DEP, "steam-PL ham-PL" as call-2S-3pO.
+QALMUZ: zo-lis, "wnicwe veskepwe" zoves kodizodan, aldayul ywporyol-ka xekri zat-kas.
+
 
 SKINNER: Ye- hey- you know, the- one thing I should- excuse me for one second.
 USKENU: ye- hey- know-2S, I- do-GER-RO should-1S- one second-ADV let-2S-1O
@@ -124,7 +128,7 @@ USKENU: [yawn] calus, unaki AV zat. bwri os somatodun
 
 CHALMERS: Yes, I should be- Good Lord, what is happening in there!?
 QALMUZ: Yes, leave-GER go- Good lord, that-place what happen-3S ???
-QALMUZ: zo, lay-ka go- o're w'ne, alhan wad gatoz na??
+QALMUZ: zo, laya exw- o're w'ne, alhan wad gatoz na??
 
 SKINNER: Aurora australis?
 USKENU: aurora australis
@@ -150,4 +154,5 @@ USKENU: zo.
 
 CHALMERS: Well, Seymour, you are an odd fellow, but I must say... you steam a good ham.
 QALMUZ: true-ADV, simor, odd be-2S, but good ham steam-2S-DEP say-GER must-1S
-QALMUZ: ehyos, simor, saqtaru ziz, tacwla exwmin: dis wepu veskepi unizic-ka
+QALMUZ: ehyos, simor, saqtaru ziz, dis tacwla exwmin: wepu veskepi unizic-ka
+
